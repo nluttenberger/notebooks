@@ -1,0 +1,2358 @@
+{
+    "aal": {
+        "i-name": "Aal",
+        "i-class": "fish"
+    },
+    "ackerbohne": {
+        "i-name": "Ackerbohne",
+        "i-class": "veg"
+    },
+    "ackerrettich": {
+        "i-name": "Ackerrettich",
+        "i-class": "veg"
+    },
+    "agavendicksaft": {
+        "i-name": "Agavendicksaft",
+        "i-class": "sweet"
+    },
+    "ahornsirup": {
+        "i-name": "Ahornsirup",
+        "i-class": "sweet"
+    },
+    "amaretto": {
+        "i-name": "Amaretto",
+        "i-class": "alc"
+    },
+    "ananas": {
+        "i-name": "Ananas",
+        "i-class": "fruit"
+    },
+    "ananassaft": {
+        "i-name": "Ananassaft",
+        "i-class": "fruit"
+    },
+    "ancho": {
+        "i-name": "Ancho",
+        "i-class": "spice"
+    },
+    "anis": {
+        "i-name": "Anis",
+        "i-class": "spice"
+    },
+    "apfel": {
+        "i-name": "Apfel",
+        "i-class": "fruit"
+    },
+    "apfelessig": {
+        "i-name": "Apfelessig",
+        "i-class": "condi"
+    },
+    "apfelkraut": {
+        "i-name": "Apfelkraut",
+        "i-class": "condi"
+    },
+    "apfelsaft": {
+        "i-name": "Apfelsaft",
+        "i-class": "fruit"
+    },
+    "aprikose": {
+        "i-name": "Aprikose",
+        "i-class": "fruit"
+    },
+    "artischocken": {
+        "i-name": "Artischocken",
+        "i-class": "veg"
+    },
+    "asa_foetida": {
+        "i-name": "Asa_Foetida",
+        "i-class": "spice"
+    },
+    "auberginen": {
+        "i-name": "Aubergine",
+        "i-class": "veg"
+    },
+    "austern": {
+        "i-name": "Austern",
+        "i-class": "fish"
+    },
+    "austernpilz": {
+        "i-name": "Austernpilz",
+        "i-class": "veg"
+    },
+    "avocado": {
+        "i-name": "Avocado",
+        "i-class": "veg"
+    },
+    "babyspinat": {
+        "i-name": "Babyspinat",
+        "i-class": "veg"
+    },
+    "backobst": {
+        "i-name": "Backobst",
+        "i-class": "fruit"
+    },
+    "baiser": {
+        "i-name": "Baiser",
+        "i-class": "egg"
+    },
+    "balsamico": {
+        "i-name": "Balsamico",
+        "i-class": "condi"
+    },
+    "bambussprossen": {
+        "i-name": "Bambussprossen",
+        "i-class": "veg"
+    },
+    "banane": {
+        "i-name": "Banane",
+        "i-class": "fruit"
+    },
+    "bärlauch": {
+        "i-name": "Bärlauch",
+        "i-class": "herb"
+    },
+    "barsch": {
+        "i-name": "Barsch",
+        "i-class": "fish"
+    },
+    "basilikum": {
+        "i-name": "Basilikum",
+        "i-class": "herb"
+    },
+    "beeren": {
+        "i-name": "Beeren",
+        "i-class": "fruit"
+    },
+    "beifuß": {
+        "i-name": "Beifuß",
+        "i-class": "herb"
+    },
+    "berbere": {
+        "i-name": "Berbere",
+        "i-class": "spice"
+    },
+    "bergkäse": {
+        "i-name": "Bergkäse",
+        "i-class": "milk"
+    },
+    "bier": {
+        "i-name": "Bier",
+        "i-class": "alc"
+    },
+    "birne": {
+        "i-name": "Birne",
+        "i-class": "fruit"
+    },
+    "birnenkraut": {
+        "i-name": "Birnenkraut",
+        "i-class": "condi"
+    },
+    "biskuit": {
+        "i-name": "Biskuit",
+        "i-class": "sweet"
+    },
+    "bittermandel": {
+        "i-name": "Bittermandel",
+        "i-class": "nuts"
+    },
+    "blätterteig": {
+        "i-name": "Blätterteig",
+        "i-class": "carb"
+    },
+    "blauschimmel": {
+        "i-name": "Blauschimmel",
+        "i-class": "milk"
+    },
+    "blumenkohl": {
+        "i-name": "Blumenkohl",
+        "i-class": "veg"
+    },
+    "blut": {
+        "i-name": "Blut",
+        "i-class": "meat"
+    },
+    "blutorangen": {
+        "i-name": "Blutorangen",
+        "i-class": "fruit"
+    },
+    "blutwurst": {
+        "i-name": "Blutwurst",
+        "i-class": "meat"
+    },
+    "bockshornklee": {
+        "i-name": "Bockshornklee",
+        "i-class": "herb"
+    },
+    "bohnen": {
+        "i-name": "Bohnen",
+        "i-class": "veg"
+    },
+    "bohnenkraut": {
+        "i-name": "Bohnenkraut",
+        "i-class": "herb"
+    },
+    "borretsch": {
+        "i-name": "Borretsch",
+        "i-class": "herb"
+    },
+    "bratenfond": {
+        "i-name": "Bratenfond",
+        "i-class": "condi"
+    },
+    "bratenjus": {
+        "i-name": "Bratenjus",
+        "i-class": "condi"
+    },
+    "bratfett": {
+        "i-name": "Bratfett",
+        "i-class": "fat"
+    },
+    "bratwurst": {
+        "i-name": "Bratwurst",
+        "i-class": "meat"
+    },
+    "breite_bohnen": {
+        "i-name": "Breite_Bohnen",
+        "i-class": "veg"
+    },
+    "bresaola": {
+        "i-name": "Bresaola",
+        "i-class": "meat"
+    },
+    "brokkoli": {
+        "i-name": "Brokkoli",
+        "i-class": "veg"
+    },
+    "brot": {
+        "i-name": "Brot",
+        "i-class": "carb"
+    },
+    "brotgewürz": {
+        "i-name": "Brotgewürz",
+        "i-class": "spice"
+    },
+    "brühe": {
+        "i-name": "Brühe",
+        "i-class": "condi"
+    },
+    "brunnenkresse": {
+        "i-name": "Brunnenkresse",
+        "i-class": "veg"
+    },
+    "buchweizen": {
+        "i-name": "Buchweizen",
+        "i-class": "carb"
+    },
+    "buchweizenmehl": {
+        "i-name": "Buchweizenmehl",
+        "i-class": "carb"
+    },
+    "büffelmozzarella": {
+        "i-name": "Büffelmozzarella",
+        "i-class": "milk"
+    },
+    "bulgur": {
+        "i-name": "Bulgur",
+        "i-class": "carb"
+    },
+    "butt": {
+        "i-name": "Butt",
+        "i-class": "fish"
+    },
+    "butter": {
+        "i-name": "Butter",
+        "i-class": "fat"
+    },
+    "butterkohl": {
+        "i-name": "Butterkohl",
+        "i-class": "veg"
+    },
+    "buttermilch": {
+        "i-name": "Buttermilch",
+        "i-class": "milk"
+    },
+    "butternusskürbis": {
+        "i-name": "Butternusskürbis",
+        "i-class": "veg"
+    },
+    "butterschmalz": {
+        "i-name": "Butterschmalz",
+        "i-class": "fat"
+    },
+    "cajunmischung": {
+        "i-name": "Cajunmischung",
+        "i-class": "spice"
+    },
+    "cascabel": {
+        "i-name": "Cascabel",
+        "i-class": "spice"
+    },
+    "cashew": {
+        "i-name": "Cashew",
+        "i-class": "nuts"
+    },
+    "cassis": {
+        "i-name": "Cassis",
+        "i-class": "alc"
+    },
+    "cataloupemelone": {
+        "i-name": "Cantaloupemelone",
+        "i-class": "fruit"
+    },
+    "cayennepfeffer": {
+        "i-name": "Cayennepfeffer",
+        "i-class": "spice"
+    },
+    "chaat_masala": {
+        "i-name": "Chaat_Masala",
+        "i-class": "spice"
+    },
+    "champignon": {
+        "i-name": "Champignon",
+        "i-class": "veg"
+    },
+    "cheddar": {
+        "i-name": "Cheddar",
+        "i-class": "milk"
+    },
+    "chiasamen": {
+        "i-name": "Chiasamen",
+        "i-class": "etc"
+    },
+    "chicorée": {
+        "i-name": "Chicorée",
+        "i-class": "veg"
+    },
+    "chili": {
+        "i-name": "Chili",
+        "i-class": "spice"
+    },
+    "chiliflocken": {
+        "i-name": "Chiliflocken",
+        "i-class": "spice"
+    },
+    "chilipaste": {
+        "i-name": "Chilipaste",
+        "i-class": "spice"
+    },
+    "chilischote": {
+        "i-name": "Chilischote",
+        "i-class": "spice"
+    },
+    "chinakohl": {
+        "i-name": "Chinakohl",
+        "i-class": "veg"
+    },
+    "chipotle": {
+        "i-name": "Chipotle",
+        "i-class": "spice"
+    },
+    "choisum": {
+        "i-name": "Choi_sum",
+        "i-class": "veg"
+    },
+    "cidre": {
+        "i-name": "Cidre",
+        "i-class": "alc"
+    },
+    "clementine": {
+        "i-name": "Clementine",
+        "i-class": "fruit"
+    },
+    "cocktailkirschen": {
+        "i-name": "Cocktailkirschen",
+        "i-class": "sweet"
+    },
+    "cola": {
+        "i-name": "Cola",
+        "i-class": "sweet"
+    },
+    "cornichon": {
+        "i-name": "Cornichon",
+        "i-class": "condi"
+    },
+    "couscous": {
+        "i-name": "Couscous",
+        "i-class": "carb"
+    },
+    "crème_double": {
+        "i-name": "Crème_double",
+        "i-class": "milk"
+    },
+    "crème_fraîche": {
+        "i-name": "Crème_fraîche",
+        "i-class": "fat"
+    },
+    "crownprincekürbis": {
+        "i-name": "Crown_Prince_Kürbis",
+        "i-class": "veg"
+    },
+    "cumin": {
+        "i-name": "Cumin",
+        "i-class": "spice"
+    },
+    "curaçao": {
+        "i-name": "Curaçao",
+        "i-class": "alc"
+    },
+    "curcuma": {
+        "i-name": "Curcuma",
+        "i-class": "spice"
+    },
+    "curry": {
+        "i-name": "Curry",
+        "i-class": "spice"
+    },
+    "curryblätter": {
+        "i-name": "Curryblätter",
+        "i-class": "herb"
+    },
+    "datteln": {
+        "i-name": "Datteln",
+        "i-class": "fruit"
+    },
+    "dijonsenf": {
+        "i-name": "Dijonsenf",
+        "i-class": "condi"
+    },
+    "dill": {
+        "i-name": "Dill",
+        "i-class": "herb"
+    },
+    "dinkel": {
+        "i-name": "Dinkel",
+        "i-class": "carb"
+    },
+    "ducca": {
+        "i-name": "Ducca",
+        "i-class": "spice"
+    },
+    "ei": {
+        "i-name": "Ei",
+        "i-class": "egg"
+    },
+    "eichenlaubsalat": {
+        "i-name": "Eichenlaubsalat",
+        "i-class": "veg"
+    },
+    "eisbergsalat": {
+        "i-name": "Eisbergsalat",
+        "i-class": "veg"
+    },
+    "emmentaler": {
+        "i-name": "Emmentaler",
+        "i-class": "milk"
+    },
+    "endivien": {
+        "i-name": "Endivien",
+        "i-class": "veg"
+    },
+    "ente": {
+        "i-name": "Ente",
+        "i-class": "meat"
+    },
+    "erbsen": {
+        "i-name": "Erbsen",
+        "i-class": "veg"
+    },
+    "erdbeeren": {
+        "i-name": "Erdbeeren",
+        "i-class": "fruit"
+    },
+    "erdbeerlikör": {
+        "i-name": "Erdbeerlikör",
+        "i-class": "alc"
+    },
+    "erdnuss": {
+        "i-name": "Erdnuss",
+        "i-class": "nuts"
+    },
+    "erdnussöl": {
+        "i-name": "Erdnussöl",
+        "i-class": "fat"
+    },
+    "essig": {
+        "i-name": "Essig",
+        "i-class": "condi"
+    },
+    "estragon": {
+        "i-name": "Estragon",
+        "i-class": "herb"
+    },
+    "euter": {
+        "i-name": "Euter",
+        "i-class": "meat"
+    },
+    "feige": {
+        "i-name": "Feige",
+        "i-class": "fruit"
+    },
+    "feldsalat": {
+        "i-name": "Feldsalat",
+        "i-class": "veg"
+    },
+    "fenchel": {
+        "i-name": "Fenchel",
+        "i-class": "veg"
+    },
+    "fenchelgrün": {
+        "i-name": "Fenchelgrün",
+        "i-class": "herb"
+    },
+    "fenchelsamen": {
+        "i-name": "Fenchelsamen",
+        "i-class": "herb"
+    },
+    "fisch": {
+        "i-name": "Fisch",
+        "i-class": "fish"
+    },
+    "fischsauce": {
+        "i-name": "Fischsauce",
+        "i-class": "condi"
+    },
+    "fleisch": {
+        "i-name": "Fleisch",
+        "i-class": "meat"
+    },
+    "fleischbrühe": {
+        "i-name": "Fleischbrühe",
+        "i-class": "condi"
+    },
+    "fleischsalat": {
+        "i-name": "Fleischsalat",
+        "i-class": "meat"
+    },
+    "flusskrebse": {
+        "i-name": "Flusskrebse",
+        "i-class": "fish"
+    },
+    "forelle": {
+        "i-name": "Forelle",
+        "i-class": "fish"
+    },
+    "frischkäse": {
+        "i-name": "Frischkäse",
+        "i-class": "milk"
+    },
+    "friséesalat": {
+        "i-name": "Friséesalat",
+        "i-class": "veg"
+    },
+    "froschschenkel": {
+        "i-name": "Froschschenkel",
+        "i-class": "meat"
+    },
+    "früchte": {
+        "i-name": "Früchte",
+        "i-class": "fruit"
+    },
+    "früchtetee": {
+        "i-name": "Früchtetee",
+        "i-class": "etc"
+    },
+    "fruchtsaft": {
+        "i-name": "Fruchtsaft",
+        "i-class": "fruit"
+    },
+    "galgant": {
+        "i-name": "Galgant",
+        "i-class": "spice"
+    },
+    "gans": {
+        "i-name": "Gans",
+        "i-class": "meat"
+    },
+    "gänsefett": {
+        "i-name": "Gänsefett",
+        "i-class": "fat"
+    },
+    "gänseschmalz": {
+        "i-name": "Gänseschmalz",
+        "i-class": "fat"
+    },
+    "garam_masala": {
+        "i-name": "Garam_Masala",
+        "i-class": "spice"
+    },
+    "garnelen": {
+        "i-name": "Garnelen",
+        "i-class": "fish"
+    },
+    "gartenmelde": {
+        "i-name": "Gartenmelde",
+        "i-class": "veg"
+    },
+    "geflügel": {
+        "i-name": "Geflügel",
+        "i-class": "meat"
+    },
+    "gekochter_schinken": {
+        "i-name": "gekochter_Schinken",
+        "i-class": "meat"
+    },
+    "gelatine": {
+        "i-name": "Gelatine",
+        "i-class": "etc"
+    },
+    "gelbe_erbsen": {
+        "i-name": "Gelbe_Erbsen",
+        "i-class": "veg"
+    },
+    "gelee": {
+        "i-name": "Gelee",
+        "i-class": "condi"
+    },
+    "gemüsebrühe": {
+        "i-name": "Gemüsebrühe",
+        "i-class": "condi"
+    },
+    "gemüsegurke": {
+        "i-name": "Gemüsegurke",
+        "i-class": "veg"
+    },
+    "gemüsemischung": {
+        "i-name": "Gemüsemischung",
+        "i-class": "veg"
+    },
+    "gemüsezwiebel": {
+        "i-name": "Gemüsezwiebel",
+        "i-class": "veg"
+    },
+    "geraeucherter_schinken": {
+        "i-name": "geräucherter_Schinken",
+        "i-class": "meat"
+    },
+    "geräuchertes_paprikapulver": {
+        "i-name": "Geräuchertes_Paprikapulver",
+        "i-class": "spice"
+    },
+    "gerste": {
+        "i-name": "Gerste",
+        "i-class": "carb"
+    },
+    "getrocknete_tomaten": {
+        "i-name": "getrocknete_Tomaten",
+        "i-class": "veg"
+    },
+    "gewürz": {
+        "i-name": "Gewürz",
+        "i-class": "spice"
+    },
+    "gewürzgurke": {
+        "i-name": "Gewürzgurken",
+        "i-class": "condi"
+    },
+    "gin": {
+        "i-name": "Gin",
+        "i-class": "alc"
+    },
+    "golden_syrup": {
+        "i-name": "Golden_Syrup",
+        "i-class": "sweet"
+    },
+    "granatapfel": {
+        "i-name": "Granatapfel",
+        "i-class": "fruit"
+    },
+    "granatapfelsirup": {
+        "i-name": "Granatapfelsirup",
+        "i-class": "sweet"
+    },
+    "grapefruit": {
+        "i-name": "Grapefruit",
+        "i-class": "fruit"
+    },
+    "graupen": {
+        "i-name": "Graupen",
+        "i-class": "carb"
+    },
+    "grenadine": {
+        "i-name": "Grenadine",
+        "i-class": "sweet"
+    },
+    "greyerzer": {
+        "i-name": "Greyerzer",
+        "i-class": "milk"
+    },
+    "grieß": {
+        "i-name": "Grieß",
+        "i-class": "carb"
+    },
+    "große_bohnen": {
+        "i-name": "Große_Bohnen",
+        "i-class": "veg"
+    },
+    "grüne_bohnen": {
+        "i-name": "Grüne_Bohnen",
+        "i-class": "veg"
+    },
+    "grüner_spargel": {
+        "i-name": "grüner_Spargel",
+        "i-class": "veg"
+    },
+    "grünkern": {
+        "i-name": "Grünkern",
+        "i-class": "carb"
+    },
+    "grünkohl": {
+        "i-name": "Grünkohl",
+        "i-class": "veg"
+    },
+    "grütze": {
+        "i-name": "Grütze",
+        "i-class": "carb"
+    },
+    "gruyère": {
+        "i-name": "Gruyère",
+        "i-class": "milk"
+    },
+    "guave": {
+        "i-name": "Guave",
+        "i-class": "fruit"
+    },
+    "gurke": {
+        "i-name": "Gurke",
+        "i-class": "veg"
+    },
+    "habanero": {
+        "i-name": "Habanero",
+        "i-class": "spice"
+    },
+    "hackfleisch": {
+        "i-name": "Hackfleisch",
+        "i-class": "meat"
+    },
+    "haferfleks": {
+        "i-name": "Haferfleks",
+        "i-class": "carb"
+    },
+    "haferflocken": {
+        "i-name": "Haferflocken",
+        "i-class": "carb"
+    },
+    "hafergrütze": {
+        "i-name": "Hafergrütze",
+        "i-class": "carb"
+    },
+    "hagebutte": {
+        "i-name": "Hagebutte",
+        "i-class": "fruit"
+    },
+    "handkäs": {
+        "i-name": "Handkäs",
+        "i-class": "milk"
+    },
+    "harissa": {
+        "i-name": "Harissa",
+        "i-class": "condi"
+    },
+    "hartweizengrieß": {
+        "i-name": "Hartweizengrieß",
+        "i-class": "carb"
+    },
+    "hase": {
+        "i-name": "Hase",
+        "i-class": "meat"
+    },
+    "haselnuss": {
+        "i-name": "Haselnuss",
+        "i-class": "nuts"
+    },
+    "hecht": {
+        "i-name": "Hecht",
+        "i-class": "fish"
+    },
+    "hefe": {
+        "i-name": "Hefe",
+        "i-class": "etc"
+    },
+    "hefewürze": {
+        "i-name": "Hefewürze",
+        "i-class": "condi"
+    },
+    "herbes_de_provence": {
+        "i-name": "Herbes_de_Provence",
+        "i-class": "herb"
+    },
+    "hering": {
+        "i-name": "Hering",
+        "i-class": "fish"
+    },
+    "herz": {
+        "i-name": "Herz",
+        "i-class": "meat"
+    },
+    "hibiskus": {
+        "i-name": "Hibiskus",
+        "i-class": "herb"
+    },
+    "himbeeren": {
+        "i-name": "Himbeeren",
+        "i-class": "fruit"
+    },
+    "hirn": {
+        "i-name": "Hirn",
+        "i-class": "meat"
+    },
+    "hirschhorn": {
+        "i-name": "Hirschhorn",
+        "i-class": "etc"
+    },
+    "hirschhornsalz": {
+        "i-name": "Hirschhornsalz",
+        "i-class": "etc"
+    },
+    "hokkaidokürbis": {
+        "i-name": "Hokkaidokürbis",
+        "i-class": "veg"
+    },
+    "holunder": {
+        "i-name": "Holunder",
+        "i-class": "fruit"
+    },
+    "honig": {
+        "i-name": "Honig",
+        "i-class": "sweet"
+    },
+    "hopfen": {
+        "i-name": "Hopfen",
+        "i-class": "veg"
+    },
+    "huhn": {
+        "i-name": "Huhn",
+        "i-class": "meat"
+    },
+    "hühnerbrühe": {
+        "i-name": "Hühnerbrühe",
+        "i-class": "condi"
+    },
+    "hühnerbrust": {
+        "i-name": "Hühnerbrust",
+        "i-class": "meat"
+    },
+    "hühnerschenkel": {
+        "i-name": "Hühnerschenkel",
+        "i-class": "meat"
+    },
+    "ingwer": {
+        "i-name": "Ingwer",
+        "i-class": "spice"
+    },
+    "innereien": {
+        "i-name": "Innereien",
+        "i-class": "meat"
+    },
+    "isot_biber": {
+        "i-name": "Isot_Biber",
+        "i-class": "spice"
+    },
+    "jakobsmuscheln": {
+        "i-name": "Jakobsmuscheln",
+        "i-class": "fish"
+    },
+    "jalapeno": {
+        "i-name": "Jalapeno",
+        "i-class": "spice"
+    },
+    "joghurt": {
+        "i-name": "Joghurt",
+        "i-class": "milk"
+    },
+    "johannisbeeren": {
+        "i-name": "Johannisbeeren",
+        "i-class": "fruit"
+    },
+    "kaffee": {
+        "i-name": "Kaffee",
+        "i-class": "spice"
+    },
+    "kaffirlimette": {
+        "i-name": "Kaffirlimette",
+        "i-class": "herb"
+    },
+    "kakao": {
+        "i-name": "Kakao",
+        "i-class": "etc"
+    },
+    "kalbfleisch": {
+        "i-name": "Kalbfleisch",
+        "i-class": "meat"
+    },
+    "kalbsbraten": {
+        "i-name": "Kalbsbraten",
+        "i-class": "meat"
+    },
+    "kalbsbries": {
+        "i-name": "Kalbsbries",
+        "i-class": "meat"
+    },
+    "kalbsfond": {
+        "i-name": "Kalbsfond",
+        "i-class": "condi"
+    },
+    "kalbsfüße": {
+        "i-name": "Kalbsfüße",
+        "i-class": "meat"
+    },
+    "kalbskopf": {
+        "i-name": "Kalbskopf",
+        "i-class": "meat"
+    },
+    "kaninchen": {
+        "i-name": "Kaninchen",
+        "i-class": "meat"
+    },
+    "kapaun": {
+        "i-name": "Kapaun",
+        "i-class": "meat"
+    },
+    "kapern": {
+        "i-name": "Kapern",
+        "i-class": "spice"
+    },
+    "kapuzinerkresse": {
+        "i-name": "Kapuzinerkresse",
+        "i-class": "veg"
+    },
+    "kardamom": {
+        "i-name": "Kardamom",
+        "i-class": "spice"
+    },
+    "karotte": {
+        "i-name": "Karotte",
+        "i-class": "veg"
+    },
+    "karpfen": {
+        "i-name": "Karpfen",
+        "i-class": "fish"
+    },
+    "kartoffel": {
+        "i-name": "Kartoffel",
+        "i-class": "carb"
+    },
+    "kascha": {
+        "i-name": "Kascha",
+        "i-class": "carb"
+    },
+    "käse": {
+        "i-name": "Käse",
+        "i-class": "milk"
+    },
+    "kaviar": {
+        "i-name": "Kaviar",
+        "i-class": "fish"
+    },
+    "kefir": {
+        "i-name": "Kefir",
+        "i-class": "milk"
+    },
+    "kekse": {
+        "i-name": "Kekse",
+        "i-class": "etc"
+    },
+    "kerbel": {
+        "i-name": "Kerbel",
+        "i-class": "herb"
+    },
+    "ketchup": {
+        "i-name": "Ketchup",
+        "i-class": "condi"
+    },
+    "kichererbsen": {
+        "i-name": "Kichererbsen",
+        "i-class": "veg"
+    },
+    "kichererbsenmehl": {
+        "i-name": "Kichererbsenmehl",
+        "i-class": "carb"
+    },
+    "kidneybohnen": {
+        "i-name": "Kidneybohnen",
+        "i-class": "veg"
+    },
+    "kimchi": {
+        "i-name": "Kimchi",
+        "i-class": "condi"
+    },
+    "kirschen": {
+        "i-name": "Kirschen",
+        "i-class": "fruit"
+    },
+    "kirschtomaten": {
+        "i-name": "Kirschtomaten",
+        "i-class": "veg"
+    },
+    "kiwi": {
+        "i-name": "Kiwi",
+        "i-class": "fruit"
+    },
+    "kleine_vögel": {
+        "i-name": "kleine_Vögel",
+        "i-class": "meat"
+    },
+    "knallbrause": {
+        "i-name": "Knallbrause",
+        "i-class": "sweet"
+    },
+    "knoblauch": {
+        "i-name": "Knoblauch",
+        "i-class": "onion"
+    },
+    "knochen": {
+        "i-name": "Knochen",
+        "i-class": "meat"
+    },
+    "knochenmark": {
+        "i-name": "Knochenmark",
+        "i-class": "meat"
+    },
+    "knollensellerie": {
+        "i-name": "Knollensellerie",
+        "i-class": "veg"
+    },
+    "kohlrabi": {
+        "i-name": "Kohlrabi",
+        "i-class": "veg"
+    },
+    "kokosblütenzucker": {
+        "i-name": "Kokosblütenzucker",
+        "i-class": "sweet"
+    },
+    "kokoscrème": {
+        "i-name": "Kokoscrème",
+        "i-class": "fat"
+    },
+    "kokoslikör": {
+        "i-name": "Kokoslikör",
+        "i-class": "alc"
+    },
+    "kokosmilch": {
+        "i-name": "Kokosmilch",
+        "i-class": "fat"
+    },
+    "kokosöl": {
+        "i-name": "Kokosöl",
+        "i-class": "fat"
+    },
+    "kokosraspel": {
+        "i-name": "Kokosraspel",
+        "i-class": "nuts"
+    },
+    "kondensmilch": {
+        "i-name": "Kondensmilch",
+        "i-class": "milk"
+    },
+    "konfitüre": {
+        "i-name": "Konfitüre",
+        "i-class": "fruit"
+    },
+    "kopf": {
+        "i-name": "Kopf",
+        "i-class": "meat"
+    },
+    "kopfsalat": {
+        "i-name": "Kopfsalat",
+        "i-class": "veg"
+    },
+    "koriander": {
+        "i-name": "Koriander",
+        "i-class": "spice"
+    },
+    "koriandergrün": {
+        "i-name": "Koriandergrün",
+        "i-class": "herb"
+    },
+    "kotelett": {
+        "i-name": "Kotelett",
+        "i-class": "meat"
+    },
+    "krabben": {
+        "i-name": "Krabben",
+        "i-class": "fish"
+    },
+    "kräuter": {
+        "i-name": "Kräuter",
+        "i-class": "herb"
+    },
+    "krebs": {
+        "i-name": "Krebs",
+        "i-class": "fish"
+    },
+    "kresse": {
+        "i-name": "Kresse",
+        "i-class": "herb"
+    },
+    "krustentiere": {
+        "i-name": "Krustentiere",
+        "i-class": "fish"
+    },
+    "kumato": {
+        "i-name": "Kumato",
+        "i-class": "veg"
+    },
+    "kümmel": {
+        "i-name": "Kümmel",
+        "i-class": "spice"
+    },
+    "kumquat": {
+        "i-name": "Kumquat",
+        "i-class": "fruit"
+    },
+    "kürbis": {
+        "i-name": "Kürbis",
+        "i-class": "veg"
+    },
+    "kürbiskern": {
+        "i-name": "Kürbiskern",
+        "i-class": "nuts"
+    },
+    "kürbiskernöl": {
+        "i-name": "Kürbiskernöl",
+        "i-class": "fat"
+    },
+    "kutteln": {
+        "i-name": "Kutteln",
+        "i-class": "meat"
+    },
+    "kuvertüre": {
+        "i-name": "Kuvertüre",
+        "i-class": "sweet"
+    },
+    "lachs": {
+        "i-name": "Lachs",
+        "i-class": "fish"
+    },
+    "lammfleisch": {
+        "i-name": "Lammfleisch",
+        "i-class": "meat"
+    },
+    "lauch": {
+        "i-name": "Lauch",
+        "i-class": "veg"
+    },
+    "lauchzwiebel": {
+        "i-name": "Lauchzwiebel",
+        "i-class": "onion"
+    },
+    "laugengebäck": {
+        "i-name": "Laugengebäck",
+        "i-class": "carb"
+    },
+    "leber": {
+        "i-name": "Leber",
+        "i-class": "meat"
+    },
+    "leberwurst": {
+        "i-name": "Leberwurst",
+        "i-class": "meat"
+    },
+    "lebkuchen": {
+        "i-name": "Lebkuchen",
+        "i-class": "sweet"
+    },
+    "leinsamen": {
+        "i-name": "Leinsamen",
+        "i-class": "etc"
+    },
+    "liebstöckel": {
+        "i-name": "Liebstöckel",
+        "i-class": "herb"
+    },
+    "limette": {
+        "i-name": "Limette",
+        "i-class": "fruit"
+    },
+    "limoncello": {
+        "i-name": "Limoncello",
+        "i-class": "alc"
+    },
+    "linsen": {
+        "i-name": "Linsen",
+        "i-class": "veg"
+    },
+    "litschi": {
+        "i-name": "Litschi",
+        "i-class": "fruit"
+    },
+    "löffelbiskuit": {
+        "i-name": "Löffelbiskuit",
+        "i-class": "sweet"
+    },
+    "lollo_rosso": {
+        "i-name": "Lollo_rosso",
+        "i-class": "veg"
+    },
+    "lorbeer": {
+        "i-name": "Lorbeer",
+        "i-class": "herb"
+    },
+    "löwenzahn": {
+        "i-name": "Löwenzahn",
+        "i-class": "veg"
+    },
+    "lunge": {
+        "i-name": "Lunge",
+        "i-class": "meat"
+    },
+    "macadamianüsse": {
+        "i-name": "Macadamianüsse",
+        "i-class": "nuts"
+    },
+    "madeira": {
+        "i-name": "Madeira",
+        "i-class": "alc"
+    },
+    "mairüben": {
+        "i-name": "Mairüben",
+        "i-class": "veg"
+    },
+    "mais": {
+        "i-name": "Mais",
+        "i-class": "veg"
+    },
+    "maismehl": {
+        "i-name": "Maismehl",
+        "i-class": "carb"
+    },
+    "majoran": {
+        "i-name": "Majoran",
+        "i-class": "herb"
+    },
+    "makronen": {
+        "i-name": "Makronen",
+        "i-class": "sweet"
+    },
+    "malaga": {
+        "i-name": "Malaga",
+        "i-class": "alc"
+    },
+    "mandarine": {
+        "i-name": "Mandarine",
+        "i-class": "fruit"
+    },
+    "mandel": {
+        "i-name": "Mandel",
+        "i-class": "nuts"
+    },
+    "mandelmilch": {
+        "i-name": "Mandelmilch",
+        "i-class": "nuts"
+    },
+    "mandelmus": {
+        "i-name": "Mandelmus",
+        "i-class": "nuts"
+    },
+    "mango": {
+        "i-name": "Mango",
+        "i-class": "fruit"
+    },
+    "mangold": {
+        "i-name": "Mangold",
+        "i-class": "veg"
+    },
+    "mangopickle": {
+        "i-name": "Mangopickle",
+        "i-class": "condi"
+    },
+    "mangosaft": {
+        "i-name": "Mangosaft",
+        "i-class": "fruit"
+    },
+    "maracuja": {
+        "i-name": "Maracuja",
+        "i-class": "fruit"
+    },
+    "maracujasaft": {
+        "i-name": "Maracujasaft",
+        "i-class": "fruit"
+    },
+    "maracujasirup": {
+        "i-name": "Maracujasirup",
+        "i-class": "sweet"
+    },
+    "marmelade": {
+        "i-name": "Marmelade",
+        "i-class": "fruit"
+    },
+    "marone": {
+        "i-name": "Marone",
+        "i-class": "nuts"
+    },
+    "marsala": {
+        "i-name": "Marsala",
+        "i-class": "alc"
+    },
+    "marzipan": {
+        "i-name": "Marzipan",
+        "i-class": "sweet"
+    },
+    "mascarpone": {
+        "i-name": "Mascarpone",
+        "i-class": "milk"
+    },
+    "matjes": {
+        "i-name": "Matjes",
+        "i-class": "fish"
+    },
+    "mayonnaise": {
+        "i-name": "Mayonnaise",
+        "i-class": "condi"
+    },
+    "meerrettich": {
+        "i-name": "Meerrettich",
+        "i-class": "spice"
+    },
+    "melone": {
+        "i-name": "Melone",
+        "i-class": "fruit"
+    },
+    "mettwurst": {
+        "i-name": "Mettwurst",
+        "i-class": "meat"
+    },
+    "milch": {
+        "i-name": "Milch",
+        "i-class": "milk"
+    },
+    "minze": {
+        "i-name": "Minze",
+        "i-class": "herb"
+    },
+    "mirin": {
+        "i-name": "Mirin",
+        "i-class": "condi"
+    },
+    "miso": {
+        "i-name": "Miso",
+        "i-class": "condi"
+    },
+    "mohn": {
+        "i-name": "Mohn",
+        "i-class": "spice"
+    },
+    "morchel": {
+        "i-name": "Morchel",
+        "i-class": "veg"
+    },
+    "mozzarella": {
+        "i-name": "Mozzarella",
+        "i-class": "milk"
+    },
+    "multivitaminsaft": {
+        "i-name": "Multivitaminsaft",
+        "i-class": "fruit"
+    },
+    "mürbeteig": {
+        "i-name": "Mürbeteig",
+        "i-class": "carb"
+    },
+    "muscheln": {
+        "i-name": "Muscheln",
+        "i-class": "fish"
+    },
+    "muskat": {
+        "i-name": "Muskat",
+        "i-class": "spice"
+    },
+    "myrte": {
+        "i-name": "Myrte",
+        "i-class": "herb"
+    },
+    "nelken": {
+        "i-name": "Nelken",
+        "i-class": "spice"
+    },
+    "niere": {
+        "i-name": "Niere",
+        "i-class": "meat"
+    },
+    "nierenfett": {
+        "i-name": "Nierenfett",
+        "i-class": "fat"
+    },
+    "noriblatt": {
+        "i-name": "Noriblatt",
+        "i-class": "etc"
+    },
+    "noriflocken": {
+        "i-name": "Noriflocken",
+        "i-class": "spice"
+    },
+    "nougat": {
+        "i-name": "Nougat",
+        "i-class": "sweet"
+    },
+    "nudeln": {
+        "i-name": "Nudeln",
+        "i-class": "carb"
+    },
+    "obst": {
+        "i-name": "Obst",
+        "i-class": "fruit"
+    },
+    "obstler": {
+        "i-name": "Obstler",
+        "i-class": "alc"
+    },
+    "ohren": {
+        "i-name": "Ohren",
+        "i-class": "meat"
+    },
+    "öl": {
+        "i-name": "Öl",
+        "i-class": "fat"
+    },
+    "olive": {
+        "i-name": "Olive",
+        "i-class": "spice"
+    },
+    "olivenöl": {
+        "i-name": "Olivenöl",
+        "i-class": "fat"
+    },
+    "orange": {
+        "i-name": "Orange",
+        "i-class": "fruit"
+    },
+    "orangeat": {
+        "i-name": "Orangeat",
+        "i-class": "condi"
+    },
+    "orangenabrieb": {
+        "i-name": "Orangenabrieb",
+        "i-class": "fruit"
+    },
+    "orangenagrumato": {
+        "i-name": "Orangenagrumato",
+        "i-class": "fat"
+    },
+    "orangenblütenwasser": {
+        "i-name": "Orangenblütenwasser",
+        "i-class": "spice"
+    },
+    "orangenlikör": {
+        "i-name": "Orangenlikör",
+        "i-class": "alc"
+    },
+    "orangensaft": {
+        "i-name": "Orangensaft",
+        "i-class": "fruit"
+    },
+    "orangenschale": {
+        "i-name": "Orangenschale",
+        "i-class": "fruit"
+    },
+    "oregano": {
+        "i-name": "Oregano",
+        "i-class": "herb"
+    },
+    "ottersberger_rüben": {
+        "i-name": "Ottersberger_Rüben",
+        "i-class": "veg"
+    },
+    "panhas": {
+        "i-name": "Panhas",
+        "i-class": "meat"
+    },
+    "paniermehl": {
+        "i-name": "Paniermehl",
+        "i-class": "carb"
+    },
+    "panir": {
+        "i-name": "Panir",
+        "i-class": "milk"
+    },
+    "papaya": {
+        "i-name": "Papaya",
+        "i-class": "fruit"
+    },
+    "paprika": {
+        "i-name": "Paprika",
+        "i-class": "veg"
+    },
+    "paprikamark": {
+        "i-name": "Paprikamark",
+        "i-class": "condi"
+    },
+    "paprikapulver": {
+        "i-name": "Paprikapulver",
+        "i-class": "spice"
+    },
+    "parmesan": {
+        "i-name": "Parmesan",
+        "i-class": "milk"
+    },
+    "passionsfrucht": {
+        "i-name": "Passionsfrucht",
+        "i-class": "fruit"
+    },
+    "passionsfruchtlikör": {
+        "i-name": "Passionsfruchtlikör",
+        "i-class": "alc"
+    },
+    "passionsfruchtsirup": {
+        "i-name": "Passionsfruchtsirup",
+        "i-class": "sweet"
+    },
+    "pastinake": {
+        "i-name": "Pastinake",
+        "i-class": "veg"
+    },
+    "pecorino": {
+        "i-name": "Pecorino",
+        "i-class": "milk"
+    },
+    "peperoni": {
+        "i-name": "Peperoni",
+        "i-class": "spice"
+    },
+    "pesto": {
+        "i-name": "Pesto",
+        "i-class": "condi"
+    },
+    "petersilie": {
+        "i-name": "Petersilie",
+        "i-class": "herb"
+    },
+    "petersilienwurzel": {
+        "i-name": "Petersilienwurzel",
+        "i-class": "veg"
+    },
+    "pfeffer": {
+        "i-name": "Pfeffer",
+        "i-class": "spice"
+    },
+    "pfifferlinge": {
+        "i-name": "Pfifferlinge",
+        "i-class": "veg"
+    },
+    "pfirsich": {
+        "i-name": "Pfirsich",
+        "i-class": "fruit"
+    },
+    "pfirsichlikör": {
+        "i-name": "Pfirsichlikör",
+        "i-class": "alc"
+    },
+    "pflanzenfett": {
+        "i-name": "Pflanzenfett",
+        "i-class": "fat"
+    },
+    "pflaumen": {
+        "i-name": "Pflaumen",
+        "i-class": "fruit"
+    },
+    "pflaumenwein": {
+        "i-name": "Pflaumenwein",
+        "i-class": "alc"
+    },
+    "pfoten": {
+        "i-name": "Pfoten",
+        "i-class": "meat"
+    },
+    "physalis": {
+        "i-name": "Physalis",
+        "i-class": "fruit"
+    },
+    "pilze": {
+        "i-name": "Pilze",
+        "i-class": "veg"
+    },
+    "piment": {
+        "i-name": "Piment",
+        "i-class": "spice"
+    },
+    "pimpinelle": {
+        "i-name": "Pimpinelle",
+        "i-class": "herb"
+    },
+    "pinienkerne": {
+        "i-name": "Pinienkerne",
+        "i-class": "nuts"
+    },
+    "pinkelwurst": {
+        "i-name": "Pinkelwurst",
+        "i-class": "meat"
+    },
+    "piripiri": {
+        "i-name": "Piripiri",
+        "i-class": "condi"
+    },
+    "pisco": {
+        "i-name": "Pisco",
+        "i-class": "alc"
+    },
+    "pistazie": {
+        "i-name": "Pistazie",
+        "i-class": "nuts"
+    },
+    "pökelfleisch": {
+        "i-name": "Pökelfleisch",
+        "i-class": "meat"
+    },
+    "polenta": {
+        "i-name": "Polenta",
+        "i-class": "carb"
+    },
+    "pomeranze": {
+        "i-name": "Pomeranze",
+        "i-class": "fruit"
+    },
+    "portobello": {
+        "i-name": "Portobello",
+        "i-class": "veg"
+    },
+    "portulak": {
+        "i-name": "Portulak",
+        "i-class": "veg"
+    },
+    "portwein": {
+        "i-name": "Portwein",
+        "i-class": "alc"
+    },
+    "preiselbeeren": {
+        "i-name": "Preiselbeer_Marmelade",
+        "i-class": "condi"
+    },
+    "preiselbeermarmelade": {
+        "i-name": "Preiselbeermarmelade",
+        "i-class": "sweet"
+    },
+    "puddingpulver": {
+        "i-name": "Puddingpulver",
+        "i-class": "sweet"
+    },
+    "pute": {
+        "i-name": "Pute",
+        "i-class": "meat"
+    },
+    "quark": {
+        "i-name": "Quark",
+        "i-class": "milk"
+    },
+    "quitte": {
+        "i-name": "Quitte",
+        "i-class": "fruit"
+    },
+    "radieschen": {
+        "i-name": "Radieschen",
+        "i-class": "veg"
+    },
+    "räucherfisch": {
+        "i-name": "Räucherfisch",
+        "i-class": "fish"
+    },
+    "räucherlachs": {
+        "i-name": "Räucherlachs",
+        "i-class": "fish"
+    },
+    "räucherspeck": {
+        "i-name": "Räucherspeck",
+        "i-class": "meat"
+    },
+    "rauchfleisch": {
+        "i-name": "Rauchfleisch",
+        "i-class": "meat"
+    },
+    "rauchsalz": {
+        "i-name": "Rauchsalz",
+        "i-class": "spice"
+    },
+    "rehundhirsch": {
+        "i-name": "Reh_und_Hirsch",
+        "i-class": "meat"
+    },
+    "reis": {
+        "i-name": "Reis",
+        "i-class": "carb"
+    },
+    "reisessig": {
+        "i-name": "Reisessig",
+        "i-class": "condi"
+    },
+    "reismehl": {
+        "i-name": "Reismehl",
+        "i-class": "carb"
+    },
+    "reiswein": {
+        "i-name": "Reiswein",
+        "i-class": "alc"
+    },
+    "rettich": {
+        "i-name": "Rettich",
+        "i-class": "veg"
+    },
+    "ricotta": {
+        "i-name": "Ricotta",
+        "i-class": "milk"
+    },
+    "rindfleisch": {
+        "i-name": "Rindfleisch",
+        "i-class": "meat"
+    },
+    "roggenmehl": {
+        "i-name": "Roggenmehl",
+        "i-class": "carb"
+    },
+    "rohrzucker": {
+        "i-name": "Rohrzucker",
+        "i-class": "sweet"
+    },
+    "rosa_beeren": {
+        "i-name": "rosa_Beeren",
+        "i-class": "spice"
+    },
+    "rosenblätter": {
+        "i-name": "Rosenblätter",
+        "i-class": "herb"
+    },
+    "rosenkohl": {
+        "i-name": "Rosenkohl",
+        "i-class": "veg"
+    },
+    "rosenwasser": {
+        "i-name": "Rosenwasser",
+        "i-class": "condi"
+    },
+    "rosmarin": {
+        "i-name": "Rosmarin",
+        "i-class": "herb"
+    },
+    "röstzwiebeln": {
+        "i-name": "Röstzwiebeln",
+        "i-class": "onion"
+    },
+    "rote_bete": {
+        "i-name": "Rote_Bete",
+        "i-class": "veg"
+    },
+    "rote_bete_blätter": {
+        "i-name": "Rote_Bete_Blätter",
+        "i-class": "veg"
+    },
+    "rotkohl": {
+        "i-name": "Rotkohl",
+        "i-class": "veg"
+    },
+    "rotwein": {
+        "i-name": "Rotwein",
+        "i-class": "alc"
+    },
+    "rucola": {
+        "i-name": "Rucola",
+        "i-class": "veg"
+    },
+    "rum": {
+        "i-name": "Rum",
+        "i-class": "alc"
+    },
+    "safran": {
+        "i-name": "Safran",
+        "i-class": "spice"
+    },
+    "sago": {
+        "i-name": "Sago",
+        "i-class": "carb"
+    },
+    "sahne": {
+        "i-name": "Sahne",
+        "i-class": "milk"
+    },
+    "sahnelikör": {
+        "i-name": "Sahnelikör",
+        "i-class": "alc"
+    },
+    "salami": {
+        "i-name": "Salami",
+        "i-class": "meat"
+    },
+    "salat": {
+        "i-name": "Salat",
+        "i-class": "veg"
+    },
+    "salbei": {
+        "i-name": "Salbei",
+        "i-class": "herb"
+    },
+    "salzmandeln": {
+        "i-name": "Salzmandeln",
+        "i-class": "nuts"
+    },
+    "salzzitrone": {
+        "i-name": "Salzzitrone",
+        "i-class": "fruit"
+    },
+    "sardelle": {
+        "i-name": "Sardellen",
+        "i-class": "fish"
+    },
+    "sauerampfer": {
+        "i-name": "Sauerampfer",
+        "i-class": "herb"
+    },
+    "sauerkirschen": {
+        "i-name": "Sauerkirschen",
+        "i-class": "fruit"
+    },
+    "sauerkraut": {
+        "i-name": "Sauerkraut",
+        "i-class": "veg"
+    },
+    "sauerteigbrot": {
+        "i-name": "Sauerteigbrot",
+        "i-class": "carb"
+    },
+    "saure_sahne": {
+        "i-name": "saure_Sahne",
+        "i-class": "milk"
+    },
+    "scampi": {
+        "i-name": "Scampi",
+        "i-class": "fish"
+    },
+    "schabzigerklee": {
+        "i-name": "Schabzigerklee",
+        "i-class": "herb"
+    },
+    "schafskäse": {
+        "i-name": "Schafskäse",
+        "i-class": "milk"
+    },
+    "schalotten": {
+        "i-name": "Schalotten",
+        "i-class": "onion"
+    },
+    "schinken": {
+        "i-name": "Schinken",
+        "i-class": "meat"
+    },
+    "schmalz": {
+        "i-name": "Schmalz",
+        "i-class": "fat"
+    },
+    "schmand": {
+        "i-name": "Schmand",
+        "i-class": "milk"
+    },
+    "schnauze": {
+        "i-name": "Schnauze",
+        "i-class": "meat"
+    },
+    "schnittlauch": {
+        "i-name": "Schnittlauch",
+        "i-class": "onion"
+    },
+    "schokolade": {
+        "i-name": "Schokolade",
+        "i-class": "sweet"
+    },
+    "scholle": {
+        "i-name": "Scholle",
+        "i-class": "fish"
+    },
+    "schwarze_bohnen": {
+        "i-name": "Schwarze_Bohnen",
+        "i-class": "veg"
+    },
+    "schwarzer_knoblauch": {
+        "i-name": "Schwarzer_Knoblauch",
+        "i-class": "onion"
+    },
+    "schwarzkohl": {
+        "i-name": "Schwarzkohl",
+        "i-class": "veg"
+    },
+    "schwarzkümmel": {
+        "i-name": "Schwarzkümmel",
+        "i-class": "spice"
+    },
+    "schwarzwurzel": {
+        "i-name": "Schwarzwurzel",
+        "i-class": "veg"
+    },
+    "schweinefleisch": {
+        "i-name": "Schweinefleisch",
+        "i-class": "meat"
+    },
+    "schweineschmalz": {
+        "i-name": "Schweineschmalz",
+        "i-class": "fat"
+    },
+    "schweinskopf": {
+        "i-name": "Schweinskopf",
+        "i-class": "meat"
+    },
+    "schweinsrippe": {
+        "i-name": "Schweinsrippe",
+        "i-class": "meat"
+    },
+    "seeteufel": {
+        "i-name": "Seeteufel",
+        "i-class": "fish"
+    },
+    "sekt": {
+        "i-name": "Sekt",
+        "i-class": "alc"
+    },
+    "selleriegrün": {
+        "i-name": "Selleriegrün",
+        "i-class": "herb"
+    },
+    "senf": {
+        "i-name": "Senf",
+        "i-class": "condi"
+    },
+    "senfgurken": {
+        "i-name": "Senfgurken",
+        "i-class": "condi"
+    },
+    "senfsamen": {
+        "i-name": "Senfsamen",
+        "i-class": "spice"
+    },
+    "sesam": {
+        "i-name": "Sesam",
+        "i-class": "spice"
+    },
+    "sesamöl": {
+        "i-name": "Sesamöl",
+        "i-class": "fat"
+    },
+    "sherry": {
+        "i-name": "Sherry",
+        "i-class": "alc"
+    },
+    "sherryessig": {
+        "i-name": "Sherryessig",
+        "i-class": "condi"
+    },
+    "shiitake": {
+        "i-name": "Shiitake",
+        "i-class": "veg"
+    },
+    "sirup": {
+        "i-name": "Sirup",
+        "i-class": "sweet"
+    },
+    "sojacreme": {
+        "i-name": "Sojacreme",
+        "i-class": "fat"
+    },
+    "sojasauce": {
+        "i-name": "Sojasauce",
+        "i-class": "condi"
+    },
+    "sonnenblumenkerne": {
+        "i-name": "Sonnenblumenkerne",
+        "i-class": "etc"
+    },
+    "sonnenblumenöl": {
+        "i-name": "Sonnenblumenöl",
+        "i-class": "fat"
+    },
+    "spargel": {
+        "i-name": "Spargel",
+        "i-class": "veg"
+    },
+    "spargelerbsen": {
+        "i-name": "Spargelerbsen",
+        "i-class": "veg"
+    },
+    "speck": {
+        "i-name": "Speck",
+        "i-class": "meat"
+    },
+    "spinat": {
+        "i-name": "Spinat",
+        "i-class": "veg"
+    },
+    "spitzkohl": {
+        "i-name": "Spitzkohl",
+        "i-class": "veg"
+    },
+    "spitzpaprika": {
+        "i-name": "Spitzpaprika",
+        "i-class": "veg"
+    },
+    "sprossen": {
+        "i-name": "Sprossen",
+        "i-class": "veg"
+    },
+    "stachelbeeren": {
+        "i-name": "Stachelbeeren",
+        "i-class": "fruit"
+    },
+    "stangenbohnen": {
+        "i-name": "Stangenbohnen",
+        "i-class": "veg"
+    },
+    "stärke": {
+        "i-name": "Stärke",
+        "i-class": "etc"
+    },
+    "staudensellerie": {
+        "i-name": "Staudensellerie",
+        "i-class": "veg"
+    },
+    "steckrübe": {
+        "i-name": "Steckrübe",
+        "i-class": "veg"
+    },
+    "steinpilz": {
+        "i-name": "Steinpilz",
+        "i-class": "veg"
+    },
+    "sternanis": {
+        "i-name": "Sternanis",
+        "i-class": "spice"
+    },
+    "stielmus": {
+        "i-name": "Stielmus",
+        "i-class": "veg"
+    },
+    "stör": {
+        "i-name": "Stör",
+        "i-class": "fish"
+    },
+    "stubenküken": {
+        "i-name": "Stubenküken",
+        "i-class": "meat"
+    },
+    "sultaninen": {
+        "i-name": "Sultaninen",
+        "i-class": "fruit"
+    },
+    "sülze": {
+        "i-name": "Sülze",
+        "i-class": "meat"
+    },
+    "sumach": {
+        "i-name": "Sumach",
+        "i-class": "spice"
+    },
+    "suppengemüse": {
+        "i-name": "Suppengemüse",
+        "i-class": "veg"
+    },
+    "suppenwürze": {
+        "i-name": "Suppenwürze",
+        "i-class": "condi"
+    },
+    "süßkartoffel": {
+        "i-name": "Süßkartoffel",
+        "i-class": "carb"
+    },
+    "süßwein": {
+        "i-name": "Süßwein",
+        "i-class": "alc"
+    },
+    "szechuanpfeffer": {
+        "i-name": "Szechuanpfeffer",
+        "i-class": "spice"
+    },
+    "tabasco": {
+        "i-name": "Tabasco",
+        "i-class": "condi"
+    },
+    "tafelspitz": {
+        "i-name": "Tafelspitz",
+        "i-class": "meat"
+    },
+    "tahina": {
+        "i-name": "Tahina",
+        "i-class": "condi"
+    },
+    "tamarinde": {
+        "i-name": "Tamarinde",
+        "i-class": "spice"
+    },
+    "taube": {
+        "i-name": "Taube",
+        "i-class": "meat"
+    },
+    "teig": {
+        "i-name": "Teig",
+        "i-class": "carb"
+    },
+    "teigblätter": {
+        "i-name": "Teigblätter",
+        "i-class": "carb"
+    },
+    "teltower_rüben": {
+        "i-name": "Teltower_Rüben",
+        "i-class": "veg"
+    },
+    "thaibasilikum": {
+        "i-name": "Thaibasilikum",
+        "i-class": "herb"
+    },
+    "thymian": {
+        "i-name": "Thymian",
+        "i-class": "herb"
+    },
+    "tintenfisch": {
+        "i-name": "Tintenfisch",
+        "i-class": "fish"
+    },
+    "tofu": {
+        "i-name": "Tofu",
+        "i-class": "etc"
+    },
+    "tomate": {
+        "i-name": "Tomate",
+        "i-class": "veg"
+    },
+    "tomatenessig": {
+        "i-name": "Tomatenessig",
+        "i-class": "condi"
+    },
+    "tomatenmark": {
+        "i-name": "Tomatenmark",
+        "i-class": "condi"
+    },
+    "tomatensaft": {
+        "i-name": "Tomatensaft",
+        "i-class": "fruit"
+    },
+    "tonic_water": {
+        "i-name": "Tonic_Water",
+        "i-class": "etc"
+    },
+    "tonkabohne": {
+        "i-name": "Tonkabohne",
+        "i-class": "spice"
+    },
+    "topinambur": {
+        "i-name": "Topinambur",
+        "i-class": "veg"
+    },
+    "tortillafladen": {
+        "i-name": "Tortillafladen",
+        "i-class": "carb"
+    },
+    "traubensaft": {
+        "i-name": "Traubensaft",
+        "i-class": "fruit"
+    },
+    "trüffel": {
+        "i-name": "Trüffel",
+        "i-class": "herb"
+    },
+    "trüffelbutter": {
+        "i-name": "Trüffelbutter",
+        "i-class": "condi"
+    },
+    "trüffelöl": {
+        "i-name": "Trüffelöl",
+        "i-class": "condi"
+    },
+    "vanille": {
+        "i-name": "Vanille",
+        "i-class": "spice"
+    },
+    "vanilleeis": {
+        "i-name": "Vanilleeis",
+        "i-class": "sweet"
+    },
+    "vanillezucker": {
+        "i-name": "Vanillezucker",
+        "i-class": "sweet"
+    },
+    "vollkornbrot": {
+        "i-name": "Vollkornbrot",
+        "i-class": "carb"
+    },
+    "wacholder": {
+        "i-name": "Wacholder",
+        "i-class": "spice"
+    },
+    "wacholderdrossel": {
+        "i-name": "Wacholderdrossel",
+        "i-class": "meat"
+    },
+    "waffeln": {
+        "i-name": "Waffeln",
+        "i-class": "sweet"
+    },
+    "walnuss": {
+        "i-name": "Walnuss",
+        "i-class": "nuts"
+    },
+    "walnussöl": {
+        "i-name": "Walnussöl",
+        "i-class": "fat"
+    },
+    "wasabi": {
+        "i-name": "Wasabi",
+        "i-class": "spice"
+    },
+    "wassermelone": {
+        "i-name": "Wassermelone",
+        "i-class": "fruit"
+    },
+    "wein": {
+        "i-name": "Wein",
+        "i-class": "alc"
+    },
+    "weinblätter": {
+        "i-name": "Weinblätter",
+        "i-class": "spice"
+    },
+    "weinbrand": {
+        "i-name": "Weinbrand",
+        "i-class": "alc"
+    },
+    "weinessig": {
+        "i-name": "Weinessig",
+        "i-class": "condi"
+    },
+    "weinraute": {
+        "i-name": "Weinraute",
+        "i-class": "herb"
+    },
+    "weintrauben": {
+        "i-name": "Weintrauben",
+        "i-class": "fruit"
+    },
+    "weißbrot": {
+        "i-name": "Weißbrot",
+        "i-class": "carb"
+    },
+    "weiße_bohnen": {
+        "i-name": "Weiße_Bohnen",
+        "i-class": "veg"
+    },
+    "weißer_spargel": {
+        "i-name": "weißer_Spargel",
+        "i-class": "veg"
+    },
+    "weißkohl": {
+        "i-name": "Weißkohl",
+        "i-class": "veg"
+    },
+    "weißwein": {
+        "i-name": "Weißwein",
+        "i-class": "alc"
+    },
+    "weißweinessig": {
+        "i-name": "Weißweinessig",
+        "i-class": "condi"
+    },
+    "weizenmehl": {
+        "i-name": "Weizenmehl",
+        "i-class": "carb"
+    },
+    "wermut": {
+        "i-name": "Wermut",
+        "i-class": "alc"
+    },
+    "whiskey": {
+        "i-name": "Whiskey",
+        "i-class": "alc"
+    },
+    "wildbret": {
+        "i-name": "Wildbret",
+        "i-class": "meat"
+    },
+    "wildfond": {
+        "i-name": "Wildfond",
+        "i-class": "condi"
+    },
+    "wildgeflügel": {
+        "i-name": "Wildgeflügel",
+        "i-class": "meat"
+    },
+    "wildschinken": {
+        "i-name": "Wildschinken",
+        "i-class": "meat"
+    },
+    "wildschwein": {
+        "i-name": "Wildschwein",
+        "i-class": "meat"
+    },
+    "wirsing": {
+        "i-name": "Wirsing",
+        "i-class": "veg"
+    },
+    "wodka": {
+        "i-name": "Wodka",
+        "i-class": "alc"
+    },
+    "worcester": {
+        "i-name": "Worcester",
+        "i-class": "condi"
+    },
+    "wurst": {
+        "i-name": "Wurst",
+        "i-class": "meat"
+    },
+    "wurzeln": {
+        "i-name": "Wurzeln",
+        "i-class": "veg"
+    },
+    "zatar": {
+        "i-name": "Zatar",
+        "i-class": "spice"
+    },
+    "ziegenfleisch": {
+        "i-name": "Ziegenfleisch",
+        "i-class": "meat"
+    },
+    "ziegenfrischkäse": {
+        "i-name": "Ziegenfrischkäse",
+        "i-class": "milk"
+    },
+    "ziegenkäse": {
+        "i-name": "Ziegenkäse",
+        "i-class": "milk"
+    },
+    "zimt": {
+        "i-name": "Zimt",
+        "i-class": "spice"
+    },
+    "zitronat": {
+        "i-name": "Zitronat",
+        "i-class": "condi"
+    },
+    "zitrone": {
+        "i-name": "Zitrone",
+        "i-class": "fruit"
+    },
+    "zitronengras": {
+        "i-name": "Zitronengras",
+        "i-class": "herb"
+    },
+    "zitronenmelisse": {
+        "i-name": "Zitronenmelisse",
+        "i-class": "herb"
+    },
+    "zucchini": {
+        "i-name": "Zucchini",
+        "i-class": "veg"
+    },
+    "zucker": {
+        "i-name": "Zucker",
+        "i-class": "sweet"
+    },
+    "zuckerschoten": {
+        "i-name": "Zuckerschoten",
+        "i-class": "veg"
+    },
+    "zunge": {
+        "i-name": "Zunge",
+        "i-class": "meat"
+    },
+    "zwetschge": {
+        "i-name": "Zwetschge",
+        "i-class": "fruit"
+    },
+    "zwieback": {
+        "i-name": "Zwieback",
+        "i-class": "carb"
+    },
+    "zwiebel": {
+        "i-name": "Zwiebel",
+        "i-class": "onion"
+    }
+}
