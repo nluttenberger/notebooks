@@ -57,7 +57,7 @@ pytz==2022.6
     # via pandas
 scikit-learn==1.0.2
     # via mlxtend
-scipy==1.9.3
+scipy==1.7.3
     # via
     #   mlxtend
     #   scikit-learn
