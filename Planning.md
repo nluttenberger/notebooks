@@ -1,31 +1,33 @@
 ## Comparing Davidis and Ottolenghi collections for vegetable recipes
 
-#### get ingredients sets for ...
+#### get ingredients lists for ...
 
-- A set
-- B set
-- A∩B set
+- A recipes
+- B recipes
+- build common recipes lists
+- build common ingredients lists
 
-#### get ingredients lists for all recipes in ... 
+#### compute projection
 
-- A set
-- B set
-- A∩B set
+- A = adjacency matrix for bipartite graph  
+      ingredients -> recipes
+- G = adjacency matrix for ingredient graph
+- G = A x A<sup>T</sup>
 
-#### get A recipes, resp. B recipes, that draw ingredients from A∩B set   
+#### compute node and edge attributes 
 
-- A set
-- B set
+- nodes: name, class, occurence, subgraph
+- edges: id, weight, subgraph
 
-#### get ingredient classes for ...
+#### compute node and edge sets   
 
-- A set
-- B set
-- A∩B set
+- A nodes-pure, B nodes-pure, A∩B nodes
+- A edges-pure, A edges-mixed,  
+  A∩B edges,  
+  B edges-pure, B edges-mixed
+- "pure" means: contained in A\A∩B, resp. B\A∩B
 
-#### edges
+#### comparison
 
-- generate edges
 - extract edges veg--spice
 - extract edges veg--herb
-- assign edges to A/B recipes
