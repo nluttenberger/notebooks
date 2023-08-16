@@ -48,8 +48,8 @@
 - `toCSV()`: output in csv format  
    params: `graph:graph`, `path:path`, `filename:filename` (CSV file)    
    
-- `inspectSVG()`: embed SVG-formated graph in HTML+CSS wrapper  
-   params: `path:path`, `filename:filename` (SVG file), `filename:filename` (HTML file), `filename:filename` (CSS file)
+- `previewSVG()`: embed SVG-formated graph in HTML wrapper  
+   params: `graph:graph`, `path:path` (common path), `fnSVGin:filename` (initial SVG file), `fnHTMLout:filename`(output HTML file) 
 
 #### JSON file format
 
