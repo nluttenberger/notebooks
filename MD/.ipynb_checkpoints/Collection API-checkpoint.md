@@ -2,8 +2,12 @@
 
 #### Init
 
-- read json file for collection
+- read XML-coded descriptor file for collection
 - read json file for ingredients catalog
+- generate json file holding collection data  
+  params: `graphLab:path` (graphLab location), `descrip_fn:filename` (XML-coded descriptor for graph experiment),  
+  `igdtCat_path:path`(path to ingredients catalogue), `igdtCat_fn:filename` (ingredients catalogue filename)    
+  output:  json-encoded file with subcollection and recipe lists, located 
 
 #### Collection-related
 
@@ -28,7 +32,7 @@
    params: `letter:string [, letter:string]`  
    returns: Networkx Graph with node attributes `i-name`, `i-class`, `occ`, `sub`, and edge attributes `id`, `weight`
    
-- `nodeSets()`: node sets (subcollection(s), pure, intersection);  
+- `nodeSets()`: node sets (subcollection(s) pure, intersection);  
    params: `graph`,`letter:string` `[, letter:string]`  
    returns: `nodes:list` with node attributes 
    
@@ -40,18 +44,19 @@
    params: `letter:string, letter:string`   
    
 - `toDot()`: output in dot format  
-   params: `graph:graph, filename:string`  
+   params: `graph:graph`, `path:path`, `filename:filename` (dot file)  
    
 - `toGephi()`: output in Gephi format  
-   params: `graph:graph, filename:string`  
+   params: `graph:graph`, `path:path`, `filename:filename` (Gephi file) 
    
 - `toCSV()`: output in csv format  
-   params: `graph:graph, filename:string`  
+   params: `graph:graph`, `path:path`, `filename:filename` (CSV file)    
    
-- `SVGtoHTML()`: embed SVG graphics in HTML+CSS wrapper
+- `previewSVG()`: embed SVG-formated graph in HTML wrapper  
+   params: `graph:graph`, `path:path` (common path), `fnSVGin:filename` (initial SVG file), `fnHTMLout:filename`(output HTML file) 
 
 #### JSON file format
 
-- title
-- subcollections: { subcollection letter : name, author, recipes list }
-- recipes: { recipe name: ingredients list }
+- collection title
+- collections : { subcollection letter : { subcollection name, author, list of recipe names } }
+- recipes : { recipe name : list of references to ingredients catalogue }

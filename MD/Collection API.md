@@ -2,8 +2,12 @@
 
 #### Init
 
-- read json file for collection
+- read XML-coded descriptor file for collection
 - read json file for ingredients catalog
+- generate json file holding collection data  
+  params: `graphLab:path` (graphLab location), `descrip_fn:filename` (XML-coded descriptor for graph experiment),  
+  `igdtCat_path:path`(path to ingredients catalogue), `igdtCat_fn:filename` (ingredients catalogue filename)    
+  output:  json-encoded file with subcollection and recipe lists, located 
 
 #### Collection-related
 
@@ -29,7 +33,7 @@
    returns: Networkx Graph with node attributes `i-name`, `i-class`, `occ`, `sub`, and edge attributes `id`, `weight`
    
 - `nodeSets()`: node sets (subcollection(s) pure, intersection);  
-   params: `graph`,`letter:string` `[, letter:string]`  
+   params: `graph`,`letter:string` or `[letter:string,letter:string]`  
    returns: `nodes:list` with node attributes 
    
 - `edgeSets()`: edge sets (pure, mixed, intersection);  
@@ -53,6 +57,6 @@
 
 #### JSON file format
 
-- title
-- subcollections: { subcollection letter : name, author, recipes list }
-- recipes: { recipe name: ingredients list }
+- collection title
+- collections : { subcollection letter : { subcollection name, author, list of recipe names } }
+- recipes : { recipe name : list of references to ingredients catalogue }
