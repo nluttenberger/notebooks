@@ -24,7 +24,7 @@
   *example:*
     >`myColl = RecipeCollection(gL_path, myDesc, myIgtCat, myWorkingDir)`  
     >`print(myColl)`
-  
+---    
 
 #### Collection-related
 
@@ -36,7 +36,7 @@
   >none  
   
   *returns:*  
-  >#subcollections, subcollection names, recipe author names, #recipes subcollection-wise, #distinct ingredients in subcollections  
+  >dict(#subcollections, subcollection names, recipe author names, #recipes subcollection-wise, #distinct ingredients in subcollections)  
   
   *side-effects:*  
   >none  
@@ -45,24 +45,65 @@
   >n/a  
   
   *example:*  
-  >`infoSubcolls()`
-  
-- `recipes_list()`  
-   description: list of recipes total, subcollection-wise  
-   params: `[letter:string]` (subcollection) (optional)  
-   returns: list of recipe names
-
-- `ingredients_list()`  
-   description: distinct ingredients used: total, subcollection-wise  
-   params: `[letter:string]` (subcollection) (optional)  
-   returns: list of distinct ingredients
+  >`info = myColl.infoSubcolls()`
+---    
+- `recipesList()`  
+   *description:*  
+   >return list of recipes total or subcollection-wise  
    
-- `catalog_list()`  
-   description: ingredients in ingredients catalog: complete catalogue, nbunch, single entry  
-   params: `nbunch` or `ingredient` (optional, default: complete ingredients catalog)  
-   returns: list of ingredients catalogue entries
-
-
+   *params:*  
+   >`subcoll_letter:string` (optional; default: complete list)    
+  
+   *returns:*  
+   > list(recipe names)  
+   
+   *side-effects:*  
+   >none  
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`list = myColl.recipesList('A')`  
+---  
+- `ingredientsList()`  
+   *description:*  
+   >distinct ingredients used: total, subcollection-wise  
+   
+   *params:*  
+   >`[subcoll_letter:string]` (optional; default: complete list)  
+  
+   *returns:*  
+   >list(references to ingredients catalogue)  
+   
+   *side-effects:*  
+   >none  
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`list = myColl.ingredientsList('B')`
+---  
+- `catalogList()`  
+   *description:*  
+   >return ingredients in ingredients catalogue: complete catalogue, list, single entry  
+   
+   *params:*  
+   >`references_to_ingrediensts_catalogue:List` or `reference_to_ingrediensts_catalogue:string` (optional, default: complete ingredients catalog)  
+  
+   *returns:*  
+   >list(ingredients catalogue entries)  
+   
+   *side-effects:*  
+   >none  
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`list = myColl.catalogList(['ei','brot'])`   
+---  
 #### Graph-related
 
 - `toGraph()`  
@@ -83,7 +124,7 @@
    
    *example:*  
   >`G = myColl.toGraph(['A', 'B'])`
-   
+---     
 - `nodeSets()`     
    *description:*  
    >compute node sets: pure set(s) for subcollection(s) and intersection set (when two subcollections are given) 
@@ -92,7 +133,7 @@
    >`graph:graph` (Networkx graph), `subcoll_letter:string` or `[subcoll_letter:string,subcoll_letter:string]`  
    
    *returns:*  
-   >`nodes:list` with node attributes    
+   >list(nodes with node attributes)    
    
    *side-effects:*  
    >none  
@@ -102,28 +143,72 @@
   
    *example:*  
    >`nodesets = myColl.nodeSets(G, ['A', 'B'])`   
+---     
+- `edgeSets()`   
+   *description:*  
+   >compute edge sets: pure, mixed, intersection  
    
-- `edgeSets()`  
-   description: compute edge sets: pure, mixed, intersection  
-   params: `graph`,`letter:string [,letter:string]`  
-   returns: `edges:dict`  
+   *params:*  
+   >`graph:graph` (Networkx graph), `subcoll_letter:string` or `[subcoll_letter:string,subcoll_letter:string]`  
+  
+   *returns:*  
+   >dict({A_e_pure, A_e_mixed, B_e_pure, B_e_mixed, AB_e_intersect})   
    
+   *side-effects:*  
+   >none  
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`edgesets = myColl.edgeSets(G, 'A')`   
+---     
 - `Krack()`  
    description: compute Krackhardt's index (global, ingredient-wise)  
    params: `letter:string, letter:string`   
-   
+---     
 - `toDot()`  
-   description: output in dot format  
-   params: `graph:graph`, `path:path`, `filename:filename` (dot file)  
+   *description:*  
+   >create dot-file for graph  
    
+   *params:*  
+   >`graph:graph`, `path:path`, `filename:filename` (dot file)  
+  
+   *returns:*  
+   >nothing  
+   
+   *side-effects:*  
+   >dot file is written to given path   
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`myColl.toDot(G,'myWorkingDir','myDOTgraph')`
+---     
 - `toGephi()`  
    description: output in Gephi format  
    params: `graph:graph`, `path:path`, `filename:filename` (Gephi file) 
+---     
+- `toCSV()`    
+   *description:*  
+   >create CSV-coded file for graph  
    
-- `toCSV()`  
-   description: output in csv format  
-   params: `graph:graph`, `path:path`, `filename:filename` (CSV file)    
+   *params:*  
+   >params: `graph:graph` (Networkx graph), `path:path`, `filename:filename` (CSV file)   
+  
+   *returns:*  
+   >nothing  
    
+   *side-effects:*  
+   >CSV file is written to given path  
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`myColl.toCSV(G,'myWorkingDir','myCSVgraph')`
+---     
 - `previewSVG()`     
    *description:*  
    >embed SVG-formated graph in HTML/CSS/JS wrapper, showing graph nodes only  
@@ -142,7 +227,7 @@
    
    *example:*  
    >`previewSVG(G,1.1)`
-
+---  
 #### `coll_data` file format (json)
 
 >collection: {title, collections: {subcollection letter: {subcollectionName, author, [recipe names]}}, recipes: {recipeName: name, ingredients: [references to ingredients catalogue]}}  
@@ -164,4 +249,4 @@
    >n/a  
   
    *example:*  
-   >``
+   >`myColl`
