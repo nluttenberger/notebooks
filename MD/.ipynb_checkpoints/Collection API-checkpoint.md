@@ -102,7 +102,45 @@
    >n/a  
   
    *example:*  
-   >`list = myColl.catalogList(['ei','brot'])`   
+   >`list = myColl.catalogList(['ei','brot'])`  
+---
+- `cosine_sim()`  
+   *description:*  
+   >determine cosine similarity between subcollections in total and ingredient class-wise  
+   
+   *params:*  
+   >none  
+  
+   *returns:*  
+   >dict
+   
+   *side-effects:*  
+   >none  
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`myColl.cosine_sim()`
+---  
+- `entropy()`  
+   *description:*  
+   >  
+   
+   *params:*  
+   >  
+  
+   *returns:*  
+   >  
+   
+   *side-effects:*  
+   >  
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`myColl.entropy()`
 ---  
 #### Graph-related
 
@@ -127,7 +165,7 @@
 ---     
 - `nodeSets()`     
    *description:*  
-   >compute node sets: pure set(s) for subcollection(s) and intersection set (when two subcollections are given) 
+   >compute node sets: pure node set for single subcollection or intersection set for two subcollections 
    
    *params:*  
    >`graph:graph` (Networkx graph), `subcoll_letter:string` or `[subcoll_letter:string,subcoll_letter:string]`  
@@ -164,8 +202,29 @@
    >`edgesets = myColl.edgeSets(G, 'A')`   
 ---     
 - `Krack()`  
-   description: compute Krackhardt's index (global, ingredient-wise)  
-   params: `letter:string, letter:string`   
+   *description:*  
+   >compute Krackhardt's index (global, ingredient-wise)  
+   >KI = (EL-IL)/(EL+IL) with EL = external links and IL = internal links  
+   >As defined here, the Krackhardt index measures the connection between a collection's "pure node set" and the intersection node set.  
+   >internal links: relations in the "pure edges set", i.e. relations that connect ingredient nodes in the collection's "pure node set"  
+   >external links: relations in the "mixed edges set"  
+   >`Krack()` is applicable only if collection has two subcollections
+   
+   *params:*  
+   >`graph:graph` (Networkx graph), `subcoll_letter:string` or `references_to_ingrediensts_catalogue:List`   
+     
+   *returns:*  
+   >dict({ })  
+   
+   *side-effects:*  
+   >none  
+  
+   *print:*  
+   >n/a  
+  
+   *examples:*  
+   >`index_subcoll = myColl.Krack(G, 'A')`  
+   >`index_some = myColl.Krack(G, ['butter', 'ei'])`  
 ---     
 - `toDot()`  
    *description:*  
@@ -186,9 +245,24 @@
    *example:*  
    >`myColl.toDot(G,'myWorkingDir','myDOTgraph')`
 ---     
-- `toGephi()`  
-   description: output in Gephi format  
-   params: `graph:graph`, `path:path`, `filename:filename` (Gephi file) 
+- `toGEXF()`  
+   *description:*  
+   >output in gexf format  
+   
+   *params:*  
+   >`graph:graph`, `path:path`, `filename:filename` (gexf file)  
+  
+   *returns:*  
+   >nothing  
+   
+   *side-effects:*  
+   >gexf file is written to given path    
+  
+   *print:*  
+   >n/a  
+  
+   *example:*  
+   >`myColll.toGEXF(G,'myWorkingDir','myGEXFgraph')`
 ---     
 - `toCSV()`    
    *description:*  
