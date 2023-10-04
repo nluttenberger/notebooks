@@ -112,7 +112,7 @@
    >none  
   
    *returns:*  
-   >dict
+   >dict with keys = 'total' and ingredient classes
    
    *side-effects:*  
    >none  
@@ -125,16 +125,16 @@
 ---  
 - `entropy()`  
    *description:*  
-   >  
+   >determine entropy of subcollections  
    
    *params:*  
-   >  
+   >none  
   
    *returns:*  
-   >  
+   >list(entropy_A, entropy_B)  
    
    *side-effects:*  
-   >  
+   >none  
   
    *print:*  
    >n/a  
