@@ -2,15 +2,15 @@
 
 #### Init
 
-- `RecipeCollection()`  
+- `RecipeCollection(graphLab, descriptor, igdtCat, working)`  
   *description:*  
     >read cueML/XML-coded descriptor for collection from graphLab, read cueML/json-coded ingredients catalog, generate json-coded file holding collection data  
     
   *params:*  
-    >`graphLab:path` (absolute path to graphLab top-level directory)  
-    >`descrip_fn:filename` (XML-coded descriptor for graph experiment, located in graphLab top-level directory)  
-    >`igdtCat_path:path` (full absolute path to ingredients catalogue)   
-    >`working_dir` (notebook's working directory; usually the 'data' directory)  
+    >`graphLab:dir_path` (absolute path to graphLab top-level directory)  
+    >`descriptor:file_name` (XML-coded descriptor for graph experiment, located in graphLab top-level directory)  
+    >`igdtCat:full_path` (absolute path to JSON-coded ingredients catalogue)   
+    >`working:dir_path` (absolute path to notebook's working directory; usually the 'data' directory)  
     
   *returns:*  
     >nothing
@@ -22,7 +22,7 @@
     >collection name, #subcollections, recipe author names, #recipes total, #recipes subcollection-wise, #distinct ingredients in collection, #ingredients in ingredients catalogue  
     
   *example:*
-    >`myColl = RecipeCollection(gL_path, myDesc, myIgtCat, myWorkingDir)`  
+    >`myColl = RecipeCollection('c:\users\nlutt\graphLab\', 'descriptor.xml', 'c:\users\nlutt\graphLab\igdt_cat.json', 'c:\users\nlutt\pyProjects\graphs\data\')`  
     >`print(myColl)`
 ---    
 
@@ -47,12 +47,12 @@
   *example:*  
   >`info = myColl.infoSubcolls()`
 ---    
-- `recipesList()`  
+- `recipesList(subColl=None)`  
    *description:*  
    >return list of recipes total or subcollection-wise  
    
    *params:*  
-   >`subcoll_letter:string` (optional; default: complete list)    
+   >`subcoll_letter:string` (optional; default: return complete list)    
   
    *returns:*  
    > list(recipe names)  
@@ -85,12 +85,12 @@
    *example:*  
    >`list = myColl.ingredientsList('B')`
 ---  
-- `catalogList()`  
+- `catalogList(i-class or [keys for ingredient entries in catalogue])`  
    *description:*  
-   >return ingredients in ingredients catalogue: complete catalogue, list, single entry  
+   >returns complete catalogue, list of ingredient references for given i-class, or full catalogue entries for list of references, default=None  
    
    *params:*  
-   >`references_to_ingrediensts_catalogue:List` or `reference_to_ingrediensts_catalogue:string` (optional, default: complete ingredients catalog)  
+   >one of `references_to_ingrediensts_catalogue:list`,  `i-class:string`, default: None  
   
    *returns:*  
    >list(ingredients catalogue entries)  
@@ -101,8 +101,9 @@
    *print:*  
    >n/a  
   
-   *example:*  
+   *examples:*  
    >`list = myColl.catalogList(['ei','brot'])`  
+   >`list = myColl.catalogList('veg')`
 ---
 - `cosine_sim()`  
    *description:*  
@@ -112,7 +113,7 @@
    >none  
   
    *returns:*  
-   >dict with keys = 'total' and ingredient classes
+   >None, if current collection has no subcollections, else dict with entries for 'total' and ingredient classes
    
    *side-effects:*  
    >none  
@@ -131,7 +132,7 @@
    >none  
   
    *returns:*  
-   >list(entropy_A, entropy_B)  
+   >Entropy value for collection if collection has no subcollections, else dict(entropy_A, entropy_B)  
    
    *side-effects:*  
    >none  
