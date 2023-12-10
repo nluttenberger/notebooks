@@ -1,1 +1,2888 @@
-{"meta": {"title": "HD vs YO Gemüse", "collType": "double"}, "collections": {"A": {"name": "HD-Gemüse", "author": "Henriette Davidis", "recipes": ["Artischocken", "Blumenkohl", "Brech-Salatbohnen", "Champignons zu braten", "Eingemachte Endivien", "Eingemachte Salatbohnen", "Eingemachte Schneidbohnen", "Eingemachtes Stielmus. No. 1", "Ein Gesellschaftsgemüse von Allerlei", "Ente im Wirsing", "Feiner Kartoffelpfannkuchen", "Frische Champignons", "Frische Champignons auf andere Art", "Gebackene Kartoffeln mit Bratwurst", "Gebratene Kartoffel-Bällchen", "Gebratene Kartoffeln", "Gedämpfter weißer Kohl", "Gefüllte Gurken", "Gefüllte Kohlrabi", "Gefüllter Kohlkopf", "Gefüllter Sellerie", "Gemüse auf andere Art", "Gemüsegurken", "Geschnittener Kohl", "Gestovte Endivien", "Gestovte Gurken", "Gestovter Borrei", "Gestovter Sellerie", "Gestovter Spargel", "Gestovte Scheibenkartoffeln", "Gestovte Zwiebeln", "Getrocknete gelbe Erbsen", "Getrocknete Prinzessen-Böhnchen", "Getrocknete Schneidbohnen", "Großebohnen", "Grüner oder brauner Kohl ganz gekocht nach Bremer Art", "Gute Reibekuchen mit Hefen", "Häderich", "Härings-Kartoffeln", "Herbst-Rüben", "Herbst-Wurzeln auf andere Art", "Herbst-Wurzeln zu kochen", "Hopfen", "Junge Erbsen", "Junge Wurzeln", "Junge Wurzeln mit Erbsen", "Kartoffel-Mus", "Kartoffeln, Schweinsrippe und saure Aepfel zusammen gebraten", "Kartoffeln in der Schale gebraten", "Kartoffeln mit Aepfeln", "Kartoffeln mit frischen Birnen", "Kartoffeln mit verschiedenen Saucen", "Kartoffeln mit Zwiebeln gestovt, auf holländische Art", "Kartoffeln-Nudeln. (Vorzüglich)", "Kartoffeln zu kochen", "Kartoffel-Scheiben", "Kohlrabi auf der Erde", "Kuchen von kalten Kartoffeln", "Kücken mit jungen Erbsen und Krebsen angerichtet", "Kurzer Kohl", "Linsen", "Lorber-Kartoffeln", "Mairüben", "Melle", "Nachlese. (Blindhuhn.)", "Ottersberger Rüben", "Portulac", "Reibekuchen", "Reibekuchen auf andere Art", "Rosenkohl", "Rother Kohl", "Round of Beef mit Kartoffeln", "Rübstiel", "Salat- oder Spargelbohnen", "Sauerampfer", "Sauerkraut", "Sauerkraut für den gewöhnlichen Tisch", "Sauerkraut mit Hecht", "Schinken-Kartoffeln", "Schmalz- oder Butterkohl", "Schneidbohnen einzumachen", "Schneid- oder Vietsbohnen", "Scorzoner- oder Schwarzwurzeln", "Spargelerbsen", "Spargel mit jungen Wurzeln (Möhren)", "Spargel zu kochen", "Spinat", "Sprossenkohl (von grünem oder braunem Kohl)", "Steckrüben auf gewöhnliche Art zubereitet", "Steckrüben oder Kohlrabi in der Erde", "Teltower Rüben", "Weiße Bohnen", "Weißer Kohl mit Rindfleisch gekocht", "Wirsing, Savoyenkohl", "Zuckererbsen"]}, "B": {"name": "YO-Gemüse", "author": "Yotam Ottolenghi", "recipes": ["Aubergine mit Kräutern und knusprigem Knoblauch", "Auberginenklösschen alla Parmigiana", "Austernpilz-Tacos mit allem (oder manchem) drum und dran", "Bkeila-Eintopf mit Kartoffeln und weißen Bohnen", "Broccoli mit Pilzketchup und Nori", "Brokkoli auf zweierlei Art mit Chili und Kreuzkümmel", "Bucatini Cacio e Pepe mit Zatar", "Bunter Mangold mit Tomaten und grünen Oliven", "Calvins gegrillte Pfirsiche und Bohnen", "Chaat-Masala-Kartoffeln mit Joghurt und Tamarinde", "Congee aus Naturreis mit Shiitakepilzen", "Das ultimative Ragù aus dem Ofen", "Dirty Rice", "Ein-Topf-Orecchiette Puttanesca", "Eisbergsalat mit rauchiger Auberginencreme", "Esmes Kürbisstampf", "Frühlingsgemüse in Parmesanbrühe und Salsa mit gerösteter Zitrone", "Fusion-Caponata mit Seidentofu", "Gebackener und eingelegter Knollensellerie mit süßem Chilidressing", "Gedämpfte Auberginen und Salsa mit gerösteten Chilis", "Gefüllte Auberginenröllchen in Curry-Kokos-Dal", "Gegrillte Feigen mit Shaoxing-Dressing", "Gekühlte Avocadosuppe mit Knoblauchöl", "Geröstete Paprika und frische Mais-Polenta mit Eidotter in Sojasauce", "Geröstete und geschmorte grüne Bohnen", "Gersteneintopf mit Tomaten und Brunnenkresse", "Geschmortes Blattgemüse mit Joghurt", "Gurkensalat à la Xi'an Impression", "Gurkensalat mit Zatar und gehackten Zitronen", "Hasselback-Rote-Bete mit Kaffirlimetten-Butter", "Herrlich zarte Zucchini mit Harissa und Zitrone", "Hummus mit konfiertem Knoblauch und gegrillten Pilzen", "Hummus mit Zitrone, Knoblauch und Chili", "In Chilibutter gerösteter Blumenkohl", "Kardamom-Tofu und Choi Sum mit Limette", "Karottenpüree mit Curry und brauner Butter", "Kartoffelgratin mit Kokos und Limette", "Kartoffelpfanne mit Gochujang-Eiern", "Kartoffelsalat mit Thaibasilikum-Salsa", "Käse-Tamales mit allem (oder manchem) drum und dran", "Kichererbsen-Pfannkuchen und Joghurt mit Mango-Pickle", "Klebreisbällchen in Tamarinden-Rasam-Brühe", "Knusprige Zwiebelringe mit Buttermilch und Kurkuma", "Kochbananen mit Kokos-Apfel-Ingwer-Salat", "Kohlrabinudel-Salat", "Kokos-Omelett mit Kurkuma", "Korma mit Tofuklößchen", "Kräutersuppe mit gerösteten Auberginen", "Kürbis-Orangen-Galette mit Salbei", "Lauch mit Miso-Schnittlauch-Salsa", "Mafalde mit geröstetem Butternusskürbis in warmer Joghurtsauce", "Mais-Rippchen", "Melonen-Mozzarella-Salat mit Kascha und Curryblättern", "Neils gegrillte Zwiebeln mit grüner Gazpacho", "Noors Tofu mit schwarzer Limette", "Nudelsalat mit Pilz-Erdnuss-Laab", "Ofenpommes und Curryblatt-Mayonnaise", "Olivenöl-Fladenbrote mit Dreierlei-Knoblauch-Butter", "Pappa al Pomodoro mit Limette und Senfsamen", "Polenta mit frischem Mais und gestockten Eiern", "Portobello-Steaks und Püree aus Riesenbohnen", "Reiskrapfen mit Kimchi und Gruyère", "Rettich-Gurken-Salat mit Chipotle-Erdnüssen", "Rettichkuchen", "Riesen-Couscous mit Kürbis und Tomatensauce mit Sternanis", "Röstkarotten-Salat mit Chamoy", "Safran-Tagliatelle", "Safran-Tagliatelle mit Ricotta und knusprigen Chipotl-Schalotten", "Scharfe Pilzlasagne", "Scharfe Röstkartoffeln mit Tahin und Sojasauce", "Scharfes Berbere-Ratatouille mit Kokos-Salsa", "Schwarze Bohnen mit Kokos, Chili und Limette", "Selleriesteaks mit Café-de-Paris-Sauce", "Spargelpfannkuchen mit Gochujang", "Spargelsalat mit Tamarinde und Limette", "Spitzkohl mit Ingwercreme und betäubendem Öl", "Spitzkohl mit Nam Prik", "Spitzkohl-Tacos mit Knollensellerie und Dattel-Barbecue-Sauce", "Spitzpaprika-Schnitzel", "Steckrüben-Gnocchi mit Misobutter", "Steckrübensteaks mit Currykruste", "Süßkartoffeln in Tomatensauce mit Limette und Kardamom", "Süsskartoffelstampf mit Joghurt und Limette", "Süßsaurer Rosenkohl mit Maronen und Weintrauben", "Süßsaure Zwiebeln", "Tempura aus Stielen, Blättern und Kräutern", "Tomaten-Pflaumen-Salat mit Nori und Sesam", "Tomatensalat mit Limetten-Kardamom-Joghurt", "Udon-Nudeln mit gebratenem Tofu und Orangen-Nam-Jim", "Weiße Bohnen in rauchigem Cascabel-Chili-Öl", "Weiße-Bohnen-Püree und eine Art Aioli", "Zwiebeln in Misobutter"]}}, "recipes": [{"recipeName": "Artischocken", "ingredients": ["senf", "muskat", "ei", "sardelle", "weizenmehl", "kapern", "essig", "austern", "artischocke", "butter"]}, {"recipeName": "Blumenkohl", "ingredients": ["blumenkohl", "muskat", "ei", "weizenmehl", "krebs", "fleischbrühe", "sahne", "butter"]}, {"recipeName": "Brech-Salatbohnen", "ingredients": ["weizenmehl", "grüne_bohnen", "sahne", "essig", "butter"]}, {"recipeName": "Champignons zu braten", "ingredients": ["pfeffer", "champignon", "butter"]}, {"recipeName": "Eingemachte Endivien", "ingredients": ["muskat", "zwieback", "fleischbrühe", "endivien", "butter"]}, {"recipeName": "Eingemachte Salatbohnen", "ingredients": ["weizenmehl", "grüne_bohnen", "petersilie", "essig", "butter"]}, {"recipeName": "Eingemachte Schneidbohnen", "ingredients": ["brühe", "schweineschmalz", "kartoffel", "grüne_bohnen", "butter"]}, {"recipeName": "Eingemachtes Stielmus. No. 1", "ingredients": ["brühe", "schweineschmalz", "kartoffel", "stielmus", "butter"]}, {"recipeName": "Ein Gesellschaftsgemüse von Allerlei", "ingredients": ["zitrone", "stubenküken", "blumenkohl", "weißbrot", "rindfleisch", "muskat", "nierenfett", "ei", "weizenmehl", "taube", "krebs", "butter", "spargel"]}, {"recipeName": "Ente im Wirsing", "ingredients": ["speck", "wirsing", "butter", "ente"]}, {"recipeName": "Feiner Kartoffelpfannkuchen", "ingredients": ["schmalz", "ei", "kartoffel", "milch", "saure_sahne", "butter"]}, {"recipeName": "Frische Champignons", "ingredients": ["stärke", "zitrone", "muskat", "ei", "zwieback", "champignon", "fleischbrühe", "butter"]}, {"recipeName": "Frische Champignons auf andere Art", "ingredients": ["zitrone", "champignon", "butter", "muskat"]}, {"recipeName": "Gebackene Kartoffeln mit Bratwurst", "ingredients": ["weißbrot", "zwiebel", "kartoffel", "weizenmehl", "pfeffer", "fleischbrühe", "bratwurst", "bratenjus", "butter"]}, {"recipeName": "Gebratene Kartoffel-Bällchen", "ingredients": ["muskat", "ei", "kartoffel", "zwieback", "milch", "butter"]}, {"recipeName": "Gebratene Kartoffeln", "ingredients": ["kartoffel", "butter", "schweineschmalz"]}, {"recipeName": "Gedämpfter weißer Kohl", "ingredients": ["apfel", "weißkohl", "bratfett", "nelke", "essig", "butter"]}, {"recipeName": "Gefüllte Gurken", "ingredients": ["weißbrot", "muskat", "kalbfleisch", "nierenfett", "ei", "zwieback", "fleischbrühe", "essig", "butter", "gurke"]}, {"recipeName": "Gefüllte Kohlrabi", "ingredients": ["stärke", "wein", "zitrone", "weißbrot", "muskat", "kalbfleisch", "ei", "nierenfett", "krebs", "fleischbrühe", "kohlrabi", "butter"]}, {"recipeName": "Gefüllter Kohlkopf", "ingredients": ["zitrone", "weißbrot", "rindfleisch", "muskat", "nierenfett", "ei", "zwiebel", "weizenmehl", "weißkohl", "fleischbrühe", "butter"]}, {"recipeName": "Gefüllter Sellerie", "ingredients": ["stärke", "zitrone", "weißbrot", "knollensellerie", "muskat", "ei", "kalbfleisch", "nierenfett", "fleischbrühe", "wein", "butter"]}, {"recipeName": "Gemüse auf andere Art", "ingredients": ["wurzeln", "muskat", "ei", "weizenmehl", "weinessig", "zucker", "fleischbrühe", "butter"]}, {"recipeName": "Gemüsegurken", "ingredients": ["muskat", "gemüsegurke", "weizenmehl", "milch", "essig", "butter"]}, {"recipeName": "Geschnittener Kohl", "ingredients": ["stärke", "schweineschmalz", "weißkohl", "marone", "zucker", "gänsefett", "butter"]}, {"recipeName": "Gestovte Endivien", "ingredients": ["zitrone", "muskat", "zwieback", "fleischbrühe", "endivien", "butter"]}, {"recipeName": "Gestovte Gurken", "ingredients": ["muskat", "zwieback", "fleischbrühe", "essig", "butter", "gurke"]}, {"recipeName": "Gestovter Borrei", "ingredients": ["zitrone", "lauch", "muskat", "zwieback", "fleischbrühe", "butter"]}, {"recipeName": "Gestovter Sellerie", "ingredients": ["stärke", "muskat", "knollensellerie", "fleischbrühe", "bratenjus", "butter"]}, {"recipeName": "Gestovter Spargel", "ingredients": ["weißbrot", "muskat", "ei", "zwieback", "milch", "zucker", "sultaninen", "speck", "fleischbrühe", "butter", "spargel"]}, {"recipeName": "Gestovte Scheibenkartoffeln", "ingredients": ["ei", "zwiebel", "kartoffel", "pfeffer", "petersilie", "essig", "butter"]}, {"recipeName": "Gestovte Zwiebeln", "ingredients": ["zitrone", "muskat", "zwiebel", "zwieback", "fleischbrühe", "butter"]}, {"recipeName": "Getrocknete gelbe Erbsen", "ingredients": ["gelbe_erbsen", "zwiebel", "weißbrot", "butter"]}, {"recipeName": "Getrocknete Prinzessen-Böhnchen", "ingredients": ["muskat", "ei", "weizenmehl", "grüne_bohnen", "sahne", "essig", "butter"]}, {"recipeName": "Getrocknete Schneidbohnen", "ingredients": ["stärke", "kartoffel", "grüne_bohnen", "petersilie", "butter"]}, {"recipeName": "Großebohnen", "ingredients": ["ackerbohne", "petersilie", "butter"]}, {"recipeName": "Grüner oder brauner Kohl ganz gekocht nach Bremer Art", "ingredients": ["stärke", "schweineschmalz", "zwiebel", "grünkohl", "pinkelwurst", "zucker", "gänsefett", "piment", "butter"]}, {"recipeName": "Gute Reibekuchen mit Hefen", "ingredients": ["hefe", "ei", "kartoffel", "zwieback", "milch", "brot"]}, {"recipeName": "Häderich", "ingredients": ["muskat", "ackerrettich", "zwieback", "essig", "butter"]}, {"recipeName": "Härings-Kartoffeln", "ingredients": ["hering", "zwiebel", "lorbeer", "kartoffel", "weizenmehl", "pfeffer", "sahne", "essig", "butter"]}, {"recipeName": "Herbst-Rüben", "ingredients": ["stärke", "muskat", "steckrübe", "kartoffel", "fleischbrühe", "butter"]}, {"recipeName": "Herbst-Wurzeln auf andere Art", "ingredients": ["stärke", "karotte", "zwiebel", "kartoffel", "petersilie", "butter"]}, {"recipeName": "Herbst-Wurzeln zu kochen", "ingredients": ["zucker", "karotte"]}, {"recipeName": "Hopfen", "ingredients": ["hopfen", "muskat", "ei", "weizenmehl", "zwieback", "essig", "butter"]}, {"recipeName": "Junge Erbsen", "ingredients": ["stärke", "zimt", "ei", "krebs", "erbsen", "zucker", "petersilie", "butter"]}, {"recipeName": "Junge Wurzeln", "ingredients": ["petersilie", "butter", "karotte"]}, {"recipeName": "Junge Wurzeln mit Erbsen", "ingredients": ["erbsen", "petersilie", "butter", "karotte"]}, {"recipeName": "Kartoffel-Mus", "ingredients": ["zwiebel", "kartoffel", "zwieback", "milch", "butter"]}, {"recipeName": "Kartoffeln, Schweinsrippe und saure Aepfel zusammen gebraten", "ingredients": ["schweinsrippe", "apfel", "kartoffel"]}, {"recipeName": "Kartoffeln in der Schale gebraten", "ingredients": ["kartoffel", "butter"]}, {"recipeName": "Kartoffeln mit Aepfeln", "ingredients": ["apfel", "kartoffel", "zwieback", "milch", "butter"]}, {"recipeName": "Kartoffeln mit frischen Birnen", "ingredients": ["weinessig", "butter", "kartoffel", "birne"]}, {"recipeName": "Kartoffeln mit verschiedenen Saucen", "ingredients": ["senf", "zwiebel", "kartoffel", "weizenmehl", "fleischbrühe", "essig", "butter"]}, {"recipeName": "Kartoffeln mit Zwiebeln gestovt, auf holländische Art", "ingredients": ["zwiebel", "kartoffel", "pfeffer", "essig", "butter"]}, {"recipeName": "Kartoffeln-Nudeln. (Vorzüglich)", "ingredients": ["ei", "kartoffel", "weizenmehl", "milch", "sahne", "butter"]}, {"recipeName": "Kartoffeln zu kochen", "ingredients": ["kartoffel"]}, {"recipeName": "Kartoffel-Scheiben", "ingredients": ["speck", "kartoffel", "butter", "schweineschmalz"]}, {"recipeName": "Kohlrabi auf der Erde", "ingredients": ["muskat", "weizenmehl", "fleischbrühe", "kohlrabi", "sahne", "butter"]}, {"recipeName": "Kuchen von kalten Kartoffeln", "ingredients": ["ei", "kartoffel", "weizenmehl", "milch", "zucker", "speck", "butter"]}, {"recipeName": "Kücken mit jungen Erbsen und Krebsen angerichtet", "ingredients": ["stubenküken", "ei", "krebs", "erbsen", "petersilie", "butter"]}, {"recipeName": "Kurzer Kohl", "ingredients": ["brühe", "zwiebel", "hafergrütze", "weißkohl", "gänsefett", "speck", "bratwurst", "butter"]}, {"recipeName": "Linsen", "ingredients": ["senf", "zwiebel", "weizenmehl", "linsen", "fleischbrühe", "essig", "butter"]}, {"recipeName": "Lorber-Kartoffeln", "ingredients": ["zwiebel", "lorbeer", "kartoffel", "pfeffer", "bratfett", "essig", "butter"]}, {"recipeName": "Mairüben", "ingredients": ["stärke", "mairüben", "muskat", "kartoffel", "fleischbrühe", "butter"]}, {"recipeName": "Melle", "ingredients": ["gartenmelde", "muskat", "zwieback", "essig", "butter"]}, {"recipeName": "Nachlese. (Blindhuhn.)", "ingredients": ["birne", "karotte", "kartoffel", "apfel", "weizenmehl", "pfeffer", "grüne_bohnen", "schinken", "essig"]}, {"recipeName": "Ottersberger Rüben", "ingredients": ["ottersberger_rüben", "weizenmehl", "zucker", "fleischbrühe", "butter"]}, {"recipeName": "Portulac", "ingredients": ["ei", "zwiebel", "portulak", "weizenmehl", "fleischbrühe", "sahne", "butter"]}, {"recipeName": "Reibekuchen", "ingredients": ["ei", "kartoffel", "speck", "saure_sahne", "butter"]}, {"recipeName": "Reibekuchen auf andere Art", "ingredients": ["weißbrot", "ei", "kartoffel", "milch", "sahne"]}, {"recipeName": "Rosenkohl", "ingredients": ["muskat", "rosenkohl", "weizenmehl", "zwieback", "fleischbrühe", "butter"]}, {"recipeName": "Rother Kohl", "ingredients": ["apfel", "bratfett", "rotkohl", "wein", "nelke", "essig", "butter"]}, {"recipeName": "Round of Beef mit Kartoffeln", "ingredients": ["rauchfleisch", "weißbrot", "rindfleisch", "kartoffel", "zwieback", "schinken", "butter"]}, {"recipeName": "Rübstiel", "ingredients": ["muskat", "weizenmehl", "milch", "stielmus", "sahne", "butter"]}, {"recipeName": "Salat- oder Spargelbohnen", "ingredients": ["muskat", "ei", "weizenmehl", "grüne_bohnen", "petersilie", "sahne", "essig", "butter"]}, {"recipeName": "Sauerampfer", "ingredients": ["weißbrot", "muskat", "zwieback", "sauerampfer", "sahne", "butter"]}, {"recipeName": "Sauerkraut", "ingredients": ["stärke", "brühe", "schweineschmalz", "wacholder", "kartoffel", "sauerkraut", "pfeffer", "kümmel", "butter"]}, {"recipeName": "Sauerkraut für den gewöhnlichen Tisch", "ingredients": ["schweinefleisch", "kartoffel", "sauerkraut", "schweineschmalz"]}, {"recipeName": "Sauerkraut mit Hecht", "ingredients": ["stärke", "hecht", "brühe", "schweineschmalz", "gewürz", "beeren", "kartoffel", "sauerkraut", "zwieback", "krebs", "pfeffer", "kümmel", "sahne", "butter"]}, {"recipeName": "Schinken-Kartoffeln", "ingredients": ["muskat", "hering", "ei", "zwiebel", "kartoffel", "milch", "schinken", "butter"]}, {"recipeName": "Schmalz- oder Butterkohl", "ingredients": ["kartoffel", "butterkohl"]}, {"recipeName": "Schneidbohnen einzumachen", "ingredients": ["grüne_bohnen"]}, {"recipeName": "Schneid- oder Vietsbohnen", "ingredients": ["weizenmehl", "pfeffer", "grüne_bohnen", "petersilie", "butter"]}, {"recipeName": "Scorzoner- oder Schwarzwurzeln", "ingredients": ["schwarzwurzel", "muskat", "zwieback", "milch", "fleischbrühe", "essig", "butter"]}, {"recipeName": "Spargelerbsen", "ingredients": ["spargelerbsen", "ei", "weizenmehl", "essig", "butter"]}, {"recipeName": "Spargel mit jungen Wurzeln (Möhren)", "ingredients": ["muskat", "karotte", "ei", "butter", "zwieback", "zucker", "fleischbrühe", "spargel"]}, {"recipeName": "Spargel zu kochen", "ingredients": ["muskat", "ei", "weizenmehl", "zwieback", "zucker", "sahne", "essig", "butter", "spargel"]}, {"recipeName": "Spinat", "ingredients": ["weißbrot", "muskat", "zwieback", "milch", "spinat", "fleischbrühe", "butter"]}, {"recipeName": "Sprossenkohl (von grünem oder braunem Kohl)", "ingredients": ["muskat", "rosenkohl", "ei", "weizenmehl", "zwieback", "essig", "butter"]}, {"recipeName": "Steckrüben auf gewöhnliche Art zubereitet", "ingredients": ["steckrübe", "sahne", "butter", "muskat"]}, {"recipeName": "Steckrüben oder Kohlrabi in der Erde", "ingredients": ["steckrübe", "weizenmehl", "zucker", "fleischbrühe", "butter"]}, {"recipeName": "Teltower Rüben", "ingredients": ["teltower_rüben", "weizenmehl", "zucker", "fleischbrühe", "butter"]}, {"recipeName": "Weiße Bohnen", "ingredients": ["ei", "weizenmehl", "speck", "pfeffer", "weiße_bohnen", "essig", "butter"]}, {"recipeName": "Weißer Kohl mit Rindfleisch gekocht", "ingredients": ["weißkohl", "kartoffel", "rindfleisch"]}, {"recipeName": "Wirsing, Savoyenkohl", "ingredients": ["fleischbrühe", "wirsing", "butter", "muskat"]}, {"recipeName": "Zuckererbsen", "ingredients": ["stärke", "zuckerschoten", "petersilie", "butter"]}, {"recipeName": "Aubergine mit Kräutern und knusprigem Knoblauch", "ingredients": ["minze", "zitrone", "olivenöl", "chilischote", "auberginen", "dill", "weißweinessig", "knoblauch", "koriander"]}, {"recipeName": "Auberginenklösschen alla Parmigiana", "ingredients": ["chiliflocken", "basilikum", "olivenöl", "ei", "tomate", "auberginen", "parmesan", "weizenmehl", "paprikapulver", "oregano", "olive", "zucker", "ricotta", "petersilie", "knoblauch", "paniermehl", "tomatenmark"]}, {"recipeName": "Austernpilz-Tacos mit allem (oder manchem) drum und dran", "ingredients": ["maismehl", "koriandergrün", "zucker", "avocado", "hibiskus", "sojasauce", "olivenöl", "limette", "austernpilz", "cumin", "kohlrabi", "piment", "ahornsirup", "cascabel", "orange", "kokoscrème", "zwiebel", "weißweinessig", "knoblauch"]}, {"recipeName": "Bkeila-Eintopf mit Kartoffeln und weißen Bohnen", "ingredients": ["zitrone", "babyspinat", "olivenöl", "zwiebel", "chilischote", "hühnerbrühe", "kartoffel", "koriandergrün", "zucker", "petersilie", "weiße_bohnen", "cumin", "knoblauch", "koriander", "zimt"]}, {"recipeName": "Broccoli mit Pilzketchup und Nori", "ingredients": ["pilze", "chiliflocken", "steinpilz", "sojasauce", "olivenöl", "apfelessig", "erdnuss", "zucker", "röstzwiebeln", "brokkoli", "knoblauch", "sesam", "noriflocken"]}, {"recipeName": "Brokkoli auf zweierlei Art mit Chili und Kreuzkümmel", "ingredients": ["basilikum", "sonnenblumenöl", "sojasauce", "chilischote", "cumin", "zucker", "brokkoli", "apfelessig"]}, {"recipeName": "Bucatini Cacio e Pepe mit Zatar", "ingredients": ["pecorino", "majoran", "olivenöl", "zatar", "parmesan", "nudeln", "pfeffer", "butter"]}, {"recipeName": "Bunter Mangold mit Tomaten und grünen Oliven", "ingredients": ["zitrone", "basilikum", "olivenöl", "zwiebel", "tomate", "oregano", "olive", "knoblauch", "mangold"]}, {"recipeName": "Calvins gegrillte Pfirsiche und Bohnen", "ingredients": ["minze", "zitrone", "pfirsich", "breite_bohnen", "salzmandeln", "olivenöl", "ziegenfrischkäse", "honig"]}, {"recipeName": "Chaat-Masala-Kartoffeln mit Joghurt und Tamarinde", "ingredients": ["olivenöl", "curcuma", "zwiebel", "chilischote", "kartoffel", "joghurt", "koriandergrün", "schwarzkümmel", "limette", "zucker", "tamarinde", "koriander", "chaat_masala"]}, {"recipeName": "Congee aus Naturreis mit Shiitakepilzen", "ingredients": ["radieschen", "reis", "sonnenblumenöl", "shiitake", "sojasauce", "ingwer", "mandarine", "paprikapulver", "lauchzwiebel", "zucker", "röstzwiebeln", "knoblauch", "sesam", "chiliflocken", "reisessig"]}, {"recipeName": "Das ultimative Ragù aus dem Ofen", "ingredients": ["graupen", "steinpilz", "karotte", "tomate", "zwiebel", "olivenöl", "miso", "sojasauce", "hühnerbrühe", "cumin", "linsen", "rotwein", "austernpilz", "kokoscrème", "harissa", "knoblauch", "tomatenmark"]}, {"recipeName": "Dirty Rice", "ingredients": ["zitrone", "reis", "olivenöl", "zwiebel", "marone", "cajunmischung", "petersilie", "knoblauch", "gemüsebrühe", "butter", "schwarzer_knoblauch"]}, {"recipeName": "Ein-Topf-Orecchiette Puttanesca", "ingredients": ["zitrone", "kichererbsen", "olivenöl", "hühnerbrühe", "nudeln", "geräuchertes_paprikapulver", "kapern", "olive", "zucker", "pfeffer", "petersilie", "kirschtomaten", "cumin", "knoblauch", "tomatenmark"]}, {"recipeName": "Eisbergsalat mit rauchiger Auberginencreme", "ingredients": ["zitrone", "radieschen", "dijonsenf", "olivenöl", "sauerteigbrot", "eisbergsalat", "isot_biber", "auberginen", "parmesan", "joghurt", "schnittlauch", "avocado", "mandel", "knoblauch", "kürbiskern"]}, {"recipeName": "Esmes Kürbisstampf", "ingredients": ["ahornsirup", "olivenöl", "butternusskürbis", "lauchzwiebel", "limette", "jalapeno", "cumin", "knoblauch", "zimt"]}, {"recipeName": "Frühlingsgemüse in Parmesanbrühe und Salsa mit gerösteter Zitrone", "ingredients": ["zitrone", "basilikum", "olivenöl", "zwiebel", "zuckerschoten", "parmesan", "olive", "erbsen", "petersilie", "knoblauch"]}, {"recipeName": "Fusion-Caponata mit Seidentofu", "ingredients": ["ahornsirup", "sonnenblumenöl", "reis", "chilischote", "ingwer", "auberginen", "tofu", "lauchzwiebel", "reiswein", "staudensellerie", "sultaninen", "kirschtomaten", "pinienkerne", "sesam"]}, {"recipeName": "Gebackener und eingelegter Knollensellerie mit süßem Chilidressing", "ingredients": ["ahornsirup", "sonnenblumenöl", "knollensellerie", "sojasauce", "olivenöl", "chilischote", "limette", "staudensellerie", "schnittlauch", "knoblauch", "sternanis", "sesam", "reisessig"]}, {"recipeName": "Gedämpfte Auberginen und Salsa mit gerösteten Chilis", "ingredients": ["salzmandeln", "chilischote", "olivenöl", "ingwer", "auberginen", "knoblauch", "koriandergrün", "lauchzwiebel", "kirschtomaten", "sherryessig"]}, {"recipeName": "Gefüllte Auberginenröllchen in Curry-Kokos-Dal", "ingredients": ["curryblätter", "chilischote", "koriandergrün", "linsen", "panir", "mangopickle", "olivenöl", "ingwer", "limette", "schalotten", "spinat", "cumin", "koriander", "curry", "curcuma", "senfsamen", "auberginen", "kokosmilch", "tomatenmark"]}, {"recipeName": "Gegrillte Feigen mit Shaoxing-Dressing", "ingredients": ["zitrone", "ahornsirup", "sojasauce", "feige", "olivenöl", "chilischote", "rucola", "reiswein", "ricotta", "reisessig"]}, {"recipeName": "Gekühlte Avocadosuppe mit Knoblauchöl", "ingredients": ["zitrone", "olivenöl", "chilischote", "dill", "erbsen", "avocado", "cumin", "knoblauch", "sahne", "koriander", "gurke"]}, {"recipeName": "Geröstete Paprika und frische Mais-Polenta mit Eidotter in Sojasauce", "ingredients": ["zitrone", "ahornsirup", "basilikum", "mais", "sojasauce", "ei", "apfelessig", "olivenöl", "joghurt", "parmesan", "spitzpaprika", "knoblauch", "polenta", "butter"]}, {"recipeName": "Geröstete und geschmorte grüne Bohnen", "ingredients": ["zitrone", "breite_bohnen", "chilischote", "olivenöl", "zwiebel", "hühnerbrühe", "salzzitrone", "dill", "pfeffer", "grüne_bohnen", "petersilie", "knoblauch", "estragon"]}, {"recipeName": "Gersteneintopf mit Tomaten und Brunnenkresse", "ingredients": ["zitrone", "graupen", "olivenöl", "sardelle", "chilischote", "weißwein", "brunnenkresse", "knoblauch", "schalotten", "kümmel", "kirschtomaten", "kohlrabi", "sahne", "tomatenmark"]}, {"recipeName": "Geschmortes Blattgemüse mit Joghurt", "ingredients": ["minze", "olivenöl", "zwiebel", "joghurt", "lauchzwiebel", "dill", "limette", "schwarzkohl", "petersilie", "knoblauch", "zimt"]}, {"recipeName": "Gurkensalat à la Xi'an Impression", "ingredients": ["sonnenblumenöl", "sojasauce", "mirin", "limette", "gurke", "knoblauch", "tahina", "sesam", "reisessig"]}, {"recipeName": "Gurkensalat mit Zatar und gehackten Zitronen", "ingredients": ["zitrone", "minze", "basilikum", "olivenöl", "chilischote", "zatar", "dill", "schalotten", "feldsalat", "gurke"]}, {"recipeName": "Hasselback-Rote-Bete mit Kaffirlimetten-Butter", "ingredients": ["crème_double", "olivenöl", "chilischote", "ingwer", "joghurt", "koriandergrün", "kaffirlimette", "limette", "knoblauch", "butter", "rote_bete"]}, {"recipeName": "Herrlich zarte Zucchini mit Harissa und Zitrone", "ingredients": ["zitrone", "basilikum", "zucchini", "olivenöl", "chilischote", "salzzitrone", "harissa", "knoblauch"]}, {"recipeName": "Hummus mit konfiertem Knoblauch und gegrillten Pilzen", "ingredients": ["zitrone", "ahornsirup", "kichererbsen", "shiitake", "olivenöl", "dill", "cascabel", "champignon", "thymian", "petersilie", "knoblauch", "tahina"]}, {"recipeName": "Hummus mit Zitrone, Knoblauch und Chili", "ingredients": ["zitrone", "kichererbsen", "olivenöl", "chilischote", "ingwer", "koriandergrün", "knoblauch", "zimt", "tahina"]}, {"recipeName": "In Chilibutter gerösteter Blumenkohl", "ingredients": ["zitrone", "blumenkohl", "chiliflocken", "chilischote", "zwiebel", "olivenöl", "isot_biber", "paprikapulver", "zucker", "harissa", "knoblauch", "butter", "tomatenmark"]}, {"recipeName": "Kardamom-Tofu und Choi Sum mit Limette", "ingredients": ["stärke", "sonnenblumenöl", "sojasauce", "chilischote", "tofu", "weizenmehl", "limette", "kardamom", "knoblauch", "choisum"]}, {"recipeName": "Karottenpüree mit Curry und brauner Butter", "ingredients": ["minze", "karotte", "chilischote", "olivenöl", "butter", "ingwer", "lauchzwiebel", "limette", "zucker", "curry", "weißweinessig", "fenchelsamen", "cumin", "schwarzkümmel", "zimt"]}, {"recipeName": "Kartoffelgratin mit Kokos und Limette", "ingredients": ["olivenöl", "hühnerbrühe", "chilischote", "ingwer", "kartoffel", "lauchzwiebel", "schalotten", "limette", "kokoscrème", "knoblauch"]}, {"recipeName": "Kartoffelpfanne mit Gochujang-Eiern", "ingredients": ["olivenöl", "ei", "miso", "kartoffel", "knoblauch", "limette", "schnittlauch", "chilipaste", "kohlrabi", "sesam"]}, {"recipeName": "Kartoffelsalat mit Thaibasilikum-Salsa", "ingredients": ["thaibasilikum", "radieschen", "salzmandeln", "olivenöl", "chilischote", "ingwer", "kartoffel", "topinambur", "limette", "knoblauch"]}, {"recipeName": "Käse-Tamales mit allem (oder manchem) drum und dran", "ingredients": ["cheddar", "ei", "maismehl", "lauchzwiebel", "koriandergrün", "zucker", "avocado", "hibiskus", "butter", "chiliflocken", "sonnenblumenöl", "olivenöl", "limette", "jalapeno", "cumin", "habanero", "mais", "tomate", "mozzarella", "zwiebel", "paprikapulver", "weißweinessig", "ancho", "knoblauch", "sahne", "tomatenmark"]}, {"recipeName": "Kichererbsen-Pfannkuchen und Joghurt mit Mango-Pickle", "ingredients": ["stärke", "curryblätter", "mangopickle", "sonnenblumenöl", "kichererbsen", "apfelessig", "chilischote", "olivenöl", "ingwer", "joghurt", "lauchzwiebel", "garam_masala", "mango", "limette", "cumin", "knoblauch"]}, {"recipeName": "Klebreisbällchen in Tamarinden-Rasam-Brühe", "ingredients": ["zitrone", "curryblätter", "sonnenblumenöl", "chilischote", "curcuma", "senfsamen", "ingwer", "tomate", "zucker", "tamarinde", "kirschtomaten", "cumin", "knoblauch"]}, {"recipeName": "Knusprige Zwiebelringe mit Buttermilch und Kurkuma", "ingredients": ["sonnenblumenöl", "buttermilch", "chilischote", "curcuma", "zwiebel", "mirin", "knoblauch", "weizenmehl", "lauchzwiebel", "limette", "weißweinessig", "kümmel", "schwarzkümmel"]}, {"recipeName": "Kochbananen mit Kokos-Apfel-Ingwer-Salat", "ingredients": ["minze", "cayennepfeffer", "muskat", "olivenöl", "rohrzucker", "kokosraspel", "ingwer", "banane", "chilischote", "apfel", "butter", "limette", "koriandergrün", "cumin", "zimt"]}, {"recipeName": "Kohlrabinudel-Salat", "ingredients": ["mohn", "sonnenblumenöl", "ingwer", "lauchzwiebel", "noriflocken", "erdnuss", "limette", "szechuanpfeffer", "kohlrabi", "sesam", "chiliflocken", "reisessig"]}, {"recipeName": "Kokos-Omelett mit Kurkuma", "ingredients": ["minze", "radieschen", "sonnenblumenöl", "chilischote", "curcuma", "ei", "ingwer", "mirin", "lauchzwiebel", "schalotten", "limette", "kokosmilch", "grapefruit", "sprossen", "knoblauch", "koriander", "reisessig"]}, {"recipeName": "Korma mit Tofuklößchen", "ingredients": ["zitrone", "chilischote", "tofu", "lauchzwiebel", "koriandergrün", "pfeffer", "champignon", "kardamom", "mandel", "stärke", "sojasauce", "olivenöl", "ingwer", "cumin", "koriander", "zimt", "paniermehl", "cashew", "tomate", "zwiebel", "curcuma", "knoblauch", "tahina"]}, {"recipeName": "Kräutersuppe mit gerösteten Auberginen", "ingredients": ["zitrone", "babyspinat", "olivenöl", "zwiebel", "curcuma", "chilischote", "auberginen", "hühnerbrühe", "koriandergrün", "dill", "lauchzwiebel", "senfsamen", "petersilie", "cumin", "knoblauch", "zimt"]}, {"recipeName": "Kürbis-Orangen-Galette mit Salbei", "ingredients": ["ahornsirup", "karotte", "olivenöl", "salbei", "butternusskürbis", "ei", "knoblauch", "weizenmehl", "schalotten", "pfeffer", "zucker", "orange", "kümmel", "polenta", "mascarpone", "butter"]}, {"recipeName": "Lauch mit Miso-Schnittlauch-Salsa", "ingredients": ["stärke", "lauch", "sonnenblumenöl", "olivenöl", "ingwer", "miso", "mirin", "schnittlauch", "knoblauch", "sesam", "reisessig"]}, {"recipeName": "Mafalde mit geröstetem Butternusskürbis in warmer Joghurtsauce", "ingredients": ["stärke", "apfelessig", "olivenöl", "zwiebel", "butternusskürbis", "tomate", "joghurt", "nudeln", "chilischote", "petersilie", "knoblauch"]}, {"recipeName": "Mais-Rippchen", "ingredients": ["sonnenblumenöl", "mais", "limette", "kürbiskern", "butter", "honig"]}, {"recipeName": "Melonen-Mozzarella-Salat mit Kascha und Curryblättern", "ingredients": ["zitrone", "curryblätter", "cataloupemelone", "olivenöl", "senfsamen", "wassermelone", "schalotten", "büffelmozzarella", "kascha"]}, {"recipeName": "Neils gegrillte Zwiebeln mit grüner Gazpacho", "ingredients": ["zitrone", "olivenöl", "zwiebel", "chilischote", "joghurt", "paprika", "schafskäse", "schnittlauch", "petersilie", "brot", "apfelessig", "estragon", "koriander", "schwarzkümmel", "gurke"]}, {"recipeName": "Noors Tofu mit schwarzer Limette", "ingredients": ["stärke", "babyspinat", "olivenöl", "zwiebel", "tofu", "knoblauch", "limette", "zucker", "petersilie", "cumin", "apfelessig", "tomatenmark"]}, {"recipeName": "Nudelsalat mit Pilz-Erdnuss-Laab", "ingredients": ["erdnussöl", "chilischote", "erdnuss", "champignon", "tamarinde", "chiliflocken", "fischsauce", "reis", "sojasauce", "limette", "grüne_bohnen", "austernpilz", "koriander", "ahornsirup", "nudeln", "minze", "thaibasilikum", "zwiebel", "gurke"]}, {"recipeName": "Ofenpommes und Curryblatt-Mayonnaise", "ingredients": ["curryblätter", "sonnenblumenöl", "ei", "kartoffel", "limette", "kardamom", "knoblauch"]}, {"recipeName": "Olivenöl-Fladenbrote mit Dreierlei-Knoblauch-Butter", "ingredients": ["hefe", "tomate", "olivenöl", "weizenmehl", "oregano", "pfeffer", "kümmel", "thymian", "petersilie", "knoblauch", "butter", "schwarzer_knoblauch"]}, {"recipeName": "Pappa al Pomodoro mit Limette und Senfsamen", "ingredients": ["curryblätter", "basilikum", "olivenöl", "tomate", "senfsamen", "chilischote", "lorbeer", "sauerteigbrot", "limette", "zucker", "knoblauch"]}, {"recipeName": "Polenta mit frischem Mais und gestockten Eiern", "ingredients": ["chiliflocken", "babyspinat", "mais", "hühnerbrühe", "ei", "olivenöl", "parmesan", "koriandergrün", "dill", "lauchzwiebel", "milch", "schafskäse", "petersilie", "knoblauch", "polenta", "butter"]}, {"recipeName": "Portobello-Steaks und Püree aus Riesenbohnen", "ingredients": ["zitrone", "weiße_bohnen", "chilischote", "zwiebel", "olivenöl", "portobello", "cumin", "knoblauch", "koriander", "chiliflocken", "tomatenmark"]}, {"recipeName": "Reiskrapfen mit Kimchi und Gruyère", "ingredients": ["zitrone", "reis", "sonnenblumenöl", "olivenöl", "zwiebel", "ei", "koriandergrün", "weizenmehl", "milch", "grüne_bohnen", "gruyère", "knoblauch", "sesam", "kimchi"]}, {"recipeName": "Rettich-Gurken-Salat mit Chipotle-Erdnüssen", "ingredients": ["rettich", "radieschen", "cayennepfeffer", "chilischote", "olivenöl", "koriandergrün", "limette", "erdnuss", "golden_syrup", "cumin", "knoblauch", "gurke"]}, {"recipeName": "Rettichkuchen", "ingredients": ["stärke", "ahornsirup", "reismehl", "rettich", "sonnenblumenöl", "shiitake", "sojasauce", "ingwer", "marone", "zucker", "sesamöl", "schnittlauch", "knoblauch", "pinienkerne", "sesam"]}, {"recipeName": "Riesen-Couscous mit Kürbis und Tomatensauce mit Sternanis", "ingredients": ["chiliflocken", "babyspinat", "olivenöl", "zwiebel", "tomate", "tomatenmark", "koriandergrün", "zucker", "couscous", "knoblauch", "sternanis", "zimt", "crownprincekürbis"]}, {"recipeName": "Röstkarotten-Salat mit Chamoy", "ingredients": ["minze", "ahornsirup", "aprikose", "karotte", "salzmandeln", "olivenöl", "dill", "limette", "sumach", "knoblauch", "chiliflocken"]}, {"recipeName": "Safran-Tagliatelle", "ingredients": ["hartweizengrieß", "ei", "safran", "weizenmehl"]}, {"recipeName": "Safran-Tagliatelle mit Ricotta und knusprigen Chipotl-Schalotten", "ingredients": ["ahornsirup", "olivenöl", "chilischote", "nudeln", "parmesan", "pfeffer", "schalotten", "zucker", "safran", "petersilie", "ricotta", "cumin", "knoblauch", "koriander", "chiliflocken", "reisessig"]}, {"recipeName": "Scharfe Pilzlasagne", "ingredients": ["chilischote", "pfeffer", "champignon", "gemüsebrühe", "pilze", "steinpilz", "olivenöl", "austernpilz", "parmesan", "nudeln", "basilikum", "karotte", "tomate", "zwiebel", "petersilie", "knoblauch", "sahne", "pecorino", "tomatenmark"]}, {"recipeName": "Scharfe Röstkartoffeln mit Tahin und Sojasauce", "ingredients": ["sojasauce", "olivenöl", "mirin", "kartoffel", "schnittlauch", "reisessig", "harissa", "knoblauch", "sesam", "tahina"]}, {"recipeName": "Scharfes Berbere-Ratatouille mit Kokos-Salsa", "ingredients": ["kirschtomaten", "ahornsirup", "kokoscrème", "sojasauce", "olivenöl", "chilischote", "ingwer", "auberginen", "knoblauch", "koriandergrün", "limette", "berbere", "spitzpaprika", "kohlrabi", "schwarzkümmel", "gurke"]}, {"recipeName": "Schwarze Bohnen mit Kokos, Chili und Limette", "ingredients": ["chilischote", "olivenöl", "kokosraspel", "senfsamen", "schwarze_bohnen", "schalotten", "kaffirlimette", "limette", "knoblauch"]}, {"recipeName": "Selleriesteaks mit Café-de-Paris-Sauce", "ingredients": ["zitrone", "sahne", "knollensellerie", "cayennepfeffer", "olivenöl", "sardelle", "senfsamen", "schalotten", "kapern", "curry", "schnittlauch", "petersilie", "thymian", "knoblauch", "estragon", "butter"]}, {"recipeName": "Spargelpfannkuchen mit Gochujang", "ingredients": ["grüner_spargel", "reismehl", "sonnenblumenöl", "sojasauce", "ei", "chilischote", "koriandergrün", "weizenmehl", "lauchzwiebel", "chilipaste", "knoblauch", "sesam", "honig"]}, {"recipeName": "Spargelsalat mit Tamarinde und Limette", "ingredients": ["minze", "dijonsenf", "olivenöl", "sardelle", "chilischote", "limette", "pistazie", "petersilie", "weißweinessig", "tamarinde", "kardamom", "knoblauch", "spargel", "honig"]}, {"recipeName": "Spitzkohl mit Ingwercreme und betäubendem Öl", "ingredients": ["frischkäse", "sonnenblumenöl", "sojasauce", "chilischote", "ingwer", "spitzkohl", "paprikapulver", "limette", "schalotten", "szechuanpfeffer", "knoblauch", "sternanis", "sesam", "chiliflocken", "tomatenmark"]}, {"recipeName": "Spitzkohl mit Nam Prik", "ingredients": ["galgant", "fischsauce", "sonnenblumenöl", "rohrzucker", "spitzkohl", "koriandergrün", "limette", "tamarinde", "kirschtomaten", "knoblauch", "chiliflocken"]}, {"recipeName": "Spitzkohl-Tacos mit Knollensellerie und Dattel-Barbecue-Sauce", "ingredients": ["balsamico", "knollensellerie", "olivenöl", "chilischote", "geräuchertes_paprikapulver", "datteln", "schalotten", "schnittlauch", "cumin", "knoblauch", "koriander", "chiliflocken", "schwarzer_knoblauch"]}, {"recipeName": "Spitzpaprika-Schnitzel", "ingredients": ["kirschtomaten", "ahornsirup", "chipotle", "sonnenblumenöl", "ei", "chilischote", "worcester", "weizenmehl", "kaffirlimette", "limette", "pfeffer", "mayonnaise", "spitzpaprika", "knoblauch", "sesam", "noriflocken"]}, {"recipeName": "Steckrüben-Gnocchi mit Misobutter", "ingredients": ["olivenöl", "steckrübe", "ei", "hühnerbrühe", "kartoffel", "miso", "weizenmehl", "ingwer", "limette", "lauchzwiebel", "spinat", "sesam", "butter"]}, {"recipeName": "Steckrübensteaks mit Currykruste", "ingredients": ["minze", "cayennepfeffer", "olivenöl", "steckrübe", "curcuma", "chilischote", "crème_fraîche", "bockshornklee", "koriandergrün", "limette", "schalotten", "zucker", "grapefruit", "knoblauch"]}, {"recipeName": "Süßkartoffeln in Tomatensauce mit Limette und Kardamom", "ingredients": ["ahornsirup", "olivenöl", "chilischote", "tomate", "süßkartoffel", "dill", "pfeffer", "schalotten", "zucker", "limette", "kardamom", "cumin", "knoblauch", "tomatenmark"]}, {"recipeName": "Süsskartoffelstampf mit Joghurt und Limette", "ingredients": ["granatapfelsirup", "olivenöl", "chilischote", "joghurt", "süßkartoffel", "limette", "knoblauch", "koriander", "sesam"]}, {"recipeName": "Süßsaurer Rosenkohl mit Maronen und Weintrauben", "ingredients": ["ahornsirup", "sojasauce", "olivenöl", "lorbeer", "rosenkohl", "chilischote", "marone", "schalotten", "reiswein", "zucker", "weintrauben", "petersilie", "knoblauch", "reisessig"]}, {"recipeName": "Süßsaure Zwiebeln", "ingredients": ["olivenöl", "zwiebel", "isot_biber", "granatapfel", "schnittlauch", "ziegenfrischkäse"]}, {"recipeName": "Tempura aus Stielen, Blättern und Kräutern", "ingredients": ["minze", "ahornsirup", "stärke", "sonnenblumenöl", "chilischote", "ei", "mandarine", "rote_bete_blätter", "weizenmehl", "dill", "limette", "kaffirlimette", "szechuanpfeffer", "knoblauch", "sesam"]}, {"recipeName": "Tomaten-Pflaumen-Salat mit Nori und Sesam", "ingredients": ["fischsauce", "erdnussöl", "noriblatt", "tomate", "ingwer", "sesam", "lauchzwiebel", "zucker", "essig", "orange", "knoblauch", "koriander", "pflaume", "chiliflocken", "reisessig"]}, {"recipeName": "Tomatensalat mit Limetten-Kardamom-Joghurt", "ingredients": ["kirschtomaten", "minze", "chilischote", "olivenöl", "joghurt", "limette", "schalotten", "kardamom", "knoblauch", "ziegenfrischkäse"]}, {"recipeName": "Udon-Nudeln mit gebratenem Tofu und Orangen-Nam-Jim", "ingredients": ["ahornsirup", "thaibasilikum", "fischsauce", "reis", "sonnenblumenöl", "sojasauce", "chilischote", "tofu", "nudeln", "lauchzwiebel", "blutorangen", "schalotten", "koriandergrün", "tamarinde", "knoblauch", "koriander", "sesam", "chiliflocken"]}, {"recipeName": "Weiße Bohnen in rauchigem Cascabel-Chili-Öl", "ingredients": ["zitrone", "olivenöl", "cascabel", "limette", "jalapeno", "weiße_bohnen", "cumin", "knoblauch", "koriander"]}, {"recipeName": "Weiße-Bohnen-Püree und eine Art Aioli", "ingredients": ["zitrone", "dijonsenf", "chilischote", "zwiebel", "olivenöl", "sardelle", "dill", "thymian", "rosmarin", "weiße_bohnen", "knoblauch", "chiliflocken"]}, {"recipeName": "Zwiebeln in Misobutter", "ingredients": ["zwiebel", "miso", "butter"]}]}
+{
+    "meta": {
+        "title": "HD vs YO Gemüse",
+        "collType": "double"
+    },
+    "collections": {
+        "A": {
+            "name": "HD-Gemüse",
+            "author": "Henriette Davidis",
+            "recipes": [
+                "Artischocken",
+                "Blumenkohl",
+                "Brech-Salatbohnen",
+                "Champignons zu braten",
+                "Eingemachte Endivien",
+                "Eingemachte Salatbohnen",
+                "Eingemachte Schneidbohnen",
+                "Eingemachtes Stielmus. No. 1",
+                "Ein Gesellschaftsgemüse von Allerlei",
+                "Ente im Wirsing",
+                "Feiner Kartoffelpfannkuchen",
+                "Frische Champignons",
+                "Frische Champignons auf andere Art",
+                "Gebackene Kartoffeln mit Bratwurst",
+                "Gebratene Kartoffel-Bällchen",
+                "Gebratene Kartoffeln",
+                "Gedämpfter weißer Kohl",
+                "Gefüllte Gurken",
+                "Gefüllte Kohlrabi",
+                "Gefüllter Kohlkopf",
+                "Gefüllter Sellerie",
+                "Gemüse auf andere Art",
+                "Gemüsegurken",
+                "Geschnittener Kohl",
+                "Gestovte Endivien",
+                "Gestovte Gurken",
+                "Gestovter Borrei",
+                "Gestovter Sellerie",
+                "Gestovter Spargel",
+                "Gestovte Scheibenkartoffeln",
+                "Gestovte Zwiebeln",
+                "Getrocknete gelbe Erbsen",
+                "Getrocknete Prinzessen-Böhnchen",
+                "Getrocknete Schneidbohnen",
+                "Großebohnen",
+                "Grüner oder brauner Kohl ganz gekocht nach Bremer Art",
+                "Gute Reibekuchen mit Hefen",
+                "Häderich",
+                "Härings-Kartoffeln",
+                "Herbst-Rüben",
+                "Herbst-Wurzeln auf andere Art",
+                "Herbst-Wurzeln zu kochen",
+                "Hopfen",
+                "Junge Erbsen",
+                "Junge Wurzeln",
+                "Junge Wurzeln mit Erbsen",
+                "Kartoffel-Mus",
+                "Kartoffeln, Schweinsrippe und saure Aepfel zusammen gebraten",
+                "Kartoffeln in der Schale gebraten",
+                "Kartoffeln mit Aepfeln",
+                "Kartoffeln mit frischen Birnen",
+                "Kartoffeln mit verschiedenen Saucen",
+                "Kartoffeln mit Zwiebeln gestovt, auf holländische Art",
+                "Kartoffeln-Nudeln. (Vorzüglich)",
+                "Kartoffeln zu kochen",
+                "Kartoffel-Scheiben",
+                "Kohlrabi auf der Erde",
+                "Kuchen von kalten Kartoffeln",
+                "Kücken mit jungen Erbsen und Krebsen angerichtet",
+                "Kurzer Kohl",
+                "Linsen",
+                "Lorber-Kartoffeln",
+                "Mairüben",
+                "Melle",
+                "Nachlese. (Blindhuhn.)",
+                "Ottersberger Rüben",
+                "Portulac",
+                "Reibekuchen",
+                "Reibekuchen auf andere Art",
+                "Rosenkohl",
+                "Rother Kohl",
+                "Round of Beef mit Kartoffeln",
+                "Rübstiel",
+                "Salat- oder Spargelbohnen",
+                "Sauerampfer",
+                "Sauerkraut",
+                "Sauerkraut für den gewöhnlichen Tisch",
+                "Sauerkraut mit Hecht",
+                "Schinken-Kartoffeln",
+                "Schmalz- oder Butterkohl",
+                "Schneidbohnen einzumachen",
+                "Schneid- oder Vietsbohnen",
+                "Scorzoner- oder Schwarzwurzeln",
+                "Spargelerbsen",
+                "Spargel mit jungen Wurzeln (Möhren)",
+                "Spargel zu kochen",
+                "Spinat",
+                "Sprossenkohl (von grünem oder braunem Kohl)",
+                "Steckrüben auf gewöhnliche Art zubereitet",
+                "Steckrüben oder Kohlrabi in der Erde",
+                "Teltower Rüben",
+                "Weiße Bohnen",
+                "Weißer Kohl mit Rindfleisch gekocht",
+                "Wirsing, Savoyenkohl",
+                "Zuckererbsen"
+            ]
+        },
+        "B": {
+            "name": "YO-Gemüse",
+            "author": "Yotam Ottolenghi",
+            "recipes": [
+                "Aubergine mit Kräutern und knusprigem Knoblauch",
+                "Auberginenklösschen alla Parmigiana",
+                "Austernpilz-Tacos mit allem (oder manchem) drum und dran",
+                "Bkeila-Eintopf mit Kartoffeln und weißen Bohnen",
+                "Broccoli mit Pilzketchup und Nori",
+                "Brokkoli auf zweierlei Art mit Chili und Kreuzkümmel",
+                "Bucatini Cacio e Pepe mit Zatar",
+                "Bunter Mangold mit Tomaten und grünen Oliven",
+                "Calvins gegrillte Pfirsiche und Bohnen",
+                "Chaat-Masala-Kartoffeln mit Joghurt und Tamarinde",
+                "Congee aus Naturreis mit Shiitakepilzen",
+                "Das ultimative Ragù aus dem Ofen",
+                "Dirty Rice",
+                "Ein-Topf-Orecchiette Puttanesca",
+                "Eisbergsalat mit rauchiger Auberginencreme",
+                "Esmes Kürbisstampf",
+                "Frühlingsgemüse in Parmesanbrühe und Salsa mit gerösteter Zitrone",
+                "Fusion-Caponata mit Seidentofu",
+                "Gebackener und eingelegter Knollensellerie mit süßem Chilidressing",
+                "Gedämpfte Auberginen und Salsa mit gerösteten Chilis",
+                "Gefüllte Auberginenröllchen in Curry-Kokos-Dal",
+                "Gegrillte Feigen mit Shaoxing-Dressing",
+                "Gekühlte Avocadosuppe mit Knoblauchöl",
+                "Geröstete Paprika und frische Mais-Polenta mit Eidotter in Sojasauce",
+                "Geröstete und geschmorte grüne Bohnen",
+                "Gersteneintopf mit Tomaten und Brunnenkresse",
+                "Geschmortes Blattgemüse mit Joghurt",
+                "Gurkensalat à la Xi'an Impression",
+                "Gurkensalat mit Zatar und gehackten Zitronen",
+                "Hasselback-Rote-Bete mit Kaffirlimetten-Butter",
+                "Herrlich zarte Zucchini mit Harissa und Zitrone",
+                "Hummus mit konfiertem Knoblauch und gegrillten Pilzen",
+                "Hummus mit Zitrone, Knoblauch und Chili",
+                "In Chilibutter gerösteter Blumenkohl",
+                "Kardamom-Tofu und Choi Sum mit Limette",
+                "Karottenpüree mit Curry und brauner Butter",
+                "Kartoffelgratin mit Kokos und Limette",
+                "Kartoffelpfanne mit Gochujang-Eiern",
+                "Kartoffelsalat mit Thaibasilikum-Salsa",
+                "Käse-Tamales mit allem (oder manchem) drum und dran",
+                "Kichererbsen-Pfannkuchen und Joghurt mit Mango-Pickle",
+                "Klebreisbällchen in Tamarinden-Rasam-Brühe",
+                "Knusprige Zwiebelringe mit Buttermilch und Kurkuma",
+                "Kochbananen mit Kokos-Apfel-Ingwer-Salat",
+                "Kohlrabinudel-Salat",
+                "Kokos-Omelett mit Kurkuma",
+                "Korma mit Tofuklößchen",
+                "Kräutersuppe mit gerösteten Auberginen",
+                "Kürbis-Orangen-Galette mit Salbei",
+                "Lauch mit Miso-Schnittlauch-Salsa",
+                "Mafalde mit geröstetem Butternusskürbis in warmer Joghurtsauce",
+                "Mais-Rippchen",
+                "Melonen-Mozzarella-Salat mit Kascha und Curryblättern",
+                "Neils gegrillte Zwiebeln mit grüner Gazpacho",
+                "Noors Tofu mit schwarzer Limette",
+                "Nudelsalat mit Pilz-Erdnuss-Laab",
+                "Ofenpommes und Curryblatt-Mayonnaise",
+                "Olivenöl-Fladenbrote mit Dreierlei-Knoblauch-Butter",
+                "Pappa al Pomodoro mit Limette und Senfsamen",
+                "Polenta mit frischem Mais und gestockten Eiern",
+                "Portobello-Steaks und Püree aus Riesenbohnen",
+                "Reiskrapfen mit Kimchi und Gruyère",
+                "Rettich-Gurken-Salat mit Chipotle-Erdnüssen",
+                "Rettichkuchen",
+                "Riesen-Couscous mit Kürbis und Tomatensauce mit Sternanis",
+                "Röstkarotten-Salat mit Chamoy",
+                "Safran-Tagliatelle",
+                "Safran-Tagliatelle mit Ricotta und knusprigen Chipotl-Schalotten",
+                "Scharfe Pilzlasagne",
+                "Scharfe Röstkartoffeln mit Tahin und Sojasauce",
+                "Scharfes Berbere-Ratatouille mit Kokos-Salsa",
+                "Schwarze Bohnen mit Kokos, Chili und Limette",
+                "Selleriesteaks mit Café-de-Paris-Sauce",
+                "Spargelpfannkuchen mit Gochujang",
+                "Spargelsalat mit Tamarinde und Limette",
+                "Spitzkohl mit Ingwercreme und betäubendem Öl",
+                "Spitzkohl mit Nam Prik",
+                "Spitzkohl-Tacos mit Knollensellerie und Dattel-Barbecue-Sauce",
+                "Spitzpaprika-Schnitzel",
+                "Steckrüben-Gnocchi mit Misobutter",
+                "Steckrübensteaks mit Currykruste",
+                "Süßkartoffeln in Tomatensauce mit Limette und Kardamom",
+                "Süsskartoffelstampf mit Joghurt und Limette",
+                "Süßsaurer Rosenkohl mit Maronen und Weintrauben",
+                "Süßsaure Zwiebeln",
+                "Tempura aus Stielen, Blättern und Kräutern",
+                "Tomaten-Pflaumen-Salat mit Nori und Sesam",
+                "Tomatensalat mit Limetten-Kardamom-Joghurt",
+                "Udon-Nudeln mit gebratenem Tofu und Orangen-Nam-Jim",
+                "Weiße Bohnen in rauchigem Cascabel-Chili-Öl",
+                "Weiße-Bohnen-Püree und eine Art Aioli",
+                "Zwiebeln in Misobutter"
+            ]
+        }
+    },
+    "recipes": [
+        {
+            "recipeName": "Artischocken",
+            "ingredients": [
+                "essig",
+                "senf",
+                "austern",
+                "kapern",
+                "butter",
+                "ei",
+                "artischocke",
+                "sardelle",
+                "muskat",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Blumenkohl",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "ei",
+                "sahne",
+                "krebs",
+                "muskat",
+                "blumenkohl",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Brech-Salatbohnen",
+            "ingredients": [
+                "essig",
+                "grüne_bohnen",
+                "butter",
+                "sahne",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Champignons zu braten",
+            "ingredients": [
+                "pfeffer",
+                "butter",
+                "champignon"
+            ]
+        },
+        {
+            "recipeName": "Eingemachte Endivien",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "endivien",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Eingemachte Salatbohnen",
+            "ingredients": [
+                "essig",
+                "grüne_bohnen",
+                "butter",
+                "petersilie",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Eingemachte Schneidbohnen",
+            "ingredients": [
+                "grüne_bohnen",
+                "butter",
+                "brühe",
+                "schweineschmalz",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Eingemachtes Stielmus. No. 1",
+            "ingredients": [
+                "butter",
+                "brühe",
+                "stielmus",
+                "schweineschmalz",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Ein Gesellschaftsgemüse von Allerlei",
+            "ingredients": [
+                "nierenfett",
+                "butter",
+                "rindfleisch",
+                "ei",
+                "weißbrot",
+                "stubenküken",
+                "krebs",
+                "spargel",
+                "muskat",
+                "blumenkohl",
+                "zitrone",
+                "weizenmehl",
+                "taube"
+            ]
+        },
+        {
+            "recipeName": "Ente im Wirsing",
+            "ingredients": [
+                "ente",
+                "speck",
+                "wirsing",
+                "butter"
+            ]
+        },
+        {
+            "recipeName": "Feiner Kartoffelpfannkuchen",
+            "ingredients": [
+                "milch",
+                "butter",
+                "ei",
+                "saure_sahne",
+                "kartoffel",
+                "schmalz"
+            ]
+        },
+        {
+            "recipeName": "Frische Champignons",
+            "ingredients": [
+                "butter",
+                "champignon",
+                "fleischbrühe",
+                "zwieback",
+                "ei",
+                "stärke",
+                "muskat",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Frische Champignons auf andere Art",
+            "ingredients": [
+                "muskat",
+                "zitrone",
+                "butter",
+                "champignon"
+            ]
+        },
+        {
+            "recipeName": "Gebackene Kartoffeln mit Bratwurst",
+            "ingredients": [
+                "pfeffer",
+                "butter",
+                "fleischbrühe",
+                "weißbrot",
+                "kartoffel",
+                "zwiebel",
+                "bratwurst",
+                "bratenjus",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Gebratene Kartoffel-Bällchen",
+            "ingredients": [
+                "milch",
+                "butter",
+                "zwieback",
+                "ei",
+                "kartoffel",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Gebratene Kartoffeln",
+            "ingredients": [
+                "schweineschmalz",
+                "butter",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Gedämpfter weißer Kohl",
+            "ingredients": [
+                "essig",
+                "nelke",
+                "butter",
+                "apfel",
+                "bratfett",
+                "weißkohl"
+            ]
+        },
+        {
+            "recipeName": "Gefüllte Gurken",
+            "ingredients": [
+                "essig",
+                "nierenfett",
+                "gurke",
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "ei",
+                "weißbrot",
+                "kalbfleisch",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Gefüllte Kohlrabi",
+            "ingredients": [
+                "nierenfett",
+                "wein",
+                "butter",
+                "kohlrabi",
+                "fleischbrühe",
+                "ei",
+                "weißbrot",
+                "stärke",
+                "krebs",
+                "kalbfleisch",
+                "muskat",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Gefüllter Kohlkopf",
+            "ingredients": [
+                "nierenfett",
+                "butter",
+                "rindfleisch",
+                "fleischbrühe",
+                "ei",
+                "weißbrot",
+                "zwiebel",
+                "muskat",
+                "zitrone",
+                "weizenmehl",
+                "weißkohl"
+            ]
+        },
+        {
+            "recipeName": "Gefüllter Sellerie",
+            "ingredients": [
+                "nierenfett",
+                "wein",
+                "knollensellerie",
+                "butter",
+                "fleischbrühe",
+                "ei",
+                "weißbrot",
+                "stärke",
+                "kalbfleisch",
+                "muskat",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Gemüse auf andere Art",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zucker",
+                "ei",
+                "weinessig",
+                "muskat",
+                "weizenmehl",
+                "wurzeln"
+            ]
+        },
+        {
+            "recipeName": "Gemüsegurken",
+            "ingredients": [
+                "essig",
+                "milch",
+                "butter",
+                "gemüsegurke",
+                "muskat",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Geschnittener Kohl",
+            "ingredients": [
+                "butter",
+                "schweineschmalz",
+                "zucker",
+                "stärke",
+                "marone",
+                "gänsefett",
+                "weißkohl"
+            ]
+        },
+        {
+            "recipeName": "Gestovte Endivien",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "endivien",
+                "muskat",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Gestovte Gurken",
+            "ingredients": [
+                "essig",
+                "gurke",
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Gestovter Borrei",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "lauch",
+                "muskat",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Gestovter Sellerie",
+            "ingredients": [
+                "knollensellerie",
+                "butter",
+                "fleischbrühe",
+                "stärke",
+                "muskat",
+                "bratenjus"
+            ]
+        },
+        {
+            "recipeName": "Gestovter Spargel",
+            "ingredients": [
+                "milch",
+                "butter",
+                "fleischbrühe",
+                "zucker",
+                "zwieback",
+                "ei",
+                "weißbrot",
+                "speck",
+                "sultaninen",
+                "spargel",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Gestovte Scheibenkartoffeln",
+            "ingredients": [
+                "essig",
+                "pfeffer",
+                "butter",
+                "ei",
+                "kartoffel",
+                "zwiebel",
+                "petersilie"
+            ]
+        },
+        {
+            "recipeName": "Gestovte Zwiebeln",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "zwiebel",
+                "muskat",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Getrocknete gelbe Erbsen",
+            "ingredients": [
+                "gelbe_erbsen",
+                "butter",
+                "zwiebel",
+                "weißbrot"
+            ]
+        },
+        {
+            "recipeName": "Getrocknete Prinzessen-Böhnchen",
+            "ingredients": [
+                "essig",
+                "grüne_bohnen",
+                "butter",
+                "ei",
+                "sahne",
+                "muskat",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Getrocknete Schneidbohnen",
+            "ingredients": [
+                "grüne_bohnen",
+                "butter",
+                "stärke",
+                "kartoffel",
+                "petersilie"
+            ]
+        },
+        {
+            "recipeName": "Großebohnen",
+            "ingredients": [
+                "ackerbohne",
+                "butter",
+                "petersilie"
+            ]
+        },
+        {
+            "recipeName": "Grüner oder brauner Kohl ganz gekocht nach Bremer Art",
+            "ingredients": [
+                "piment",
+                "butter",
+                "schweineschmalz",
+                "pinkelwurst",
+                "zucker",
+                "grünkohl",
+                "stärke",
+                "zwiebel",
+                "gänsefett"
+            ]
+        },
+        {
+            "recipeName": "Gute Reibekuchen mit Hefen",
+            "ingredients": [
+                "milch",
+                "hefe",
+                "zwieback",
+                "ei",
+                "kartoffel",
+                "brot"
+            ]
+        },
+        {
+            "recipeName": "Häderich",
+            "ingredients": [
+                "essig",
+                "butter",
+                "zwieback",
+                "muskat",
+                "ackerrettich"
+            ]
+        },
+        {
+            "recipeName": "Härings-Kartoffeln",
+            "ingredients": [
+                "essig",
+                "pfeffer",
+                "butter",
+                "lorbeer",
+                "sahne",
+                "zwiebel",
+                "kartoffel",
+                "hering",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Herbst-Rüben",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "steckrübe",
+                "stärke",
+                "kartoffel",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Herbst-Wurzeln auf andere Art",
+            "ingredients": [
+                "butter",
+                "petersilie",
+                "stärke",
+                "karotte",
+                "zwiebel",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Herbst-Wurzeln zu kochen",
+            "ingredients": [
+                "zucker",
+                "karotte"
+            ]
+        },
+        {
+            "recipeName": "Hopfen",
+            "ingredients": [
+                "essig",
+                "butter",
+                "zwieback",
+                "ei",
+                "muskat",
+                "hopfen",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Junge Erbsen",
+            "ingredients": [
+                "butter",
+                "zucker",
+                "ei",
+                "stärke",
+                "krebs",
+                "erbsen",
+                "zimt",
+                "petersilie"
+            ]
+        },
+        {
+            "recipeName": "Junge Wurzeln",
+            "ingredients": [
+                "butter",
+                "karotte",
+                "petersilie"
+            ]
+        },
+        {
+            "recipeName": "Junge Wurzeln mit Erbsen",
+            "ingredients": [
+                "erbsen",
+                "butter",
+                "karotte",
+                "petersilie"
+            ]
+        },
+        {
+            "recipeName": "Kartoffel-Mus",
+            "ingredients": [
+                "milch",
+                "butter",
+                "zwieback",
+                "zwiebel",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln, Schweinsrippe und saure Aepfel zusammen gebraten",
+            "ingredients": [
+                "apfel",
+                "kartoffel",
+                "schweinsrippe"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln in der Schale gebraten",
+            "ingredients": [
+                "butter",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln mit Aepfeln",
+            "ingredients": [
+                "milch",
+                "butter",
+                "zwieback",
+                "apfel",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln mit frischen Birnen",
+            "ingredients": [
+                "birne",
+                "weinessig",
+                "butter",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln mit verschiedenen Saucen",
+            "ingredients": [
+                "essig",
+                "senf",
+                "butter",
+                "fleischbrühe",
+                "zwiebel",
+                "kartoffel",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln mit Zwiebeln gestovt, auf holländische Art",
+            "ingredients": [
+                "essig",
+                "pfeffer",
+                "butter",
+                "zwiebel",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln-Nudeln. (Vorzüglich)",
+            "ingredients": [
+                "milch",
+                "butter",
+                "ei",
+                "sahne",
+                "kartoffel",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Kartoffeln zu kochen",
+            "ingredients": ["kartoffel"]
+        },
+        {
+            "recipeName": "Kartoffel-Scheiben",
+            "ingredients": [
+                "speck",
+                "schweineschmalz",
+                "butter",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Kohlrabi auf der Erde",
+            "ingredients": [
+                "butter",
+                "kohlrabi",
+                "fleischbrühe",
+                "sahne",
+                "muskat",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Kuchen von kalten Kartoffeln",
+            "ingredients": [
+                "milch",
+                "butter",
+                "zucker",
+                "ei",
+                "speck",
+                "kartoffel",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Kücken mit jungen Erbsen und Krebsen angerichtet",
+            "ingredients": [
+                "butter",
+                "ei",
+                "stubenküken",
+                "krebs",
+                "erbsen",
+                "petersilie"
+            ]
+        },
+        {
+            "recipeName": "Kurzer Kohl",
+            "ingredients": [
+                "butter",
+                "brühe",
+                "hafergrütze",
+                "speck",
+                "zwiebel",
+                "bratwurst",
+                "gänsefett",
+                "weißkohl"
+            ]
+        },
+        {
+            "recipeName": "Linsen",
+            "ingredients": [
+                "essig",
+                "senf",
+                "butter",
+                "fleischbrühe",
+                "linsen",
+                "zwiebel",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Lorber-Kartoffeln",
+            "ingredients": [
+                "essig",
+                "pfeffer",
+                "butter",
+                "lorbeer",
+                "zwiebel",
+                "kartoffel",
+                "bratfett"
+            ]
+        },
+        {
+            "recipeName": "Mairüben",
+            "ingredients": [
+                "mairüben",
+                "butter",
+                "fleischbrühe",
+                "stärke",
+                "kartoffel",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Melle",
+            "ingredients": [
+                "gartenmelde",
+                "essig",
+                "butter",
+                "zwieback",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Nachlese. (Blindhuhn.)",
+            "ingredients": [
+                "essig",
+                "pfeffer",
+                "grüne_bohnen",
+                "birne",
+                "apfel",
+                "karotte",
+                "kartoffel",
+                "schinken",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Ottersberger Rüben",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zucker",
+                "ottersberger_rüben",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Portulac",
+            "ingredients": [
+                "butter",
+                "portulak",
+                "fleischbrühe",
+                "ei",
+                "sahne",
+                "zwiebel",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Reibekuchen",
+            "ingredients": [
+                "butter",
+                "ei",
+                "speck",
+                "saure_sahne",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Reibekuchen auf andere Art",
+            "ingredients": [
+                "milch",
+                "ei",
+                "sahne",
+                "weißbrot",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Rosenkohl",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "muskat",
+                "rosenkohl",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Rother Kohl",
+            "ingredients": [
+                "essig",
+                "wein",
+                "nelke",
+                "butter",
+                "rotkohl",
+                "apfel",
+                "bratfett"
+            ]
+        },
+        {
+            "recipeName": "Round of Beef mit Kartoffeln",
+            "ingredients": [
+                "butter",
+                "rindfleisch",
+                "zwieback",
+                "weißbrot",
+                "rauchfleisch",
+                "kartoffel",
+                "schinken"
+            ]
+        },
+        {
+            "recipeName": "Rübstiel",
+            "ingredients": [
+                "milch",
+                "butter",
+                "stielmus",
+                "sahne",
+                "muskat",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Salat- oder Spargelbohnen",
+            "ingredients": [
+                "essig",
+                "grüne_bohnen",
+                "butter",
+                "ei",
+                "sahne",
+                "petersilie",
+                "muskat",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Sauerampfer",
+            "ingredients": [
+                "sauerampfer",
+                "butter",
+                "zwieback",
+                "sahne",
+                "weißbrot",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Sauerkraut",
+            "ingredients": [
+                "kümmel",
+                "pfeffer",
+                "butter",
+                "brühe",
+                "schweineschmalz",
+                "stärke",
+                "kartoffel",
+                "wacholder",
+                "sauerkraut"
+            ]
+        },
+        {
+            "recipeName": "Sauerkraut für den gewöhnlichen Tisch",
+            "ingredients": [
+                "schweineschmalz",
+                "kartoffel",
+                "schweinefleisch",
+                "sauerkraut"
+            ]
+        },
+        {
+            "recipeName": "Sauerkraut mit Hecht",
+            "ingredients": [
+                "kümmel",
+                "hecht",
+                "pfeffer",
+                "butter",
+                "brühe",
+                "schweineschmalz",
+                "zwieback",
+                "sahne",
+                "stärke",
+                "krebs",
+                "kartoffel",
+                "beeren",
+                "gewürz",
+                "sauerkraut"
+            ]
+        },
+        {
+            "recipeName": "Schinken-Kartoffeln",
+            "ingredients": [
+                "milch",
+                "butter",
+                "ei",
+                "zwiebel",
+                "kartoffel",
+                "muskat",
+                "schinken",
+                "hering"
+            ]
+        },
+        {
+            "recipeName": "Schmalz- oder Butterkohl",
+            "ingredients": [
+                "butterkohl",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Schneidbohnen einzumachen",
+            "ingredients": ["grüne_bohnen"]
+        },
+        {
+            "recipeName": "Schneid- oder Vietsbohnen",
+            "ingredients": [
+                "pfeffer",
+                "grüne_bohnen",
+                "butter",
+                "petersilie",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Scorzoner- oder Schwarzwurzeln",
+            "ingredients": [
+                "essig",
+                "milch",
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "muskat",
+                "schwarzwurzel"
+            ]
+        },
+        {
+            "recipeName": "Spargelerbsen",
+            "ingredients": [
+                "essig",
+                "butter",
+                "spargelerbsen",
+                "ei",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Spargel mit jungen Wurzeln (Möhren)",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zucker",
+                "zwieback",
+                "ei",
+                "spargel",
+                "karotte",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Spargel zu kochen",
+            "ingredients": [
+                "essig",
+                "butter",
+                "zwieback",
+                "ei",
+                "zucker",
+                "sahne",
+                "spargel",
+                "muskat",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Spinat",
+            "ingredients": [
+                "milch",
+                "butter",
+                "fleischbrühe",
+                "zwieback",
+                "spinat",
+                "weißbrot",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Sprossenkohl (von grünem oder braunem Kohl)",
+            "ingredients": [
+                "essig",
+                "butter",
+                "zwieback",
+                "ei",
+                "muskat",
+                "rosenkohl",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Steckrüben auf gewöhnliche Art zubereitet",
+            "ingredients": [
+                "muskat",
+                "steckrübe",
+                "butter",
+                "sahne"
+            ]
+        },
+        {
+            "recipeName": "Steckrüben oder Kohlrabi in der Erde",
+            "ingredients": [
+                "butter",
+                "fleischbrühe",
+                "zucker",
+                "steckrübe",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Teltower Rüben",
+            "ingredients": [
+                "butter",
+                "teltower_rüben",
+                "fleischbrühe",
+                "zucker",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Weiße Bohnen",
+            "ingredients": [
+                "essig",
+                "pfeffer",
+                "butter",
+                "ei",
+                "weiße_bohnen",
+                "speck",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Weißer Kohl mit Rindfleisch gekocht",
+            "ingredients": [
+                "rindfleisch",
+                "weißkohl",
+                "kartoffel"
+            ]
+        },
+        {
+            "recipeName": "Wirsing, Savoyenkohl",
+            "ingredients": [
+                "fleischbrühe",
+                "wirsing",
+                "butter",
+                "muskat"
+            ]
+        },
+        {
+            "recipeName": "Zuckererbsen",
+            "ingredients": [
+                "stärke",
+                "petersilie",
+                "butter",
+                "zuckerschoten"
+            ]
+        },
+        {
+            "recipeName": "Aubergine mit Kräutern und knusprigem Knoblauch",
+            "ingredients": [
+                "olivenöl",
+                "chilischote",
+                "minze",
+                "koriander",
+                "dill",
+                "knoblauch",
+                "auberginen",
+                "zitrone",
+                "weißweinessig"
+            ]
+        },
+        {
+            "recipeName": "Auberginenklösschen alla Parmigiana",
+            "ingredients": [
+                "paprikapulver",
+                "ricotta",
+                "olivenöl",
+                "tomate",
+                "zucker",
+                "ei",
+                "olive",
+                "chiliflocken",
+                "basilikum",
+                "weizenmehl",
+                "parmesan",
+                "oregano",
+                "petersilie",
+                "knoblauch",
+                "auberginen",
+                "tomatenmark",
+                "paniermehl"
+            ]
+        },
+        {
+            "recipeName": "Austernpilz-Tacos mit allem (oder manchem) drum und dran",
+            "ingredients": [
+                "ahornsirup",
+                "olivenöl",
+                "knoblauch",
+                "koriandergrün",
+                "kohlrabi",
+                "austernpilz",
+                "hibiskus",
+                "zwiebel",
+                "kokoscrème",
+                "zucker",
+                "cascabel",
+                "sojasauce",
+                "cumin",
+                "limette",
+                "piment",
+                "avocado",
+                "orange",
+                "maismehl",
+                "weißweinessig"
+            ]
+        },
+        {
+            "recipeName": "Bkeila-Eintopf mit Kartoffeln und weißen Bohnen",
+            "ingredients": [
+                "olivenöl",
+                "chilischote",
+                "zucker",
+                "babyspinat",
+                "hühnerbrühe",
+                "weiße_bohnen",
+                "zimt",
+                "koriander",
+                "kartoffel",
+                "zwiebel",
+                "petersilie",
+                "knoblauch",
+                "cumin",
+                "zitrone",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Broccoli mit Pilzketchup und Nori",
+            "ingredients": [
+                "apfelessig",
+                "olivenöl",
+                "zucker",
+                "brokkoli",
+                "sojasauce",
+                "röstzwiebeln",
+                "erdnuss",
+                "steinpilz",
+                "chiliflocken",
+                "pilze",
+                "noriflocken",
+                "knoblauch",
+                "sesam"
+            ]
+        },
+        {
+            "recipeName": "Brokkoli auf zweierlei Art mit Chili und Kreuzkümmel",
+            "ingredients": [
+                "apfelessig",
+                "chilischote",
+                "zucker",
+                "brokkoli",
+                "sojasauce",
+                "sonnenblumenöl",
+                "basilikum",
+                "cumin"
+            ]
+        },
+        {
+            "recipeName": "Bucatini Cacio e Pepe mit Zatar",
+            "ingredients": [
+                "zatar",
+                "pfeffer",
+                "olivenöl",
+                "butter",
+                "majoran",
+                "parmesan",
+                "pecorino",
+                "nudeln"
+            ]
+        },
+        {
+            "recipeName": "Bunter Mangold mit Tomaten und grünen Oliven",
+            "ingredients": [
+                "olivenöl",
+                "tomate",
+                "mangold",
+                "olive",
+                "basilikum",
+                "oregano",
+                "zwiebel",
+                "knoblauch",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Calvins gegrillte Pfirsiche und Bohnen",
+            "ingredients": [
+                "ziegenfrischkäse",
+                "salzmandeln",
+                "breite_bohnen",
+                "olivenöl",
+                "honig",
+                "minze",
+                "pfirsich",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Chaat-Masala-Kartoffeln mit Joghurt und Tamarinde",
+            "ingredients": [
+                "olivenöl",
+                "joghurt",
+                "chaat_masala",
+                "chilischote",
+                "zucker",
+                "curcuma",
+                "tamarinde",
+                "koriander",
+                "zwiebel",
+                "kartoffel",
+                "limette",
+                "koriandergrün",
+                "schwarzkümmel"
+            ]
+        },
+        {
+            "recipeName": "Congee aus Naturreis mit Shiitakepilzen",
+            "ingredients": [
+                "paprikapulver",
+                "lauchzwiebel",
+                "zucker",
+                "shiitake",
+                "mandarine",
+                "röstzwiebeln",
+                "sojasauce",
+                "sonnenblumenöl",
+                "reisessig",
+                "chiliflocken",
+                "reis",
+                "ingwer",
+                "radieschen",
+                "knoblauch",
+                "sesam"
+            ]
+        },
+        {
+            "recipeName": "Das ultimative Ragù aus dem Ofen",
+            "ingredients": [
+                "tomate",
+                "olivenöl",
+                "graupen",
+                "miso",
+                "linsen",
+                "kokoscrème",
+                "harissa",
+                "sojasauce",
+                "hühnerbrühe",
+                "steinpilz",
+                "rotwein",
+                "karotte",
+                "zwiebel",
+                "austernpilz",
+                "knoblauch",
+                "cumin",
+                "tomatenmark"
+            ]
+        },
+        {
+            "recipeName": "Dirty Rice",
+            "ingredients": [
+                "cajunmischung",
+                "olivenöl",
+                "butter",
+                "petersilie",
+                "gemüsebrühe",
+                "reis",
+                "zwiebel",
+                "schwarzer_knoblauch",
+                "knoblauch",
+                "marone",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Ein-Topf-Orecchiette Puttanesca",
+            "ingredients": [
+                "kichererbsen",
+                "kapern",
+                "olivenöl",
+                "pfeffer",
+                "zucker",
+                "geräuchertes_paprikapulver",
+                "olive",
+                "hühnerbrühe",
+                "petersilie",
+                "knoblauch",
+                "cumin",
+                "tomatenmark",
+                "zitrone",
+                "kirschtomaten",
+                "nudeln"
+            ]
+        },
+        {
+            "recipeName": "Eisbergsalat mit rauchiger Auberginencreme",
+            "ingredients": [
+                "mandel",
+                "isot_biber",
+                "olivenöl",
+                "avocado",
+                "schnittlauch",
+                "joghurt",
+                "dijonsenf",
+                "kürbiskern",
+                "parmesan",
+                "radieschen",
+                "sauerteigbrot",
+                "knoblauch",
+                "auberginen",
+                "zitrone",
+                "eisbergsalat"
+            ]
+        },
+        {
+            "recipeName": "Esmes Kürbisstampf",
+            "ingredients": [
+                "ahornsirup",
+                "olivenöl",
+                "jalapeno",
+                "lauchzwiebel",
+                "zimt",
+                "knoblauch",
+                "cumin",
+                "limette",
+                "butternusskürbis"
+            ]
+        },
+        {
+            "recipeName": "Frühlingsgemüse in Parmesanbrühe und Salsa mit gerösteter Zitrone",
+            "ingredients": [
+                "olivenöl",
+                "olive",
+                "basilikum",
+                "erbsen",
+                "parmesan",
+                "zwiebel",
+                "petersilie",
+                "knoblauch",
+                "zitrone",
+                "zuckerschoten"
+            ]
+        },
+        {
+            "recipeName": "Fusion-Caponata mit Seidentofu",
+            "ingredients": [
+                "ahornsirup",
+                "staudensellerie",
+                "pinienkerne",
+                "lauchzwiebel",
+                "chilischote",
+                "reiswein",
+                "tofu",
+                "sonnenblumenöl",
+                "reis",
+                "ingwer",
+                "sultaninen",
+                "auberginen",
+                "sesam",
+                "kirschtomaten"
+            ]
+        },
+        {
+            "recipeName": "Gebackener und eingelegter Knollensellerie mit süßem Chilidressing",
+            "ingredients": [
+                "ahornsirup",
+                "knollensellerie",
+                "staudensellerie",
+                "olivenöl",
+                "schnittlauch",
+                "chilischote",
+                "sojasauce",
+                "sternanis",
+                "reisessig",
+                "sonnenblumenöl",
+                "sesam",
+                "knoblauch",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Gedämpfte Auberginen und Salsa mit gerösteten Chilis",
+            "ingredients": [
+                "salzmandeln",
+                "olivenöl",
+                "sherryessig",
+                "lauchzwiebel",
+                "chilischote",
+                "ingwer",
+                "knoblauch",
+                "auberginen",
+                "koriandergrün",
+                "kirschtomaten"
+            ]
+        },
+        {
+            "recipeName": "Gefüllte Auberginenröllchen in Curry-Kokos-Dal",
+            "ingredients": [
+                "olivenöl",
+                "spinat",
+                "ingwer",
+                "koriandergrün",
+                "koriander",
+                "tomatenmark",
+                "mangopickle",
+                "curryblätter",
+                "senfsamen",
+                "chilischote",
+                "linsen",
+                "curry",
+                "kokosmilch",
+                "cumin",
+                "auberginen",
+                "limette",
+                "curcuma",
+                "schalotten",
+                "panir"
+            ]
+        },
+        {
+            "recipeName": "Gegrillte Feigen mit Shaoxing-Dressing",
+            "ingredients": [
+                "ahornsirup",
+                "feige",
+                "olivenöl",
+                "rucola",
+                "ricotta",
+                "chilischote",
+                "reiswein",
+                "sojasauce",
+                "reisessig",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Gekühlte Avocadosuppe mit Knoblauchöl",
+            "ingredients": [
+                "olivenöl",
+                "avocado",
+                "gurke",
+                "chilischote",
+                "sahne",
+                "erbsen",
+                "koriander",
+                "dill",
+                "knoblauch",
+                "cumin",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Geröstete Paprika und frische Mais-Polenta mit Eidotter in Sojasauce",
+            "ingredients": [
+                "apfelessig",
+                "spitzpaprika",
+                "ahornsirup",
+                "olivenöl",
+                "butter",
+                "joghurt",
+                "ei",
+                "sojasauce",
+                "basilikum",
+                "mais",
+                "parmesan",
+                "knoblauch",
+                "polenta",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Geröstete und geschmorte grüne Bohnen",
+            "ingredients": [
+                "estragon",
+                "pfeffer",
+                "breite_bohnen",
+                "grüne_bohnen",
+                "olivenöl",
+                "chilischote",
+                "salzzitrone",
+                "dill",
+                "zwiebel",
+                "petersilie",
+                "knoblauch",
+                "hühnerbrühe",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Gersteneintopf mit Tomaten und Brunnenkresse",
+            "ingredients": [
+                "kümmel",
+                "olivenöl",
+                "kohlrabi",
+                "graupen",
+                "chilischote",
+                "brunnenkresse",
+                "sahne",
+                "weißwein",
+                "sardelle",
+                "knoblauch",
+                "schalotten",
+                "tomatenmark",
+                "zitrone",
+                "kirschtomaten"
+            ]
+        },
+        {
+            "recipeName": "Geschmortes Blattgemüse mit Joghurt",
+            "ingredients": [
+                "olivenöl",
+                "joghurt",
+                "lauchzwiebel",
+                "minze",
+                "zimt",
+                "schwarzkohl",
+                "dill",
+                "zwiebel",
+                "petersilie",
+                "knoblauch",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Gurkensalat à la Xi'an Impression",
+            "ingredients": [
+                "gurke",
+                "mirin",
+                "sojasauce",
+                "sonnenblumenöl",
+                "reisessig",
+                "sesam",
+                "tahina",
+                "knoblauch",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Gurkensalat mit Zatar und gehackten Zitronen",
+            "ingredients": [
+                "zatar",
+                "olivenöl",
+                "gurke",
+                "chilischote",
+                "feldsalat",
+                "minze",
+                "basilikum",
+                "dill",
+                "schalotten",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Hasselback-Rote-Bete mit Kaffirlimetten-Butter",
+            "ingredients": [
+                "knoblauch",
+                "olivenöl",
+                "butter",
+                "rote_bete",
+                "joghurt",
+                "chilischote",
+                "crème_double",
+                "ingwer",
+                "kaffirlimette",
+                "limette",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Herrlich zarte Zucchini mit Harissa und Zitrone",
+            "ingredients": [
+                "olivenöl",
+                "chilischote",
+                "salzzitrone",
+                "harissa",
+                "basilikum",
+                "knoblauch",
+                "zucchini",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Hummus mit konfiertem Knoblauch und gegrillten Pilzen",
+            "ingredients": [
+                "kichererbsen",
+                "ahornsirup",
+                "olivenöl",
+                "champignon",
+                "shiitake",
+                "cascabel",
+                "thymian",
+                "tahina",
+                "dill",
+                "petersilie",
+                "knoblauch",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Hummus mit Zitrone, Knoblauch und Chili",
+            "ingredients": [
+                "kichererbsen",
+                "olivenöl",
+                "chilischote",
+                "koriandergrün",
+                "tahina",
+                "zimt",
+                "ingwer",
+                "knoblauch",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "In Chilibutter gerösteter Blumenkohl",
+            "ingredients": [
+                "paprikapulver",
+                "isot_biber",
+                "olivenöl",
+                "butter",
+                "chilischote",
+                "zucker",
+                "harissa",
+                "chiliflocken",
+                "zwiebel",
+                "knoblauch",
+                "blumenkohl",
+                "tomatenmark",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Kardamom-Tofu und Choi Sum mit Limette",
+            "ingredients": [
+                "tofu",
+                "chilischote",
+                "kardamom",
+                "sojasauce",
+                "stärke",
+                "sonnenblumenöl",
+                "knoblauch",
+                "limette",
+                "weizenmehl",
+                "choisum"
+            ]
+        },
+        {
+            "recipeName": "Karottenpüree mit Curry und brauner Butter",
+            "ingredients": [
+                "olivenöl",
+                "butter",
+                "chilischote",
+                "zucker",
+                "curry",
+                "fenchelsamen",
+                "lauchzwiebel",
+                "minze",
+                "zimt",
+                "karotte",
+                "ingwer",
+                "cumin",
+                "limette",
+                "schwarzkümmel",
+                "weißweinessig"
+            ]
+        },
+        {
+            "recipeName": "Kartoffelgratin mit Kokos und Limette",
+            "ingredients": [
+                "olivenöl",
+                "kokoscrème",
+                "chilischote",
+                "lauchzwiebel",
+                "hühnerbrühe",
+                "ingwer",
+                "kartoffel",
+                "knoblauch",
+                "schalotten",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Kartoffelpfanne mit Gochujang-Eiern",
+            "ingredients": [
+                "olivenöl",
+                "schnittlauch",
+                "kohlrabi",
+                "miso",
+                "ei",
+                "sesam",
+                "kartoffel",
+                "knoblauch",
+                "chilipaste",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Kartoffelsalat mit Thaibasilikum-Salsa",
+            "ingredients": [
+                "salzmandeln",
+                "olivenöl",
+                "chilischote",
+                "topinambur",
+                "thaibasilikum",
+                "radieschen",
+                "kartoffel",
+                "knoblauch",
+                "ingwer",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Käse-Tamales mit allem (oder manchem) drum und dran",
+            "ingredients": [
+                "paprikapulver",
+                "olivenöl",
+                "sahne",
+                "knoblauch",
+                "koriandergrün",
+                "sonnenblumenöl",
+                "hibiskus",
+                "zwiebel",
+                "ancho",
+                "tomatenmark",
+                "jalapeno",
+                "tomate",
+                "butter",
+                "lauchzwiebel",
+                "zucker",
+                "mais",
+                "cheddar",
+                "cumin",
+                "limette",
+                "habanero",
+                "avocado",
+                "ei",
+                "chiliflocken",
+                "mozzarella",
+                "maismehl",
+                "weißweinessig"
+            ]
+        },
+        {
+            "recipeName": "Kichererbsen-Pfannkuchen und Joghurt mit Mango-Pickle",
+            "ingredients": [
+                "apfelessig",
+                "kichererbsen",
+                "olivenöl",
+                "curryblätter",
+                "joghurt",
+                "chilischote",
+                "lauchzwiebel",
+                "garam_masala",
+                "sonnenblumenöl",
+                "stärke",
+                "ingwer",
+                "knoblauch",
+                "cumin",
+                "limette",
+                "mangopickle",
+                "mango"
+            ]
+        },
+        {
+            "recipeName": "Klebreisbällchen in Tamarinden-Rasam-Brühe",
+            "ingredients": [
+                "curryblätter",
+                "senfsamen",
+                "tomate",
+                "chilischote",
+                "zucker",
+                "curcuma",
+                "sonnenblumenöl",
+                "tamarinde",
+                "ingwer",
+                "knoblauch",
+                "cumin",
+                "zitrone",
+                "kirschtomaten"
+            ]
+        },
+        {
+            "recipeName": "Knusprige Zwiebelringe mit Buttermilch und Kurkuma",
+            "ingredients": [
+                "kümmel",
+                "mirin",
+                "lauchzwiebel",
+                "limette",
+                "chilischote",
+                "curcuma",
+                "sonnenblumenöl",
+                "zwiebel",
+                "knoblauch",
+                "buttermilch",
+                "weizenmehl",
+                "schwarzkümmel",
+                "weißweinessig"
+            ]
+        },
+        {
+            "recipeName": "Kochbananen mit Kokos-Apfel-Ingwer-Salat",
+            "ingredients": [
+                "olivenöl",
+                "cayennepfeffer",
+                "butter",
+                "banane",
+                "chilischote",
+                "kokosraspel",
+                "minze",
+                "zimt",
+                "rohrzucker",
+                "apfel",
+                "ingwer",
+                "muskat",
+                "cumin",
+                "limette",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Kohlrabinudel-Salat",
+            "ingredients": [
+                "szechuanpfeffer",
+                "kohlrabi",
+                "lauchzwiebel",
+                "limette",
+                "sesam",
+                "chiliflocken",
+                "erdnuss",
+                "reisessig",
+                "sonnenblumenöl",
+                "ingwer",
+                "mohn",
+                "noriflocken"
+            ]
+        },
+        {
+            "recipeName": "Kokos-Omelett mit Kurkuma",
+            "ingredients": [
+                "mirin",
+                "grapefruit",
+                "chilischote",
+                "kokosmilch",
+                "ei",
+                "lauchzwiebel",
+                "curcuma",
+                "sonnenblumenöl",
+                "reisessig",
+                "minze",
+                "koriander",
+                "sprossen",
+                "ingwer",
+                "radieschen",
+                "knoblauch",
+                "schalotten",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Korma mit Tofuklößchen",
+            "ingredients": [
+                "pfeffer",
+                "olivenöl",
+                "cashew",
+                "ingwer",
+                "knoblauch",
+                "koriandergrün",
+                "champignon",
+                "tofu",
+                "kardamom",
+                "stärke",
+                "koriander",
+                "zwiebel",
+                "zitrone",
+                "mandel",
+                "paniermehl",
+                "tomate",
+                "chilischote",
+                "lauchzwiebel",
+                "sojasauce",
+                "tahina",
+                "cumin",
+                "curcuma",
+                "zimt"
+            ]
+        },
+        {
+            "recipeName": "Kräutersuppe mit gerösteten Auberginen",
+            "ingredients": [
+                "olivenöl",
+                "senfsamen",
+                "lauchzwiebel",
+                "chilischote",
+                "cumin",
+                "koriandergrün",
+                "curcuma",
+                "babyspinat",
+                "hühnerbrühe",
+                "zimt",
+                "dill",
+                "zwiebel",
+                "petersilie",
+                "knoblauch",
+                "auberginen",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Kürbis-Orangen-Galette mit Salbei",
+            "ingredients": [
+                "kümmel",
+                "ahornsirup",
+                "olivenöl",
+                "pfeffer",
+                "mascarpone",
+                "butter",
+                "zucker",
+                "ei",
+                "orange",
+                "karotte",
+                "weizenmehl",
+                "polenta",
+                "knoblauch",
+                "schalotten",
+                "salbei",
+                "butternusskürbis"
+            ]
+        },
+        {
+            "recipeName": "Lauch mit Miso-Schnittlauch-Salsa",
+            "ingredients": [
+                "olivenöl",
+                "schnittlauch",
+                "mirin",
+                "miso",
+                "lauch",
+                "sonnenblumenöl",
+                "stärke",
+                "reisessig",
+                "ingwer",
+                "knoblauch",
+                "sesam"
+            ]
+        },
+        {
+            "recipeName": "Mafalde mit geröstetem Butternusskürbis in warmer Joghurtsauce",
+            "ingredients": [
+                "apfelessig",
+                "olivenöl",
+                "tomate",
+                "joghurt",
+                "chilischote",
+                "stärke",
+                "zwiebel",
+                "petersilie",
+                "knoblauch",
+                "butternusskürbis",
+                "nudeln"
+            ]
+        },
+        {
+            "recipeName": "Mais-Rippchen",
+            "ingredients": [
+                "butter",
+                "kürbiskern",
+                "honig",
+                "sonnenblumenöl",
+                "mais",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Melonen-Mozzarella-Salat mit Kascha und Curryblättern",
+            "ingredients": [
+                "olivenöl",
+                "senfsamen",
+                "curryblätter",
+                "büffelmozzarella",
+                "cataloupemelone",
+                "wassermelone",
+                "kascha",
+                "schalotten",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Neils gegrillte Zwiebeln mit grüner Gazpacho",
+            "ingredients": [
+                "estragon",
+                "apfelessig",
+                "olivenöl",
+                "gurke",
+                "joghurt",
+                "schnittlauch",
+                "chilischote",
+                "petersilie",
+                "schafskäse",
+                "koriander",
+                "zwiebel",
+                "paprika",
+                "zitrone",
+                "schwarzkümmel",
+                "brot"
+            ]
+        },
+        {
+            "recipeName": "Noors Tofu mit schwarzer Limette",
+            "ingredients": [
+                "apfelessig",
+                "olivenöl",
+                "tofu",
+                "zucker",
+                "babyspinat",
+                "stärke",
+                "zwiebel",
+                "petersilie",
+                "knoblauch",
+                "cumin",
+                "limette",
+                "tomatenmark"
+            ]
+        },
+        {
+            "recipeName": "Nudelsalat mit Pilz-Erdnuss-Laab",
+            "ingredients": [
+                "ahornsirup",
+                "grüne_bohnen",
+                "tamarinde",
+                "reis",
+                "gurke",
+                "champignon",
+                "erdnussöl",
+                "erdnuss",
+                "koriander",
+                "zwiebel",
+                "nudeln",
+                "chilischote",
+                "sojasauce",
+                "thaibasilikum",
+                "fischsauce",
+                "limette",
+                "chiliflocken",
+                "minze",
+                "austernpilz"
+            ]
+        },
+        {
+            "recipeName": "Ofenpommes und Curryblatt-Mayonnaise",
+            "ingredients": [
+                "curryblätter",
+                "kardamom",
+                "ei",
+                "sonnenblumenöl",
+                "kartoffel",
+                "knoblauch",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Olivenöl-Fladenbrote mit Dreierlei-Knoblauch-Butter",
+            "ingredients": [
+                "kümmel",
+                "pfeffer",
+                "tomate",
+                "hefe",
+                "olivenöl",
+                "butter",
+                "petersilie",
+                "thymian",
+                "oregano",
+                "schwarzer_knoblauch",
+                "knoblauch",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Pappa al Pomodoro mit Limette und Senfsamen",
+            "ingredients": [
+                "tomate",
+                "olivenöl",
+                "senfsamen",
+                "curryblätter",
+                "chilischote",
+                "zucker",
+                "lorbeer",
+                "basilikum",
+                "sauerteigbrot",
+                "knoblauch",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Polenta mit frischem Mais und gestockten Eiern",
+            "ingredients": [
+                "milch",
+                "olivenöl",
+                "butter",
+                "lauchzwiebel",
+                "ei",
+                "schafskäse",
+                "babyspinat",
+                "hühnerbrühe",
+                "chiliflocken",
+                "mais",
+                "dill",
+                "parmesan",
+                "petersilie",
+                "knoblauch",
+                "polenta",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Portobello-Steaks und Püree aus Riesenbohnen",
+            "ingredients": [
+                "olivenöl",
+                "chilischote",
+                "chiliflocken",
+                "weiße_bohnen",
+                "koriander",
+                "zwiebel",
+                "knoblauch",
+                "cumin",
+                "tomatenmark",
+                "zitrone",
+                "portobello"
+            ]
+        },
+        {
+            "recipeName": "Reiskrapfen mit Kimchi und Gruyère",
+            "ingredients": [
+                "milch",
+                "olivenöl",
+                "grüne_bohnen",
+                "ei",
+                "gruyère",
+                "sonnenblumenöl",
+                "kimchi",
+                "reis",
+                "weizenmehl",
+                "zwiebel",
+                "knoblauch",
+                "zitrone",
+                "sesam",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Rettich-Gurken-Salat mit Chipotle-Erdnüssen",
+            "ingredients": [
+                "golden_syrup",
+                "olivenöl",
+                "gurke",
+                "cayennepfeffer",
+                "rettich",
+                "chilischote",
+                "erdnuss",
+                "radieschen",
+                "knoblauch",
+                "cumin",
+                "limette",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Rettichkuchen",
+            "ingredients": [
+                "ahornsirup",
+                "schnittlauch",
+                "pinienkerne",
+                "rettich",
+                "reismehl",
+                "zucker",
+                "shiitake",
+                "sojasauce",
+                "stärke",
+                "sonnenblumenöl",
+                "ingwer",
+                "knoblauch",
+                "marone",
+                "sesam",
+                "sesamöl"
+            ]
+        },
+        {
+            "recipeName": "Riesen-Couscous mit Kürbis und Tomatensauce mit Sternanis",
+            "ingredients": [
+                "olivenöl",
+                "tomate",
+                "crownprincekürbis",
+                "zucker",
+                "couscous",
+                "sternanis",
+                "chiliflocken",
+                "babyspinat",
+                "zimt",
+                "zwiebel",
+                "knoblauch",
+                "tomatenmark",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Röstkarotten-Salat mit Chamoy",
+            "ingredients": [
+                "salzmandeln",
+                "ahornsirup",
+                "olivenöl",
+                "aprikose",
+                "sumach",
+                "minze",
+                "chiliflocken",
+                "dill",
+                "karotte",
+                "knoblauch",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Safran-Tagliatelle",
+            "ingredients": [
+                "safran",
+                "ei",
+                "weizenmehl",
+                "hartweizengrieß"
+            ]
+        },
+        {
+            "recipeName": "Safran-Tagliatelle mit Ricotta und knusprigen Chipotl-Schalotten",
+            "ingredients": [
+                "pfeffer",
+                "olivenöl",
+                "ricotta",
+                "ahornsirup",
+                "safran",
+                "chilischote",
+                "zucker",
+                "cumin",
+                "chiliflocken",
+                "reisessig",
+                "koriander",
+                "parmesan",
+                "petersilie",
+                "knoblauch",
+                "schalotten",
+                "nudeln"
+            ]
+        },
+        {
+            "recipeName": "Scharfe Pilzlasagne",
+            "ingredients": [
+                "pfeffer",
+                "olivenöl",
+                "sahne",
+                "petersilie",
+                "knoblauch",
+                "champignon",
+                "zwiebel",
+                "tomatenmark",
+                "nudeln",
+                "tomate",
+                "chilischote",
+                "basilikum",
+                "pilze",
+                "karotte",
+                "pecorino",
+                "gemüsebrühe",
+                "steinpilz",
+                "parmesan",
+                "austernpilz"
+            ]
+        },
+        {
+            "recipeName": "Scharfe Röstkartoffeln mit Tahin und Sojasauce",
+            "ingredients": [
+                "olivenöl",
+                "schnittlauch",
+                "mirin",
+                "harissa",
+                "sojasauce",
+                "reisessig",
+                "tahina",
+                "kartoffel",
+                "knoblauch",
+                "sesam"
+            ]
+        },
+        {
+            "recipeName": "Scharfes Berbere-Ratatouille mit Kokos-Salsa",
+            "ingredients": [
+                "spitzpaprika",
+                "ahornsirup",
+                "olivenöl",
+                "gurke",
+                "kohlrabi",
+                "kokoscrème",
+                "chilischote",
+                "sojasauce",
+                "berbere",
+                "ingwer",
+                "knoblauch",
+                "auberginen",
+                "limette",
+                "koriandergrün",
+                "schwarzkümmel",
+                "kirschtomaten"
+            ]
+        },
+        {
+            "recipeName": "Schwarze Bohnen mit Kokos, Chili und Limette",
+            "ingredients": [
+                "olivenöl",
+                "senfsamen",
+                "chilischote",
+                "kokosraspel",
+                "kaffirlimette",
+                "knoblauch",
+                "schalotten",
+                "limette",
+                "schwarze_bohnen"
+            ]
+        },
+        {
+            "recipeName": "Selleriesteaks mit Café-de-Paris-Sauce",
+            "ingredients": [
+                "estragon",
+                "kapern",
+                "knollensellerie",
+                "olivenöl",
+                "butter",
+                "cayennepfeffer",
+                "senfsamen",
+                "schnittlauch",
+                "curry",
+                "petersilie",
+                "thymian",
+                "sahne",
+                "sardelle",
+                "knoblauch",
+                "schalotten",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Spargelpfannkuchen mit Gochujang",
+            "ingredients": [
+                "grüner_spargel",
+                "honig",
+                "reismehl",
+                "chilischote",
+                "ei",
+                "lauchzwiebel",
+                "koriandergrün",
+                "sojasauce",
+                "sonnenblumenöl",
+                "knoblauch",
+                "chilipaste",
+                "sesam",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Spargelsalat mit Tamarinde und Limette",
+            "ingredients": [
+                "olivenöl",
+                "sardelle",
+                "dijonsenf",
+                "honig",
+                "chilischote",
+                "kardamom",
+                "minze",
+                "spargel",
+                "tamarinde",
+                "petersilie",
+                "knoblauch",
+                "limette",
+                "weißweinessig",
+                "pistazie"
+            ]
+        },
+        {
+            "recipeName": "Spitzkohl mit Ingwercreme und betäubendem Öl",
+            "ingredients": [
+                "paprikapulver",
+                "szechuanpfeffer",
+                "chilischote",
+                "sojasauce",
+                "sternanis",
+                "sonnenblumenöl",
+                "frischkäse",
+                "chiliflocken",
+                "sesam",
+                "ingwer",
+                "knoblauch",
+                "schalotten",
+                "limette",
+                "tomatenmark",
+                "spitzkohl"
+            ]
+        },
+        {
+            "recipeName": "Spitzkohl mit Nam Prik",
+            "ingredients": [
+                "galgant",
+                "sonnenblumenöl",
+                "chiliflocken",
+                "kirschtomaten",
+                "fischsauce",
+                "tamarinde",
+                "rohrzucker",
+                "knoblauch",
+                "limette",
+                "koriandergrün",
+                "spitzkohl"
+            ]
+        },
+        {
+            "recipeName": "Spitzkohl-Tacos mit Knollensellerie und Dattel-Barbecue-Sauce",
+            "ingredients": [
+                "balsamico",
+                "knollensellerie",
+                "olivenöl",
+                "schnittlauch",
+                "chilischote",
+                "cumin",
+                "geräuchertes_paprikapulver",
+                "chiliflocken",
+                "datteln",
+                "koriander",
+                "schwarzer_knoblauch",
+                "knoblauch",
+                "schalotten"
+            ]
+        },
+        {
+            "recipeName": "Spitzpaprika-Schnitzel",
+            "ingredients": [
+                "knoblauch",
+                "spitzpaprika",
+                "pfeffer",
+                "ahornsirup",
+                "worcester",
+                "chilischote",
+                "limette",
+                "ei",
+                "sonnenblumenöl",
+                "mayonnaise",
+                "chipotle",
+                "noriflocken",
+                "kaffirlimette",
+                "sesam",
+                "weizenmehl",
+                "kirschtomaten"
+            ]
+        },
+        {
+            "recipeName": "Steckrüben-Gnocchi mit Misobutter",
+            "ingredients": [
+                "olivenöl",
+                "butter",
+                "miso",
+                "lauchzwiebel",
+                "steckrübe",
+                "ei",
+                "spinat",
+                "sesam",
+                "ingwer",
+                "kartoffel",
+                "hühnerbrühe",
+                "limette",
+                "weizenmehl"
+            ]
+        },
+        {
+            "recipeName": "Steckrübensteaks mit Currykruste",
+            "ingredients": [
+                "cayennepfeffer",
+                "olivenöl",
+                "grapefruit",
+                "chilischote",
+                "steckrübe",
+                "zucker",
+                "curcuma",
+                "minze",
+                "crème_fraîche",
+                "bockshornklee",
+                "knoblauch",
+                "schalotten",
+                "limette",
+                "koriandergrün"
+            ]
+        },
+        {
+            "recipeName": "Süßkartoffeln in Tomatensauce mit Limette und Kardamom",
+            "ingredients": [
+                "ahornsirup",
+                "olivenöl",
+                "pfeffer",
+                "tomate",
+                "chilischote",
+                "zucker",
+                "kardamom",
+                "limette",
+                "dill",
+                "süßkartoffel",
+                "knoblauch",
+                "cumin",
+                "tomatenmark",
+                "schalotten"
+            ]
+        },
+        {
+            "recipeName": "Süsskartoffelstampf mit Joghurt und Limette",
+            "ingredients": [
+                "olivenöl",
+                "joghurt",
+                "chilischote",
+                "granatapfelsirup",
+                "sesam",
+                "koriander",
+                "knoblauch",
+                "süßkartoffel",
+                "limette"
+            ]
+        },
+        {
+            "recipeName": "Süßsaurer Rosenkohl mit Maronen und Weintrauben",
+            "ingredients": [
+                "ahornsirup",
+                "olivenöl",
+                "weintrauben",
+                "rosenkohl",
+                "chilischote",
+                "reiswein",
+                "lorbeer",
+                "zucker",
+                "sojasauce",
+                "reisessig",
+                "petersilie",
+                "knoblauch",
+                "schalotten",
+                "marone"
+            ]
+        },
+        {
+            "recipeName": "Süßsaure Zwiebeln",
+            "ingredients": [
+                "ziegenfrischkäse",
+                "isot_biber",
+                "schnittlauch",
+                "olivenöl",
+                "granatapfel",
+                "zwiebel"
+            ]
+        },
+        {
+            "recipeName": "Tempura aus Stielen, Blättern und Kräutern",
+            "ingredients": [
+                "ahornsirup",
+                "szechuanpfeffer",
+                "chilischote",
+                "ei",
+                "mandarine",
+                "minze",
+                "sonnenblumenöl",
+                "kaffirlimette",
+                "stärke",
+                "dill",
+                "sesam",
+                "knoblauch",
+                "limette",
+                "weizenmehl",
+                "rote_bete_blätter"
+            ]
+        },
+        {
+            "recipeName": "Tomaten-Pflaumen-Salat mit Nori und Sesam",
+            "ingredients": [
+                "essig",
+                "tomate",
+                "noriblatt",
+                "lauchzwiebel",
+                "zucker",
+                "erdnussöl",
+                "reisessig",
+                "chiliflocken",
+                "pflaume",
+                "fischsauce",
+                "koriander",
+                "orange",
+                "ingwer",
+                "knoblauch",
+                "sesam"
+            ]
+        },
+        {
+            "recipeName": "Tomatensalat mit Limetten-Kardamom-Joghurt",
+            "ingredients": [
+                "ziegenfrischkäse",
+                "olivenöl",
+                "joghurt",
+                "chilischote",
+                "kardamom",
+                "minze",
+                "knoblauch",
+                "schalotten",
+                "limette",
+                "kirschtomaten"
+            ]
+        },
+        {
+            "recipeName": "Udon-Nudeln mit gebratenem Tofu und Orangen-Nam-Jim",
+            "ingredients": [
+                "ahornsirup",
+                "lauchzwiebel",
+                "chilischote",
+                "tofu",
+                "sojasauce",
+                "thaibasilikum",
+                "chiliflocken",
+                "sonnenblumenöl",
+                "tamarinde",
+                "koriander",
+                "reis",
+                "fischsauce",
+                "blutorangen",
+                "knoblauch",
+                "schalotten",
+                "sesam",
+                "koriandergrün",
+                "nudeln"
+            ]
+        },
+        {
+            "recipeName": "Weiße Bohnen in rauchigem Cascabel-Chili-Öl",
+            "ingredients": [
+                "olivenöl",
+                "cascabel",
+                "weiße_bohnen",
+                "koriander",
+                "knoblauch",
+                "cumin",
+                "limette",
+                "zitrone",
+                "jalapeno"
+            ]
+        },
+        {
+            "recipeName": "Weiße-Bohnen-Püree und eine Art Aioli",
+            "ingredients": [
+                "olivenöl",
+                "dijonsenf",
+                "rosmarin",
+                "chilischote",
+                "thymian",
+                "chiliflocken",
+                "weiße_bohnen",
+                "dill",
+                "zwiebel",
+                "sardelle",
+                "knoblauch",
+                "zitrone"
+            ]
+        },
+        {
+            "recipeName": "Zwiebeln in Misobutter",
+            "ingredients": [
+                "miso",
+                "butter",
+                "zwiebel"
+            ]
+        }
+    ]
+}
