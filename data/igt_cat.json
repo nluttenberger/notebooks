@@ -1,1 +1,4009 @@
-{"classes":{"alc":{"label":"Alkohol","colorHex":"F0F8FF"},"carb":{"label":"Kohlenhydrate","colorHex":"DEB887"},"condi":{"label":"Zubereitung","colorHex":"5F9EA0"},"egg":{"label":"Ei","colorHex":"FFA500"},"etc":{"label":"etc","colorHex":"F5F5F5"},"fat":{"label":"Fett","colorHex":"FFE4C4"},"fish":{"label":"Fisch","colorHex":"FFC0CB"},"fruit":{"label":"Frucht","colorHex":"6B8E23"},"herb":{"label":"Kräuter","colorHex":"DAA520"},"meat":{"label":"Fleisch","colorHex":"CD5C5C"},"milk":{"label":"Milch","colorHex":"E6E6FA"},"nuts":{"label":"Nüsse","colorHex":"D2691E"},"onion":{"label":"Zwiebel","colorHex":"FFD700"},"spice":{"label":"Gewürz","colorHex":"FF6347"},"sweet":{"label":"süß","colorHex":"FA8072"},"veg":{"label":"Gemüse","colorHex":"9ACD32"}},"ingredients":{"aal":{"i-name":"Aal","i-class":"fish"},"ackerbohne":{"i-name":"Ackerbohne","i-class":"veg"},"ackerrettich":{"i-name":"Ackerrettich","i-class":"veg"},"agavendicksaft":{"i-name":"Agavendicksaft","i-class":"sweet"},"ahornsirup":{"i-name":"Ahornsirup","i-class":"sweet"},"ajvar":{"i-name":"Ajvar","i-class":"condi"},"algen":{"i-name":"Algen","i-class":"veg"},"amarant":{"i-name":"Amarant","i-class":"carb"},"amaretti":{"i-name":"Amaretti","i-class":"sweet"},"amaretto":{"i-name":"Amaretto","i-class":"alc"},"ananas":{"i-name":"Ananas","i-class":"fruit"},"ananassaft":{"i-name":"Ananassaft","i-class":"fruit"},"ancho":{"i-name":"Ancho","i-class":"spice"},"anis":{"i-name":"Anis","i-class":"spice"},"aperol":{"i-name":"Aperol","i-class":"alc"},"apfel":{"i-name":"Apfel","i-class":"fruit"},"apfelessig":{"i-name":"Apfelessig","i-class":"condi"},"apfelkraut":{"i-name":"Apfelkraut","i-class":"condi"},"apfelsaft":{"i-name":"Apfelsaft","i-class":"fruit"},"appenzeller":{"i-name":"Appenzeller","i-class":"milk"},"aprikose":{"i-name":"Aprikose","i-class":"fruit"},"arak":{"i-name":"Arak","i-class":"alc"},"artischocke":{"i-name":"Artischocke","i-class":"veg"},"asa_foetida":{"i-name":"Asa_Foetida","i-class":"spice"},"asafoetida":{"i-name":"Asafoetida","i-class":"spice"},"auberginen":{"i-name":"Aubergine","i-class":"veg"},"austern":{"i-name":"Austern","i-class":"fish"},"austernpilz":{"i-name":"Austernpilz","i-class":"veg"},"austernsauce":{"i-name":"Austernsauce","i-class":"condi"},"avocado":{"i-name":"Avocado","i-class":"veg"},"babyspinat":{"i-name":"Babyspinat","i-class":"veg"},"backobst":{"i-name":"Backobst","i-class":"fruit"},"backpflaume":{"i-name":"Backpflaume","i-class":"fruit"},"backpulver":{"i-name":"Backpulver","i-class":"condi"},"baharat":{"i-name":"Baharat","i-class":"spice"},"baiser":{"i-name":"Baiser","i-class":"egg"},"balsamico":{"i-name":"Balsamico","i-class":"condi"},"bambus":{"i-name":"Bambus","i-class":"veg"},"banane":{"i-name":"Banane","i-class":"fruit"},"bärlauch":{"i-name":"Bärlauch","i-class":"herb"},"barsch":{"i-name":"Barsch","i-class":"fish"},"basilikum":{"i-name":"Basilikum","i-class":"herb"},"béchamelsauce":{"i-name":"Béchamelsauce","i-class":"etc"},"beeren":{"i-name":"Beeren","i-class":"fruit"},"beifuß":{"i-name":"Beifuß","i-class":"herb"},"berbere":{"i-name":"Berbere","i-class":"spice"},"bergkäse":{"i-name":"Bergkäse","i-class":"milk"},"bier":{"i-name":"Bier","i-class":"alc"},"bindemittel":{"i-name":"Bindemittel","i-class":"carb"},"birne":{"i-name":"Birne","i-class":"fruit"},"birnenkraut":{"i-name":"Birnenkraut","i-class":"condi"},"biskuit":{"i-name":"Biskuit","i-class":"sweet"},"bittermandel":{"i-name":"Bittermandel","i-class":"nuts"},"blätterteig":{"i-name":"Blätterteig","i-class":"carb"},"blattsalat":{"i-name":"Blattsalat","i-class":"veg"},"blauschimmel":{"i-name":"Blauschimmel","i-class":"milk"},"blumenkohl":{"i-name":"Blumenkohl","i-class":"veg"},"blut":{"i-name":"Blut","i-class":"meat"},"blutampfer":{"i-name":"Blutampfer","i-class":"veg"},"blüten":{"i-name":"Blüten","i-class":"veg"},"blutorangen":{"i-name":"Blutorangen","i-class":"fruit"},"blutwurst":{"i-name":"Blutwurst","i-class":"meat"},"bockshornklee":{"i-name":"Bockshornklee","i-class":"herb"},"bohnen":{"i-name":"Bohnen","i-class":"veg"},"bohnenkraut":{"i-name":"Bohnenkraut","i-class":"herb"},"borretsch":{"i-name":"Borretsch","i-class":"herb"},"brasse":{"i-name":"Brasse","i-class":"fish"},"bratenfond":{"i-name":"Bratenfond","i-class":"condi"},"bratenjus":{"i-name":"Bratenjus","i-class":"condi"},"bratensauce":{"i-name":"Bratensauce","i-class":"etc"},"bratfett":{"i-name":"Bratfett","i-class":"fat"},"bratwurst":{"i-name":"Bratwurst","i-class":"meat"},"breite_bohnen":{"i-name":"Breite_Bohnen","i-class":"veg"},"brennnessel":{"i-name":"Brennnessel","i-class":"veg"},"bresaola":{"i-name":"Bresaola","i-class":"meat"},"brokkoli":{"i-name":"Brokkoli","i-class":"veg"},"brot":{"i-name":"Brot","i-class":"carb"},"brotgewürz":{"i-name":"Brotgewürz","i-class":"spice"},"brühe":{"i-name":"Brühe","i-class":"condi"},"brunnenkresse":{"i-name":"Brunnenkresse","i-class":"veg"},"buchweizen":{"i-name":"Buchweizen","i-class":"carb"},"buchweizenmehl":{"i-name":"Buchweizenmehl","i-class":"carb"},"büffelmozzarella":{"i-name":"Büffelmozzarella","i-class":"milk"},"bulgur":{"i-name":"Bulgur","i-class":"carb"},"butt":{"i-name":"Butt","i-class":"fish"},"butter":{"i-name":"Butter","i-class":"fat"},"butterkäse":{"i-name":"Butterkäse","i-class":"milk"},"butterkohl":{"i-name":"Butterkohl","i-class":"veg"},"buttermilch":{"i-name":"Buttermilch","i-class":"milk"},"butternusskürbis":{"i-name":"Butternusskürbis","i-class":"veg"},"butterschmalz":{"i-name":"Butterschmalz","i-class":"fat"},"cajunmischung":{"i-name":"Cajunmischung","i-class":"spice"},"camembert":{"i-name":"Camembert","i-class":"milk"},"cascabel":{"i-name":"Cascabel","i-class":"spice"},"cashew":{"i-name":"Cashew","i-class":"nuts"},"cassis":{"i-name":"Cassis","i-class":"alc"},"cataloupemelone":{"i-name":"Cantaloupemelone","i-class":"fruit"},"cayennepfeffer":{"i-name":"Cayennepfeffer","i-class":"spice"},"chaat_masala":{"i-name":"Chaat_Masala","i-class":"spice"},"champignon":{"i-name":"Champignon","i-class":"veg"},"cheddar":{"i-name":"Cheddar","i-class":"milk"},"chiasamen":{"i-name":"Chiasamen","i-class":"etc"},"chicorée":{"i-name":"Chicorée","i-class":"veg"},"chili":{"i-name":"Chili","i-class":"spice"},"chiliflocken":{"i-name":"Chiliflocken","i-class":"spice"},"chilipaste":{"i-name":"Chilipaste","i-class":"spice"},"chilischote":{"i-name":"Chilischote","i-class":"spice"},"chinakohl":{"i-name":"Chinakohl","i-class":"veg"},"chipotle":{"i-name":"Chipotle","i-class":"spice"},"choisum":{"i-name":"Choi_sum","i-class":"veg"},"chop_suey":{"i-name":"Chop_suey","i-class":"etc"},"cidre":{"i-name":"Cidre","i-class":"alc"},"clementine":{"i-name":"Clementine","i-class":"fruit"},"cocktailkirschen":{"i-name":"Cocktailkirschen","i-class":"sweet"},"cola":{"i-name":"Cola","i-class":"sweet"},"cornichon":{"i-name":"Cornichon","i-class":"condi"},"couscous":{"i-name":"Couscous","i-class":"carb"},"cranberry":{"i-name":"Cranberry","i-class":"fruit"},"crème":{"i-name":"Crème_vegan","i-class":"fat"},"crème_double":{"i-name":"Crème_double","i-class":"milk"},"crème_fraîche":{"i-name":"Crème_fraîche","i-class":"milk"},"crownprincekürbis":{"i-name":"Crown_Prince_Kürbis","i-class":"veg"},"cumin":{"i-name":"Cumin","i-class":"spice"},"curaçao":{"i-name":"Curaçao","i-class":"alc"},"curcuma":{"i-name":"Curcuma","i-class":"spice"},"curry":{"i-name":"Curry","i-class":"spice"},"curryblätter":{"i-name":"Curryblätter","i-class":"herb"},"dattel":{"i-name":"Dattel","i-class":"fruit"},"datteln":{"i-name":"Datteln","i-class":"fruit"},"dijonsenf":{"i-name":"Dijonsenf","i-class":"condi"},"dill":{"i-name":"Dill","i-class":"herb"},"dinkel":{"i-name":"Dinkel","i-class":"carb"},"drachenfrucht":{"i-name":"Drachenfrucht","i-class":"fruit"},"dressing":{"i-name":"Dressing","i-class":"etc"},"ducca":{"i-name":"Ducca","i-class":"spice"},"edamame":{"i-name":"Edamame","i-class":"veg"},"ei":{"i-name":"Ei","i-class":"egg"},"eichenlaubsalat":{"i-name":"Eichenlaubsalat","i-class":"veg"},"eisbergsalat":{"i-name":"Eisbergsalat","i-class":"veg"},"eisenkraut":{"i-name":"Eisenkraut","i-class":"herb"},"emmentaler":{"i-name":"Emmentaler","i-class":"milk"},"endivien":{"i-name":"Endivien","i-class":"veg"},"ente":{"i-name":"Ente","i-class":"meat"},"erbsen":{"i-name":"Erbsen","i-class":"veg"},"erdbeeren":{"i-name":"Erdbeeren","i-class":"fruit"},"erdbeerlikör":{"i-name":"Erdbeerlikör","i-class":"alc"},"erdnuss":{"i-name":"Erdnuss","i-class":"nuts"},"erdnussbutter":{"i-name":"Erdnussbutter","i-class":"condi"},"erdnussöl":{"i-name":"Erdnussöl","i-class":"fat"},"essig":{"i-name":"Essig","i-class":"condi"},"estragon":{"i-name":"Estragon","i-class":"herb"},"euter":{"i-name":"Euter","i-class":"meat"},"feige":{"i-name":"Feige","i-class":"fruit"},"feldsalat":{"i-name":"Feldsalat","i-class":"veg"},"fenchel":{"i-name":"Fenchel","i-class":"veg"},"fenchelgrün":{"i-name":"Fenchelgrün","i-class":"herb"},"fenchelsamen":{"i-name":"Fenchelsamen","i-class":"herb"},"fisch":{"i-name":"Fisch","i-class":"fish"},"fischfond":{"i-name":"Fischfond","i-class":"condi"},"fischsauce":{"i-name":"Fischsauce","i-class":"condi"},"fleisch":{"i-name":"Fleisch","i-class":"meat"},"fleischbrühe":{"i-name":"Fleischbrühe","i-class":"condi"},"fleischsalat":{"i-name":"Fleischsalat","i-class":"meat"},"flusskrebse":{"i-name":"Flusskrebse","i-class":"fish"},"forelle":{"i-name":"Forelle","i-class":"fish"},"frischkäse":{"i-name":"Frischkäse","i-class":"milk"},"frisée":{"i-name":"frisée","i-class":"veg"},"friséesalat":{"i-name":"Friséesalat","i-class":"veg"},"froschschenkel":{"i-name":"Froschschenkel","i-class":"meat"},"früchte":{"i-name":"Früchte","i-class":"fruit"},"früchtetee":{"i-name":"Früchtetee","i-class":"etc"},"fruchtsaft":{"i-name":"Fruchtsaft","i-class":"fruit"},"galgant":{"i-name":"Galgant","i-class":"spice"},"gans":{"i-name":"Gans","i-class":"meat"},"gänseblümchen":{"i-name":"Gänseblümchen","i-class":"herb"},"gänsefett":{"i-name":"Gänsefett","i-class":"fat"},"gänsefuß":{"i-name":"Gänsefuß","i-class":"herb"},"gänseschmalz":{"i-name":"Gänseschmalz","i-class":"fat"},"garam_masala":{"i-name":"Garam_Masala","i-class":"spice"},"garnele":{"i-name":"Garnele","i-class":"fish"},"garnelen":{"i-name":"Garnelen","i-class":"fish"},"gartenmelde":{"i-name":"Gartenmelde","i-class":"veg"},"geflügel":{"i-name":"Geflügel","i-class":"meat"},"gekochter_schinken":{"i-name":"gekochter_Schinken","i-class":"meat"},"gelatine":{"i-name":"Gelatine","i-class":"etc"},"gelb_bete":{"i-name":"Gelbe_Bete","i-class":"veg"},"gelbe_erbsen":{"i-name":"Gelbe_Erbsen","i-class":"veg"},"gelee":{"i-name":"Gelee","i-class":"condi"},"gemüsebrühe":{"i-name":"Gemüsebrühe","i-class":"condi"},"gemüsegurke":{"i-name":"Gemüsegurke","i-class":"veg"},"gemüsemischung":{"i-name":"Gemüsemischung","i-class":"veg"},"gemüsezwiebel":{"i-name":"Gemüsezwiebel","i-class":"veg"},"geraeucherter_schinken":{"i-name":"geräucherter_Schinken","i-class":"meat"},"geräuchertes_paprikapulver":{"i-name":"Geräuchertes_Paprikapulver","i-class":"spice"},"gerste":{"i-name":"Gerste","i-class":"carb"},"getr_pflaume":{"i-name":"getr_Pflaume","i-class":"fruit"},"getr_zwetschge":{"i-name":"getr_Zwetschge","i-class":""},"getrocknete_tomaten":{"i-name":"getrocknete_Tomaten","i-class":"veg"},"gewürz":{"i-name":"Gewürz","i-class":"spice"},"gewürzgurke":{"i-name":"Gewürzgurken","i-class":"condi"},"ghee":{"i-name":"Ghee","i-class":"fat"},"giersch":{"i-name":"Giersch","i-class":"veg"},"gin":{"i-name":"Gin","i-class":"alc"},"glutamat":{"i-name":"Glutamat","i-class":"spice"},"gnocchi":{"i-name":"Gnocchi","i-class":"carb"},"golden_syrup":{"i-name":"Golden_Syrup","i-class":"sweet"},"gorgonzola":{"i-name":"Gorgonzola","i-class":"milk"},"gouda":{"i-name":"Gouda","i-class":"milk"},"grana_padano":{"i-name":"Grana_padano","i-class":"milk"},"granatapfel":{"i-name":"Granatapfel","i-class":"fruit"},"granatapfelsirup":{"i-name":"Granatapfelsirup","i-class":"sweet"},"grapefruit":{"i-name":"Grapefruit","i-class":"fruit"},"graupen":{"i-name":"Graupen","i-class":"carb"},"grenadine":{"i-name":"Grenadine","i-class":"sweet"},"grieß":{"i-name":"Grieß","i-class":"carb"},"große_bohnen":{"i-name":"Große_Bohnen","i-class":"veg"},"grüne_bohnen":{"i-name":"Grüne_Bohnen","i-class":"veg"},"grüner_spargel":{"i-name":"grüner_Spargel","i-class":"veg"},"grünkern":{"i-name":"Grünkern","i-class":"carb"},"grünkohl":{"i-name":"Grünkohl","i-class":"veg"},"grütze":{"i-name":"Grütze","i-class":"carb"},"gruyère":{"i-name":"Gruyère","i-class":"milk"},"guave":{"i-name":"Guave","i-class":"fruit"},"gundermann":{"i-name":"Gundermann","i-class":"herb"},"gurke":{"i-name":"Gurke","i-class":"veg"},"habanero":{"i-name":"Habanero","i-class":"spice"},"hackfleisch":{"i-name":"Hackfleisch","i-class":"meat"},"haferfleks":{"i-name":"Haferfleks","i-class":"carb"},"haferflocken":{"i-name":"Haferflocken","i-class":"carb"},"hafergrütze":{"i-name":"Hafergrütze","i-class":"carb"},"hagebutte":{"i-name":"Hagebutte","i-class":"fruit"},"handkäs":{"i-name":"Handkäs","i-class":"milk"},"harissa":{"i-name":"Harissa","i-class":"condi"},"hartweizengrieß":{"i-name":"Hartweizengrieß","i-class":"carb"},"hase":{"i-name":"Hase","i-class":"meat"},"haselnuss":{"i-name":"Haselnuss","i-class":"nuts"},"hatsoi":{"i-name":"Hatsoi","i-class":"spice"},"hecht":{"i-name":"Hecht","i-class":"fish"},"hefe":{"i-name":"Hefe","i-class":"etc"},"hefewürze":{"i-name":"Hefewürze","i-class":"condi"},"herbes_de_provence":{"i-name":"Herbes_de_Provence","i-class":"herb"},"hering":{"i-name":"Hering","i-class":"fish"},"herz":{"i-name":"Herz","i-class":"meat"},"hibiskus":{"i-name":"Hibiskus","i-class":"herb"},"himbeeren":{"i-name":"Himbeeren","i-class":"fruit"},"hirn":{"i-name":"Hirn","i-class":"meat"},"hirschhorn":{"i-name":"Hirschhorn","i-class":"etc"},"hirschhornsalz":{"i-name":"Hirschhornsalz","i-class":"etc"},"hirse":{"i-name":"Hirse","i-class":"carb"},"hoisinsauce":{"i-name":"Hoisinsauce","i-class":"condi"},"hokkaidokürbis":{"i-name":"Hokkaidokürbis","i-class":"veg"},"holunder":{"i-name":"Holunder","i-class":"fruit"},"honig":{"i-name":"Honig","i-class":"sweet"},"hopfen":{"i-name":"Hopfen","i-class":"veg"},"huhn":{"i-name":"Huhn","i-class":"meat"},"hühnerbrühe":{"i-name":"Hühnerbrühe","i-class":"condi"},"hühnerbrust":{"i-name":"Hühnerbrust","i-class":"meat"},"hühnerschenkel":{"i-name":"Hühnerschenkel","i-class":"meat"},"hülsenfrüchte":{"i-name":"Hülsenfrüchte","i-class":"veg"},"hummus":{"i-name":"Hummus","i-class":"etc"},"ingwer":{"i-name":"Ingwer","i-class":"spice"},"innereien":{"i-name":"Innereien","i-class":"meat"},"isot_biber":{"i-name":"Isot_Biber","i-class":"spice"},"jakobsmuschel":{"i-name":"Jakobsmuschel","i-class":"fish"},"jakobsmuscheln":{"i-name":"Jakobsmuscheln","i-class":"fish"},"jalapeno":{"i-name":"Jalapeno","i-class":"spice"},"joghurt":{"i-name":"Joghurt","i-class":"milk"},"johannisbeeren":{"i-name":"Johannisbeeren","i-class":"fruit"},"kabeljau":{"i-name":"Kabeljau","i-class":"fish"},"kaffee":{"i-name":"Kaffee","i-class":"spice"},"kaffirlimette":{"i-name":"Kaffirlimette","i-class":"herb"},"kakao":{"i-name":"Kakao","i-class":"etc"},"kaki":{"i-name":"Kaki","i-class":"fruit"},"kalbfleisch":{"i-name":"Kalbfleisch","i-class":"meat"},"kalbsbraten":{"i-name":"Kalbsbraten","i-class":"meat"},"kalbsbries":{"i-name":"Kalbsbries","i-class":"meat"},"kalbsfond":{"i-name":"Kalbsfond","i-class":"condi"},"kalbsfüße":{"i-name":"Kalbsfüße","i-class":"meat"},"kalbskopf":{"i-name":"Kalbskopf","i-class":"meat"},"kalmar":{"i-name":"Kalmar","i-class":"fish"},"kaninchen":{"i-name":"Kaninchen","i-class":"meat"},"kantenlauch":{"i-name":"Kantenlauch","i-class":"herb"},"kapaun":{"i-name":"Kapaun","i-class":"meat"},"kapern":{"i-name":"Kapern","i-class":"spice"},"kapuzinerkresse":{"i-name":"Kapuzinerkresse","i-class":"veg"},"kardamom":{"i-name":"Kardamom","i-class":"spice"},"karotte":{"i-name":"Karotte","i-class":"veg"},"karpfen":{"i-name":"Karpfen","i-class":"fish"},"kartoffel":{"i-name":"Kartoffel","i-class":"carb"},"kascha":{"i-name":"Kascha","i-class":"carb"},"käse":{"i-name":"Käse","i-class":"milk"},"kasseler":{"i-name":"Kasseler","i-class":"meat"},"kaviar":{"i-name":"Kaviar","i-class":"fish"},"kefir":{"i-name":"Kefir","i-class":"milk"},"kekse":{"i-name":"Kekse","i-class":"etc"},"kerbel":{"i-name":"Kerbel","i-class":"herb"},"kerne":{"i-name":"Kerne","i-class":"carb"},"ketchup":{"i-name":"Ketchup","i-class":"condi"},"ketjap_manis":{"i-name":"Ketjap_manis","i-class":"condi"},"kichererbsen":{"i-name":"Kichererbsen","i-class":"veg"},"kichererbsenmehl":{"i-name":"Kichererbsenmehl","i-class":"carb"},"kidneybohnen":{"i-name":"Kidneybohnen","i-class":"veg"},"kimchi":{"i-name":"Kimchi","i-class":"condi"},"kirschen":{"i-name":"Kirschen","i-class":"fruit"},"kirschtomaten":{"i-name":"Kirschtomaten","i-class":"veg"},"kiwi":{"i-name":"Kiwi","i-class":"fruit"},"kleine_vögel":{"i-name":"kleine_Vögel","i-class":"meat"},"knallbrause":{"i-name":"Knallbrause","i-class":"sweet"},"knoblauch":{"i-name":"Knoblauch","i-class":"onion"},"knoblauchsalz":{"i-name":"Knoblauchsalz","i-class":"spice"},"knochen":{"i-name":"Knochen","i-class":"meat"},"knochenmark":{"i-name":"Knochenmark","i-class":"meat"},"knollensellerie":{"i-name":"Knollensellerie","i-class":"veg"},"kohlrabi":{"i-name":"Kohlrabi","i-class":"veg"},"kokosblütenzucker":{"i-name":"Kokosblütenzucker","i-class":"sweet"},"kokoscrème":{"i-name":"Kokoscrème","i-class":"fat"},"kokoslikör":{"i-name":"Kokoslikör","i-class":"alc"},"kokosmilch":{"i-name":"Kokosmilch","i-class":"fat"},"kokosöl":{"i-name":"Kokosöl","i-class":"fat"},"kokosraspel":{"i-name":"Kokosraspel","i-class":"nuts"},"kokoswasser":{"i-name":"Kokoswasser","i-class":"nuts"},"kondensmilch":{"i-name":"Kondensmilch","i-class":"milk"},"konfitüre":{"i-name":"Konfitüre","i-class":"fruit"},"kopf":{"i-name":"Kopf","i-class":"meat"},"kopfsalat":{"i-name":"Kopfsalat","i-class":"veg"},"koriander":{"i-name":"Koriander","i-class":"spice"},"koriandergrün":{"i-name":"Koriandergrün","i-class":"herb"},"krabben":{"i-name":"Krabben","i-class":"fish"},"kräcker":{"i-name":"Kräcker","i-class":"carb"},"kräuter":{"i-name":"Kräuter","i-class":"herb"},"kräuterbutter":{"i-name":"Kräuterbutter","i-class":"fat"},"kräuteressig":{"i-name":"Kräuteressig","i-class":"condi"},"kräutersalz":{"i-name":"Kräutersalz","i-class":"spice"},"krautsalat":{"i-name":"Krautsalat","i-class":"etc"},"krebs":{"i-name":"Krebs","i-class":"fish"},"kresse":{"i-name":"Kresse","i-class":"herb"},"krustentiere":{"i-name":"Krustentiere","i-class":"fish"},"kumato":{"i-name":"Kumato","i-class":"veg"},"kümmel":{"i-name":"Kümmel","i-class":"spice"},"kumquat":{"i-name":"Kumquat","i-class":"fruit"},"kürbis":{"i-name":"Kürbis","i-class":"veg"},"kürbiskern":{"i-name":"Kürbiskern","i-class":"nuts"},"kürbiskernöl":{"i-name":"Kürbiskernöl","i-class":"fat"},"kutteln":{"i-name":"Kutteln","i-class":"meat"},"kuvertüre":{"i-name":"Kuvertüre","i-class":"sweet"},"lachs":{"i-name":"Lachs","i-class":"fish"},"lachsforelle":{"i-name":"Lachsforelle","i-class":"fish"},"lammfleisch":{"i-name":"Lammfleisch","i-class":"meat"},"lauch":{"i-name":"Lauch","i-class":"veg"},"lauchzwiebel":{"i-name":"Lauchzwiebel","i-class":"onion"},"laugengebäck":{"i-name":"Laugengebäck","i-class":"carb"},"leber":{"i-name":"Leber","i-class":"meat"},"leberwurst":{"i-name":"Leberwurst","i-class":"meat"},"lebkuchen":{"i-name":"Lebkuchen","i-class":"sweet"},"leinsamen":{"i-name":"Leinsamen","i-class":"etc"},"liebstöckel":{"i-name":"Liebstöckel","i-class":"herb"},"limette":{"i-name":"Limette","i-class":"fruit"},"limoncello":{"i-name":"Limoncello","i-class":"alc"},"linsen":{"i-name":"Linsen","i-class":"veg"},"litschi":{"i-name":"Litschi","i-class":"fruit"},"löffelbiskuit":{"i-name":"Löffelbiskuit","i-class":"sweet"},"lollo_rosso":{"i-name":"Lollo_rosso","i-class":"veg"},"lorbeer":{"i-name":"Lorbeer","i-class":"herb"},"löwenzahn":{"i-name":"Löwenzahn","i-class":"veg"},"lunge":{"i-name":"Lunge","i-class":"meat"},"lupinenbratling":{"i-name":"Lupinenbratling","i-class":"carb"},"macadamianüsse":{"i-name":"Macadamianüsse","i-class":"nuts"},"madeira":{"i-name":"Madeira","i-class":"alc"},"maggi":{"i-name":"Maggi","i-class":"condi"},"mairüben":{"i-name":"Mairüben","i-class":"veg"},"mais":{"i-name":"Mais","i-class":"veg"},"maismehl":{"i-name":"Maismehl","i-class":"carb"},"majoran":{"i-name":"Majoran","i-class":"herb"},"makronen":{"i-name":"Makronen","i-class":"sweet"},"malaga":{"i-name":"Malaga","i-class":"alc"},"mandarine":{"i-name":"Mandarine","i-class":"fruit"},"mandel":{"i-name":"Mandel","i-class":"nuts"},"mandelmilch":{"i-name":"Mandelmilch","i-class":"nuts"},"mandelmus":{"i-name":"Mandelmus","i-class":"nuts"},"mango":{"i-name":"Mango","i-class":"fruit"},"mangold":{"i-name":"Mangold","i-class":"veg"},"mangopickle":{"i-name":"Mangopickle","i-class":"condi"},"mangosaft":{"i-name":"Mangosaft","i-class":"fruit"},"maracuja":{"i-name":"Maracuja","i-class":"fruit"},"maracujasaft":{"i-name":"Maracujasaft","i-class":"fruit"},"maracujasirup":{"i-name":"Maracujasirup","i-class":"sweet"},"marmelade":{"i-name":"Marmelade","i-class":"fruit"},"marone":{"i-name":"Marone","i-class":"nuts"},"marsala":{"i-name":"Marsala","i-class":"alc"},"marzipan":{"i-name":"Marzipan","i-class":"sweet"},"mascarpone":{"i-name":"Mascarpone","i-class":"milk"},"matjes":{"i-name":"Matjes","i-class":"fish"},"maultasche":{"i-name":"Maultasche","i-class":"etc"},"mayonnaise":{"i-name":"Mayonnaise","i-class":"condi"},"meerrettich":{"i-name":"Meerrettich","i-class":"spice"},"melasse":{"i-name":"Melasse","i-class":"sweet"},"melone":{"i-name":"Melone","i-class":"fruit"},"mettwurst":{"i-name":"Mettwurst","i-class":"meat"},"miesmuschel":{"i-name":"Miesmuschel","i-class":"fish"},"milch":{"i-name":"Milch","i-class":"milk"},"minze":{"i-name":"Minze","i-class":"herb"},"mirabelle":{"i-name":"Mirabelle","i-class":"fruit"},"mirin":{"i-name":"Mirin","i-class":"condi"},"miso":{"i-name":"Miso","i-class":"condi"},"mohn":{"i-name":"Mohn","i-class":"spice"},"möhrengrün":{"i-name":"Möhrengrün","i-class":"herb"},"morchel":{"i-name":"Morchel","i-class":"veg"},"mozzarella":{"i-name":"Mozzarella","i-class":"milk"},"mu_err_pilz":{"i-name":"Mu_err_Pilz","i-class":"veg"},"multivitaminsaft":{"i-name":"Multivitaminsaft","i-class":"fruit"},"mürbeteig":{"i-name":"Mürbeteig","i-class":"carb"},"muscheln":{"i-name":"Muscheln","i-class":"fish"},"muskat":{"i-name":"Muskat","i-class":"spice"},"myrte":{"i-name":"Myrte","i-class":"herb"},"nektarine":{"i-name":"Nektarine","i-class":"fruit"},"nelke":{"i-name":"Nelke","i-class":"spice"},"niere":{"i-name":"Niere","i-class":"meat"},"nierenfett":{"i-name":"Nierenfett","i-class":"fat"},"noriblatt":{"i-name":"Noriblatt","i-class":"etc"},"noriflocken":{"i-name":"Noriflocken","i-class":"spice"},"nougat":{"i-name":"Nougat","i-class":"sweet"},"nudeln":{"i-name":"Nudeln","i-class":"carb"},"nüsse":{"i-name":"Nüsse","i-class":"nuts"},"obst":{"i-name":"Obst","i-class":"fruit"},"obstessig":{"i-name":"Obstessig","i-class":"condi"},"obstler":{"i-name":"Obstler","i-class":"alc"},"ohren":{"i-name":"Ohren","i-class":"meat"},"olive":{"i-name":"Olive","i-class":"spice"},"olivenöl":{"i-name":"Olivenöl","i-class":"fat"},"orange":{"i-name":"Orange","i-class":"fruit"},"orangeat":{"i-name":"Orangeat","i-class":"condi"},"orangenabrieb":{"i-name":"Orangenabrieb","i-class":"fruit"},"orangenagrumato":{"i-name":"Orangenagrumato","i-class":"fat"},"orangenblütenwasser":{"i-name":"Orangenblütenwasser","i-class":"spice"},"orangenlikör":{"i-name":"Orangenlikör","i-class":"alc"},"orangensaft":{"i-name":"Orangensaft","i-class":"fruit"},"orangenschale":{"i-name":"Orangenschale","i-class":"fruit"},"oregano":{"i-name":"Oregano","i-class":"herb"},"ottersberger_rüben":{"i-name":"Ottersberger_Rüben","i-class":"veg"},"ouzo":{"i-name":"Ouzo","i-class":"alc"},"pak_choi":{"i-name":"Pak_choi","i-class":"veg"},"panhas":{"i-name":"Panhas","i-class":"meat"},"paniermehl":{"i-name":"Paniermehl","i-class":"carb"},"panir":{"i-name":"Panir","i-class":"milk"},"papaya":{"i-name":"Papaya","i-class":"fruit"},"paprika":{"i-name":"Paprika","i-class":"veg"},"paprikamark":{"i-name":"Paprikamark","i-class":"condi"},"paprikapulver":{"i-name":"Paprikapulver","i-class":"spice"},"parmesan":{"i-name":"Parmesan","i-class":"milk"},"passionsfrucht":{"i-name":"Passionsfrucht","i-class":"fruit"},"passionsfruchtlikör":{"i-name":"Passionsfruchtlikör","i-class":"alc"},"passionsfruchtsirup":{"i-name":"Passionsfruchtsirup","i-class":"sweet"},"pastinake":{"i-name":"Pastinake","i-class":"veg"},"pecorino":{"i-name":"Pecorino","i-class":"milk"},"pekannuss":{"i-name":"Pekannuss","i-class":"nuts"},"peperoni":{"i-name":"Peperoni","i-class":"spice"},"pernod":{"i-name":"Pernod","i-class":"alc"},"pesto":{"i-name":"Pesto","i-class":"condi"},"petersilie":{"i-name":"Petersilie","i-class":"herb"},"petersilienwurzel":{"i-name":"Petersilienwurzel","i-class":"veg"},"pfeffer":{"i-name":"Pfeffer","i-class":"spice"},"pfifferlinge":{"i-name":"Pfifferlinge","i-class":"veg"},"pfirsich":{"i-name":"Pfirsich","i-class":"fruit"},"pfirsichlikör":{"i-name":"Pfirsichlikör","i-class":"alc"},"pflanzenfett":{"i-name":"Pflanzenfett","i-class":"fat"},"pflaume":{"i-name":"Pflaume","i-class":"fruit"},"pflaumenwein":{"i-name":"Pflaumenwein","i-class":"alc"},"pfoten":{"i-name":"Pfoten","i-class":"meat"},"physalis":{"i-name":"Physalis","i-class":"fruit"},"pilze":{"i-name":"Pilze","i-class":"veg"},"piment":{"i-name":"Piment","i-class":"spice"},"pimpinelle":{"i-name":"Pimpinelle","i-class":"herb"},"pinienkerne":{"i-name":"Pinienkerne","i-class":"nuts"},"pinkelwurst":{"i-name":"Pinkelwurst","i-class":"meat"},"piripiri":{"i-name":"Piripiri","i-class":"condi"},"pisco":{"i-name":"Pisco","i-class":"alc"},"pistazie":{"i-name":"Pistazie","i-class":"nuts"},"pökelfleisch":{"i-name":"Pökelfleisch","i-class":"meat"},"polenta":{"i-name":"Polenta","i-class":"carb"},"pomeranze":{"i-name":"Pomeranze","i-class":"fruit"},"portobello":{"i-name":"Portobello","i-class":"veg"},"portulak":{"i-name":"Portulak","i-class":"veg"},"portwein":{"i-name":"Portwein","i-class":"alc"},"preiselbeeren":{"i-name":"Preiselbeer_Marmelade","i-class":"condi"},"preiselbeermarmelade":{"i-name":"Preiselbeermarmelade","i-class":"sweet"},"provolone":{"i-name":"Provolone","i-class":"milk"},"puddingpulver":{"i-name":"Puddingpulver","i-class":"sweet"},"pute":{"i-name":"Pute","i-class":"meat"},"quark":{"i-name":"Quark","i-class":"milk"},"quinoa":{"i-name":"Quinoa","i-class":"carb"},"quitte":{"i-name":"Quitte","i-class":"fruit"},"radicchio":{"i-name":"Radicchio","i-class":"veg"},"radieschen":{"i-name":"Radieschen","i-class":"veg"},"radieschengrün":{"i-name":"Radieschengrün","i-class":"herb"},"ras_el_hanout":{"i-name":"Ras_el_hanout","i-class":"spice"},"räucherfisch":{"i-name":"Räucherfisch","i-class":"fish"},"räucherlachs":{"i-name":"Räucherlachs","i-class":"fish"},"räucherspeck":{"i-name":"Räucherspeck","i-class":"meat"},"rauchfleisch":{"i-name":"Rauchfleisch","i-class":"meat"},"rauchsalz":{"i-name":"Rauchsalz","i-class":"spice"},"ravioli":{"i-name":"Ravioli","i-class":"etc"},"rehundhirsch":{"i-name":"Reh_und_Hirsch","i-class":"meat"},"reis":{"i-name":"Reis","i-class":"carb"},"reisessig":{"i-name":"Reisessig","i-class":"condi"},"reismehl":{"i-name":"Reismehl","i-class":"carb"},"reisnudeln":{"i-name":"Reisnudeln","i-class":"carb"},"reiswein":{"i-name":"Reiswein","i-class":"alc"},"rettich":{"i-name":"Rettich","i-class":"veg"},"ricotta":{"i-name":"Ricotta","i-class":"milk"},"rindfleisch":{"i-name":"Rindfleisch","i-class":"meat"},"risotto":{"i-name":"Risotto","i-class":"etc"},"roggen":{"i-name":"Roggen","i-class":"carb"},"roggenmehl":{"i-name":"Roggenmehl","i-class":"carb"},"rohrzucker":{"i-name":"Rohrzucker","i-class":"sweet"},"romana":{"i-name":"Romana","i-class":"veg"},"roquefort":{"i-name":"Roquefort","i-class":"milk"},"rosa_beeren":{"i-name":"rosa_Beeren","i-class":"spice"},"rosenblätter":{"i-name":"Rosenblätter","i-class":"herb"},"rosenkohl":{"i-name":"Rosenkohl","i-class":"veg"},"rosenwasser":{"i-name":"Rosenwasser","i-class":"condi"},"rosmarin":{"i-name":"Rosmarin","i-class":"herb"},"röstzwiebeln":{"i-name":"Röstzwiebeln","i-class":"onion"},"rote_bete":{"i-name":"Rote_Bete","i-class":"veg"},"rote_bete_blätter":{"i-name":"Rote_Bete_Blätter","i-class":"veg"},"roter_mangold":{"i-name":"roter_Mangold","i-class":"veg"},"rotkohl":{"i-name":"Rotkohl","i-class":"veg"},"rotwein":{"i-name":"Rotwein","i-class":"alc"},"rucola":{"i-name":"Rucola","i-class":"veg"},"rum":{"i-name":"Rum","i-class":"alc"},"safran":{"i-name":"Safran","i-class":"spice"},"sago":{"i-name":"Sago","i-class":"carb"},"sahne":{"i-name":"Sahne","i-class":"milk"},"sahnelikör":{"i-name":"Sahnelikör","i-class":"alc"},"saibling":{"i-name":"Saibling","i-class":"fish"},"salami":{"i-name":"Salami","i-class":"meat"},"salat":{"i-name":"Salat","i-class":"veg"},"salbei":{"i-name":"Salbei","i-class":"herb"},"salicorn":{"i-name":"Salicorn","i-class":"veg"},"salzmandeln":{"i-name":"Salzmandeln","i-class":"nuts"},"salzorange":{"i-name":"Salzorange","i-class":"fruit"},"salzzitrone":{"i-name":"Salzzitrone","i-class":"fruit"},"sambal":{"i-name":"Sambal","i-class":"spice"},"sardelle":{"i-name":"Sardellen","i-class":"fish"},"sauce_bolognese":{"i-name":"Sauce_Bolognese","i-class":"condi"},"sauce_hollandaise":{"i-name":"Sauce_hollandaise","i-class":"condi"},"saucenbinder":{"i-name":"Saucenbinder","i-class":"carb"},"sauerampfer":{"i-name":"Sauerampfer","i-class":"herb"},"sauerkirschen":{"i-name":"Sauerkirschen","i-class":"fruit"},"sauerkraut":{"i-name":"Sauerkraut","i-class":"veg"},"sauerteigbrot":{"i-name":"Sauerteigbrot","i-class":"carb"},"saure_sahne":{"i-name":"saure_Sahne","i-class":"milk"},"scampi":{"i-name":"Scampi","i-class":"fish"},"schabzigerklee":{"i-name":"Schabzigerklee","i-class":"herb"},"schafgarbe":{"i-name":"Schafgarbe","i-class":"herb"},"schafskäse":{"i-name":"Schafskäse","i-class":"milk"},"schalotten":{"i-name":"Schalotten","i-class":"onion"},"schinken":{"i-name":"Schinken","i-class":"meat"},"schmalz":{"i-name":"Schmalz","i-class":"fat"},"schmand":{"i-name":"Schmand","i-class":"milk"},"schmelzkäse":{"i-name":"Schmelzkäse","i-class":"milk"},"schnauze":{"i-name":"Schnauze","i-class":"meat"},"schnittknoblauch":{"i-name":"Schnittknoblauch","i-class":"herb"},"schnittlauch":{"i-name":"Schnittlauch","i-class":"onion"},"schokolade":{"i-name":"Schokolade","i-class":"sweet"},"scholle":{"i-name":"Scholle","i-class":"fish"},"schwarzbrot":{"i-name":"Schwarzbrot","i-class":"carb"},"schwarze_bohnen":{"i-name":"Schwarze_Bohnen","i-class":"veg"},"schwarzer_knoblauch":{"i-name":"Schwarzer_Knoblauch","i-class":"onion"},"schwarzkohl":{"i-name":"Schwarzkohl","i-class":"veg"},"schwarzkümmel":{"i-name":"Schwarzkümmel","i-class":"spice"},"schwarzwurzel":{"i-name":"Schwarzwurzel","i-class":"veg"},"schweinefleisch":{"i-name":"Schweinefleisch","i-class":"meat"},"schweineschmalz":{"i-name":"Schweineschmalz","i-class":"fat"},"schweinskopf":{"i-name":"Schweinskopf","i-class":"meat"},"schweinsrippe":{"i-name":"Schweinsrippe","i-class":"meat"},"seeteufel":{"i-name":"Seeteufel","i-class":"fish"},"seezunge":{"i-name":"Seezunge","i-class":"fish"},"sekt":{"i-name":"Sekt","i-class":"alc"},"selleriegrün":{"i-name":"Selleriegrün","i-class":"herb"},"senf":{"i-name":"Senf","i-class":"condi"},"senfgurken":{"i-name":"Senfgurken","i-class":"condi"},"senfsamen":{"i-name":"Senfsamen","i-class":"spice"},"sesam":{"i-name":"Sesam","i-class":"spice"},"sesamöl":{"i-name":"Sesamöl","i-class":"fat"},"sharon":{"i-name":"Sharon","i-class":"fruit"},"sherry":{"i-name":"Sherry","i-class":"alc"},"sherryessig":{"i-name":"Sherryessig","i-class":"condi"},"shiitake":{"i-name":"Shiitake","i-class":"veg"},"shrimps":{"i-name":"Shrimps","i-class":"fish"},"shrimpsauce":{"i-name":"Shrimpsauce","i-class":"condi"},"sirup":{"i-name":"Sirup","i-class":"sweet"},"sojacreme":{"i-name":"Sojacreme","i-class":"fat"},"sojasauce":{"i-name":"Sojasauce","i-class":"condi"},"sonnenblumenkerne":{"i-name":"Sonnenblumenkerne","i-class":"etc"},"sonnenblumenöl":{"i-name":"Sonnenblumenöl","i-class":"fat"},"spargel":{"i-name":"Spargel","i-class":"veg"},"spargelerbsen":{"i-name":"Spargelerbsen","i-class":"veg"},"speck":{"i-name":"Speck","i-class":"meat"},"spinat":{"i-name":"Spinat","i-class":"veg"},"spitzkohl":{"i-name":"Spitzkohl","i-class":"veg"},"spitzpaprika":{"i-name":"Spitzpaprika","i-class":"veg"},"spitzwegerich":{"i-name":"Spitzwegerich","i-class":"herb"},"sprossen":{"i-name":"Sprossen","i-class":"veg"},"stachelbeeren":{"i-name":"Stachelbeeren","i-class":"fruit"},"stangenbohnen":{"i-name":"Stangenbohnen","i-class":"veg"},"stärke":{"i-name":"Stärke","i-class":"etc"},"staudensellerie":{"i-name":"Staudensellerie","i-class":"veg"},"steckrübe":{"i-name":"Steckrübe","i-class":"veg"},"steinpilz":{"i-name":"Steinpilz","i-class":"veg"},"sternanis":{"i-name":"Sternanis","i-class":"spice"},"stielmus":{"i-name":"Stielmus","i-class":"veg"},"stockfisch":{"i-name":"Stockfisch","i-class":"fish"},"stör":{"i-name":"Stör","i-class":"fish"},"stubenküken":{"i-name":"Stubenküken","i-class":"meat"},"sultaninen":{"i-name":"Sultaninen","i-class":"fruit"},"sülze":{"i-name":"Sülze","i-class":"meat"},"sumach":{"i-name":"Sumach","i-class":"spice"},"suppengemüse":{"i-name":"Suppengemüse","i-class":"veg"},"suppenwürze":{"i-name":"Suppenwürze","i-class":"condi"},"surimi":{"i-name":"Surimi","i-class":"fish"},"süß_saure_sauce":{"i-name":"süß_saure_Sauce","i-class":"condi"},"süßkartoffel":{"i-name":"Süßkartoffel","i-class":"carb"},"süßstoff":{"i-name":"Süßstoff","i-class":"sweet"},"süßwein":{"i-name":"Süßwein","i-class":"alc"},"szechuanpfeffer":{"i-name":"Szechuanpfeffer","i-class":"spice"},"tabasco":{"i-name":"Tabasco","i-class":"condi"},"tacosauce":{"i-name":"Tacosauce","i-class":"condi"},"tafelspitz":{"i-name":"Tafelspitz","i-class":"meat"},"tahina":{"i-name":"Tahina","i-class":"condi"},"tamarinde":{"i-name":"Tamarinde","i-class":"spice"},"tandoori_masala":{"i-name":"Tandoori_masala","i-class":"spice"},"taube":{"i-name":"Taube","i-class":"meat"},"taubnessel":{"i-name":"Taubnessel","i-class":"herb"},"teig":{"i-name":"Teig","i-class":"carb"},"teigblätter":{"i-name":"Teigblätter","i-class":"carb"},"teltower_rüben":{"i-name":"Teltower_Rüben","i-class":"veg"},"teriyaki":{"i-name":"Teriyaki","i-class":"condi"},"thaibasilikum":{"i-name":"Thaibasilikum","i-class":"herb"},"thunfisch":{"i-name":"Thunfisch","i-class":"fish"},"thymian":{"i-name":"Thymian","i-class":"herb"},"tilsiter":{"i-name":"Tilsiter","i-class":"milk"},"tintenfisch":{"i-name":"Tintenfisch","i-class":"fish"},"tofu":{"i-name":"Tofu","i-class":"etc"},"tomate":{"i-name":"Tomate","i-class":"veg"},"tomatenessig":{"i-name":"Tomatenessig","i-class":"condi"},"tomatenmark":{"i-name":"Tomatenmark","i-class":"condi"},"tomatensaft":{"i-name":"Tomatensaft","i-class":"fruit"},"tomatensauce":{"i-name":"Tomatensauce","i-class":"etc"},"tonic_water":{"i-name":"Tonic_Water","i-class":"etc"},"tonkabohne":{"i-name":"Tonkabohne","i-class":"spice"},"topinambur":{"i-name":"Topinambur","i-class":"veg"},"tortillafladen":{"i-name":"Tortillafladen","i-class":"carb"},"traubensaft":{"i-name":"Traubensaft","i-class":"fruit"},"trüffel":{"i-name":"Trüffel","i-class":"herb"},"trüffelbutter":{"i-name":"Trüffelbutter","i-class":"condi"},"trüffelöl":{"i-name":"Trüffelöl","i-class":"condi"},"vacherin":{"i-name":"Vacherin","i-class":"milk"},"vanille":{"i-name":"Vanille","i-class":"spice"},"vanilleeis":{"i-name":"Vanilleeis","i-class":"sweet"},"vanillezucker":{"i-name":"Vanillezucker","i-class":"sweet"},"vollkornbrot":{"i-name":"Vollkornbrot","i-class":"carb"},"wacholder":{"i-name":"Wacholder","i-class":"spice"},"wacholderdrossel":{"i-name":"Wacholderdrossel","i-class":"meat"},"waffeln":{"i-name":"Waffeln","i-class":"sweet"},"wakame":{"i-name":"Wakame","i-class":"condi"},"walnuss":{"i-name":"Walnuss","i-class":"nuts"},"walnussöl":{"i-name":"Walnussöl","i-class":"fat"},"wasabi":{"i-name":"Wasabi","i-class":"spice"},"wassermelone":{"i-name":"Wassermelone","i-class":"fruit"},"wein":{"i-name":"Wein","i-class":"alc"},"weinblätter":{"i-name":"Weinblätter","i-class":"spice"},"weinbrand":{"i-name":"Weinbrand","i-class":"alc"},"weinessig":{"i-name":"Weinessig","i-class":"condi"},"weinraute":{"i-name":"Weinraute","i-class":"herb"},"weintrauben":{"i-name":"Weintrauben","i-class":"fruit"},"weißbrot":{"i-name":"Weißbrot","i-class":"carb"},"weiße_bohnen":{"i-name":"Weiße_Bohnen","i-class":"veg"},"weißer_spargel":{"i-name":"weißer_Spargel","i-class":"veg"},"weißkohl":{"i-name":"Weißkohl","i-class":"veg"},"weißwein":{"i-name":"Weißwein","i-class":"alc"},"weißweinessig":{"i-name":"Weißweinessig","i-class":"condi"},"weizen":{"i-name":"Weizen","i-class":"carb"},"weizenmehl":{"i-name":"Weizenmehl","i-class":"carb"},"wermut":{"i-name":"Wermut","i-class":"alc"},"whiskey":{"i-name":"Whiskey","i-class":"alc"},"wiesenklee":{"i-name":"Wiesenklee","i-class":"herb"},"wildbret":{"i-name":"Wildbret","i-class":"meat"},"wildfarce":{"i-name":"Wildfarce","i-class":"meat"},"wildfond":{"i-name":"Wildfond","i-class":"condi"},"wildgeflügel":{"i-name":"Wildgeflügel","i-class":"meat"},"wildschinken":{"i-name":"Wildschinken","i-class":"meat"},"wildschwein":{"i-name":"Wildschwein","i-class":"meat"},"wirsing":{"i-name":"Wirsing","i-class":"veg"},"wodka":{"i-name":"Wodka","i-class":"alc"},"worcester":{"i-name":"Worcester","i-class":"condi"},"wurst":{"i-name":"Wurst","i-class":"meat"},"wurzeln":{"i-name":"Wurzeln","i-class":"veg"},"würzfenchel":{"i-name":"Würzfenchel","i-class":"herb"},"zander":{"i-name":"Zander","i-class":"fish"},"zatar":{"i-name":"Zatar","i-class":"spice"},"zichorie":{"i-name":"Zichorie","i-class":"veg"},"zicklein":{"i-name":"Zicklein","i-class":"meat"},"ziegenfleisch":{"i-name":"Ziegenfleisch","i-class":"meat"},"ziegenfrischkäse":{"i-name":"Ziegenfrischkäse","i-class":"milk"},"ziegenkäse":{"i-name":"Ziegenkäse","i-class":"milk"},"zimt":{"i-name":"Zimt","i-class":"spice"},"zitronat":{"i-name":"Zitronat","i-class":"condi"},"zitrone":{"i-name":"Zitrone","i-class":"fruit"},"zitronengras":{"i-name":"Zitronengras","i-class":"herb"},"zitronenmelisse":{"i-name":"Zitronenmelisse","i-class":"herb"},"zucchini":{"i-name":"Zucchini","i-class":"veg"},"zucker":{"i-name":"Zucker","i-class":"sweet"},"zuckerschoten":{"i-name":"Zuckerschoten","i-class":"veg"},"zunge":{"i-name":"Zunge","i-class":"meat"},"zwetschge":{"i-name":"Zwetschge","i-class":"fruit"},"zwieback":{"i-name":"Zwieback","i-class":"carb"},"zwiebel":{"i-name":"Zwiebel","i-class":"onion"}}}
+{
+    "classes": {
+        "alc": {
+            "label": "Alkohol",
+            "colorHex": "F0F8FF"
+        },
+        "carb": {
+            "label": "Kohlenhydrate",
+            "colorHex": "DEB887"
+        },
+        "condi": {
+            "label": "Zubereitung",
+            "colorHex": "5F9EA0"
+        },
+        "egg": {
+            "label": "Ei",
+            "colorHex": "FFA500"
+        },
+        "etc": {
+            "label": "etc",
+            "colorHex": "F5F5F5"
+        },
+        "fat": {
+            "label": "Fett",
+            "colorHex": "FFE4C4"
+        },
+        "fish": {
+            "label": "Fisch",
+            "colorHex": "FFC0CB"
+        },
+        "fruit": {
+            "label": "Frucht",
+            "colorHex": "6B8E23"
+        },
+        "herb": {
+            "label": "Kräuter",
+            "colorHex": "DAA520"
+        },
+        "meat": {
+            "label": "Fleisch",
+            "colorHex": "CD5C5C"
+        },
+        "milk": {
+            "label": "Milch",
+            "colorHex": "E6E6FA"
+        },
+        "nuts": {
+            "label": "Nüsse",
+            "colorHex": "D2691E"
+        },
+        "onion": {
+            "label": "Zwiebel",
+            "colorHex": "FFD700"
+        },
+        "spice": {
+            "label": "Gewürz",
+            "colorHex": "FF6347"
+        },
+        "sweet": {
+            "label": "süß",
+            "colorHex": "FA8072"
+        },
+        "veg": {
+            "label": "Gemüse",
+            "colorHex": "9ACD32"
+        }
+    },
+    "ingredients": {
+        "aal": {
+            "i-name": "Aal",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "ackerbohne": {
+            "i-name": "Ackerbohne",
+            "i-class": "veg",
+            "synonyms": [
+                "saubohne",
+                "dicke bohne",
+                "großebohne"
+            ]
+        },
+        "ackerrettich": {
+            "i-name": "Ackerrettich",
+            "i-class": "veg",
+            "synonyms": [
+                "acker-rettich",
+                "hederich",
+                "häderich"
+            ]
+        },
+        "agavendicksaft": {
+            "i-name": "Agavendicksaft",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "ahornsirup": {
+            "i-name": "Ahornsirup",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "ajvar": {
+            "i-name": "Ajvar",
+            "i-class": "condi",
+            "synonyms": ["ajwar"]
+        },
+        "algen": {
+            "i-name": "Algen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "amarant": {
+            "i-name": "Amarant",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "amaretti": {
+            "i-name": "Amaretti",
+            "i-class": "sweet",
+            "synonyms": ["amarettini"]
+        },
+        "amaretto": {
+            "i-name": "Amaretto",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "ananas": {
+            "i-name": "Ananas",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "ananassaft": {
+            "i-name": "Ananassaft",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "ancho": {
+            "i-name": "Ancho",
+            "i-class": "spice",
+            "synonyms": ["ancho-chilischote"]
+        },
+        "anis": {
+            "i-name": "Anis",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "aperol": {
+            "i-name": "Aperol",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "apfel": {
+            "i-name": "Apfel",
+            "i-class": "fruit",
+            "synonyms": [
+                "äpfel",
+                "aepfel"
+            ]
+        },
+        "apfelessig": {
+            "i-name": "Apfelessig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "apfelkraut": {
+            "i-name": "Apfelkraut",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "apfelsaft": {
+            "i-name": "Apfelsaft",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "appenzeller": {
+            "i-name": "Appenzeller",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "aprikose": {
+            "i-name": "Aprikose",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "arak": {
+            "i-name": "Arak",
+            "i-class": "alc",
+            "synonyms": ["arak masak"]
+        },
+        "artischocke": {
+            "i-name": "Artischocke",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "asa_foetida": {
+            "i-name": "Asa_Foetida",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "asafoetida": {
+            "i-name": "Asafoetida",
+            "i-class": "spice",
+            "synonyms": ["asafötida"]
+        },
+        "auberginen": {
+            "i-name": "Aubergine",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "austern": {
+            "i-name": "Austern",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "austernpilz": {
+            "i-name": "Austernpilz",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "austernsauce": {
+            "i-name": "Austernsauce",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "avocado": {
+            "i-name": "Avocado",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "babyspinat": {
+            "i-name": "Babyspinat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "backobst": {
+            "i-name": "Backobst",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "backpflaume": {
+            "i-name": "Backpflaume",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "backpulver": {
+            "i-name": "Backpulver",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "baharat": {
+            "i-name": "Baharat",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "baiser": {
+            "i-name": "Baiser",
+            "i-class": "egg",
+            "synonyms": []
+        },
+        "balsamico": {
+            "i-name": "Balsamico",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "bambus": {
+            "i-name": "Bambus",
+            "i-class": "veg",
+            "synonyms": [
+                "bambussprossen",
+                "bambusscheiben"
+            ]
+        },
+        "banane": {
+            "i-name": "Banane",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "bärlauch": {
+            "i-name": "Bärlauch",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "barsch": {
+            "i-name": "Barsch",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "basilikum": {
+            "i-name": "Basilikum",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "béchamelsauce": {
+            "i-name": "Béchamelsauce",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "beeren": {
+            "i-name": "Beeren",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "beifuß": {
+            "i-name": "Beifuß",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "berbere": {
+            "i-name": "Berbere",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "bergkäse": {
+            "i-name": "Bergkäse",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "bier": {
+            "i-name": "Bier",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "bindemittel": {
+            "i-name": "Bindemittel",
+            "i-class": "carb",
+            "synonyms": [
+                "johannisbrotkernmehl",
+                "biobin",
+                "bindobin"
+            ]
+        },
+        "birne": {
+            "i-name": "Birne",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "birnenkraut": {
+            "i-name": "Birnenkraut",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "biskuit": {
+            "i-name": "Biskuit",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "bittermandel": {
+            "i-name": "Bittermandel",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "blätterteig": {
+            "i-name": "Blätterteig",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "blattsalat": {
+            "i-name": "Blattsalat",
+            "i-class": "veg",
+            "synonyms": ["salat"]
+        },
+        "blauschimmel": {
+            "i-name": "Blauschimmel",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "blumenkohl": {
+            "i-name": "Blumenkohl",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "blut": {
+            "i-name": "Blut",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "blutampfer": {
+            "i-name": "Blutampfer",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "blüten": {
+            "i-name": "Blüten",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "blutorangen": {
+            "i-name": "Blutorangen",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "blutwurst": {
+            "i-name": "Blutwurst",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "bockshornklee": {
+            "i-name": "Bockshornklee",
+            "i-class": "herb",
+            "synonyms": ["bockshornkleesamen"]
+        },
+        "bohnen": {
+            "i-name": "Bohnen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "bohnenkraut": {
+            "i-name": "Bohnenkraut",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "borretsch": {
+            "i-name": "Borretsch",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "brasse": {
+            "i-name": "Brasse",
+            "i-class": "fish",
+            "synonyms": [
+                "goldbrasse",
+                "dorade royale"
+            ]
+        },
+        "bratenfond": {
+            "i-name": "Bratenfond",
+            "i-class": "condi",
+            "synonyms": ["bratensaft"]
+        },
+        "bratenjus": {
+            "i-name": "Bratenjus",
+            "i-class": "condi",
+            "synonyms": ["jus"]
+        },
+        "bratensauce": {
+            "i-name": "Bratensauce",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "bratfett": {
+            "i-name": "Bratfett",
+            "i-class": "fat",
+            "synonyms": ["bratenfett"]
+        },
+        "bratwurst": {
+            "i-name": "Bratwurst",
+            "i-class": "meat",
+            "synonyms": [
+                "bratwürste",
+                "rostbratwürste"
+            ]
+        },
+        "breite_bohnen": {
+            "i-name": "Breite_Bohnen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "brennnessel": {
+            "i-name": "Brennnessel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "bresaola": {
+            "i-name": "Bresaola",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "brokkoli": {
+            "i-name": "Brokkoli",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "brot": {
+            "i-name": "Brot",
+            "i-class": "carb",
+            "synonyms": [
+                "pide",
+                "croûtons",
+                "brötchen",
+                "vierpfennigsbrödchen"
+            ]
+        },
+        "brotgewürz": {
+            "i-name": "Brotgewürz",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "brühe": {
+            "i-name": "Brühe",
+            "i-class": "condi",
+            "synonyms": [
+                "fond",
+                "sud"
+            ]
+        },
+        "brunnenkresse": {
+            "i-name": "Brunnenkresse",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "buchweizen": {
+            "i-name": "Buchweizen",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "buchweizenmehl": {
+            "i-name": "Buchweizenmehl",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "büffelmozzarella": {
+            "i-name": "Büffelmozzarella",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "bulgur": {
+            "i-name": "Bulgur",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "butt": {
+            "i-name": "Butt",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "butter": {
+            "i-name": "Butter",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "butterkäse": {
+            "i-name": "Butterkäse",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "butterkohl": {
+            "i-name": "Butterkohl",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "buttermilch": {
+            "i-name": "Buttermilch",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "butternusskürbis": {
+            "i-name": "Butternusskürbis",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "butterschmalz": {
+            "i-name": "Butterschmalz",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "cajunmischung": {
+            "i-name": "Cajunmischung",
+            "i-class": "spice",
+            "synonyms": ["cajun-gewürzmischung"]
+        },
+        "camembert": {
+            "i-name": "Camembert",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "cascabel": {
+            "i-name": "Cascabel",
+            "i-class": "spice",
+            "synonyms": ["cascabel-chilischote"]
+        },
+        "cashew": {
+            "i-name": "Cashew",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "cassis": {
+            "i-name": "Cassis",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "cataloupemelone": {
+            "i-name": "Cantaloupemelone",
+            "i-class": "fruit",
+            "synonyms": ["cantaloupe-melone"]
+        },
+        "cayennepfeffer": {
+            "i-name": "Cayennepfeffer",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "chaat_masala": {
+            "i-name": "Chaat_Masala",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "champignon": {
+            "i-name": "Champignon",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "cheddar": {
+            "i-name": "Cheddar",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "chiasamen": {
+            "i-name": "Chiasamen",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "chicorée": {
+            "i-name": "Chicorée",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "chili": {
+            "i-name": "Chili",
+            "i-class": "spice",
+            "synonyms": ["pul biber"]
+        },
+        "chiliflocken": {
+            "i-name": "Chiliflocken",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "chilipaste": {
+            "i-name": "Chilipaste",
+            "i-class": "spice",
+            "synonyms": ["gochujang"]
+        },
+        "chilischote": {
+            "i-name": "Chilischote",
+            "i-class": "spice",
+            "synonyms": [
+                "chili",
+                "peperoncini",
+                "peperoncino"
+            ]
+        },
+        "chinakohl": {
+            "i-name": "Chinakohl",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "chipotle": {
+            "i-name": "Chipotle",
+            "i-class": "spice",
+            "synonyms": ["chipotle-chiliflocken"]
+        },
+        "choisum": {
+            "i-name": "Choi_sum",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "chop_suey": {
+            "i-name": "Chop_suey",
+            "i-class": "etc",
+            "synonyms": ["chop suey"]
+        },
+        "cidre": {
+            "i-name": "Cidre",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "clementine": {
+            "i-name": "Clementine",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "cocktailkirschen": {
+            "i-name": "Cocktailkirschen",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "cola": {
+            "i-name": "Cola",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "cornichon": {
+            "i-name": "Cornichon",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "couscous": {
+            "i-name": "Couscous",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "cranberry": {
+            "i-name": "Cranberry",
+            "i-class": "fruit",
+            "synonyms": ["cranberries"]
+        },
+        "crème": {
+            "i-name": "Crème_vegan",
+            "i-class": "fat",
+            "synonyms": [
+                "creme",
+                "schlagcreme"
+            ]
+        },
+        "crème_double": {
+            "i-name": "Crème_double",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "crème_fraîche": {
+            "i-name": "Crème_fraîche",
+            "i-class": "milk",
+            "synonyms": ["crème légère"]
+        },
+        "crownprincekürbis": {
+            "i-name": "Crown_Prince_Kürbis",
+            "i-class": "veg",
+            "synonyms": ["crown-prince-kürbis"]
+        },
+        "cumin": {
+            "i-name": "Cumin",
+            "i-class": "spice",
+            "synonyms": ["kreuzkümmel"]
+        },
+        "curaçao": {
+            "i-name": "Curaçao",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "curcuma": {
+            "i-name": "Curcuma",
+            "i-class": "spice",
+            "synonyms": [
+                "kurkuma",
+                "corcuma"
+            ]
+        },
+        "curry": {
+            "i-name": "Curry",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "curryblätter": {
+            "i-name": "Curryblätter",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "dattel": {
+            "i-name": "Dattel",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "datteln": {
+            "i-name": "Datteln",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "dijonsenf": {
+            "i-name": "Dijonsenf",
+            "i-class": "condi",
+            "synonyms": ["dijon-senf"]
+        },
+        "dill": {
+            "i-name": "Dill",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "dinkel": {
+            "i-name": "Dinkel",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "drachenfrucht": {
+            "i-name": "Drachenfrucht",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "dressing": {
+            "i-name": "Dressing",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "ducca": {
+            "i-name": "Ducca",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "edamame": {
+            "i-name": "Edamame",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "ei": {
+            "i-name": "Ei",
+            "i-class": "egg",
+            "synonyms": []
+        },
+        "eichenlaubsalat": {
+            "i-name": "Eichenlaubsalat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "eisbergsalat": {
+            "i-name": "Eisbergsalat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "eisenkraut": {
+            "i-name": "Eisenkraut",
+            "i-class": "herb",
+            "synonyms": ["verbene"]
+        },
+        "emmentaler": {
+            "i-name": "Emmentaler",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "endivien": {
+            "i-name": "Endivien",
+            "i-class": "veg",
+            "synonyms": ["endiviensalat"]
+        },
+        "ente": {
+            "i-name": "Ente",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "erbsen": {
+            "i-name": "Erbsen",
+            "i-class": "veg",
+            "synonyms": ["grüne erbsen"]
+        },
+        "erdbeeren": {
+            "i-name": "Erdbeeren",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "erdbeerlikör": {
+            "i-name": "Erdbeerlikör",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "erdnuss": {
+            "i-name": "Erdnuss",
+            "i-class": "nuts",
+            "synonyms": ["erdnüsse"]
+        },
+        "erdnussbutter": {
+            "i-name": "Erdnussbutter",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "erdnussöl": {
+            "i-name": "Erdnussöl",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "essig": {
+            "i-name": "Essig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "estragon": {
+            "i-name": "Estragon",
+            "i-class": "herb",
+            "synonyms": ["dragon"]
+        },
+        "euter": {
+            "i-name": "Euter",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "feige": {
+            "i-name": "Feige",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "feldsalat": {
+            "i-name": "Feldsalat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "fenchel": {
+            "i-name": "Fenchel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "fenchelgrün": {
+            "i-name": "Fenchelgrün",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "fenchelsamen": {
+            "i-name": "Fenchelsamen",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "fisch": {
+            "i-name": "Fisch",
+            "i-class": "fish",
+            "synonyms": ["fischfilet"]
+        },
+        "fischfond": {
+            "i-name": "Fischfond",
+            "i-class": "condi",
+            "synonyms": ["pulposud"]
+        },
+        "fischsauce": {
+            "i-name": "Fischsauce",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "fleisch": {
+            "i-name": "Fleisch",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "fleischbrühe": {
+            "i-name": "Fleischbrühe",
+            "i-class": "condi",
+            "synonyms": [
+                "fleischfond",
+                "rinderfond",
+                "bouillon",
+                "wildfond",
+                "rindfleisch-bouillon",
+                "sud von den knöchla"
+            ]
+        },
+        "fleischsalat": {
+            "i-name": "Fleischsalat",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "flusskrebse": {
+            "i-name": "Flusskrebse",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "forelle": {
+            "i-name": "Forelle",
+            "i-class": "fish",
+            "synonyms": ["bachforelle"]
+        },
+        "frischkäse": {
+            "i-name": "Frischkäse",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "frisée": {
+            "i-name": "frisée",
+            "i-class": "veg",
+            "synonyms": ["frisee"]
+        },
+        "friséesalat": {
+            "i-name": "Friséesalat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "froschschenkel": {
+            "i-name": "Froschschenkel",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "früchte": {
+            "i-name": "Früchte",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "früchtetee": {
+            "i-name": "Früchtetee",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "fruchtsaft": {
+            "i-name": "Fruchtsaft",
+            "i-class": "fruit",
+            "synonyms": ["fruchtsäfte"]
+        },
+        "galgant": {
+            "i-name": "Galgant",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "gans": {
+            "i-name": "Gans",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "gänseblümchen": {
+            "i-name": "Gänseblümchen",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "gänsefett": {
+            "i-name": "Gänsefett",
+            "i-class": "fat",
+            "synonyms": ["gänseschmalz"]
+        },
+        "gänsefuß": {
+            "i-name": "Gänsefuß",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "gänseschmalz": {
+            "i-name": "Gänseschmalz",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "garam_masala": {
+            "i-name": "Garam_Masala",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "garnele": {
+            "i-name": "Garnele",
+            "i-class": "fish",
+            "synonyms": ["garnelen"]
+        },
+        "garnelen": {
+            "i-name": "Garnelen",
+            "i-class": "fish",
+            "synonyms": ["gambas"]
+        },
+        "gartenmelde": {
+            "i-name": "Gartenmelde",
+            "i-class": "veg",
+            "synonyms": ["melle"]
+        },
+        "geflügel": {
+            "i-name": "Geflügel",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "gekochter_schinken": {
+            "i-name": "gekochter_Schinken",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "gelatine": {
+            "i-name": "Gelatine",
+            "i-class": "etc",
+            "synonyms": [
+                "tortenguss",
+                "gelfix"
+            ]
+        },
+        "gelb_bete": {
+            "i-name": "Gelbe_Bete",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "gelbe_erbsen": {
+            "i-name": "Gelbe_Erbsen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "gelee": {
+            "i-name": "Gelee",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "gemüsebrühe": {
+            "i-name": "Gemüsebrühe",
+            "i-class": "condi",
+            "synonyms": [
+                "gemüsefond",
+                "gemüsebrühwürfel"
+            ]
+        },
+        "gemüsegurke": {
+            "i-name": "Gemüsegurke",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "gemüsemischung": {
+            "i-name": "Gemüsemischung",
+            "i-class": "veg",
+            "synonyms": ["gemüse"]
+        },
+        "gemüsezwiebel": {
+            "i-name": "Gemüsezwiebel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "geraeucherter_schinken": {
+            "i-name": "geräucherter_Schinken",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "geräuchertes_paprikapulver": {
+            "i-name": "Geräuchertes_Paprikapulver",
+            "i-class": "spice",
+            "synonyms": ["pimenton de la vera"]
+        },
+        "gerste": {
+            "i-name": "Gerste",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "getr_pflaume": {
+            "i-name": "getr_Pflaume",
+            "i-class": "fruit",
+            "synonyms": ["brünelle"]
+        },
+        "getr_zwetschge": {
+            "i-name": "getr_Zwetschge",
+            "i-class": "",
+            "synonyms": ["getrocknete zwetsche"]
+        },
+        "getrocknete_tomaten": {
+            "i-name": "getrocknete_Tomaten",
+            "i-class": "veg",
+            "synonyms": ["getrocknete tomaten"]
+        },
+        "gewürz": {
+            "i-name": "Gewürz",
+            "i-class": "spice",
+            "synonyms": [
+                "streuwürze",
+                "gewürzmischung",
+                "bbq-rub"
+            ]
+        },
+        "gewürzgurke": {
+            "i-name": "Gewürzgurken",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "ghee": {
+            "i-name": "Ghee",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "giersch": {
+            "i-name": "Giersch",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "gin": {
+            "i-name": "Gin",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "glutamat": {
+            "i-name": "Glutamat",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "gnocchi": {
+            "i-name": "Gnocchi",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "golden_syrup": {
+            "i-name": "Golden_Syrup",
+            "i-class": "sweet",
+            "synonyms": ["golden syrup"]
+        },
+        "gorgonzola": {
+            "i-name": "Gorgonzola",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "gouda": {
+            "i-name": "Gouda",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "grana_padano": {
+            "i-name": "Grana_padano",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "granatapfel": {
+            "i-name": "Granatapfel",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "granatapfelsirup": {
+            "i-name": "Granatapfelsirup",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "grapefruit": {
+            "i-name": "Grapefruit",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "graupen": {
+            "i-name": "Graupen",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "grenadine": {
+            "i-name": "Grenadine",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "grieß": {
+            "i-name": "Grieß",
+            "i-class": "carb",
+            "synonyms": ["vollkorngrieß"]
+        },
+        "große_bohnen": {
+            "i-name": "Große_Bohnen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "grüne_bohnen": {
+            "i-name": "Grüne_Bohnen",
+            "i-class": "veg",
+            "synonyms": [
+                "gartenbohnen",
+                "schnittbohnen",
+                "buschbohnen",
+                "stangenbohnen",
+                "schnippelbohnen",
+                "salatbohnen",
+                "brechbohnen",
+                "prinzessbohnen",
+                "vietsbohne",
+                "schneidbohnen",
+                "böhnchen"
+            ]
+        },
+        "grüner_spargel": {
+            "i-name": "grüner_Spargel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "grünkern": {
+            "i-name": "Grünkern",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "grünkohl": {
+            "i-name": "Grünkohl",
+            "i-class": "veg",
+            "synonyms": [
+                "Braunkohl",
+                "grüner Kohl",
+                "grüner oder brauner kohl"
+            ]
+        },
+        "grütze": {
+            "i-name": "Grütze",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "gruyère": {
+            "i-name": "Gruyère",
+            "i-class": "milk",
+            "synonyms": ["greyerzer"]
+        },
+        "guave": {
+            "i-name": "Guave",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "gundermann": {
+            "i-name": "Gundermann",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "gurke": {
+            "i-name": "Gurke",
+            "i-class": "veg",
+            "synonyms": ["salatgurke"]
+        },
+        "habanero": {
+            "i-name": "Habanero",
+            "i-class": "spice",
+            "synonyms": ["habanero-chilischote"]
+        },
+        "hackfleisch": {
+            "i-name": "Hackfleisch",
+            "i-class": "meat",
+            "synonyms": [
+                "hack",
+                "mett",
+                "brät",
+                "rinderhack",
+                "lammhack",
+                "kalbsbrät"
+            ]
+        },
+        "haferfleks": {
+            "i-name": "Haferfleks",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "haferflocken": {
+            "i-name": "Haferflocken",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "hafergrütze": {
+            "i-name": "Hafergrütze",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "hagebutte": {
+            "i-name": "Hagebutte",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "handkäs": {
+            "i-name": "Handkäs",
+            "i-class": "milk",
+            "synonyms": [
+                "mainzer_käse",
+                "harzer_käse"
+            ]
+        },
+        "harissa": {
+            "i-name": "Harissa",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "hartweizengrieß": {
+            "i-name": "Hartweizengrieß",
+            "i-class": "carb",
+            "synonyms": ["semola"]
+        },
+        "hase": {
+            "i-name": "Hase",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "haselnuss": {
+            "i-name": "Haselnuss",
+            "i-class": "nuts",
+            "synonyms": ["haselnüsse"]
+        },
+        "hatsoi": {
+            "i-name": "Hatsoi",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "hecht": {
+            "i-name": "Hecht",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "hefe": {
+            "i-name": "Hefe",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "hefewürze": {
+            "i-name": "Hefewürze",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "herbes_de_provence": {
+            "i-name": "Herbes_de_Provence",
+            "i-class": "herb",
+            "synonyms": ["kräuter der provence"]
+        },
+        "hering": {
+            "i-name": "Hering",
+            "i-class": "fish",
+            "synonyms": ["häring"]
+        },
+        "herz": {
+            "i-name": "Herz",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "hibiskus": {
+            "i-name": "Hibiskus",
+            "i-class": "herb",
+            "synonyms": ["hibiskustee"]
+        },
+        "himbeeren": {
+            "i-name": "Himbeeren",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "hirn": {
+            "i-name": "Hirn",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "hirschhorn": {
+            "i-name": "Hirschhorn",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "hirschhornsalz": {
+            "i-name": "Hirschhornsalz",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "hirse": {
+            "i-name": "Hirse",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "hoisinsauce": {
+            "i-name": "Hoisinsauce",
+            "i-class": "condi",
+            "synonyms": [
+                "hoisin-sauce",
+                "hoisinsoße",
+                "hoisin-soße"
+            ]
+        },
+        "hokkaidokürbis": {
+            "i-name": "Hokkaidokürbis",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "holunder": {
+            "i-name": "Holunder",
+            "i-class": "fruit",
+            "synonyms": ["blüthe"]
+        },
+        "honig": {
+            "i-name": "Honig",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "hopfen": {
+            "i-name": "Hopfen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "huhn": {
+            "i-name": "Huhn",
+            "i-class": "meat",
+            "synonyms": [
+                "pourlade",
+                "hühnerfleisch",
+                "hühnerkeule",
+                "hühnerhälfte",
+                "hähnchen"
+            ]
+        },
+        "hühnerbrühe": {
+            "i-name": "Hühnerbrühe",
+            "i-class": "condi",
+            "synonyms": [
+                "geflügelbrühe",
+                "geflügelfond",
+                "hühnerfond"
+            ]
+        },
+        "hühnerbrust": {
+            "i-name": "Hühnerbrust",
+            "i-class": "meat",
+            "synonyms": [
+                "hähnchenbrust",
+                "hähnchensuprême",
+                "hühnerbrüste"
+            ]
+        },
+        "hühnerschenkel": {
+            "i-name": "Hühnerschenkel",
+            "i-class": "meat",
+            "synonyms": ["hühnerschlegel"]
+        },
+        "hülsenfrüchte": {
+            "i-name": "Hülsenfrüchte",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "hummus": {
+            "i-name": "Hummus",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "ingwer": {
+            "i-name": "Ingwer",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "innereien": {
+            "i-name": "Innereien",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "isot_biber": {
+            "i-name": "Isot_Biber",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "jakobsmuschel": {
+            "i-name": "Jakobsmuschel",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "jakobsmuscheln": {
+            "i-name": "Jakobsmuscheln",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "jalapeno": {
+            "i-name": "Jalapeno",
+            "i-class": "spice",
+            "synonyms": [
+                "jalapeno-chilischoten",
+                "jalapeño"
+            ]
+        },
+        "joghurt": {
+            "i-name": "Joghurt",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "johannisbeeren": {
+            "i-name": "Johannisbeeren",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "kabeljau": {
+            "i-name": "Kabeljau",
+            "i-class": "fish",
+            "synonyms": ["kabeljaufilet"]
+        },
+        "kaffee": {
+            "i-name": "Kaffee",
+            "i-class": "spice",
+            "synonyms": ["espresso"]
+        },
+        "kaffirlimette": {
+            "i-name": "Kaffirlimette",
+            "i-class": "herb",
+            "synonyms": [
+                "kaffernlimette",
+                "kaffir-limette"
+            ]
+        },
+        "kakao": {
+            "i-name": "Kakao",
+            "i-class": "etc",
+            "synonyms": [
+                "kakaopulver",
+                "cacao"
+            ]
+        },
+        "kaki": {
+            "i-name": "Kaki",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "kalbfleisch": {
+            "i-name": "Kalbfleisch",
+            "i-class": "meat",
+            "synonyms": [
+                "kalbsschnitzel",
+                "kalbskotelett",
+                "kalbsfilet",
+                "kalbskarree"
+            ]
+        },
+        "kalbsbraten": {
+            "i-name": "Kalbsbraten",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "kalbsbries": {
+            "i-name": "Kalbsbries",
+            "i-class": "meat",
+            "synonyms": [
+                "midder",
+                "kalbsmidder"
+            ]
+        },
+        "kalbsfond": {
+            "i-name": "Kalbsfond",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "kalbsfüße": {
+            "i-name": "Kalbsfüße",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "kalbskopf": {
+            "i-name": "Kalbskopf",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "kalmar": {
+            "i-name": "Kalmar",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "kaninchen": {
+            "i-name": "Kaninchen",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "kantenlauch": {
+            "i-name": "Kantenlauch",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "kapaun": {
+            "i-name": "Kapaun",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "kapern": {
+            "i-name": "Kapern",
+            "i-class": "spice",
+            "synonyms": ["capern"]
+        },
+        "kapuzinerkresse": {
+            "i-name": "Kapuzinerkresse",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "kardamom": {
+            "i-name": "Kardamom",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "karotte": {
+            "i-name": "Karotte",
+            "i-class": "veg",
+            "synonyms": [
+                "möhre",
+                "herbst-wurzel",
+                "junge wurzeln",
+                "gelbe wurzel"
+            ]
+        },
+        "karpfen": {
+            "i-name": "Karpfen",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "kartoffel": {
+            "i-name": "Kartoffel",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "kascha": {
+            "i-name": "Kascha",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "käse": {
+            "i-name": "Käse",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "kasseler": {
+            "i-name": "Kasseler",
+            "i-class": "meat",
+            "synonyms": ["kassler"]
+        },
+        "kaviar": {
+            "i-name": "Kaviar",
+            "i-class": "fish",
+            "synonyms": ["tångkorn"]
+        },
+        "kefir": {
+            "i-name": "Kefir",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "kekse": {
+            "i-name": "Kekse",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "kerbel": {
+            "i-name": "Kerbel",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "kerne": {
+            "i-name": "Kerne",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "ketchup": {
+            "i-name": "Ketchup",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "ketjap_manis": {
+            "i-name": "Ketjap_manis",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "kichererbsen": {
+            "i-name": "Kichererbsen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "kichererbsenmehl": {
+            "i-name": "Kichererbsenmehl",
+            "i-class": "carb",
+            "synonyms": ["kichererbsmehl"]
+        },
+        "kidneybohnen": {
+            "i-name": "Kidneybohnen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "kimchi": {
+            "i-name": "Kimchi",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "kirschen": {
+            "i-name": "Kirschen",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "kirschtomaten": {
+            "i-name": "Kirschtomaten",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "kiwi": {
+            "i-name": "Kiwi",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "kleine_vögel": {
+            "i-name": "kleine_Vögel",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "knallbrause": {
+            "i-name": "Knallbrause",
+            "i-class": "sweet",
+            "synonyms": ["peta-zeta"]
+        },
+        "knoblauch": {
+            "i-name": "Knoblauch",
+            "i-class": "onion",
+            "synonyms": []
+        },
+        "knoblauchsalz": {
+            "i-name": "Knoblauchsalz",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "knochen": {
+            "i-name": "Knochen",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "knochenmark": {
+            "i-name": "Knochenmark",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "knollensellerie": {
+            "i-name": "Knollensellerie",
+            "i-class": "veg",
+            "synonyms": ["sellerie"]
+        },
+        "kohlrabi": {
+            "i-name": "Kohlrabi",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "kokosblütenzucker": {
+            "i-name": "Kokosblütenzucker",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "kokoscrème": {
+            "i-name": "Kokoscrème",
+            "i-class": "fat",
+            "synonyms": [
+                "kokoscreme",
+                "kokospaste",
+                "cream of coconut"
+            ]
+        },
+        "kokoslikör": {
+            "i-name": "Kokoslikör",
+            "i-class": "alc",
+            "synonyms": [
+                "batida de coco",
+                "kokosnusslikör"
+            ]
+        },
+        "kokosmilch": {
+            "i-name": "Kokosmilch",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "kokosöl": {
+            "i-name": "Kokosöl",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "kokosraspel": {
+            "i-name": "Kokosraspel",
+            "i-class": "nuts",
+            "synonyms": ["kokosnussstücke"]
+        },
+        "kokoswasser": {
+            "i-name": "Kokoswasser",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "kondensmilch": {
+            "i-name": "Kondensmilch",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "konfitüre": {
+            "i-name": "Konfitüre",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "kopf": {
+            "i-name": "Kopf",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "kopfsalat": {
+            "i-name": "Kopfsalat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "koriander": {
+            "i-name": "Koriander",
+            "i-class": "spice",
+            "synonyms": ["koriandersamen"]
+        },
+        "koriandergrün": {
+            "i-name": "Koriandergrün",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "krabben": {
+            "i-name": "Krabben",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "kräcker": {
+            "i-name": "Kräcker",
+            "i-class": "carb",
+            "synonyms": ["salzkräcker"]
+        },
+        "kräuter": {
+            "i-name": "Kräuter",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "kräuterbutter": {
+            "i-name": "Kräuterbutter",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "kräuteressig": {
+            "i-name": "Kräuteressig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "kräutersalz": {
+            "i-name": "Kräutersalz",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "krautsalat": {
+            "i-name": "Krautsalat",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "krebs": {
+            "i-name": "Krebs",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "kresse": {
+            "i-name": "Kresse",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "krustentiere": {
+            "i-name": "Krustentiere",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "kumato": {
+            "i-name": "Kumato",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "kümmel": {
+            "i-name": "Kümmel",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "kumquat": {
+            "i-name": "Kumquat",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "kürbis": {
+            "i-name": "Kürbis",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "kürbiskern": {
+            "i-name": "Kürbiskern",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "kürbiskernöl": {
+            "i-name": "Kürbiskernöl",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "kutteln": {
+            "i-name": "Kutteln",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "kuvertüre": {
+            "i-name": "Kuvertüre",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "lachs": {
+            "i-name": "Lachs",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "lachsforelle": {
+            "i-name": "Lachsforelle",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "lammfleisch": {
+            "i-name": "Lammfleisch",
+            "i-class": "meat",
+            "synonyms": [
+                "lammgulasch",
+                "lammfilet",
+                "lammrückenfilet",
+                "hammel"
+            ]
+        },
+        "lauch": {
+            "i-name": "Lauch",
+            "i-class": "veg",
+            "synonyms": [
+                "porree",
+                "borrei"
+            ]
+        },
+        "lauchzwiebel": {
+            "i-name": "Lauchzwiebel",
+            "i-class": "onion",
+            "synonyms": ["frühlingszwiebel"]
+        },
+        "laugengebäck": {
+            "i-name": "Laugengebäck",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "leber": {
+            "i-name": "Leber",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "leberwurst": {
+            "i-name": "Leberwurst",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "lebkuchen": {
+            "i-name": "Lebkuchen",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "leinsamen": {
+            "i-name": "Leinsamen",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "liebstöckel": {
+            "i-name": "Liebstöckel",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "limette": {
+            "i-name": "Limette",
+            "i-class": "fruit",
+            "synonyms": [
+                "limone",
+                "limettenabrieb",
+                "limettensaft",
+                "limonensaft"
+            ]
+        },
+        "limoncello": {
+            "i-name": "Limoncello",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "linsen": {
+            "i-name": "Linsen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "litschi": {
+            "i-name": "Litschi",
+            "i-class": "fruit",
+            "synonyms": ["lychee"]
+        },
+        "löffelbiskuit": {
+            "i-name": "Löffelbiskuit",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "lollo_rosso": {
+            "i-name": "Lollo_rosso",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "lorbeer": {
+            "i-name": "Lorbeer",
+            "i-class": "herb",
+            "synonyms": ["lorber"]
+        },
+        "löwenzahn": {
+            "i-name": "Löwenzahn",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "lunge": {
+            "i-name": "Lunge",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "lupinenbratling": {
+            "i-name": "Lupinenbratling",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "macadamianüsse": {
+            "i-name": "Macadamianüsse",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "madeira": {
+            "i-name": "Madeira",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "maggi": {
+            "i-name": "Maggi",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "mairüben": {
+            "i-name": "Mairüben",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "mais": {
+            "i-name": "Mais",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "maismehl": {
+            "i-name": "Maismehl",
+            "i-class": "carb",
+            "synonyms": ["masa harina"]
+        },
+        "majoran": {
+            "i-name": "Majoran",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "makronen": {
+            "i-name": "Makronen",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "malaga": {
+            "i-name": "Malaga",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "mandarine": {
+            "i-name": "Mandarine",
+            "i-class": "fruit",
+            "synonyms": [
+                "mandarinensaft",
+                "mandarinenschale"
+            ]
+        },
+        "mandel": {
+            "i-name": "Mandel",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "mandelmilch": {
+            "i-name": "Mandelmilch",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "mandelmus": {
+            "i-name": "Mandelmus",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "mango": {
+            "i-name": "Mango",
+            "i-class": "fruit",
+            "synonyms": ["mangofruchtfleisch"]
+        },
+        "mangold": {
+            "i-name": "Mangold",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "mangopickle": {
+            "i-name": "Mangopickle",
+            "i-class": "condi",
+            "synonyms": ["mango-pickle"]
+        },
+        "mangosaft": {
+            "i-name": "Mangosaft",
+            "i-class": "fruit",
+            "synonyms": ["mangonektar"]
+        },
+        "maracuja": {
+            "i-name": "Maracuja",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "maracujasaft": {
+            "i-name": "Maracujasaft",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "maracujasirup": {
+            "i-name": "Maracujasirup",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "marmelade": {
+            "i-name": "Marmelade",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "marone": {
+            "i-name": "Marone",
+            "i-class": "nuts",
+            "synonyms": [
+                "kastanie",
+                "esskastanie"
+            ]
+        },
+        "marsala": {
+            "i-name": "Marsala",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "marzipan": {
+            "i-name": "Marzipan",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "mascarpone": {
+            "i-name": "Mascarpone",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "matjes": {
+            "i-name": "Matjes",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "maultasche": {
+            "i-name": "Maultasche",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "mayonnaise": {
+            "i-name": "Mayonnaise",
+            "i-class": "condi",
+            "synonyms": ["miracel whip"]
+        },
+        "meerrettich": {
+            "i-name": "Meerrettich",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "melasse": {
+            "i-name": "Melasse",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "melone": {
+            "i-name": "Melone",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "mettwurst": {
+            "i-name": "Mettwurst",
+            "i-class": "meat",
+            "synonyms": [
+                "cabanossi",
+                "landjäger",
+                "pfefferbeisser"
+            ]
+        },
+        "miesmuschel": {
+            "i-name": "Miesmuschel",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "milch": {
+            "i-name": "Milch",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "minze": {
+            "i-name": "Minze",
+            "i-class": "herb",
+            "synonyms": ["pfefferminze"]
+        },
+        "mirabelle": {
+            "i-name": "Mirabelle",
+            "i-class": "fruit",
+            "synonyms": ["mirabellen"]
+        },
+        "mirin": {
+            "i-name": "Mirin",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "miso": {
+            "i-name": "Miso",
+            "i-class": "condi",
+            "synonyms": ["miso-paste"]
+        },
+        "mohn": {
+            "i-name": "Mohn",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "möhrengrün": {
+            "i-name": "Möhrengrün",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "morchel": {
+            "i-name": "Morchel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "mozzarella": {
+            "i-name": "Mozzarella",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "mu_err_pilz": {
+            "i-name": "Mu_err_Pilz",
+            "i-class": "veg",
+            "synonyms": ["mu-err-pilz"]
+        },
+        "multivitaminsaft": {
+            "i-name": "Multivitaminsaft",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "mürbeteig": {
+            "i-name": "Mürbeteig",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "muscheln": {
+            "i-name": "Muscheln",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "muskat": {
+            "i-name": "Muskat",
+            "i-class": "spice",
+            "synonyms": ["macis"]
+        },
+        "myrte": {
+            "i-name": "Myrte",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "nektarine": {
+            "i-name": "Nektarine",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "nelke": {
+            "i-name": "Nelke",
+            "i-class": "spice",
+            "synonyms": ["gewürznelke"]
+        },
+        "niere": {
+            "i-name": "Niere",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "nierenfett": {
+            "i-name": "Nierenfett",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "noriblatt": {
+            "i-name": "Noriblatt",
+            "i-class": "etc",
+            "synonyms": [
+                "nori-blatt",
+                "noriblätter",
+                "nori-blätter"
+            ]
+        },
+        "noriflocken": {
+            "i-name": "Noriflocken",
+            "i-class": "spice",
+            "synonyms": ["nori-flocken"]
+        },
+        "nougat": {
+            "i-name": "Nougat",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "nudeln": {
+            "i-name": "Nudeln",
+            "i-class": "carb",
+            "synonyms": [
+                "spaghetti",
+                "girandole",
+                "bavete",
+                "makkaroni",
+                "bucatini",
+                "tortellini",
+                "capellini",
+                "fusilli",
+                "fettucine",
+                "canneloni",
+                "linguine",
+                "orecchiette",
+                "mafalde",
+                "tagliatelle",
+                "vermicelli",
+                "lasagneblätter",
+                "lasagneplatte",
+                "muschelnudeln",
+                "penne",
+                "pasta",
+                "spätzle",
+                "cannelloni"
+            ]
+        },
+        "nüsse": {
+            "i-name": "Nüsse",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "obst": {
+            "i-name": "Obst",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "obstessig": {
+            "i-name": "Obstessig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "obstler": {
+            "i-name": "Obstler",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "ohren": {
+            "i-name": "Ohren",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "olive": {
+            "i-name": "Olive",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "olivenöl": {
+            "i-name": "Olivenöl",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "orange": {
+            "i-name": "Orange",
+            "i-class": "fruit",
+            "synonyms": ["apfelsine"]
+        },
+        "orangeat": {
+            "i-name": "Orangeat",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "orangenabrieb": {
+            "i-name": "Orangenabrieb",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "orangenagrumato": {
+            "i-name": "Orangenagrumato",
+            "i-class": "fat",
+            "synonyms": ["orangen-agrumato"]
+        },
+        "orangenblütenwasser": {
+            "i-name": "Orangenblütenwasser",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "orangenlikör": {
+            "i-name": "Orangenlikör",
+            "i-class": "alc",
+            "synonyms": [
+                "grand marnier",
+                "cointreau"
+            ]
+        },
+        "orangensaft": {
+            "i-name": "Orangensaft",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "orangenschale": {
+            "i-name": "Orangenschale",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "oregano": {
+            "i-name": "Oregano",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "ottersberger_rüben": {
+            "i-name": "Ottersberger_Rüben",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "ouzo": {
+            "i-name": "Ouzo",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "pak_choi": {
+            "i-name": "Pak_choi",
+            "i-class": "veg",
+            "synonyms": ["pak choi"]
+        },
+        "panhas": {
+            "i-name": "Panhas",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "paniermehl": {
+            "i-name": "Paniermehl",
+            "i-class": "carb",
+            "synonyms": [
+                "semmelbrösel",
+                "vollkornbrösel",
+                "panko"
+            ]
+        },
+        "panir": {
+            "i-name": "Panir",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "papaya": {
+            "i-name": "Papaya",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "paprika": {
+            "i-name": "Paprika",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "paprikamark": {
+            "i-name": "Paprikamark",
+            "i-class": "condi",
+            "synonyms": ["aci biber salçası"]
+        },
+        "paprikapulver": {
+            "i-name": "Paprikapulver",
+            "i-class": "spice",
+            "synonyms": [
+                "paprikaflocken",
+                "paprika edelsüß",
+                "paprika scharf"
+            ]
+        },
+        "parmesan": {
+            "i-name": "Parmesan",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "passionsfrucht": {
+            "i-name": "Passionsfrucht",
+            "i-class": "fruit",
+            "synonyms": [
+                "passionsfrüchte",
+                "passionsfruchtmark"
+            ]
+        },
+        "passionsfruchtlikör": {
+            "i-name": "Passionsfruchtlikör",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "passionsfruchtsirup": {
+            "i-name": "Passionsfruchtsirup",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "pastinake": {
+            "i-name": "Pastinake",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "pecorino": {
+            "i-name": "Pecorino",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "pekannuss": {
+            "i-name": "Pekannuss",
+            "i-class": "nuts",
+            "synonyms": ["pekannüsse"]
+        },
+        "peperoni": {
+            "i-name": "Peperoni",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "pernod": {
+            "i-name": "Pernod",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "pesto": {
+            "i-name": "Pesto",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "petersilie": {
+            "i-name": "Petersilie",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "petersilienwurzel": {
+            "i-name": "Petersilienwurzel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "pfeffer": {
+            "i-name": "Pfeffer",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "pfifferlinge": {
+            "i-name": "Pfifferlinge",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "pfirsich": {
+            "i-name": "Pfirsich",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "pfirsichlikör": {
+            "i-name": "Pfirsichlikör",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "pflanzenfett": {
+            "i-name": "Pflanzenfett",
+            "i-class": "fat",
+            "synonyms": [
+                "margarine",
+                "culinesse",
+                "pflanzensahne",
+                "hafersahne"
+            ]
+        },
+        "pflaume": {
+            "i-name": "Pflaume",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "pflaumenwein": {
+            "i-name": "Pflaumenwein",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "pfoten": {
+            "i-name": "Pfoten",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "physalis": {
+            "i-name": "Physalis",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "pilze": {
+            "i-name": "Pilze",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "piment": {
+            "i-name": "Piment",
+            "i-class": "spice",
+            "synonyms": ["nelkenpfeffer"]
+        },
+        "pimpinelle": {
+            "i-name": "Pimpinelle",
+            "i-class": "herb",
+            "synonyms": ["pimpernell"]
+        },
+        "pinienkerne": {
+            "i-name": "Pinienkerne",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "pinkelwurst": {
+            "i-name": "Pinkelwurst",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "piripiri": {
+            "i-name": "Piripiri",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "pisco": {
+            "i-name": "Pisco",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "pistazie": {
+            "i-name": "Pistazie",
+            "i-class": "nuts",
+            "synonyms": []
+        },
+        "pökelfleisch": {
+            "i-name": "Pökelfleisch",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "polenta": {
+            "i-name": "Polenta",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "pomeranze": {
+            "i-name": "Pomeranze",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "portobello": {
+            "i-name": "Portobello",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "portulak": {
+            "i-name": "Portulak",
+            "i-class": "veg",
+            "synonyms": ["portulac"]
+        },
+        "portwein": {
+            "i-name": "Portwein",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "preiselbeeren": {
+            "i-name": "Preiselbeer_Marmelade",
+            "i-class": "condi",
+            "synonyms": ["wildpreiselbeeren"]
+        },
+        "preiselbeermarmelade": {
+            "i-name": "Preiselbeermarmelade",
+            "i-class": "sweet",
+            "synonyms": ["preiselbeer-marmelade"]
+        },
+        "provolone": {
+            "i-name": "Provolone",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "puddingpulver": {
+            "i-name": "Puddingpulver",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "pute": {
+            "i-name": "Pute",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "quark": {
+            "i-name": "Quark",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "quinoa": {
+            "i-name": "Quinoa",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "quitte": {
+            "i-name": "Quitte",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "radicchio": {
+            "i-name": "Radicchio",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "radieschen": {
+            "i-name": "Radieschen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "radieschengrün": {
+            "i-name": "Radieschengrün",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "ras_el_hanout": {
+            "i-name": "Ras_el_hanout",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "räucherfisch": {
+            "i-name": "Räucherfisch",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "räucherlachs": {
+            "i-name": "Räucherlachs",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "räucherspeck": {
+            "i-name": "Räucherspeck",
+            "i-class": "meat",
+            "synonyms": [
+                "bacon",
+                "räucherbauch"
+            ]
+        },
+        "rauchfleisch": {
+            "i-name": "Rauchfleisch",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "rauchsalz": {
+            "i-name": "Rauchsalz",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "ravioli": {
+            "i-name": "Ravioli",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "rehundhirsch": {
+            "i-name": "Reh_und_Hirsch",
+            "i-class": "meat",
+            "synonyms": [
+                "hirschkalbsrücken",
+                "hirschrückenfilet",
+                "rehrücken",
+                "rehfleisch"
+            ]
+        },
+        "reis": {
+            "i-name": "Reis",
+            "i-class": "carb",
+            "synonyms": [
+                "basmatireis",
+                "basmati",
+                "sushireis",
+                "risottoreis"
+            ]
+        },
+        "reisessig": {
+            "i-name": "Reisessig",
+            "i-class": "condi",
+            "synonyms": ["chinkiang"]
+        },
+        "reismehl": {
+            "i-name": "Reismehl",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "reisnudeln": {
+            "i-name": "Reisnudeln",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "reiswein": {
+            "i-name": "Reiswein",
+            "i-class": "alc",
+            "synonyms": [
+                "sake",
+                "shaoxing-reiswein",
+                "arak masak"
+            ]
+        },
+        "rettich": {
+            "i-name": "Rettich",
+            "i-class": "veg",
+            "synonyms": ["daikon-rettich"]
+        },
+        "ricotta": {
+            "i-name": "Ricotta",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "rindfleisch": {
+            "i-name": "Rindfleisch",
+            "i-class": "meat",
+            "synonyms": [
+                "rinderfilet",
+                "rinderlende",
+                "ochsenbäckchen",
+                "wagyu",
+                "rindersteak",
+                "rinderrouladen",
+                "rinderroulade",
+                "rindergulasch",
+                "flanksteak",
+                "roastbeef",
+                "binnerspalt"
+            ]
+        },
+        "risotto": {
+            "i-name": "Risotto",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "roggen": {
+            "i-name": "Roggen",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "roggenmehl": {
+            "i-name": "Roggenmehl",
+            "i-class": "carb",
+            "synonyms": ["roggenvollkornmehl"]
+        },
+        "rohrzucker": {
+            "i-name": "Rohrzucker",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "romana": {
+            "i-name": "Romana",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "roquefort": {
+            "i-name": "Roquefort",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "rosa_beeren": {
+            "i-name": "rosa_Beeren",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "rosenblätter": {
+            "i-name": "Rosenblätter",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "rosenkohl": {
+            "i-name": "Rosenkohl",
+            "i-class": "veg",
+            "synonyms": ["sprossenkohl"]
+        },
+        "rosenwasser": {
+            "i-name": "Rosenwasser",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "rosmarin": {
+            "i-name": "Rosmarin",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "röstzwiebeln": {
+            "i-name": "Röstzwiebeln",
+            "i-class": "onion",
+            "synonyms": []
+        },
+        "rote_bete": {
+            "i-name": "Rote_Bete",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "rote_bete_blätter": {
+            "i-name": "Rote_Bete_Blätter",
+            "i-class": "veg",
+            "synonyms": ["rote-bete-blätter"]
+        },
+        "roter_mangold": {
+            "i-name": "roter_Mangold",
+            "i-class": "veg",
+            "synonyms": ["roter mangold"]
+        },
+        "rotkohl": {
+            "i-name": "Rotkohl",
+            "i-class": "veg",
+            "synonyms": [
+                "roter kohl",
+                "rother kohl"
+            ]
+        },
+        "rotwein": {
+            "i-name": "Rotwein",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "rucola": {
+            "i-name": "Rucola",
+            "i-class": "veg",
+            "synonyms": ["rauke"]
+        },
+        "rum": {
+            "i-name": "Rum",
+            "i-class": "alc",
+            "synonyms": ["arrac"]
+        },
+        "safran": {
+            "i-name": "Safran",
+            "i-class": "spice",
+            "synonyms": ["safranfäden"]
+        },
+        "sago": {
+            "i-name": "Sago",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "sahne": {
+            "i-name": "Sahne",
+            "i-class": "milk",
+            "synonyms": ["rahm"]
+        },
+        "sahnelikör": {
+            "i-name": "Sahnelikör",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "saibling": {
+            "i-name": "Saibling",
+            "i-class": "fish",
+            "synonyms": ["bachsaibling"]
+        },
+        "salami": {
+            "i-name": "Salami",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "salat": {
+            "i-name": "Salat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "salbei": {
+            "i-name": "Salbei",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "salicorn": {
+            "i-name": "Salicorn",
+            "i-class": "veg",
+            "synonyms": ["queller"]
+        },
+        "salzmandeln": {
+            "i-name": "Salzmandeln",
+            "i-class": "nuts",
+            "synonyms": ["rauchmandeln"]
+        },
+        "salzorange": {
+            "i-name": "Salzorange",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "salzzitrone": {
+            "i-name": "Salzzitrone",
+            "i-class": "fruit",
+            "synonyms": ["eingelegte zitrone"]
+        },
+        "sambal": {
+            "i-name": "Sambal",
+            "i-class": "spice",
+            "synonyms": [
+                "sambal oelek",
+                "piraten sambal"
+            ]
+        },
+        "sardelle": {
+            "i-name": "Sardellen",
+            "i-class": "fish",
+            "synonyms": [
+                "anchovisfilets",
+                "anchovis"
+            ]
+        },
+        "sauce_bolognese": {
+            "i-name": "Sauce_Bolognese",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "sauce_hollandaise": {
+            "i-name": "Sauce_hollandaise",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "saucenbinder": {
+            "i-name": "Saucenbinder",
+            "i-class": "carb",
+            "synonyms": ["Soßenbinder"]
+        },
+        "sauerampfer": {
+            "i-name": "Sauerampfer",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "sauerkirschen": {
+            "i-name": "Sauerkirschen",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "sauerkraut": {
+            "i-name": "Sauerkraut",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "sauerteigbrot": {
+            "i-name": "Sauerteigbrot",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "saure_sahne": {
+            "i-name": "saure_Sahne",
+            "i-class": "milk",
+            "synonyms": ["sauerrahm"]
+        },
+        "scampi": {
+            "i-name": "Scampi",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "schabzigerklee": {
+            "i-name": "Schabzigerklee",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "schafgarbe": {
+            "i-name": "Schafgarbe",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "schafskäse": {
+            "i-name": "Schafskäse",
+            "i-class": "milk",
+            "synonyms": [
+                "feta",
+                "feta-käse"
+            ]
+        },
+        "schalotten": {
+            "i-name": "Schalotten",
+            "i-class": "onion",
+            "synonyms": [
+                "schalotte",
+                "charlotte"
+            ]
+        },
+        "schinken": {
+            "i-name": "Schinken",
+            "i-class": "meat",
+            "synonyms": [
+                "serrano",
+                "parma",
+                "schwarzwälder"
+            ]
+        },
+        "schmalz": {
+            "i-name": "Schmalz",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "schmand": {
+            "i-name": "Schmand",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "schmelzkäse": {
+            "i-name": "Schmelzkäse",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "schnauze": {
+            "i-name": "Schnauze",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "schnittknoblauch": {
+            "i-name": "Schnittknoblauch",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "schnittlauch": {
+            "i-name": "Schnittlauch",
+            "i-class": "onion",
+            "synonyms": []
+        },
+        "schokolade": {
+            "i-name": "Schokolade",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "scholle": {
+            "i-name": "Scholle",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "schwarzbrot": {
+            "i-name": "Schwarzbrot",
+            "i-class": "carb",
+            "synonyms": ["schwarzbrod"]
+        },
+        "schwarze_bohnen": {
+            "i-name": "Schwarze_Bohnen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "schwarzer_knoblauch": {
+            "i-name": "Schwarzer_Knoblauch",
+            "i-class": "onion",
+            "synonyms": [
+                "schwarze knoblauchzehen",
+                "schwarze knoblauchzehe"
+            ]
+        },
+        "schwarzkohl": {
+            "i-name": "Schwarzkohl",
+            "i-class": "veg",
+            "synonyms": ["cavolo nero"]
+        },
+        "schwarzkümmel": {
+            "i-name": "Schwarzkümmel",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "schwarzwurzel": {
+            "i-name": "Schwarzwurzel",
+            "i-class": "veg",
+            "synonyms": [
+                "scorzonerwurzel",
+                "scorzoner"
+            ]
+        },
+        "schweinefleisch": {
+            "i-name": "Schweinefleisch",
+            "i-class": "meat",
+            "synonyms": [
+                "schweinebraten",
+                "schweinefilet",
+                "kotelett",
+                "schweinegulasch"
+            ]
+        },
+        "schweineschmalz": {
+            "i-name": "Schweineschmalz",
+            "i-class": "fat",
+            "synonyms": ["schweinefett"]
+        },
+        "schweinskopf": {
+            "i-name": "Schweinskopf",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "schweinsrippe": {
+            "i-name": "Schweinsrippe",
+            "i-class": "meat",
+            "synonyms": ["rippchen"]
+        },
+        "seeteufel": {
+            "i-name": "Seeteufel",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "seezunge": {
+            "i-name": "Seezunge",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "sekt": {
+            "i-name": "Sekt",
+            "i-class": "alc",
+            "synonyms": [
+                "champagner",
+                "schaumwein",
+                "prosecco"
+            ]
+        },
+        "selleriegrün": {
+            "i-name": "Selleriegrün",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "senf": {
+            "i-name": "Senf",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "senfgurken": {
+            "i-name": "Senfgurken",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "senfsamen": {
+            "i-name": "Senfsamen",
+            "i-class": "spice",
+            "synonyms": [
+                "senfkörner",
+                "senfpulver"
+            ]
+        },
+        "sesam": {
+            "i-name": "Sesam",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "sesamöl": {
+            "i-name": "Sesamöl",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "sharon": {
+            "i-name": "Sharon",
+            "i-class": "fruit",
+            "synonyms": ["sharonfrucht"]
+        },
+        "sherry": {
+            "i-name": "Sherry",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "sherryessig": {
+            "i-name": "Sherryessig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "shiitake": {
+            "i-name": "Shiitake",
+            "i-class": "veg",
+            "synonyms": [
+                "shitake",
+                "shiitakepilze",
+                "shiitake-pilze"
+            ]
+        },
+        "shrimps": {
+            "i-name": "Shrimps",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "shrimpsauce": {
+            "i-name": "Shrimpsauce",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "sirup": {
+            "i-name": "Sirup",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "sojacreme": {
+            "i-name": "Sojacreme",
+            "i-class": "fat",
+            "synonyms": ["sojasahne"]
+        },
+        "sojasauce": {
+            "i-name": "Sojasauce",
+            "i-class": "condi",
+            "synonyms": ["kecap tim ikan"]
+        },
+        "sonnenblumenkerne": {
+            "i-name": "Sonnenblumenkerne",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "sonnenblumenöl": {
+            "i-name": "Sonnenblumenöl",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "spargel": {
+            "i-name": "Spargel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "spargelerbsen": {
+            "i-name": "Spargelerbsen",
+            "i-class": "veg",
+            "synonyms": ["flügelerbsen"]
+        },
+        "speck": {
+            "i-name": "Speck",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "spinat": {
+            "i-name": "Spinat",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "spitzkohl": {
+            "i-name": "Spitzkohl",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "spitzpaprika": {
+            "i-name": "Spitzpaprika",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "spitzwegerich": {
+            "i-name": "Spitzwegerich",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "sprossen": {
+            "i-name": "Sprossen",
+            "i-class": "veg",
+            "synonyms": [
+                "rote bete-sprossen",
+                "keimlinge",
+                "mungobohnenkeimlinge"
+            ]
+        },
+        "stachelbeeren": {
+            "i-name": "Stachelbeeren",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "stangenbohnen": {
+            "i-name": "Stangenbohnen",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "stärke": {
+            "i-name": "Stärke",
+            "i-class": "etc",
+            "synonyms": ["kartoffelmehl"]
+        },
+        "staudensellerie": {
+            "i-name": "Staudensellerie",
+            "i-class": "veg",
+            "synonyms": [
+                "stangensellerie",
+                "bleichsellerie"
+            ]
+        },
+        "steckrübe": {
+            "i-name": "Steckrübe",
+            "i-class": "veg",
+            "synonyms": [
+                "rübe",
+                "herbst-rübe"
+            ]
+        },
+        "steinpilz": {
+            "i-name": "Steinpilz",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "sternanis": {
+            "i-name": "Sternanis",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "stielmus": {
+            "i-name": "Stielmus",
+            "i-class": "veg",
+            "synonyms": ["rübstiel"]
+        },
+        "stockfisch": {
+            "i-name": "Stockfisch",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "stör": {
+            "i-name": "Stör",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "stubenküken": {
+            "i-name": "Stubenküken",
+            "i-class": "meat",
+            "synonyms": ["kücken"]
+        },
+        "sultaninen": {
+            "i-name": "Sultaninen",
+            "i-class": "fruit",
+            "synonyms": [
+                "rosinen",
+                "korinthen"
+            ]
+        },
+        "sülze": {
+            "i-name": "Sülze",
+            "i-class": "meat",
+            "synonyms": ["kaiersülze"]
+        },
+        "sumach": {
+            "i-name": "Sumach",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "suppengemüse": {
+            "i-name": "Suppengemüse",
+            "i-class": "veg",
+            "synonyms": [
+                "suppengrün",
+                "wurzelgemüse",
+                "wurzelwerk"
+            ]
+        },
+        "suppenwürze": {
+            "i-name": "Suppenwürze",
+            "i-class": "condi",
+            "synonyms": ["suppenpulver"]
+        },
+        "surimi": {
+            "i-name": "Surimi",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "süß_saure_sauce": {
+            "i-name": "süß_saure_Sauce",
+            "i-class": "condi",
+            "synonyms": [
+                "süß-saure sauce",
+                "süß-sauer-scharf-sauce"
+            ]
+        },
+        "süßkartoffel": {
+            "i-name": "Süßkartoffel",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "süßstoff": {
+            "i-name": "Süßstoff",
+            "i-class": "sweet",
+            "synonyms": ["süßungsmittel"]
+        },
+        "süßwein": {
+            "i-name": "Süßwein",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "szechuanpfeffer": {
+            "i-name": "Szechuanpfeffer",
+            "i-class": "spice",
+            "synonyms": [
+                "sichuan-pfeffer",
+                "sichuan-pfefferkörner"
+            ]
+        },
+        "tabasco": {
+            "i-name": "Tabasco",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "tacosauce": {
+            "i-name": "Tacosauce",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "tafelspitz": {
+            "i-name": "Tafelspitz",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "tahina": {
+            "i-name": "Tahina",
+            "i-class": "condi",
+            "synonyms": [
+                "tahin",
+                "tahini"
+            ]
+        },
+        "tamarinde": {
+            "i-name": "Tamarinde",
+            "i-class": "spice",
+            "synonyms": ["thamarinde"]
+        },
+        "tandoori_masala": {
+            "i-name": "Tandoori_masala",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "taube": {
+            "i-name": "Taube",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "taubnessel": {
+            "i-name": "Taubnessel",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "teig": {
+            "i-name": "Teig",
+            "i-class": "carb",
+            "synonyms": [
+                "strudelteig",
+                "dinkelstrudelteig"
+            ]
+        },
+        "teigblätter": {
+            "i-name": "Teigblätter",
+            "i-class": "carb",
+            "synonyms": [
+                "filo",
+                "filoteig",
+                "filo-teig",
+                "yufka",
+                "yufkateig",
+                "yufka-teig",
+                "brik",
+                "brik-teig",
+                "tortilla",
+                "wrap",
+                "strudelblätter"
+            ]
+        },
+        "teltower_rüben": {
+            "i-name": "Teltower_Rüben",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "teriyaki": {
+            "i-name": "Teriyaki",
+            "i-class": "condi",
+            "synonyms": ["teriyaki-sauce"]
+        },
+        "thaibasilikum": {
+            "i-name": "Thaibasilikum",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "thunfisch": {
+            "i-name": "Thunfisch",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "thymian": {
+            "i-name": "Thymian",
+            "i-class": "herb",
+            "synonyms": ["thimian"]
+        },
+        "tilsiter": {
+            "i-name": "Tilsiter",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "tintenfisch": {
+            "i-name": "Tintenfisch",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "tofu": {
+            "i-name": "Tofu",
+            "i-class": "etc",
+            "synonyms": [
+                "seidentofu",
+                "oliven-tofu"
+            ]
+        },
+        "tomate": {
+            "i-name": "Tomate",
+            "i-class": "veg",
+            "synonyms": [
+                "fleischtomate",
+                "kirschtomate",
+                "cherrytomate",
+                "ochsenherztomate"
+            ]
+        },
+        "tomatenessig": {
+            "i-name": "Tomatenessig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "tomatenmark": {
+            "i-name": "Tomatenmark",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "tomatensaft": {
+            "i-name": "Tomatensaft",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "tomatensauce": {
+            "i-name": "Tomatensauce",
+            "i-class": "etc",
+            "synonyms": ["tomatensoße"]
+        },
+        "tonic_water": {
+            "i-name": "Tonic_Water",
+            "i-class": "etc",
+            "synonyms": []
+        },
+        "tonkabohne": {
+            "i-name": "Tonkabohne",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "topinambur": {
+            "i-name": "Topinambur",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "tortillafladen": {
+            "i-name": "Tortillafladen",
+            "i-class": "carb",
+            "synonyms": []
+        },
+        "traubensaft": {
+            "i-name": "Traubensaft",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "trüffel": {
+            "i-name": "Trüffel",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "trüffelbutter": {
+            "i-name": "Trüffelbutter",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "trüffelöl": {
+            "i-name": "Trüffelöl",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "vacherin": {
+            "i-name": "Vacherin",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "vanille": {
+            "i-name": "Vanille",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "vanilleeis": {
+            "i-name": "Vanilleeis",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "vanillezucker": {
+            "i-name": "Vanillezucker",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "vollkornbrot": {
+            "i-name": "Vollkornbrot",
+            "i-class": "carb",
+            "synonyms": ["dinkelvollkornbrot"]
+        },
+        "wacholder": {
+            "i-name": "Wacholder",
+            "i-class": "spice",
+            "synonyms": ["wacholderbeeren"]
+        },
+        "wacholderdrossel": {
+            "i-name": "Wacholderdrossel",
+            "i-class": "meat",
+            "synonyms": [
+                "krammetsvogel",
+                "krammetsvögel"
+            ]
+        },
+        "waffeln": {
+            "i-name": "Waffeln",
+            "i-class": "sweet",
+            "synonyms": ["waffelröllchen"]
+        },
+        "wakame": {
+            "i-name": "Wakame",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "walnuss": {
+            "i-name": "Walnuss",
+            "i-class": "nuts",
+            "synonyms": ["walnüsse"]
+        },
+        "walnussöl": {
+            "i-name": "Walnussöl",
+            "i-class": "fat",
+            "synonyms": []
+        },
+        "wasabi": {
+            "i-name": "Wasabi",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "wassermelone": {
+            "i-name": "Wassermelone",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "wein": {
+            "i-name": "Wein",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "weinblätter": {
+            "i-name": "Weinblätter",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "weinbrand": {
+            "i-name": "Weinbrand",
+            "i-class": "alc",
+            "synonyms": [
+                "cognac",
+                "brandy"
+            ]
+        },
+        "weinessig": {
+            "i-name": "Weinessig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "weinraute": {
+            "i-name": "Weinraute",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "weintrauben": {
+            "i-name": "Weintrauben",
+            "i-class": "fruit",
+            "synonyms": []
+        },
+        "weißbrot": {
+            "i-name": "Weißbrot",
+            "i-class": "carb",
+            "synonyms": [
+                "laugenstangen",
+                "laugengebäck",
+                "laugenbrezel",
+                "weißbrod",
+                "crostini",
+                "baguette",
+                "ciabatta",
+                "semmel"
+            ]
+        },
+        "weiße_bohnen": {
+            "i-name": "Weiße_Bohnen",
+            "i-class": "veg",
+            "synonyms": ["cannellini-bohnen"]
+        },
+        "weißer_spargel": {
+            "i-name": "weißer_Spargel",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "weißkohl": {
+            "i-name": "Weißkohl",
+            "i-class": "veg",
+            "synonyms": [
+                "weißer kohl",
+                "kohl"
+            ]
+        },
+        "weißwein": {
+            "i-name": "Weißwein",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "weißweinessig": {
+            "i-name": "Weißweinessig",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "weizen": {
+            "i-name": "Weizen",
+            "i-class": "carb",
+            "synonyms": ["zartweizen"]
+        },
+        "weizenmehl": {
+            "i-name": "Weizenmehl",
+            "i-class": "carb",
+            "synonyms": [
+                "mehl",
+                "weizenvollkornmehl"
+            ]
+        },
+        "wermut": {
+            "i-name": "Wermut",
+            "i-class": "alc",
+            "synonyms": ["noilly prat"]
+        },
+        "whiskey": {
+            "i-name": "Whiskey",
+            "i-class": "alc",
+            "synonyms": ["whisky"]
+        },
+        "wiesenklee": {
+            "i-name": "Wiesenklee",
+            "i-class": "herb",
+            "synonyms": ["wiesenkleeblätter"]
+        },
+        "wildbret": {
+            "i-name": "Wildbret",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "wildfarce": {
+            "i-name": "Wildfarce",
+            "i-class": "meat",
+            "synonyms": ["wild-farce"]
+        },
+        "wildfond": {
+            "i-name": "Wildfond",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "wildgeflügel": {
+            "i-name": "Wildgeflügel",
+            "i-class": "meat",
+            "synonyms": [
+                "fasan",
+                "fasanenbrüste"
+            ]
+        },
+        "wildschinken": {
+            "i-name": "Wildschinken",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "wildschwein": {
+            "i-name": "Wildschwein",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "wirsing": {
+            "i-name": "Wirsing",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "wodka": {
+            "i-name": "Wodka",
+            "i-class": "alc",
+            "synonyms": []
+        },
+        "worcester": {
+            "i-name": "Worcester",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "wurst": {
+            "i-name": "Wurst",
+            "i-class": "meat",
+            "synonyms": [
+                "bockwurst",
+                "bockwürste"
+            ]
+        },
+        "wurzeln": {
+            "i-name": "Wurzeln",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "würzfenchel": {
+            "i-name": "Würzfenchel",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "zander": {
+            "i-name": "Zander",
+            "i-class": "fish",
+            "synonyms": []
+        },
+        "zatar": {
+            "i-name": "Zatar",
+            "i-class": "spice",
+            "synonyms": []
+        },
+        "zichorie": {
+            "i-name": "Zichorie",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "zicklein": {
+            "i-name": "Zicklein",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "ziegenfleisch": {
+            "i-name": "Ziegenfleisch",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "ziegenfrischkäse": {
+            "i-name": "Ziegenfrischkäse",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "ziegenkäse": {
+            "i-name": "Ziegenkäse",
+            "i-class": "milk",
+            "synonyms": []
+        },
+        "zimt": {
+            "i-name": "Zimt",
+            "i-class": "spice",
+            "synonyms": [
+                "zimmt",
+                "zimmet"
+            ]
+        },
+        "zitronat": {
+            "i-name": "Zitronat",
+            "i-class": "condi",
+            "synonyms": []
+        },
+        "zitrone": {
+            "i-name": "Zitrone",
+            "i-class": "fruit",
+            "synonyms": [
+                "zitronensaft",
+                "zitronenschale",
+                "zitronenabrieb"
+            ]
+        },
+        "zitronengras": {
+            "i-name": "Zitronengras",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "zitronenmelisse": {
+            "i-name": "Zitronenmelisse",
+            "i-class": "herb",
+            "synonyms": []
+        },
+        "zucchini": {
+            "i-name": "Zucchini",
+            "i-class": "veg",
+            "synonyms": []
+        },
+        "zucker": {
+            "i-name": "Zucker",
+            "i-class": "sweet",
+            "synonyms": []
+        },
+        "zuckerschoten": {
+            "i-name": "Zuckerschoten",
+            "i-class": "veg",
+            "synonyms": ["zuckererbsen"]
+        },
+        "zunge": {
+            "i-name": "Zunge",
+            "i-class": "meat",
+            "synonyms": []
+        },
+        "zwetschge": {
+            "i-name": "Zwetschge",
+            "i-class": "fruit",
+            "synonyms": ["zwetsche"]
+        },
+        "zwieback": {
+            "i-name": "Zwieback",
+            "i-class": "carb",
+            "synonyms": ["zwiebäcke"]
+        },
+        "zwiebel": {
+            "i-name": "Zwiebel",
+            "i-class": "onion",
+            "synonyms": []
+        }
+    }
+}

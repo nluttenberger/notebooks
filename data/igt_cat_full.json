@@ -1,0 +1,4709 @@
+{
+    "ingredients": [
+        {
+            "id": "",
+            "label": "",
+            "normName": "",
+            "synonyms": [
+                "salz, pfeffer",
+                "salz und pfeffer",
+                "pfeffer und salz"
+            ]
+        },
+        {
+            "id": "",
+            "label": "",
+            "normName": "",
+            "synonyms": [
+                "salz",
+                "kala namak",
+                "meersalz"
+            ]
+        },
+        {
+            "id": "",
+            "label": "",
+            "normName": "",
+            "synonyms": [
+                "wasser",
+                "mineralwasser",
+                "salzwasser",
+                "eiswasser",
+                "eis"
+            ]
+        },
+        {
+            "id": "",
+            "label": "",
+            "normName": "",
+            "synonyms": ["öl"]
+        },
+        {
+            "id": "",
+            "label": "",
+            "normName": "",
+            "synonyms": ["natron"]
+        },
+        {
+            "id": "",
+            "label": "",
+            "normName": "",
+            "synonyms": ["fett"]
+        },
+        {
+            "id": "aal",
+            "label": "Aal",
+            "normName": "aal",
+            "synonyms": []
+        },
+        {
+            "id": "ackerbohne",
+            "label": "Ackerbohne",
+            "normName": "ackerbohne",
+            "synonyms": [
+                "saubohne",
+                "dicke bohne",
+                "großebohne"
+            ]
+        },
+        {
+            "id": "ackerrettich",
+            "label": "Ackerrettich",
+            "normName": "ackerrettich",
+            "synonyms": [
+                "acker-rettich",
+                "hederich",
+                "häderich"
+            ]
+        },
+        {
+            "id": "agavendicksaft",
+            "label": "Agavendicksaft",
+            "normName": "agavendicksaft",
+            "synonyms": []
+        },
+        {
+            "id": "ahornsirup",
+            "label": "Ahornsirup",
+            "normName": "ahornsirup",
+            "synonyms": []
+        },
+        {
+            "id": "ajvar",
+            "label": "Ajvar",
+            "normName": "ajvar",
+            "synonyms": ["ajwar"]
+        },
+        {
+            "id": "algen",
+            "label": "Algen",
+            "normName": "algen",
+            "synonyms": []
+        },
+        {
+            "id": "amarant",
+            "label": "Amarant",
+            "normName": "amarant",
+            "synonyms": []
+        },
+        {
+            "id": "amaretti",
+            "label": "Amaretti",
+            "normName": "amaretti",
+            "synonyms": ["amarettini"]
+        },
+        {
+            "id": "amaretto",
+            "label": "Amaretto",
+            "normName": "amaretto",
+            "synonyms": []
+        },
+        {
+            "id": "ananas",
+            "label": "Ananas",
+            "normName": "ananas",
+            "synonyms": []
+        },
+        {
+            "id": "ananassaft",
+            "label": "Ananassaft",
+            "normName": "ananassaft",
+            "synonyms": []
+        },
+        {
+            "id": "ancho",
+            "label": "Ancho",
+            "normName": "ancho",
+            "synonyms": ["ancho-chilischote"]
+        },
+        {
+            "id": "anis",
+            "label": "Anis",
+            "normName": "anis",
+            "synonyms": []
+        },
+        {
+            "id": "aperol",
+            "label": "Aperol",
+            "normName": "aperol",
+            "synonyms": []
+        },
+        {
+            "id": "apfel",
+            "label": "Apfel",
+            "normName": "apfel",
+            "synonyms": [
+                "äpfel",
+                "aepfel"
+            ]
+        },
+        {
+            "id": "apfelessig",
+            "label": "Apfelessig",
+            "normName": "apfelessig",
+            "synonyms": []
+        },
+        {
+            "id": "apfelkraut",
+            "label": "Apfelkraut",
+            "normName": "apfelkraut",
+            "synonyms": []
+        },
+        {
+            "id": "apfelsaft",
+            "label": "Apfelsaft",
+            "normName": "apfelsaft",
+            "synonyms": []
+        },
+        {
+            "id": "appenzeller",
+            "label": "Appenzeller",
+            "normName": "appenzeller",
+            "synonyms": []
+        },
+        {
+            "id": "aprikose",
+            "label": "Aprikose",
+            "normName": "aprikose",
+            "synonyms": []
+        },
+        {
+            "id": "arak",
+            "label": "Arak",
+            "normName": "arak",
+            "synonyms": ["arak masak"]
+        },
+        {
+            "id": "artischocke",
+            "label": "Artischocke",
+            "normName": "artischocke",
+            "synonyms": []
+        },
+        {
+            "id": "asa_foetida",
+            "label": "Asa_Foetida",
+            "normName": "asafoetida",
+            "synonyms": [
+                "asafötida",
+                "asa-foetida",
+                "asa_foetida",
+                "asa foetida"
+            ]
+        },
+        {
+            "id": "auberginen",
+            "label": "Aubergine",
+            "normName": "aubergine",
+            "synonyms": []
+        },
+        {
+            "id": "austern",
+            "label": "Austern",
+            "normName": "austern",
+            "synonyms": []
+        },
+        {
+            "id": "austernpilz",
+            "label": "Austernpilz",
+            "normName": "austernpilz",
+            "synonyms": []
+        },
+        {
+            "id": "austernsauce",
+            "label": "Austernsauce",
+            "normName": "austernsauce",
+            "synonyms": []
+        },
+        {
+            "id": "avocado",
+            "label": "Avocado",
+            "normName": "avocado",
+            "synonyms": []
+        },
+        {
+            "id": "babyspinat",
+            "label": "Babyspinat",
+            "normName": "babyspinat",
+            "synonyms": []
+        },
+        {
+            "id": "backobst",
+            "label": "Backobst",
+            "normName": "backobst",
+            "synonyms": []
+        },
+        {
+            "id": "backpflaume",
+            "label": "Backpflaume",
+            "normName": "backpflaume",
+            "synonyms": []
+        },
+        {
+            "id": "backpulver",
+            "label": "Backpulver",
+            "normName": "backpulver",
+            "synonyms": []
+        },
+        {
+            "id": "baharat",
+            "label": "Baharat",
+            "normName": "baharat",
+            "synonyms": []
+        },
+        {
+            "id": "baiser",
+            "label": "Baiser",
+            "normName": "baiser",
+            "synonyms": []
+        },
+        {
+            "id": "balsamico",
+            "label": "Balsamico",
+            "normName": "balsamico",
+            "synonyms": []
+        },
+        {
+            "id": "bambus",
+            "label": "Bambus",
+            "normName": "bambus",
+            "synonyms": [
+                "bambussprossen",
+                "bambusscheiben"
+            ]
+        },
+        {
+            "id": "banane",
+            "label": "Banane",
+            "normName": "banane",
+            "synonyms": []
+        },
+        {
+            "id": "bärlauch",
+            "label": "Bärlauch",
+            "normName": "bärlauch",
+            "synonyms": []
+        },
+        {
+            "id": "barsch",
+            "label": "Barsch",
+            "normName": "barsch",
+            "synonyms": []
+        },
+        {
+            "id": "basilikum",
+            "label": "Basilikum",
+            "normName": "basilikum",
+            "synonyms": []
+        },
+        {
+            "id": "béchamelsauce",
+            "label": "Béchamelsauce",
+            "normName": "béchamelsauce",
+            "synonyms": []
+        },
+        {
+            "id": "beeren",
+            "label": "Beeren",
+            "normName": "beeren",
+            "synonyms": []
+        },
+        {
+            "id": "beifuß",
+            "label": "Beifuß",
+            "normName": "beifuß",
+            "synonyms": []
+        },
+        {
+            "id": "berbere",
+            "label": "Berbere",
+            "normName": "berbere",
+            "synonyms": []
+        },
+        {
+            "id": "bergkäse",
+            "label": "Bergkäse",
+            "normName": "bergkäse",
+            "synonyms": []
+        },
+        {
+            "id": "bier",
+            "label": "Bier",
+            "normName": "bier",
+            "synonyms": []
+        },
+        {
+            "id": "bindemittel",
+            "label": "Bindemittel",
+            "normName": "bindemittel",
+            "synonyms": [
+                "johannisbrotkernmehl",
+                "biobin",
+                "bindobin"
+            ]
+        },
+        {
+            "id": "birne",
+            "label": "Birne",
+            "normName": "birne",
+            "synonyms": []
+        },
+        {
+            "id": "birnenkraut",
+            "label": "Birnenkraut",
+            "normName": "birnenkraut",
+            "synonyms": []
+        },
+        {
+            "id": "biskuit",
+            "label": "Biskuit",
+            "normName": "biskuit",
+            "synonyms": []
+        },
+        {
+            "id": "bittermandel",
+            "label": "Bittermandel",
+            "normName": "bittermandel",
+            "synonyms": []
+        },
+        {
+            "id": "blätterteig",
+            "label": "Blätterteig",
+            "normName": "blätterteig",
+            "synonyms": []
+        },
+        {
+            "id": "blattsalat",
+            "label": "Blattsalat",
+            "normName": "blattsalat",
+            "synonyms": ["salat"]
+        },
+        {
+            "id": "blauschimmel",
+            "label": "Blauschimmel",
+            "normName": "blauschimmel",
+            "synonyms": []
+        },
+        {
+            "id": "blumenkohl",
+            "label": "Blumenkohl",
+            "normName": "blumenkohl",
+            "synonyms": []
+        },
+        {
+            "id": "blut",
+            "label": "Blut",
+            "normName": "blut",
+            "synonyms": []
+        },
+        {
+            "id": "blutampfer",
+            "label": "Blutampfer",
+            "normName": "blutampfer",
+            "synonyms": []
+        },
+        {
+            "id": "blüten",
+            "label": "Blüten",
+            "normName": "blüten",
+            "synonyms": []
+        },
+        {
+            "id": "blutorangen",
+            "label": "Blutorangen",
+            "normName": "blutorangen",
+            "synonyms": []
+        },
+        {
+            "id": "blutwurst",
+            "label": "Blutwurst",
+            "normName": "blutwurst",
+            "synonyms": []
+        },
+        {
+            "id": "bockshornklee",
+            "label": "Bockshornklee",
+            "normName": "bockshornklee",
+            "synonyms": ["bockshornkleesamen"]
+        },
+        {
+            "id": "bohnen",
+            "label": "Bohnen",
+            "normName": "bohnen",
+            "synonyms": []
+        },
+        {
+            "id": "bohnenkraut",
+            "label": "Bohnenkraut",
+            "normName": "bohnenkraut",
+            "synonyms": []
+        },
+        {
+            "id": "borretsch",
+            "label": "Borretsch",
+            "normName": "borretsch",
+            "synonyms": []
+        },
+        {
+            "id": "brasse",
+            "label": "Brasse",
+            "normName": "brasse",
+            "synonyms": [
+                "goldbrasse",
+                "dorade royale"
+            ]
+        },
+        {
+            "id": "bratenfond",
+            "label": "Bratenfond",
+            "normName": "bratenfond",
+            "synonyms": ["bratensaft"]
+        },
+        {
+            "id": "bratenjus",
+            "label": "Bratenjus",
+            "normName": "bratenjus",
+            "synonyms": ["jus"]
+        },
+        {
+            "id": "bratensauce",
+            "label": "Bratensauce",
+            "normName": "bratensauce",
+            "synonyms": []
+        },
+        {
+            "id": "bratfett",
+            "label": "Bratfett",
+            "normName": "bratfett",
+            "synonyms": ["bratenfett"]
+        },
+        {
+            "id": "bratwurst",
+            "label": "Bratwurst",
+            "normName": "bratwurst",
+            "synonyms": [
+                "bratwürste",
+                "rostbratwürste"
+            ]
+        },
+        {
+            "id": "breite_bohnen",
+            "label": "Breite_Bohnen",
+            "normName": "breite bohnen",
+            "synonyms": []
+        },
+        {
+            "id": "brennnessel",
+            "label": "Brennnessel",
+            "normName": "brennnessel",
+            "synonyms": []
+        },
+        {
+            "id": "bresaola",
+            "label": "Bresaola",
+            "normName": "bresaola",
+            "synonyms": []
+        },
+        {
+            "id": "brokkoli",
+            "label": "Brokkoli",
+            "normName": "brokkoli",
+            "synonyms": []
+        },
+        {
+            "id": "brot",
+            "label": "Brot",
+            "normName": "brot",
+            "synonyms": [
+                "pide",
+                "croûtons",
+                "brötchen",
+                "vierpfennigsbrödchen"
+            ]
+        },
+        {
+            "id": "brotgewürz",
+            "label": "Brotgewürz",
+            "normName": "brotgewürz",
+            "synonyms": []
+        },
+        {
+            "id": "brühe",
+            "label": "Brühe",
+            "normName": "brühe",
+            "synonyms": [
+                "fond",
+                "sud"
+            ]
+        },
+        {
+            "id": "brunnenkresse",
+            "label": "Brunnenkresse",
+            "normName": "brunnenkresse",
+            "synonyms": []
+        },
+        {
+            "id": "buchweizen",
+            "label": "Buchweizen",
+            "normName": "buchweizen",
+            "synonyms": []
+        },
+        {
+            "id": "buchweizenmehl",
+            "label": "Buchweizenmehl",
+            "normName": "buchweizenmehl",
+            "synonyms": []
+        },
+        {
+            "id": "büffelmozzarella",
+            "label": "Büffelmozzarella",
+            "normName": "büffelmozzarella",
+            "synonyms": []
+        },
+        {
+            "id": "bulgur",
+            "label": "Bulgur",
+            "normName": "bulgur",
+            "synonyms": []
+        },
+        {
+            "id": "butt",
+            "label": "Butt",
+            "normName": "butt",
+            "synonyms": []
+        },
+        {
+            "id": "butter",
+            "label": "Butter",
+            "normName": "butter",
+            "synonyms": []
+        },
+        {
+            "id": "butterkäse",
+            "label": "Butterkäse",
+            "normName": "butterkäse",
+            "synonyms": []
+        },
+        {
+            "id": "butterkohl",
+            "label": "Butterkohl",
+            "normName": "butterkohl",
+            "synonyms": []
+        },
+        {
+            "id": "buttermilch",
+            "label": "Buttermilch",
+            "normName": "buttermilch",
+            "synonyms": []
+        },
+        {
+            "id": "butternusskürbis",
+            "label": "Butternusskürbis",
+            "normName": "butternusskürbis",
+            "synonyms": []
+        },
+        {
+            "id": "butterschmalz",
+            "label": "Butterschmalz",
+            "normName": "butterschmalz",
+            "synonyms": []
+        },
+        {
+            "id": "cajunmischung",
+            "label": "Cajunmischung",
+            "normName": "cajunmischung",
+            "synonyms": ["cajun-gewürzmischung"]
+        },
+        {
+            "id": "camembert",
+            "label": "Camembert",
+            "normName": "camembert",
+            "synonyms": []
+        },
+        {
+            "id": "cascabel",
+            "label": "Cascabel",
+            "normName": "cascabel",
+            "synonyms": ["cascabel-chilischote"]
+        },
+        {
+            "id": "cashew",
+            "label": "Cashew",
+            "normName": "cashew",
+            "synonyms": []
+        },
+        {
+            "id": "cassis",
+            "label": "Cassis",
+            "normName": "cassis",
+            "synonyms": []
+        },
+        {
+            "id": "cataloupemelone",
+            "label": "Cantaloupemelone",
+            "normName": "cantaloupemelone",
+            "synonyms": ["cantaloupe-melone"]
+        },
+        {
+            "id": "cayennepfeffer",
+            "label": "Cayennepfeffer",
+            "normName": "cayennepfeffer",
+            "synonyms": []
+        },
+        {
+            "id": "chaat_masala",
+            "label": "Chaat_Masala",
+            "normName": "chaat masala",
+            "synonyms": []
+        },
+        {
+            "id": "champignon",
+            "label": "Champignon",
+            "normName": "champignon",
+            "synonyms": []
+        },
+        {
+            "id": "cheddar",
+            "label": "Cheddar",
+            "normName": "cheddar",
+            "synonyms": []
+        },
+        {
+            "id": "chiasamen",
+            "label": "Chiasamen",
+            "normName": "chiasamen",
+            "synonyms": []
+        },
+        {
+            "id": "chicorée",
+            "label": "Chicorée",
+            "normName": "chicorée",
+            "synonyms": []
+        },
+        {
+            "id": "chili",
+            "label": "Chili",
+            "normName": "chili",
+            "synonyms": ["pul biber"]
+        },
+        {
+            "id": "chiliflocken",
+            "label": "Chiliflocken",
+            "normName": "chiliflocken",
+            "synonyms": []
+        },
+        {
+            "id": "chilipaste",
+            "label": "Chilipaste",
+            "normName": "chilipaste",
+            "synonyms": ["gochujang"]
+        },
+        {
+            "id": "chilischote",
+            "label": "Chilischote",
+            "normName": "chilischote",
+            "synonyms": [
+                "chili",
+                "peperoncini",
+                "peperoncino"
+            ]
+        },
+        {
+            "id": "chinakohl",
+            "label": "Chinakohl",
+            "normName": "chinakohl",
+            "synonyms": []
+        },
+        {
+            "id": "chipotle",
+            "label": "Chipotle",
+            "normName": "chipotle",
+            "synonyms": ["chipotle-chiliflocken"]
+        },
+        {
+            "id": "choisum",
+            "label": "Choi_sum",
+            "normName": "choi sum",
+            "synonyms": []
+        },
+        {
+            "id": "chop_suey",
+            "label": "Chop_suey",
+            "normName": "chop suey",
+            "synonyms": ["chop suey"]
+        },
+        {
+            "id": "cidre",
+            "label": "Cidre",
+            "normName": "cidre",
+            "synonyms": []
+        },
+        {
+            "id": "clementine",
+            "label": "Clementine",
+            "normName": "clementine",
+            "synonyms": []
+        },
+        {
+            "id": "cocktailkirschen",
+            "label": "Cocktailkirschen",
+            "normName": "cocktailkirschen",
+            "synonyms": []
+        },
+        {
+            "id": "cola",
+            "label": "Cola",
+            "normName": "cola",
+            "synonyms": []
+        },
+        {
+            "id": "cornichon",
+            "label": "Cornichon",
+            "normName": "cornichon",
+            "synonyms": []
+        },
+        {
+            "id": "couscous",
+            "label": "Couscous",
+            "normName": "couscous",
+            "synonyms": []
+        },
+        {
+            "id": "cranberry",
+            "label": "Cranberry",
+            "normName": "cranberry",
+            "synonyms": ["cranberries"]
+        },
+        {
+            "id": "crème",
+            "label": "Crème_vegan",
+            "normName": "crème vegan",
+            "synonyms": [
+                "creme",
+                "schlagcreme"
+            ]
+        },
+        {
+            "id": "crème_double",
+            "label": "Crème_double",
+            "normName": "crème double",
+            "synonyms": []
+        },
+        {
+            "id": "crème_fraîche",
+            "label": "Crème_fraîche",
+            "normName": "crème fraîche",
+            "synonyms": ["crème légère"]
+        },
+        {
+            "id": "crownprincekürbis",
+            "label": "Crown_Prince_Kürbis",
+            "normName": "crown prince kürbis",
+            "synonyms": ["crown-prince-kürbis"]
+        },
+        {
+            "id": "cumin",
+            "label": "Cumin",
+            "normName": "cumin",
+            "synonyms": ["kreuzkümmel"]
+        },
+        {
+            "id": "curaçao",
+            "label": "Curaçao",
+            "normName": "curaçao",
+            "synonyms": []
+        },
+        {
+            "id": "curcuma",
+            "label": "Curcuma",
+            "normName": "curcuma",
+            "synonyms": [
+                "kurkuma",
+                "corcuma"
+            ]
+        },
+        {
+            "id": "curry",
+            "label": "Curry",
+            "normName": "curry",
+            "synonyms": []
+        },
+        {
+            "id": "curryblätter",
+            "label": "Curryblätter",
+            "normName": "curryblätter",
+            "synonyms": []
+        },
+        {
+            "id": "dattel",
+            "label": "Dattel",
+            "normName": "dattel",
+            "synonyms": []
+        },
+        {
+            "id": "datteln",
+            "label": "Datteln",
+            "normName": "datteln",
+            "synonyms": []
+        },
+        {
+            "id": "dijonsenf",
+            "label": "Dijonsenf",
+            "normName": "dijonsenf",
+            "synonyms": ["dijon-senf"]
+        },
+        {
+            "id": "dill",
+            "label": "Dill",
+            "normName": "dill",
+            "synonyms": []
+        },
+        {
+            "id": "dinkel",
+            "label": "Dinkel",
+            "normName": "dinkel",
+            "synonyms": []
+        },
+        {
+            "id": "drachenfrucht",
+            "label": "Drachenfrucht",
+            "normName": "drachenfrucht",
+            "synonyms": []
+        },
+        {
+            "id": "dressing",
+            "label": "Dressing",
+            "normName": "dressing",
+            "synonyms": []
+        },
+        {
+            "id": "ducca",
+            "label": "Ducca",
+            "normName": "ducca",
+            "synonyms": []
+        },
+        {
+            "id": "edamame",
+            "label": "Edamame",
+            "normName": "edamame",
+            "synonyms": []
+        },
+        {
+            "id": "ei",
+            "label": "Ei",
+            "normName": "ei",
+            "synonyms": []
+        },
+        {
+            "id": "eichenlaubsalat",
+            "label": "Eichenlaubsalat",
+            "normName": "eichenlaubsalat",
+            "synonyms": []
+        },
+        {
+            "id": "eisbergsalat",
+            "label": "Eisbergsalat",
+            "normName": "eisbergsalat",
+            "synonyms": []
+        },
+        {
+            "id": "eisenkraut",
+            "label": "Eisenkraut",
+            "normName": "eisenkraut",
+            "synonyms": ["verbene"]
+        },
+        {
+            "id": "emmentaler",
+            "label": "Emmentaler",
+            "normName": "emmentaler",
+            "synonyms": []
+        },
+        {
+            "id": "endivien",
+            "label": "Endivien",
+            "normName": "endivien",
+            "synonyms": ["endiviensalat"]
+        },
+        {
+            "id": "ente",
+            "label": "Ente",
+            "normName": "ente",
+            "synonyms": []
+        },
+        {
+            "id": "erbsen",
+            "label": "Erbsen",
+            "normName": "erbsen",
+            "synonyms": ["grüne erbsen"]
+        },
+        {
+            "id": "erdbeeren",
+            "label": "Erdbeeren",
+            "normName": "erdbeeren",
+            "synonyms": []
+        },
+        {
+            "id": "erdbeerlikör",
+            "label": "Erdbeerlikör",
+            "normName": "erdbeerlikör",
+            "synonyms": []
+        },
+        {
+            "id": "erdnuss",
+            "label": "Erdnuss",
+            "normName": "erdnuss",
+            "synonyms": ["erdnüsse"]
+        },
+        {
+            "id": "erdnussbutter",
+            "label": "Erdnussbutter",
+            "normName": "erdnussbutter",
+            "synonyms": []
+        },
+        {
+            "id": "erdnussöl",
+            "label": "Erdnussöl",
+            "normName": "erdnussöl",
+            "synonyms": []
+        },
+        {
+            "id": "essig",
+            "label": "Essig",
+            "normName": "essig",
+            "synonyms": []
+        },
+        {
+            "id": "estragon",
+            "label": "Estragon",
+            "normName": "estragon",
+            "synonyms": ["dragon"]
+        },
+        {
+            "id": "euter",
+            "label": "Euter",
+            "normName": "euter",
+            "synonyms": []
+        },
+        {
+            "id": "feige",
+            "label": "Feige",
+            "normName": "feige",
+            "synonyms": []
+        },
+        {
+            "id": "feldsalat",
+            "label": "Feldsalat",
+            "normName": "feldsalat",
+            "synonyms": []
+        },
+        {
+            "id": "fenchel",
+            "label": "Fenchel",
+            "normName": "fenchel",
+            "synonyms": []
+        },
+        {
+            "id": "fenchelgrün",
+            "label": "Fenchelgrün",
+            "normName": "fenchelgrün",
+            "synonyms": []
+        },
+        {
+            "id": "fenchelsamen",
+            "label": "Fenchelsamen",
+            "normName": "fenchelsamen",
+            "synonyms": []
+        },
+        {
+            "id": "fisch",
+            "label": "Fisch",
+            "normName": "fisch",
+            "synonyms": ["fischfilet"]
+        },
+        {
+            "id": "fischfond",
+            "label": "Fischfond",
+            "normName": "fischfond",
+            "synonyms": ["pulposud"]
+        },
+        {
+            "id": "fischsauce",
+            "label": "Fischsauce",
+            "normName": "fischsauce",
+            "synonyms": []
+        },
+        {
+            "id": "fleisch",
+            "label": "Fleisch",
+            "normName": "fleisch",
+            "synonyms": []
+        },
+        {
+            "id": "fleischbrühe",
+            "label": "Fleischbrühe",
+            "normName": "fleischbrühe",
+            "synonyms": [
+                "fleischfond",
+                "rinderfond",
+                "bouillon",
+                "wildfond",
+                "rindfleisch-bouillon",
+                "sud von den knöchla"
+            ]
+        },
+        {
+            "id": "fleischsalat",
+            "label": "Fleischsalat",
+            "normName": "fleischsalat",
+            "synonyms": []
+        },
+        {
+            "id": "flusskrebse",
+            "label": "Flusskrebse",
+            "normName": "flusskrebse",
+            "synonyms": []
+        },
+        {
+            "id": "forelle",
+            "label": "Forelle",
+            "normName": "forelle",
+            "synonyms": ["bachforelle"]
+        },
+        {
+            "id": "frischkäse",
+            "label": "Frischkäse",
+            "normName": "frischkäse",
+            "synonyms": []
+        },
+        {
+            "id": "frisée",
+            "label": "frisée",
+            "normName": "frisée",
+            "synonyms": ["frisee"]
+        },
+        {
+            "id": "friséesalat",
+            "label": "Friséesalat",
+            "normName": "friséesalat",
+            "synonyms": []
+        },
+        {
+            "id": "froschschenkel",
+            "label": "Froschschenkel",
+            "normName": "froschschenkel",
+            "synonyms": []
+        },
+        {
+            "id": "früchte",
+            "label": "Früchte",
+            "normName": "früchte",
+            "synonyms": []
+        },
+        {
+            "id": "früchtetee",
+            "label": "Früchtetee",
+            "normName": "früchtetee",
+            "synonyms": []
+        },
+        {
+            "id": "fruchtsaft",
+            "label": "Fruchtsaft",
+            "normName": "fruchtsaft",
+            "synonyms": ["fruchtsäfte"]
+        },
+        {
+            "id": "galgant",
+            "label": "Galgant",
+            "normName": "galgant",
+            "synonyms": []
+        },
+        {
+            "id": "gans",
+            "label": "Gans",
+            "normName": "gans",
+            "synonyms": []
+        },
+        {
+            "id": "gänseblümchen",
+            "label": "Gänseblümchen",
+            "normName": "gänseblümchen",
+            "synonyms": []
+        },
+        {
+            "id": "gänsefett",
+            "label": "Gänsefett",
+            "normName": "gänsefett",
+            "synonyms": ["gänseschmalz"]
+        },
+        {
+            "id": "gänsefuß",
+            "label": "Gänsefuß",
+            "normName": "gänsefuß",
+            "synonyms": []
+        },
+        {
+            "id": "gänseschmalz",
+            "label": "Gänseschmalz",
+            "normName": "gänseschmalz",
+            "synonyms": []
+        },
+        {
+            "id": "garam_masala",
+            "label": "Garam_Masala",
+            "normName": "garam masala",
+            "synonyms": []
+        },
+        {
+            "id": "garnele",
+            "label": "Garnele",
+            "normName": "garnele",
+            "synonyms": ["garnelen"]
+        },
+        {
+            "id": "garnelen",
+            "label": "Garnelen",
+            "normName": "garnelen",
+            "synonyms": ["gambas"]
+        },
+        {
+            "id": "gartenmelde",
+            "label": "Gartenmelde",
+            "normName": "gartenmelde",
+            "synonyms": ["melle"]
+        },
+        {
+            "id": "geflügel",
+            "label": "Geflügel",
+            "normName": "geflügel",
+            "synonyms": []
+        },
+        {
+            "id": "gekochter_schinken",
+            "label": "gekochter_Schinken",
+            "normName": "gekochter schinken",
+            "synonyms": []
+        },
+        {
+            "id": "gelatine",
+            "label": "Gelatine",
+            "normName": "gelatine",
+            "synonyms": [
+                "tortenguss",
+                "gelfix"
+            ]
+        },
+        {
+            "id": "gelb_bete",
+            "label": "Gelbe_Bete",
+            "normName": "gelbe bete",
+            "synonyms": []
+        },
+        {
+            "id": "gelbe_erbsen",
+            "label": "Gelbe_Erbsen",
+            "normName": "gelbe erbsen",
+            "synonyms": []
+        },
+        {
+            "id": "gelee",
+            "label": "Gelee",
+            "normName": "gelee",
+            "synonyms": []
+        },
+        {
+            "id": "gemüsebrühe",
+            "label": "Gemüsebrühe",
+            "normName": "gemüsebrühe",
+            "synonyms": [
+                "gemüsefond",
+                "gemüsebrühwürfel"
+            ]
+        },
+        {
+            "id": "gemüsegurke",
+            "label": "Gemüsegurke",
+            "normName": "gemüsegurke",
+            "synonyms": []
+        },
+        {
+            "id": "gemüsemischung",
+            "label": "Gemüsemischung",
+            "normName": "gemüsemischung",
+            "synonyms": ["gemüse"]
+        },
+        {
+            "id": "gemüsezwiebel",
+            "label": "Gemüsezwiebel",
+            "normName": "gemüsezwiebel",
+            "synonyms": []
+        },
+        {
+            "id": "geraeucherter_schinken",
+            "label": "geräucherter_Schinken",
+            "normName": "geräucherter schinken",
+            "synonyms": []
+        },
+        {
+            "id": "geräuchertes_paprikapulver",
+            "label": "Geräuchertes_Paprikapulver",
+            "normName": "geräuchertes paprikapulver",
+            "synonyms": ["pimenton de la vera"]
+        },
+        {
+            "id": "gerste",
+            "label": "Gerste",
+            "normName": "gerste",
+            "synonyms": []
+        },
+        {
+            "id": "getr_pflaume",
+            "label": "getr_Pflaume",
+            "normName": "getr pflaume",
+            "synonyms": ["brünelle"]
+        },
+        {
+            "id": "getr_zwetschge",
+            "label": "getr_Zwetschge",
+            "normName": "getr zwetschge",
+            "synonyms": ["getrocknete zwetsche"]
+        },
+        {
+            "id": "getrocknete_tomaten",
+            "label": "getrocknete_Tomaten",
+            "normName": "getrocknete tomaten",
+            "synonyms": ["getrocknete tomaten"]
+        },
+        {
+            "id": "gewürz",
+            "label": "Gewürz",
+            "normName": "gewürz",
+            "synonyms": [
+                "streuwürze",
+                "gewürzmischung",
+                "bbq-rub"
+            ]
+        },
+        {
+            "id": "gewürzgurke",
+            "label": "Gewürzgurken",
+            "normName": "gewürzgurken",
+            "synonyms": []
+        },
+        {
+            "id": "ghee",
+            "label": "Ghee",
+            "normName": "ghee",
+            "synonyms": []
+        },
+        {
+            "id": "giersch",
+            "label": "Giersch",
+            "normName": "giersch",
+            "synonyms": []
+        },
+        {
+            "id": "gin",
+            "label": "Gin",
+            "normName": "gin",
+            "synonyms": []
+        },
+        {
+            "id": "glutamat",
+            "label": "Glutamat",
+            "normName": "glutamat",
+            "synonyms": []
+        },
+        {
+            "id": "gnocchi",
+            "label": "Gnocchi",
+            "normName": "gnocchi",
+            "synonyms": []
+        },
+        {
+            "id": "golden_syrup",
+            "label": "Golden_Syrup",
+            "normName": "golden syrup",
+            "synonyms": ["golden syrup"]
+        },
+        {
+            "id": "gorgonzola",
+            "label": "Gorgonzola",
+            "normName": "gorgonzola",
+            "synonyms": []
+        },
+        {
+            "id": "gouda",
+            "label": "Gouda",
+            "normName": "gouda",
+            "synonyms": []
+        },
+        {
+            "id": "grana_padano",
+            "label": "Grana_padano",
+            "normName": "grana padano",
+            "synonyms": []
+        },
+        {
+            "id": "granatapfel",
+            "label": "Granatapfel",
+            "normName": "granatapfel",
+            "synonyms": []
+        },
+        {
+            "id": "granatapfelsirup",
+            "label": "Granatapfelsirup",
+            "normName": "granatapfelsirup",
+            "synonyms": []
+        },
+        {
+            "id": "grapefruit",
+            "label": "Grapefruit",
+            "normName": "grapefruit",
+            "synonyms": []
+        },
+        {
+            "id": "graupen",
+            "label": "Graupen",
+            "normName": "graupen",
+            "synonyms": []
+        },
+        {
+            "id": "grenadine",
+            "label": "Grenadine",
+            "normName": "grenadine",
+            "synonyms": []
+        },
+        {
+            "id": "grieß",
+            "label": "Grieß",
+            "normName": "grieß",
+            "synonyms": ["vollkorngrieß"]
+        },
+        {
+            "id": "große_bohnen",
+            "label": "Große_Bohnen",
+            "normName": "große bohnen",
+            "synonyms": []
+        },
+        {
+            "id": "grüne_bohnen",
+            "label": "Grüne_Bohnen",
+            "normName": "grüne bohnen",
+            "synonyms": [
+                "gartenbohnen",
+                "schnittbohnen",
+                "buschbohnen",
+                "stangenbohnen",
+                "schnippelbohnen",
+                "salatbohnen",
+                "brechbohnen",
+                "prinzessbohnen",
+                "vietsbohne",
+                "schneidbohnen",
+                "böhnchen"
+            ]
+        },
+        {
+            "id": "grüner_spargel",
+            "label": "grüner_Spargel",
+            "normName": "grüner spargel",
+            "synonyms": []
+        },
+        {
+            "id": "grünkern",
+            "label": "Grünkern",
+            "normName": "grünkern",
+            "synonyms": []
+        },
+        {
+            "id": "grünkohl",
+            "label": "Grünkohl",
+            "normName": "grünkohl",
+            "synonyms": [
+                "Braunkohl",
+                "grüner Kohl",
+                "grüner oder brauner kohl"
+            ]
+        },
+        {
+            "id": "grütze",
+            "label": "Grütze",
+            "normName": "grütze",
+            "synonyms": []
+        },
+        {
+            "id": "gruyère",
+            "label": "Gruyère",
+            "normName": "gruyère",
+            "synonyms": ["greyerzer"]
+        },
+        {
+            "id": "guave",
+            "label": "Guave",
+            "normName": "guave",
+            "synonyms": []
+        },
+        {
+            "id": "gundermann",
+            "label": "Gundermann",
+            "normName": "gundermann",
+            "synonyms": []
+        },
+        {
+            "id": "gurke",
+            "label": "Gurke",
+            "normName": "gurke",
+            "synonyms": ["salatgurke"]
+        },
+        {
+            "id": "habanero",
+            "label": "Habanero",
+            "normName": "habanero",
+            "synonyms": ["habanero-chilischote"]
+        },
+        {
+            "id": "hackfleisch",
+            "label": "Hackfleisch",
+            "normName": "hackfleisch",
+            "synonyms": [
+                "hack",
+                "mett",
+                "brät",
+                "rinderhack",
+                "lammhack",
+                "kalbsbrät"
+            ]
+        },
+        {
+            "id": "haferfleks",
+            "label": "Haferfleks",
+            "normName": "haferfleks",
+            "synonyms": []
+        },
+        {
+            "id": "haferflocken",
+            "label": "Haferflocken",
+            "normName": "haferflocken",
+            "synonyms": []
+        },
+        {
+            "id": "hafergrütze",
+            "label": "Hafergrütze",
+            "normName": "hafergrütze",
+            "synonyms": []
+        },
+        {
+            "id": "hagebutte",
+            "label": "Hagebutte",
+            "normName": "hagebutte",
+            "synonyms": []
+        },
+        {
+            "id": "handkäs",
+            "label": "Handkäs",
+            "normName": "handkäs",
+            "synonyms": [
+                "mainzer_käse",
+                "harzer_käse"
+            ]
+        },
+        {
+            "id": "harissa",
+            "label": "Harissa",
+            "normName": "harissa",
+            "synonyms": []
+        },
+        {
+            "id": "hartweizengrieß",
+            "label": "Hartweizengrieß",
+            "normName": "hartweizengrieß",
+            "synonyms": ["semola"]
+        },
+        {
+            "id": "hase",
+            "label": "Hase",
+            "normName": "hase",
+            "synonyms": []
+        },
+        {
+            "id": "haselnuss",
+            "label": "Haselnuss",
+            "normName": "haselnuss",
+            "synonyms": ["haselnüsse"]
+        },
+        {
+            "id": "hatsoi",
+            "label": "Hatsoi",
+            "normName": "hatsoi",
+            "synonyms": []
+        },
+        {
+            "id": "hecht",
+            "label": "Hecht",
+            "normName": "hecht",
+            "synonyms": []
+        },
+        {
+            "id": "hefe",
+            "label": "Hefe",
+            "normName": "hefe",
+            "synonyms": []
+        },
+        {
+            "id": "hefewürze",
+            "label": "Hefewürze",
+            "normName": "hefewürze",
+            "synonyms": []
+        },
+        {
+            "id": "herbes_de_provence",
+            "label": "Herbes_de_Provence",
+            "normName": "herbes de provence",
+            "synonyms": ["kräuter der provence"]
+        },
+        {
+            "id": "hering",
+            "label": "Hering",
+            "normName": "hering",
+            "synonyms": ["häring"]
+        },
+        {
+            "id": "herz",
+            "label": "Herz",
+            "normName": "herz",
+            "synonyms": []
+        },
+        {
+            "id": "hibiskus",
+            "label": "Hibiskus",
+            "normName": "hibiskus",
+            "synonyms": ["hibiskustee"]
+        },
+        {
+            "id": "himbeeren",
+            "label": "Himbeeren",
+            "normName": "himbeeren",
+            "synonyms": []
+        },
+        {
+            "id": "hirn",
+            "label": "Hirn",
+            "normName": "hirn",
+            "synonyms": []
+        },
+        {
+            "id": "hirschhorn",
+            "label": "Hirschhorn",
+            "normName": "hirschhorn",
+            "synonyms": []
+        },
+        {
+            "id": "hirschhornsalz",
+            "label": "Hirschhornsalz",
+            "normName": "hirschhornsalz",
+            "synonyms": []
+        },
+        {
+            "id": "hirse",
+            "label": "Hirse",
+            "normName": "hirse",
+            "synonyms": []
+        },
+        {
+            "id": "hoisinsauce",
+            "label": "Hoisinsauce",
+            "normName": "hoisinsauce",
+            "synonyms": [
+                "hoisin-sauce",
+                "hoisinsoße",
+                "hoisin-soße"
+            ]
+        },
+        {
+            "id": "hokkaidokürbis",
+            "label": "Hokkaidokürbis",
+            "normName": "hokkaidokürbis",
+            "synonyms": []
+        },
+        {
+            "id": "holunder",
+            "label": "Holunder",
+            "normName": "holunder",
+            "synonyms": ["blüthe"]
+        },
+        {
+            "id": "honig",
+            "label": "Honig",
+            "normName": "honig",
+            "synonyms": []
+        },
+        {
+            "id": "hopfen",
+            "label": "Hopfen",
+            "normName": "hopfen",
+            "synonyms": []
+        },
+        {
+            "id": "huhn",
+            "label": "Huhn",
+            "normName": "huhn",
+            "synonyms": [
+                "pourlade",
+                "hühnerfleisch",
+                "hühnerkeule",
+                "hühnerhälfte",
+                "hähnchen"
+            ]
+        },
+        {
+            "id": "hühnerbrühe",
+            "label": "Hühnerbrühe",
+            "normName": "hühnerbrühe",
+            "synonyms": [
+                "geflügelbrühe",
+                "geflügelfond",
+                "hühnerfond"
+            ]
+        },
+        {
+            "id": "hühnerbrust",
+            "label": "Hühnerbrust",
+            "normName": "hühnerbrust",
+            "synonyms": [
+                "hähnchenbrust",
+                "hähnchensuprême",
+                "hühnerbrüste"
+            ]
+        },
+        {
+            "id": "hühnerschenkel",
+            "label": "Hühnerschenkel",
+            "normName": "hühnerschenkel",
+            "synonyms": ["hühnerschlegel"]
+        },
+        {
+            "id": "hülsenfrüchte",
+            "label": "Hülsenfrüchte",
+            "normName": "hülsenfrüchte",
+            "synonyms": []
+        },
+        {
+            "id": "hummus",
+            "label": "Hummus",
+            "normName": "hummus",
+            "synonyms": []
+        },
+        {
+            "id": "ingwer",
+            "label": "Ingwer",
+            "normName": "ingwer",
+            "synonyms": []
+        },
+        {
+            "id": "innereien",
+            "label": "Innereien",
+            "normName": "innereien",
+            "synonyms": []
+        },
+        {
+            "id": "isot_biber",
+            "label": "Isot_Biber",
+            "normName": "isot biber",
+            "synonyms": []
+        },
+        {
+            "id": "jakobsmuschel",
+            "label": "Jakobsmuschel",
+            "normName": "jakobsmuschel",
+            "synonyms": []
+        },
+        {
+            "id": "jakobsmuscheln",
+            "label": "Jakobsmuscheln",
+            "normName": "jakobsmuscheln",
+            "synonyms": []
+        },
+        {
+            "id": "jalapeno",
+            "label": "Jalapeno",
+            "normName": "jalapeno",
+            "synonyms": [
+                "jalapeno-chilischoten",
+                "jalapeño"
+            ]
+        },
+        {
+            "id": "joghurt",
+            "label": "Joghurt",
+            "normName": "joghurt",
+            "synonyms": []
+        },
+        {
+            "id": "johannisbeeren",
+            "label": "Johannisbeeren",
+            "normName": "johannisbeeren",
+            "synonyms": []
+        },
+        {
+            "id": "kabeljau",
+            "label": "Kabeljau",
+            "normName": "kabeljau",
+            "synonyms": ["kabeljaufilet"]
+        },
+        {
+            "id": "kaffee",
+            "label": "Kaffee",
+            "normName": "kaffee",
+            "synonyms": ["espresso"]
+        },
+        {
+            "id": "kaffirlimette",
+            "label": "Kaffirlimette",
+            "normName": "kaffirlimette",
+            "synonyms": [
+                "kaffernlimette",
+                "kaffir-limette"
+            ]
+        },
+        {
+            "id": "kakao",
+            "label": "Kakao",
+            "normName": "kakao",
+            "synonyms": [
+                "kakaopulver",
+                "cacao"
+            ]
+        },
+        {
+            "id": "kaki",
+            "label": "Kaki",
+            "normName": "kaki",
+            "synonyms": []
+        },
+        {
+            "id": "kalbfleisch",
+            "label": "Kalbfleisch",
+            "normName": "kalbfleisch",
+            "synonyms": [
+                "kalbsschnitzel",
+                "kalbskotelett",
+                "kalbsfilet",
+                "kalbskarree"
+            ]
+        },
+        {
+            "id": "kalbsbraten",
+            "label": "Kalbsbraten",
+            "normName": "kalbsbraten",
+            "synonyms": []
+        },
+        {
+            "id": "kalbsbries",
+            "label": "Kalbsbries",
+            "normName": "kalbsbries",
+            "synonyms": [
+                "midder",
+                "kalbsmidder"
+            ]
+        },
+        {
+            "id": "kalbsfond",
+            "label": "Kalbsfond",
+            "normName": "kalbsfond",
+            "synonyms": []
+        },
+        {
+            "id": "kalbsfüße",
+            "label": "Kalbsfüße",
+            "normName": "kalbsfüße",
+            "synonyms": []
+        },
+        {
+            "id": "kalbskopf",
+            "label": "Kalbskopf",
+            "normName": "kalbskopf",
+            "synonyms": []
+        },
+        {
+            "id": "kalmar",
+            "label": "Kalmar",
+            "normName": "kalmar",
+            "synonyms": []
+        },
+        {
+            "id": "kaninchen",
+            "label": "Kaninchen",
+            "normName": "kaninchen",
+            "synonyms": []
+        },
+        {
+            "id": "kantenlauch",
+            "label": "Kantenlauch",
+            "normName": "kantenlauch",
+            "synonyms": []
+        },
+        {
+            "id": "kapaun",
+            "label": "Kapaun",
+            "normName": "kapaun",
+            "synonyms": []
+        },
+        {
+            "id": "kapern",
+            "label": "Kapern",
+            "normName": "kapern",
+            "synonyms": ["capern"]
+        },
+        {
+            "id": "kapuzinerkresse",
+            "label": "Kapuzinerkresse",
+            "normName": "kapuzinerkresse",
+            "synonyms": []
+        },
+        {
+            "id": "kardamom",
+            "label": "Kardamom",
+            "normName": "kardamom",
+            "synonyms": []
+        },
+        {
+            "id": "karotte",
+            "label": "Karotte",
+            "normName": "karotte",
+            "synonyms": [
+                "möhre",
+                "herbst-wurzel",
+                "junge wurzeln",
+                "gelbe wurzel"
+            ]
+        },
+        {
+            "id": "karpfen",
+            "label": "Karpfen",
+            "normName": "karpfen",
+            "synonyms": []
+        },
+        {
+            "id": "kartoffel",
+            "label": "Kartoffel",
+            "normName": "kartoffel",
+            "synonyms": []
+        },
+        {
+            "id": "kascha",
+            "label": "Kascha",
+            "normName": "kascha",
+            "synonyms": []
+        },
+        {
+            "id": "käse",
+            "label": "Käse",
+            "normName": "käse",
+            "synonyms": []
+        },
+        {
+            "id": "kasseler",
+            "label": "Kasseler",
+            "normName": "kasseler",
+            "synonyms": ["kassler"]
+        },
+        {
+            "id": "kaviar",
+            "label": "Kaviar",
+            "normName": "kaviar",
+            "synonyms": ["tångkorn"]
+        },
+        {
+            "id": "kefir",
+            "label": "Kefir",
+            "normName": "kefir",
+            "synonyms": []
+        },
+        {
+            "id": "kekse",
+            "label": "Kekse",
+            "normName": "kekse",
+            "synonyms": []
+        },
+        {
+            "id": "kerbel",
+            "label": "Kerbel",
+            "normName": "kerbel",
+            "synonyms": []
+        },
+        {
+            "id": "kerne",
+            "label": "Kerne",
+            "normName": "kerne",
+            "synonyms": []
+        },
+        {
+            "id": "ketchup",
+            "label": "Ketchup",
+            "normName": "ketchup",
+            "synonyms": []
+        },
+        {
+            "id": "ketjap_manis",
+            "label": "Ketjap_manis",
+            "normName": "ketjap manis",
+            "synonyms": []
+        },
+        {
+            "id": "kichererbsen",
+            "label": "Kichererbsen",
+            "normName": "kichererbsen",
+            "synonyms": []
+        },
+        {
+            "id": "kichererbsenmehl",
+            "label": "Kichererbsenmehl",
+            "normName": "kichererbsenmehl",
+            "synonyms": ["kichererbsmehl"]
+        },
+        {
+            "id": "kidneybohnen",
+            "label": "Kidneybohnen",
+            "normName": "kidneybohnen",
+            "synonyms": []
+        },
+        {
+            "id": "kimchi",
+            "label": "Kimchi",
+            "normName": "kimchi",
+            "synonyms": []
+        },
+        {
+            "id": "kirschen",
+            "label": "Kirschen",
+            "normName": "kirschen",
+            "synonyms": []
+        },
+        {
+            "id": "kirschtomaten",
+            "label": "Kirschtomaten",
+            "normName": "kirschtomaten",
+            "synonyms": []
+        },
+        {
+            "id": "kiwi",
+            "label": "Kiwi",
+            "normName": "kiwi",
+            "synonyms": []
+        },
+        {
+            "id": "kleine_vögel",
+            "label": "kleine_Vögel",
+            "normName": "kleine vögel",
+            "synonyms": []
+        },
+        {
+            "id": "knallbrause",
+            "label": "Knallbrause",
+            "normName": "knallbrause",
+            "synonyms": ["peta-zeta"]
+        },
+        {
+            "id": "knoblauch",
+            "label": "Knoblauch",
+            "normName": "knoblauch",
+            "synonyms": []
+        },
+        {
+            "id": "knoblauchsalz",
+            "label": "Knoblauchsalz",
+            "normName": "knoblauchsalz",
+            "synonyms": []
+        },
+        {
+            "id": "knochen",
+            "label": "Knochen",
+            "normName": "knochen",
+            "synonyms": []
+        },
+        {
+            "id": "knochenmark",
+            "label": "Knochenmark",
+            "normName": "knochenmark",
+            "synonyms": []
+        },
+        {
+            "id": "knollensellerie",
+            "label": "Knollensellerie",
+            "normName": "knollensellerie",
+            "synonyms": ["sellerie"]
+        },
+        {
+            "id": "kohlrabi",
+            "label": "Kohlrabi",
+            "normName": "kohlrabi",
+            "synonyms": []
+        },
+        {
+            "id": "kokosblütenzucker",
+            "label": "Kokosblütenzucker",
+            "normName": "kokosblütenzucker",
+            "synonyms": []
+        },
+        {
+            "id": "kokoscrème",
+            "label": "Kokoscrème",
+            "normName": "kokoscrème",
+            "synonyms": [
+                "kokoscreme",
+                "kokospaste",
+                "cream of coconut"
+            ]
+        },
+        {
+            "id": "kokoslikör",
+            "label": "Kokoslikör",
+            "normName": "kokoslikör",
+            "synonyms": [
+                "batida de coco",
+                "kokosnusslikör"
+            ]
+        },
+        {
+            "id": "kokosmilch",
+            "label": "Kokosmilch",
+            "normName": "kokosmilch",
+            "synonyms": []
+        },
+        {
+            "id": "kokosöl",
+            "label": "Kokosöl",
+            "normName": "kokosöl",
+            "synonyms": []
+        },
+        {
+            "id": "kokosraspel",
+            "label": "Kokosraspel",
+            "normName": "kokosraspel",
+            "synonyms": ["kokosnussstücke"]
+        },
+        {
+            "id": "kokoswasser",
+            "label": "Kokoswasser",
+            "normName": "kokoswasser",
+            "synonyms": []
+        },
+        {
+            "id": "kondensmilch",
+            "label": "Kondensmilch",
+            "normName": "kondensmilch",
+            "synonyms": []
+        },
+        {
+            "id": "konfitüre",
+            "label": "Konfitüre",
+            "normName": "konfitüre",
+            "synonyms": []
+        },
+        {
+            "id": "kopf",
+            "label": "Kopf",
+            "normName": "kopf",
+            "synonyms": []
+        },
+        {
+            "id": "kopfsalat",
+            "label": "Kopfsalat",
+            "normName": "kopfsalat",
+            "synonyms": []
+        },
+        {
+            "id": "koriander",
+            "label": "Koriander",
+            "normName": "koriander",
+            "synonyms": ["koriandersamen"]
+        },
+        {
+            "id": "koriandergrün",
+            "label": "Koriandergrün",
+            "normName": "koriandergrün",
+            "synonyms": []
+        },
+        {
+            "id": "krabben",
+            "label": "Krabben",
+            "normName": "krabben",
+            "synonyms": []
+        },
+        {
+            "id": "kräcker",
+            "label": "Kräcker",
+            "normName": "kräcker",
+            "synonyms": ["salzkräcker"]
+        },
+        {
+            "id": "kräuter",
+            "label": "Kräuter",
+            "normName": "kräuter",
+            "synonyms": []
+        },
+        {
+            "id": "kräuterbutter",
+            "label": "Kräuterbutter",
+            "normName": "kräuterbutter",
+            "synonyms": []
+        },
+        {
+            "id": "kräuteressig",
+            "label": "Kräuteressig",
+            "normName": "kräuteressig",
+            "synonyms": []
+        },
+        {
+            "id": "kräutersalz",
+            "label": "Kräutersalz",
+            "normName": "kräutersalz",
+            "synonyms": []
+        },
+        {
+            "id": "krautsalat",
+            "label": "Krautsalat",
+            "normName": "krautsalat",
+            "synonyms": []
+        },
+        {
+            "id": "krebs",
+            "label": "Krebs",
+            "normName": "krebs",
+            "synonyms": []
+        },
+        {
+            "id": "kresse",
+            "label": "Kresse",
+            "normName": "kresse",
+            "synonyms": []
+        },
+        {
+            "id": "krustentiere",
+            "label": "Krustentiere",
+            "normName": "krustentiere",
+            "synonyms": []
+        },
+        {
+            "id": "kumato",
+            "label": "Kumato",
+            "normName": "kumato",
+            "synonyms": []
+        },
+        {
+            "id": "kümmel",
+            "label": "Kümmel",
+            "normName": "kümmel",
+            "synonyms": []
+        },
+        {
+            "id": "kumquat",
+            "label": "Kumquat",
+            "normName": "kumquat",
+            "synonyms": []
+        },
+        {
+            "id": "kürbis",
+            "label": "Kürbis",
+            "normName": "kürbis",
+            "synonyms": []
+        },
+        {
+            "id": "kürbiskern",
+            "label": "Kürbiskern",
+            "normName": "kürbiskern",
+            "synonyms": []
+        },
+        {
+            "id": "kürbiskernöl",
+            "label": "Kürbiskernöl",
+            "normName": "kürbiskernöl",
+            "synonyms": []
+        },
+        {
+            "id": "kutteln",
+            "label": "Kutteln",
+            "normName": "kutteln",
+            "synonyms": []
+        },
+        {
+            "id": "kuvertüre",
+            "label": "Kuvertüre",
+            "normName": "kuvertüre",
+            "synonyms": []
+        },
+        {
+            "id": "lachs",
+            "label": "Lachs",
+            "normName": "lachs",
+            "synonyms": []
+        },
+        {
+            "id": "lachsforelle",
+            "label": "Lachsforelle",
+            "normName": "lachsforelle",
+            "synonyms": []
+        },
+        {
+            "id": "lammfleisch",
+            "label": "Lammfleisch",
+            "normName": "lammfleisch",
+            "synonyms": [
+                "lammgulasch",
+                "lammfilet",
+                "lammrückenfilet",
+                "hammel"
+            ]
+        },
+        {
+            "id": "lauch",
+            "label": "Lauch",
+            "normName": "lauch",
+            "synonyms": [
+                "porree",
+                "borrei"
+            ]
+        },
+        {
+            "id": "lauchzwiebel",
+            "label": "Lauchzwiebel",
+            "normName": "lauchzwiebel",
+            "synonyms": ["frühlingszwiebel"]
+        },
+        {
+            "id": "laugengebäck",
+            "label": "Laugengebäck",
+            "normName": "laugengebäck",
+            "synonyms": []
+        },
+        {
+            "id": "leber",
+            "label": "Leber",
+            "normName": "leber",
+            "synonyms": []
+        },
+        {
+            "id": "leberwurst",
+            "label": "Leberwurst",
+            "normName": "leberwurst",
+            "synonyms": []
+        },
+        {
+            "id": "lebkuchen",
+            "label": "Lebkuchen",
+            "normName": "lebkuchen",
+            "synonyms": []
+        },
+        {
+            "id": "leinsamen",
+            "label": "Leinsamen",
+            "normName": "leinsamen",
+            "synonyms": []
+        },
+        {
+            "id": "liebstöckel",
+            "label": "Liebstöckel",
+            "normName": "liebstöckel",
+            "synonyms": []
+        },
+        {
+            "id": "limette",
+            "label": "Limette",
+            "normName": "limette",
+            "synonyms": [
+                "limone",
+                "limettenabrieb",
+                "limettensaft",
+                "limonensaft"
+            ]
+        },
+        {
+            "id": "limoncello",
+            "label": "Limoncello",
+            "normName": "limoncello",
+            "synonyms": []
+        },
+        {
+            "id": "linsen",
+            "label": "Linsen",
+            "normName": "linsen",
+            "synonyms": []
+        },
+        {
+            "id": "litschi",
+            "label": "Litschi",
+            "normName": "litschi",
+            "synonyms": ["lychee"]
+        },
+        {
+            "id": "löffelbiskuit",
+            "label": "Löffelbiskuit",
+            "normName": "löffelbiskuit",
+            "synonyms": []
+        },
+        {
+            "id": "lollo_rosso",
+            "label": "Lollo_rosso",
+            "normName": "lollo rosso",
+            "synonyms": []
+        },
+        {
+            "id": "lorbeer",
+            "label": "Lorbeer",
+            "normName": "lorbeer",
+            "synonyms": ["lorber"]
+        },
+        {
+            "id": "löwenzahn",
+            "label": "Löwenzahn",
+            "normName": "löwenzahn",
+            "synonyms": []
+        },
+        {
+            "id": "lunge",
+            "label": "Lunge",
+            "normName": "lunge",
+            "synonyms": []
+        },
+        {
+            "id": "lupinenbratling",
+            "label": "Lupinenbratling",
+            "normName": "lupinenbratling",
+            "synonyms": []
+        },
+        {
+            "id": "macadamianüsse",
+            "label": "Macadamianüsse",
+            "normName": "macadamianüsse",
+            "synonyms": []
+        },
+        {
+            "id": "madeira",
+            "label": "Madeira",
+            "normName": "madeira",
+            "synonyms": []
+        },
+        {
+            "id": "maggi",
+            "label": "Maggi",
+            "normName": "maggi",
+            "synonyms": []
+        },
+        {
+            "id": "mairüben",
+            "label": "Mairüben",
+            "normName": "mairüben",
+            "synonyms": []
+        },
+        {
+            "id": "mais",
+            "label": "Mais",
+            "normName": "mais",
+            "synonyms": []
+        },
+        {
+            "id": "maismehl",
+            "label": "Maismehl",
+            "normName": "maismehl",
+            "synonyms": ["masa harina"]
+        },
+        {
+            "id": "majoran",
+            "label": "Majoran",
+            "normName": "majoran",
+            "synonyms": []
+        },
+        {
+            "id": "makronen",
+            "label": "Makronen",
+            "normName": "makronen",
+            "synonyms": []
+        },
+        {
+            "id": "malaga",
+            "label": "Malaga",
+            "normName": "malaga",
+            "synonyms": []
+        },
+        {
+            "id": "mandarine",
+            "label": "Mandarine",
+            "normName": "mandarine",
+            "synonyms": [
+                "mandarinensaft",
+                "mandarinenschale"
+            ]
+        },
+        {
+            "id": "mandel",
+            "label": "Mandel",
+            "normName": "mandel",
+            "synonyms": []
+        },
+        {
+            "id": "mandelmilch",
+            "label": "Mandelmilch",
+            "normName": "mandelmilch",
+            "synonyms": []
+        },
+        {
+            "id": "mandelmus",
+            "label": "Mandelmus",
+            "normName": "mandelmus",
+            "synonyms": []
+        },
+        {
+            "id": "mango",
+            "label": "Mango",
+            "normName": "mango",
+            "synonyms": ["mangofruchtfleisch"]
+        },
+        {
+            "id": "mangold",
+            "label": "Mangold",
+            "normName": "mangold",
+            "synonyms": []
+        },
+        {
+            "id": "mangopickle",
+            "label": "Mangopickle",
+            "normName": "mangopickle",
+            "synonyms": ["mango-pickle"]
+        },
+        {
+            "id": "mangosaft",
+            "label": "Mangosaft",
+            "normName": "mangosaft",
+            "synonyms": ["mangonektar"]
+        },
+        {
+            "id": "maracuja",
+            "label": "Maracuja",
+            "normName": "maracuja",
+            "synonyms": []
+        },
+        {
+            "id": "maracujasaft",
+            "label": "Maracujasaft",
+            "normName": "maracujasaft",
+            "synonyms": []
+        },
+        {
+            "id": "maracujasirup",
+            "label": "Maracujasirup",
+            "normName": "maracujasirup",
+            "synonyms": []
+        },
+        {
+            "id": "marmelade",
+            "label": "Marmelade",
+            "normName": "marmelade",
+            "synonyms": []
+        },
+        {
+            "id": "marone",
+            "label": "Marone",
+            "normName": "marone",
+            "synonyms": [
+                "kastanie",
+                "esskastanie"
+            ]
+        },
+        {
+            "id": "marsala",
+            "label": "Marsala",
+            "normName": "marsala",
+            "synonyms": []
+        },
+        {
+            "id": "marzipan",
+            "label": "Marzipan",
+            "normName": "marzipan",
+            "synonyms": []
+        },
+        {
+            "id": "mascarpone",
+            "label": "Mascarpone",
+            "normName": "mascarpone",
+            "synonyms": []
+        },
+        {
+            "id": "matjes",
+            "label": "Matjes",
+            "normName": "matjes",
+            "synonyms": []
+        },
+        {
+            "id": "maultasche",
+            "label": "Maultasche",
+            "normName": "maultasche",
+            "synonyms": []
+        },
+        {
+            "id": "mayonnaise",
+            "label": "Mayonnaise",
+            "normName": "mayonnaise",
+            "synonyms": ["miracel whip"]
+        },
+        {
+            "id": "meerrettich",
+            "label": "Meerrettich",
+            "normName": "meerrettich",
+            "synonyms": []
+        },
+        {
+            "id": "melasse",
+            "label": "Melasse",
+            "normName": "melasse",
+            "synonyms": []
+        },
+        {
+            "id": "melone",
+            "label": "Melone",
+            "normName": "melone",
+            "synonyms": []
+        },
+        {
+            "id": "mettwurst",
+            "label": "Mettwurst",
+            "normName": "mettwurst",
+            "synonyms": [
+                "cabanossi",
+                "landjäger",
+                "pfefferbeisser"
+            ]
+        },
+        {
+            "id": "miesmuschel",
+            "label": "Miesmuschel",
+            "normName": "miesmuschel",
+            "synonyms": []
+        },
+        {
+            "id": "milch",
+            "label": "Milch",
+            "normName": "milch",
+            "synonyms": []
+        },
+        {
+            "id": "minze",
+            "label": "Minze",
+            "normName": "minze",
+            "synonyms": ["pfefferminze"]
+        },
+        {
+            "id": "mirabelle",
+            "label": "Mirabelle",
+            "normName": "mirabelle",
+            "synonyms": ["mirabellen"]
+        },
+        {
+            "id": "mirin",
+            "label": "Mirin",
+            "normName": "mirin",
+            "synonyms": []
+        },
+        {
+            "id": "miso",
+            "label": "Miso",
+            "normName": "miso",
+            "synonyms": ["miso-paste"]
+        },
+        {
+            "id": "mohn",
+            "label": "Mohn",
+            "normName": "mohn",
+            "synonyms": []
+        },
+        {
+            "id": "möhrengrün",
+            "label": "Möhrengrün",
+            "normName": "möhrengrün",
+            "synonyms": []
+        },
+        {
+            "id": "morchel",
+            "label": "Morchel",
+            "normName": "morchel",
+            "synonyms": []
+        },
+        {
+            "id": "mozzarella",
+            "label": "Mozzarella",
+            "normName": "mozzarella",
+            "synonyms": []
+        },
+        {
+            "id": "mu_err_pilz",
+            "label": "Mu_err_Pilz",
+            "normName": "mu err pilz",
+            "synonyms": ["mu-err-pilz"]
+        },
+        {
+            "id": "multivitaminsaft",
+            "label": "Multivitaminsaft",
+            "normName": "multivitaminsaft",
+            "synonyms": []
+        },
+        {
+            "id": "mürbeteig",
+            "label": "Mürbeteig",
+            "normName": "mürbeteig",
+            "synonyms": []
+        },
+        {
+            "id": "muscheln",
+            "label": "Muscheln",
+            "normName": "muscheln",
+            "synonyms": []
+        },
+        {
+            "id": "muskat",
+            "label": "Muskat",
+            "normName": "muskat",
+            "synonyms": ["macis"]
+        },
+        {
+            "id": "myrte",
+            "label": "Myrte",
+            "normName": "myrte",
+            "synonyms": []
+        },
+        {
+            "id": "nektarine",
+            "label": "Nektarine",
+            "normName": "nektarine",
+            "synonyms": []
+        },
+        {
+            "id": "nelke",
+            "label": "Nelke",
+            "normName": "nelke",
+            "synonyms": ["gewürznelke"]
+        },
+        {
+            "id": "niere",
+            "label": "Niere",
+            "normName": "niere",
+            "synonyms": []
+        },
+        {
+            "id": "nierenfett",
+            "label": "Nierenfett",
+            "normName": "nierenfett",
+            "synonyms": []
+        },
+        {
+            "id": "noriblatt",
+            "label": "Noriblatt",
+            "normName": "noriblatt",
+            "synonyms": [
+                "nori-blatt",
+                "noriblätter",
+                "nori-blätter"
+            ]
+        },
+        {
+            "id": "noriflocken",
+            "label": "Noriflocken",
+            "normName": "noriflocken",
+            "synonyms": ["nori-flocken"]
+        },
+        {
+            "id": "nougat",
+            "label": "Nougat",
+            "normName": "nougat",
+            "synonyms": []
+        },
+        {
+            "id": "nudeln",
+            "label": "Nudeln",
+            "normName": "nudeln",
+            "synonyms": [
+                "spaghetti",
+                "girandole",
+                "bavete",
+                "makkaroni",
+                "bucatini",
+                "tortellini",
+                "capellini",
+                "fusilli",
+                "fettucine",
+                "canneloni",
+                "linguine",
+                "orecchiette",
+                "mafalde",
+                "tagliatelle",
+                "vermicelli",
+                "lasagneblätter",
+                "lasagneplatte",
+                "muschelnudeln",
+                "penne",
+                "pasta",
+                "spätzle",
+                "cannelloni"
+            ]
+        },
+        {
+            "id": "nüsse",
+            "label": "Nüsse",
+            "normName": "nüsse",
+            "synonyms": []
+        },
+        {
+            "id": "obst",
+            "label": "Obst",
+            "normName": "obst",
+            "synonyms": []
+        },
+        {
+            "id": "obstessig",
+            "label": "Obstessig",
+            "normName": "obstessig",
+            "synonyms": []
+        },
+        {
+            "id": "obstler",
+            "label": "Obstler",
+            "normName": "obstler",
+            "synonyms": []
+        },
+        {
+            "id": "ohren",
+            "label": "Ohren",
+            "normName": "ohren",
+            "synonyms": []
+        },
+        {
+            "id": "olive",
+            "label": "Olive",
+            "normName": "olive",
+            "synonyms": []
+        },
+        {
+            "id": "olivenöl",
+            "label": "Olivenöl",
+            "normName": "olivenöl",
+            "synonyms": []
+        },
+        {
+            "id": "orange",
+            "label": "Orange",
+            "normName": "orange",
+            "synonyms": ["apfelsine"]
+        },
+        {
+            "id": "orangeat",
+            "label": "Orangeat",
+            "normName": "orangeat",
+            "synonyms": []
+        },
+        {
+            "id": "orangenabrieb",
+            "label": "Orangenabrieb",
+            "normName": "orangenabrieb",
+            "synonyms": []
+        },
+        {
+            "id": "orangenagrumato",
+            "label": "Orangenagrumato",
+            "normName": "orangenagrumato",
+            "synonyms": ["orangen-agrumato"]
+        },
+        {
+            "id": "orangenblütenwasser",
+            "label": "Orangenblütenwasser",
+            "normName": "orangenblütenwasser",
+            "synonyms": []
+        },
+        {
+            "id": "orangenlikör",
+            "label": "Orangenlikör",
+            "normName": "orangenlikör",
+            "synonyms": [
+                "grand marnier",
+                "cointreau"
+            ]
+        },
+        {
+            "id": "orangensaft",
+            "label": "Orangensaft",
+            "normName": "orangensaft",
+            "synonyms": []
+        },
+        {
+            "id": "orangenschale",
+            "label": "Orangenschale",
+            "normName": "orangenschale",
+            "synonyms": []
+        },
+        {
+            "id": "oregano",
+            "label": "Oregano",
+            "normName": "oregano",
+            "synonyms": []
+        },
+        {
+            "id": "ottersberger_rüben",
+            "label": "Ottersberger_Rüben",
+            "normName": "ottersberger rüben",
+            "synonyms": []
+        },
+        {
+            "id": "ouzo",
+            "label": "Ouzo",
+            "normName": "ouzo",
+            "synonyms": []
+        },
+        {
+            "id": "pak_choi",
+            "label": "Pak_choi",
+            "normName": "pak choi",
+            "synonyms": ["pak choi"]
+        },
+        {
+            "id": "panhas",
+            "label": "Panhas",
+            "normName": "panhas",
+            "synonyms": []
+        },
+        {
+            "id": "paniermehl",
+            "label": "Paniermehl",
+            "normName": "paniermehl",
+            "synonyms": [
+                "semmelbrösel",
+                "vollkornbrösel",
+                "panko"
+            ]
+        },
+        {
+            "id": "panir",
+            "label": "Panir",
+            "normName": "panir",
+            "synonyms": []
+        },
+        {
+            "id": "papaya",
+            "label": "Papaya",
+            "normName": "papaya",
+            "synonyms": []
+        },
+        {
+            "id": "paprika",
+            "label": "Paprika",
+            "normName": "paprika",
+            "synonyms": []
+        },
+        {
+            "id": "paprikamark",
+            "label": "Paprikamark",
+            "normName": "paprikamark",
+            "synonyms": ["aci biber salçası"]
+        },
+        {
+            "id": "paprikapulver",
+            "label": "Paprikapulver",
+            "normName": "paprikapulver",
+            "synonyms": [
+                "paprikaflocken",
+                "paprika edelsüß",
+                "paprika scharf"
+            ]
+        },
+        {
+            "id": "parmesan",
+            "label": "Parmesan",
+            "normName": "parmesan",
+            "synonyms": []
+        },
+        {
+            "id": "passionsfrucht",
+            "label": "Passionsfrucht",
+            "normName": "passionsfrucht",
+            "synonyms": [
+                "passionsfrüchte",
+                "passionsfruchtmark"
+            ]
+        },
+        {
+            "id": "passionsfruchtlikör",
+            "label": "Passionsfruchtlikör",
+            "normName": "passionsfruchtlikör",
+            "synonyms": []
+        },
+        {
+            "id": "passionsfruchtsirup",
+            "label": "Passionsfruchtsirup",
+            "normName": "passionsfruchtsirup",
+            "synonyms": []
+        },
+        {
+            "id": "pastinake",
+            "label": "Pastinake",
+            "normName": "pastinake",
+            "synonyms": []
+        },
+        {
+            "id": "pecorino",
+            "label": "Pecorino",
+            "normName": "pecorino",
+            "synonyms": []
+        },
+        {
+            "id": "pekannuss",
+            "label": "Pekannuss",
+            "normName": "pekannuss",
+            "synonyms": ["pekannüsse"]
+        },
+        {
+            "id": "peperoni",
+            "label": "Peperoni",
+            "normName": "peperoni",
+            "synonyms": []
+        },
+        {
+            "id": "pernod",
+            "label": "Pernod",
+            "normName": "pernod",
+            "synonyms": []
+        },
+        {
+            "id": "pesto",
+            "label": "Pesto",
+            "normName": "pesto",
+            "synonyms": []
+        },
+        {
+            "id": "petersilie",
+            "label": "Petersilie",
+            "normName": "petersilie",
+            "synonyms": []
+        },
+        {
+            "id": "petersilienwurzel",
+            "label": "Petersilienwurzel",
+            "normName": "petersilienwurzel",
+            "synonyms": []
+        },
+        {
+            "id": "pfeffer",
+            "label": "Pfeffer",
+            "normName": "pfeffer",
+            "synonyms": []
+        },
+        {
+            "id": "pfifferlinge",
+            "label": "Pfifferlinge",
+            "normName": "pfifferlinge",
+            "synonyms": []
+        },
+        {
+            "id": "pfirsich",
+            "label": "Pfirsich",
+            "normName": "pfirsich",
+            "synonyms": []
+        },
+        {
+            "id": "pfirsichlikör",
+            "label": "Pfirsichlikör",
+            "normName": "pfirsichlikör",
+            "synonyms": []
+        },
+        {
+            "id": "pflanzenfett",
+            "label": "Pflanzenfett",
+            "normName": "pflanzenfett",
+            "synonyms": [
+                "margarine",
+                "culinesse",
+                "pflanzensahne",
+                "hafersahne"
+            ]
+        },
+        {
+            "id": "pflaume",
+            "label": "Pflaume",
+            "normName": "pflaume",
+            "synonyms": []
+        },
+        {
+            "id": "pflaumenwein",
+            "label": "Pflaumenwein",
+            "normName": "pflaumenwein",
+            "synonyms": []
+        },
+        {
+            "id": "pfoten",
+            "label": "Pfoten",
+            "normName": "pfoten",
+            "synonyms": []
+        },
+        {
+            "id": "physalis",
+            "label": "Physalis",
+            "normName": "physalis",
+            "synonyms": []
+        },
+        {
+            "id": "pilze",
+            "label": "Pilze",
+            "normName": "pilze",
+            "synonyms": []
+        },
+        {
+            "id": "piment",
+            "label": "Piment",
+            "normName": "piment",
+            "synonyms": ["nelkenpfeffer"]
+        },
+        {
+            "id": "pimpinelle",
+            "label": "Pimpinelle",
+            "normName": "pimpinelle",
+            "synonyms": ["pimpernell"]
+        },
+        {
+            "id": "pinienkerne",
+            "label": "Pinienkerne",
+            "normName": "pinienkerne",
+            "synonyms": []
+        },
+        {
+            "id": "pinkelwurst",
+            "label": "Pinkelwurst",
+            "normName": "pinkelwurst",
+            "synonyms": []
+        },
+        {
+            "id": "piripiri",
+            "label": "Piripiri",
+            "normName": "piripiri",
+            "synonyms": []
+        },
+        {
+            "id": "pisco",
+            "label": "Pisco",
+            "normName": "pisco",
+            "synonyms": []
+        },
+        {
+            "id": "pistazie",
+            "label": "Pistazie",
+            "normName": "pistazie",
+            "synonyms": []
+        },
+        {
+            "id": "pökelfleisch",
+            "label": "Pökelfleisch",
+            "normName": "pökelfleisch",
+            "synonyms": []
+        },
+        {
+            "id": "polenta",
+            "label": "Polenta",
+            "normName": "polenta",
+            "synonyms": []
+        },
+        {
+            "id": "pomeranze",
+            "label": "Pomeranze",
+            "normName": "pomeranze",
+            "synonyms": []
+        },
+        {
+            "id": "portobello",
+            "label": "Portobello",
+            "normName": "portobello",
+            "synonyms": []
+        },
+        {
+            "id": "portulak",
+            "label": "Portulak",
+            "normName": "portulak",
+            "synonyms": ["portulac"]
+        },
+        {
+            "id": "portwein",
+            "label": "Portwein",
+            "normName": "portwein",
+            "synonyms": []
+        },
+        {
+            "id": "preiselbeeren",
+            "label": "Preiselbeer_Marmelade",
+            "normName": "preiselbeer marmelade",
+            "synonyms": ["wildpreiselbeeren"]
+        },
+        {
+            "id": "preiselbeermarmelade",
+            "label": "Preiselbeermarmelade",
+            "normName": "preiselbeermarmelade",
+            "synonyms": ["preiselbeer-marmelade"]
+        },
+        {
+            "id": "provolone",
+            "label": "Provolone",
+            "normName": "provolone",
+            "synonyms": []
+        },
+        {
+            "id": "puddingpulver",
+            "label": "Puddingpulver",
+            "normName": "puddingpulver",
+            "synonyms": []
+        },
+        {
+            "id": "pute",
+            "label": "Pute",
+            "normName": "pute",
+            "synonyms": []
+        },
+        {
+            "id": "quark",
+            "label": "Quark",
+            "normName": "quark",
+            "synonyms": []
+        },
+        {
+            "id": "quinoa",
+            "label": "Quinoa",
+            "normName": "quinoa",
+            "synonyms": []
+        },
+        {
+            "id": "quitte",
+            "label": "Quitte",
+            "normName": "quitte",
+            "synonyms": []
+        },
+        {
+            "id": "radicchio",
+            "label": "Radicchio",
+            "normName": "radicchio",
+            "synonyms": []
+        },
+        {
+            "id": "radieschen",
+            "label": "Radieschen",
+            "normName": "radieschen",
+            "synonyms": []
+        },
+        {
+            "id": "radieschengrün",
+            "label": "Radieschengrün",
+            "normName": "radieschengrün",
+            "synonyms": []
+        },
+        {
+            "id": "ras_el_hanout",
+            "label": "Ras_el_hanout",
+            "normName": "ras el hanout",
+            "synonyms": []
+        },
+        {
+            "id": "räucherfisch",
+            "label": "Räucherfisch",
+            "normName": "räucherfisch",
+            "synonyms": []
+        },
+        {
+            "id": "räucherlachs",
+            "label": "Räucherlachs",
+            "normName": "räucherlachs",
+            "synonyms": []
+        },
+        {
+            "id": "räucherspeck",
+            "label": "Räucherspeck",
+            "normName": "räucherspeck",
+            "synonyms": [
+                "bacon",
+                "räucherbauch"
+            ]
+        },
+        {
+            "id": "rauchfleisch",
+            "label": "Rauchfleisch",
+            "normName": "rauchfleisch",
+            "synonyms": []
+        },
+        {
+            "id": "rauchsalz",
+            "label": "Rauchsalz",
+            "normName": "rauchsalz",
+            "synonyms": []
+        },
+        {
+            "id": "ravioli",
+            "label": "Ravioli",
+            "normName": "ravioli",
+            "synonyms": []
+        },
+        {
+            "id": "rehundhirsch",
+            "label": "Reh_und_Hirsch",
+            "normName": "reh und hirsch",
+            "synonyms": [
+                "hirschkalbsrücken",
+                "hirschrückenfilet",
+                "rehrücken",
+                "rehfleisch"
+            ]
+        },
+        {
+            "id": "reis",
+            "label": "Reis",
+            "normName": "reis",
+            "synonyms": [
+                "basmatireis",
+                "basmati",
+                "sushireis",
+                "risottoreis"
+            ]
+        },
+        {
+            "id": "reisessig",
+            "label": "Reisessig",
+            "normName": "reisessig",
+            "synonyms": ["chinkiang"]
+        },
+        {
+            "id": "reismehl",
+            "label": "Reismehl",
+            "normName": "reismehl",
+            "synonyms": []
+        },
+        {
+            "id": "reisnudeln",
+            "label": "Reisnudeln",
+            "normName": "reisnudeln",
+            "synonyms": []
+        },
+        {
+            "id": "reiswein",
+            "label": "Reiswein",
+            "normName": "reiswein",
+            "synonyms": [
+                "sake",
+                "shaoxing-reiswein",
+                "arak masak"
+            ]
+        },
+        {
+            "id": "rettich",
+            "label": "Rettich",
+            "normName": "rettich",
+            "synonyms": ["daikon-rettich"]
+        },
+        {
+            "id": "ricotta",
+            "label": "Ricotta",
+            "normName": "ricotta",
+            "synonyms": []
+        },
+        {
+            "id": "rindfleisch",
+            "label": "Rindfleisch",
+            "normName": "rindfleisch",
+            "synonyms": [
+                "rinderfilet",
+                "rinderlende",
+                "ochsenbäckchen",
+                "wagyu",
+                "rindersteak",
+                "rinderrouladen",
+                "rinderroulade",
+                "rindergulasch",
+                "flanksteak",
+                "roastbeef",
+                "binnerspalt"
+            ]
+        },
+        {
+            "id": "risotto",
+            "label": "Risotto",
+            "normName": "risotto",
+            "synonyms": []
+        },
+        {
+            "id": "roggen",
+            "label": "Roggen",
+            "normName": "roggen",
+            "synonyms": []
+        },
+        {
+            "id": "roggenmehl",
+            "label": "Roggenmehl",
+            "normName": "roggenmehl",
+            "synonyms": ["roggenvollkornmehl"]
+        },
+        {
+            "id": "rohrzucker",
+            "label": "Rohrzucker",
+            "normName": "rohrzucker",
+            "synonyms": []
+        },
+        {
+            "id": "romana",
+            "label": "Romana",
+            "normName": "romana",
+            "synonyms": []
+        },
+        {
+            "id": "roquefort",
+            "label": "Roquefort",
+            "normName": "roquefort",
+            "synonyms": []
+        },
+        {
+            "id": "rosa_beeren",
+            "label": "rosa_Beeren",
+            "normName": "rosa beeren",
+            "synonyms": []
+        },
+        {
+            "id": "rosenblätter",
+            "label": "Rosenblätter",
+            "normName": "rosenblätter",
+            "synonyms": []
+        },
+        {
+            "id": "rosenkohl",
+            "label": "Rosenkohl",
+            "normName": "rosenkohl",
+            "synonyms": ["sprossenkohl"]
+        },
+        {
+            "id": "rosenwasser",
+            "label": "Rosenwasser",
+            "normName": "rosenwasser",
+            "synonyms": []
+        },
+        {
+            "id": "rosmarin",
+            "label": "Rosmarin",
+            "normName": "rosmarin",
+            "synonyms": []
+        },
+        {
+            "id": "röstzwiebeln",
+            "label": "Röstzwiebeln",
+            "normName": "röstzwiebeln",
+            "synonyms": []
+        },
+        {
+            "id": "rote_bete",
+            "label": "Rote_Bete",
+            "normName": "rote bete",
+            "synonyms": []
+        },
+        {
+            "id": "rote_bete_blätter",
+            "label": "Rote_Bete_Blätter",
+            "normName": "rote bete blätter",
+            "synonyms": ["rote-bete-blätter"]
+        },
+        {
+            "id": "roter_mangold",
+            "label": "roter_Mangold",
+            "normName": "roter mangold",
+            "synonyms": ["roter mangold"]
+        },
+        {
+            "id": "rotkohl",
+            "label": "Rotkohl",
+            "normName": "rotkohl",
+            "synonyms": [
+                "roter kohl",
+                "rother kohl"
+            ]
+        },
+        {
+            "id": "rotwein",
+            "label": "Rotwein",
+            "normName": "rotwein",
+            "synonyms": []
+        },
+        {
+            "id": "rucola",
+            "label": "Rucola",
+            "normName": "rucola",
+            "synonyms": ["rauke"]
+        },
+        {
+            "id": "rum",
+            "label": "Rum",
+            "normName": "rum",
+            "synonyms": ["arrac"]
+        },
+        {
+            "id": "safran",
+            "label": "Safran",
+            "normName": "safran",
+            "synonyms": ["safranfäden"]
+        },
+        {
+            "id": "sago",
+            "label": "Sago",
+            "normName": "sago",
+            "synonyms": []
+        },
+        {
+            "id": "sahne",
+            "label": "Sahne",
+            "normName": "sahne",
+            "synonyms": ["rahm"]
+        },
+        {
+            "id": "sahnelikör",
+            "label": "Sahnelikör",
+            "normName": "sahnelikör",
+            "synonyms": []
+        },
+        {
+            "id": "saibling",
+            "label": "Saibling",
+            "normName": "saibling",
+            "synonyms": ["bachsaibling"]
+        },
+        {
+            "id": "salami",
+            "label": "Salami",
+            "normName": "salami",
+            "synonyms": []
+        },
+        {
+            "id": "salat",
+            "label": "Salat",
+            "normName": "salat",
+            "synonyms": []
+        },
+        {
+            "id": "salbei",
+            "label": "Salbei",
+            "normName": "salbei",
+            "synonyms": []
+        },
+        {
+            "id": "salicorn",
+            "label": "Salicorn",
+            "normName": "salicorn",
+            "synonyms": ["queller"]
+        },
+        {
+            "id": "salzmandeln",
+            "label": "Salzmandeln",
+            "normName": "salzmandeln",
+            "synonyms": ["rauchmandeln"]
+        },
+        {
+            "id": "salzorange",
+            "label": "Salzorange",
+            "normName": "salzorange",
+            "synonyms": []
+        },
+        {
+            "id": "salzzitrone",
+            "label": "Salzzitrone",
+            "normName": "salzzitrone",
+            "synonyms": ["eingelegte zitrone"]
+        },
+        {
+            "id": "sambal",
+            "label": "Sambal",
+            "normName": "sambal",
+            "synonyms": [
+                "sambal oelek",
+                "piraten sambal"
+            ]
+        },
+        {
+            "id": "sardelle",
+            "label": "Sardellen",
+            "normName": "sardellen",
+            "synonyms": [
+                "anchovisfilets",
+                "anchovis"
+            ]
+        },
+        {
+            "id": "sauce_bolognese",
+            "label": "Sauce_Bolognese",
+            "normName": "sauce bolognese",
+            "synonyms": []
+        },
+        {
+            "id": "sauce_hollandaise",
+            "label": "Sauce_hollandaise",
+            "normName": "sauce hollandaise",
+            "synonyms": []
+        },
+        {
+            "id": "saucenbinder",
+            "label": "Saucenbinder",
+            "normName": "saucenbinder",
+            "synonyms": ["Soßenbinder"]
+        },
+        {
+            "id": "sauerampfer",
+            "label": "Sauerampfer",
+            "normName": "sauerampfer",
+            "synonyms": []
+        },
+        {
+            "id": "sauerkirschen",
+            "label": "Sauerkirschen",
+            "normName": "sauerkirschen",
+            "synonyms": []
+        },
+        {
+            "id": "sauerkraut",
+            "label": "Sauerkraut",
+            "normName": "sauerkraut",
+            "synonyms": []
+        },
+        {
+            "id": "sauerteigbrot",
+            "label": "Sauerteigbrot",
+            "normName": "sauerteigbrot",
+            "synonyms": []
+        },
+        {
+            "id": "saure_sahne",
+            "label": "saure_Sahne",
+            "normName": "saure sahne",
+            "synonyms": ["sauerrahm"]
+        },
+        {
+            "id": "scampi",
+            "label": "Scampi",
+            "normName": "scampi",
+            "synonyms": []
+        },
+        {
+            "id": "schabzigerklee",
+            "label": "Schabzigerklee",
+            "normName": "schabzigerklee",
+            "synonyms": []
+        },
+        {
+            "id": "schafgarbe",
+            "label": "Schafgarbe",
+            "normName": "schafgarbe",
+            "synonyms": []
+        },
+        {
+            "id": "schafskäse",
+            "label": "Schafskäse",
+            "normName": "schafskäse",
+            "synonyms": [
+                "feta",
+                "feta-käse"
+            ]
+        },
+        {
+            "id": "schalotten",
+            "label": "Schalotten",
+            "normName": "schalotten",
+            "synonyms": [
+                "schalotte",
+                "charlotte"
+            ]
+        },
+        {
+            "id": "schinken",
+            "label": "Schinken",
+            "normName": "schinken",
+            "synonyms": [
+                "serrano",
+                "parma",
+                "schwarzwälder"
+            ]
+        },
+        {
+            "id": "schmalz",
+            "label": "Schmalz",
+            "normName": "schmalz",
+            "synonyms": []
+        },
+        {
+            "id": "schmand",
+            "label": "Schmand",
+            "normName": "schmand",
+            "synonyms": []
+        },
+        {
+            "id": "schmelzkäse",
+            "label": "Schmelzkäse",
+            "normName": "schmelzkäse",
+            "synonyms": []
+        },
+        {
+            "id": "schnauze",
+            "label": "Schnauze",
+            "normName": "schnauze",
+            "synonyms": []
+        },
+        {
+            "id": "schnittknoblauch",
+            "label": "Schnittknoblauch",
+            "normName": "schnittknoblauch",
+            "synonyms": []
+        },
+        {
+            "id": "schnittlauch",
+            "label": "Schnittlauch",
+            "normName": "schnittlauch",
+            "synonyms": []
+        },
+        {
+            "id": "schokolade",
+            "label": "Schokolade",
+            "normName": "schokolade",
+            "synonyms": []
+        },
+        {
+            "id": "scholle",
+            "label": "Scholle",
+            "normName": "scholle",
+            "synonyms": []
+        },
+        {
+            "id": "schwarzbrot",
+            "label": "Schwarzbrot",
+            "normName": "schwarzbrot",
+            "synonyms": ["schwarzbrod"]
+        },
+        {
+            "id": "schwarze_bohnen",
+            "label": "Schwarze_Bohnen",
+            "normName": "schwarze bohnen",
+            "synonyms": []
+        },
+        {
+            "id": "schwarzer_knoblauch",
+            "label": "Schwarzer_Knoblauch",
+            "normName": "schwarzer knoblauch",
+            "synonyms": [
+                "schwarze knoblauchzehen",
+                "schwarze knoblauchzehe"
+            ]
+        },
+        {
+            "id": "schwarzkohl",
+            "label": "Schwarzkohl",
+            "normName": "schwarzkohl",
+            "synonyms": ["cavolo nero"]
+        },
+        {
+            "id": "schwarzkümmel",
+            "label": "Schwarzkümmel",
+            "normName": "schwarzkümmel",
+            "synonyms": []
+        },
+        {
+            "id": "schwarzwurzel",
+            "label": "Schwarzwurzel",
+            "normName": "schwarzwurzel",
+            "synonyms": [
+                "scorzonerwurzel",
+                "scorzoner"
+            ]
+        },
+        {
+            "id": "schweinefleisch",
+            "label": "Schweinefleisch",
+            "normName": "schweinefleisch",
+            "synonyms": [
+                "schweinebraten",
+                "schweinefilet",
+                "kotelett",
+                "schweinegulasch"
+            ]
+        },
+        {
+            "id": "schweineschmalz",
+            "label": "Schweineschmalz",
+            "normName": "schweineschmalz",
+            "synonyms": ["schweinefett"]
+        },
+        {
+            "id": "schweinskopf",
+            "label": "Schweinskopf",
+            "normName": "schweinskopf",
+            "synonyms": []
+        },
+        {
+            "id": "schweinsrippe",
+            "label": "Schweinsrippe",
+            "normName": "schweinsrippe",
+            "synonyms": ["rippchen"]
+        },
+        {
+            "id": "seeteufel",
+            "label": "Seeteufel",
+            "normName": "seeteufel",
+            "synonyms": []
+        },
+        {
+            "id": "seezunge",
+            "label": "Seezunge",
+            "normName": "seezunge",
+            "synonyms": []
+        },
+        {
+            "id": "sekt",
+            "label": "Sekt",
+            "normName": "sekt",
+            "synonyms": [
+                "champagner",
+                "schaumwein",
+                "prosecco"
+            ]
+        },
+        {
+            "id": "selleriegrün",
+            "label": "Selleriegrün",
+            "normName": "selleriegrün",
+            "synonyms": []
+        },
+        {
+            "id": "senf",
+            "label": "Senf",
+            "normName": "senf",
+            "synonyms": []
+        },
+        {
+            "id": "senfgurken",
+            "label": "Senfgurken",
+            "normName": "senfgurken",
+            "synonyms": []
+        },
+        {
+            "id": "senfsamen",
+            "label": "Senfsamen",
+            "normName": "senfsamen",
+            "synonyms": [
+                "senfkörner",
+                "senfpulver"
+            ]
+        },
+        {
+            "id": "sesam",
+            "label": "Sesam",
+            "normName": "sesam",
+            "synonyms": []
+        },
+        {
+            "id": "sesamöl",
+            "label": "Sesamöl",
+            "normName": "sesamöl",
+            "synonyms": []
+        },
+        {
+            "id": "sharon",
+            "label": "Sharon",
+            "normName": "sharon",
+            "synonyms": ["sharonfrucht"]
+        },
+        {
+            "id": "sherry",
+            "label": "Sherry",
+            "normName": "sherry",
+            "synonyms": []
+        },
+        {
+            "id": "sherryessig",
+            "label": "Sherryessig",
+            "normName": "sherryessig",
+            "synonyms": []
+        },
+        {
+            "id": "shiitake",
+            "label": "Shiitake",
+            "normName": "shiitake",
+            "synonyms": [
+                "shitake",
+                "shiitakepilze",
+                "shiitake-pilze"
+            ]
+        },
+        {
+            "id": "shrimps",
+            "label": "Shrimps",
+            "normName": "shrimps",
+            "synonyms": []
+        },
+        {
+            "id": "shrimpsauce",
+            "label": "Shrimpsauce",
+            "normName": "shrimpsauce",
+            "synonyms": []
+        },
+        {
+            "id": "sirup",
+            "label": "Sirup",
+            "normName": "sirup",
+            "synonyms": []
+        },
+        {
+            "id": "sojacreme",
+            "label": "Sojacreme",
+            "normName": "sojacreme",
+            "synonyms": ["sojasahne"]
+        },
+        {
+            "id": "sojasauce",
+            "label": "Sojasauce",
+            "normName": "sojasauce",
+            "synonyms": ["kecap tim ikan"]
+        },
+        {
+            "id": "sonnenblumenkerne",
+            "label": "Sonnenblumenkerne",
+            "normName": "sonnenblumenkerne",
+            "synonyms": []
+        },
+        {
+            "id": "sonnenblumenöl",
+            "label": "Sonnenblumenöl",
+            "normName": "sonnenblumenöl",
+            "synonyms": []
+        },
+        {
+            "id": "spargel",
+            "label": "Spargel",
+            "normName": "spargel",
+            "synonyms": []
+        },
+        {
+            "id": "spargelerbsen",
+            "label": "Spargelerbsen",
+            "normName": "spargelerbsen",
+            "synonyms": ["flügelerbsen"]
+        },
+        {
+            "id": "speck",
+            "label": "Speck",
+            "normName": "speck",
+            "synonyms": []
+        },
+        {
+            "id": "spinat",
+            "label": "Spinat",
+            "normName": "spinat",
+            "synonyms": []
+        },
+        {
+            "id": "spitzkohl",
+            "label": "Spitzkohl",
+            "normName": "spitzkohl",
+            "synonyms": []
+        },
+        {
+            "id": "spitzpaprika",
+            "label": "Spitzpaprika",
+            "normName": "spitzpaprika",
+            "synonyms": []
+        },
+        {
+            "id": "spitzwegerich",
+            "label": "Spitzwegerich",
+            "normName": "spitzwegerich",
+            "synonyms": []
+        },
+        {
+            "id": "sprossen",
+            "label": "Sprossen",
+            "normName": "sprossen",
+            "synonyms": [
+                "rote bete-sprossen",
+                "keimlinge",
+                "mungobohnenkeimlinge"
+            ]
+        },
+        {
+            "id": "stachelbeeren",
+            "label": "Stachelbeeren",
+            "normName": "stachelbeeren",
+            "synonyms": []
+        },
+        {
+            "id": "stangenbohnen",
+            "label": "Stangenbohnen",
+            "normName": "stangenbohnen",
+            "synonyms": []
+        },
+        {
+            "id": "stärke",
+            "label": "Stärke",
+            "normName": "stärke",
+            "synonyms": ["kartoffelmehl"]
+        },
+        {
+            "id": "staudensellerie",
+            "label": "Staudensellerie",
+            "normName": "staudensellerie",
+            "synonyms": [
+                "stangensellerie",
+                "bleichsellerie"
+            ]
+        },
+        {
+            "id": "steckrübe",
+            "label": "Steckrübe",
+            "normName": "steckrübe",
+            "synonyms": [
+                "rübe",
+                "herbst-rübe"
+            ]
+        },
+        {
+            "id": "steinpilz",
+            "label": "Steinpilz",
+            "normName": "steinpilz",
+            "synonyms": []
+        },
+        {
+            "id": "sternanis",
+            "label": "Sternanis",
+            "normName": "sternanis",
+            "synonyms": []
+        },
+        {
+            "id": "stielmus",
+            "label": "Stielmus",
+            "normName": "stielmus",
+            "synonyms": ["rübstiel"]
+        },
+        {
+            "id": "stockfisch",
+            "label": "Stockfisch",
+            "normName": "stockfisch",
+            "synonyms": []
+        },
+        {
+            "id": "stör",
+            "label": "Stör",
+            "normName": "stör",
+            "synonyms": []
+        },
+        {
+            "id": "stubenküken",
+            "label": "Stubenküken",
+            "normName": "stubenküken",
+            "synonyms": ["kücken"]
+        },
+        {
+            "id": "sultaninen",
+            "label": "Sultaninen",
+            "normName": "sultaninen",
+            "synonyms": [
+                "rosinen",
+                "korinthen"
+            ]
+        },
+        {
+            "id": "sülze",
+            "label": "Sülze",
+            "normName": "sülze",
+            "synonyms": ["kaiersülze"]
+        },
+        {
+            "id": "sumach",
+            "label": "Sumach",
+            "normName": "sumach",
+            "synonyms": []
+        },
+        {
+            "id": "suppengemüse",
+            "label": "Suppengemüse",
+            "normName": "suppengemüse",
+            "synonyms": [
+                "suppengrün",
+                "wurzelgemüse",
+                "wurzelwerk"
+            ]
+        },
+        {
+            "id": "suppenwürze",
+            "label": "Suppenwürze",
+            "normName": "suppenwürze",
+            "synonyms": ["suppenpulver"]
+        },
+        {
+            "id": "surimi",
+            "label": "Surimi",
+            "normName": "surimi",
+            "synonyms": []
+        },
+        {
+            "id": "süß_saure_sauce",
+            "label": "süß_saure_Sauce",
+            "normName": "süß saure sauce",
+            "synonyms": [
+                "süß-saure sauce",
+                "süß-sauer-scharf-sauce"
+            ]
+        },
+        {
+            "id": "süßkartoffel",
+            "label": "Süßkartoffel",
+            "normName": "süßkartoffel",
+            "synonyms": []
+        },
+        {
+            "id": "süßstoff",
+            "label": "Süßstoff",
+            "normName": "süßstoff",
+            "synonyms": ["süßungsmittel"]
+        },
+        {
+            "id": "süßwein",
+            "label": "Süßwein",
+            "normName": "süßwein",
+            "synonyms": []
+        },
+        {
+            "id": "szechuanpfeffer",
+            "label": "Szechuanpfeffer",
+            "normName": "szechuanpfeffer",
+            "synonyms": [
+                "sichuan-pfeffer",
+                "sichuan-pfefferkörner"
+            ]
+        },
+        {
+            "id": "tabasco",
+            "label": "Tabasco",
+            "normName": "tabasco",
+            "synonyms": []
+        },
+        {
+            "id": "tacosauce",
+            "label": "Tacosauce",
+            "normName": "tacosauce",
+            "synonyms": []
+        },
+        {
+            "id": "tafelspitz",
+            "label": "Tafelspitz",
+            "normName": "tafelspitz",
+            "synonyms": []
+        },
+        {
+            "id": "tahina",
+            "label": "Tahina",
+            "normName": "tahina",
+            "synonyms": [
+                "tahin",
+                "tahini"
+            ]
+        },
+        {
+            "id": "tamarinde",
+            "label": "Tamarinde",
+            "normName": "tamarinde",
+            "synonyms": ["thamarinde"]
+        },
+        {
+            "id": "tandoori_masala",
+            "label": "Tandoori_masala",
+            "normName": "tandoori masala",
+            "synonyms": []
+        },
+        {
+            "id": "taube",
+            "label": "Taube",
+            "normName": "taube",
+            "synonyms": []
+        },
+        {
+            "id": "taubnessel",
+            "label": "Taubnessel",
+            "normName": "taubnessel",
+            "synonyms": []
+        },
+        {
+            "id": "teig",
+            "label": "Teig",
+            "normName": "teig",
+            "synonyms": [
+                "strudelteig",
+                "dinkelstrudelteig"
+            ]
+        },
+        {
+            "id": "teigblätter",
+            "label": "Teigblätter",
+            "normName": "teigblätter",
+            "synonyms": [
+                "filo",
+                "filoteig",
+                "filo-teig",
+                "yufka",
+                "yufkateig",
+                "yufka-teig",
+                "brik",
+                "brik-teig",
+                "tortilla",
+                "wrap",
+                "strudelblätter"
+            ]
+        },
+        {
+            "id": "teltower_rüben",
+            "label": "Teltower_Rüben",
+            "normName": "teltower rüben",
+            "synonyms": []
+        },
+        {
+            "id": "teriyaki",
+            "label": "Teriyaki",
+            "normName": "teriyaki",
+            "synonyms": ["teriyaki-sauce"]
+        },
+        {
+            "id": "thaibasilikum",
+            "label": "Thaibasilikum",
+            "normName": "thaibasilikum",
+            "synonyms": []
+        },
+        {
+            "id": "thunfisch",
+            "label": "Thunfisch",
+            "normName": "thunfisch",
+            "synonyms": []
+        },
+        {
+            "id": "thymian",
+            "label": "Thymian",
+            "normName": "thymian",
+            "synonyms": ["thimian"]
+        },
+        {
+            "id": "tilsiter",
+            "label": "Tilsiter",
+            "normName": "tilsiter",
+            "synonyms": []
+        },
+        {
+            "id": "tintenfisch",
+            "label": "Tintenfisch",
+            "normName": "tintenfisch",
+            "synonyms": []
+        },
+        {
+            "id": "tofu",
+            "label": "Tofu",
+            "normName": "tofu",
+            "synonyms": [
+                "seidentofu",
+                "oliven-tofu"
+            ]
+        },
+        {
+            "id": "tomate",
+            "label": "Tomate",
+            "normName": "tomate",
+            "synonyms": [
+                "fleischtomate",
+                "kirschtomate",
+                "cherrytomate",
+                "ochsenherztomate"
+            ]
+        },
+        {
+            "id": "tomatenessig",
+            "label": "Tomatenessig",
+            "normName": "tomatenessig",
+            "synonyms": []
+        },
+        {
+            "id": "tomatenmark",
+            "label": "Tomatenmark",
+            "normName": "tomatenmark",
+            "synonyms": []
+        },
+        {
+            "id": "tomatensaft",
+            "label": "Tomatensaft",
+            "normName": "tomatensaft",
+            "synonyms": []
+        },
+        {
+            "id": "tomatensauce",
+            "label": "Tomatensauce",
+            "normName": "tomatensauce",
+            "synonyms": ["tomatensoße"]
+        },
+        {
+            "id": "tonic_water",
+            "label": "Tonic_Water",
+            "normName": "tonic water",
+            "synonyms": []
+        },
+        {
+            "id": "tonkabohne",
+            "label": "Tonkabohne",
+            "normName": "tonkabohne",
+            "synonyms": []
+        },
+        {
+            "id": "topinambur",
+            "label": "Topinambur",
+            "normName": "topinambur",
+            "synonyms": []
+        },
+        {
+            "id": "tortillafladen",
+            "label": "Tortillafladen",
+            "normName": "tortillafladen",
+            "synonyms": []
+        },
+        {
+            "id": "traubensaft",
+            "label": "Traubensaft",
+            "normName": "traubensaft",
+            "synonyms": []
+        },
+        {
+            "id": "trüffel",
+            "label": "Trüffel",
+            "normName": "trüffel",
+            "synonyms": []
+        },
+        {
+            "id": "trüffelbutter",
+            "label": "Trüffelbutter",
+            "normName": "trüffelbutter",
+            "synonyms": []
+        },
+        {
+            "id": "trüffelöl",
+            "label": "Trüffelöl",
+            "normName": "trüffelöl",
+            "synonyms": []
+        },
+        {
+            "id": "vacherin",
+            "label": "Vacherin",
+            "normName": "vacherin",
+            "synonyms": []
+        },
+        {
+            "id": "vanille",
+            "label": "Vanille",
+            "normName": "vanille",
+            "synonyms": []
+        },
+        {
+            "id": "vanilleeis",
+            "label": "Vanilleeis",
+            "normName": "vanilleeis",
+            "synonyms": []
+        },
+        {
+            "id": "vanillezucker",
+            "label": "Vanillezucker",
+            "normName": "vanillezucker",
+            "synonyms": []
+        },
+        {
+            "id": "vollkornbrot",
+            "label": "Vollkornbrot",
+            "normName": "vollkornbrot",
+            "synonyms": ["dinkelvollkornbrot"]
+        },
+        {
+            "id": "wacholder",
+            "label": "Wacholder",
+            "normName": "wacholder",
+            "synonyms": ["wacholderbeeren"]
+        },
+        {
+            "id": "wacholderdrossel",
+            "label": "Wacholderdrossel",
+            "normName": "wacholderdrossel",
+            "synonyms": [
+                "krammetsvogel",
+                "krammetsvögel"
+            ]
+        },
+        {
+            "id": "waffeln",
+            "label": "Waffeln",
+            "normName": "waffeln",
+            "synonyms": ["waffelröllchen"]
+        },
+        {
+            "id": "wakame",
+            "label": "Wakame",
+            "normName": "wakame",
+            "synonyms": []
+        },
+        {
+            "id": "walnuss",
+            "label": "Walnuss",
+            "normName": "walnuss",
+            "synonyms": ["walnüsse"]
+        },
+        {
+            "id": "walnussöl",
+            "label": "Walnussöl",
+            "normName": "walnussöl",
+            "synonyms": []
+        },
+        {
+            "id": "wasabi",
+            "label": "Wasabi",
+            "normName": "wasabi",
+            "synonyms": []
+        },
+        {
+            "id": "wassermelone",
+            "label": "Wassermelone",
+            "normName": "wassermelone",
+            "synonyms": []
+        },
+        {
+            "id": "wein",
+            "label": "Wein",
+            "normName": "wein",
+            "synonyms": []
+        },
+        {
+            "id": "weinblätter",
+            "label": "Weinblätter",
+            "normName": "weinblätter",
+            "synonyms": []
+        },
+        {
+            "id": "weinbrand",
+            "label": "Weinbrand",
+            "normName": "weinbrand",
+            "synonyms": [
+                "cognac",
+                "brandy"
+            ]
+        },
+        {
+            "id": "weinessig",
+            "label": "Weinessig",
+            "normName": "weinessig",
+            "synonyms": []
+        },
+        {
+            "id": "weinraute",
+            "label": "Weinraute",
+            "normName": "weinraute",
+            "synonyms": []
+        },
+        {
+            "id": "weintrauben",
+            "label": "Weintrauben",
+            "normName": "weintrauben",
+            "synonyms": []
+        },
+        {
+            "id": "weißbrot",
+            "label": "Weißbrot",
+            "normName": "weißbrot",
+            "synonyms": [
+                "laugenstangen",
+                "laugengebäck",
+                "laugenbrezel",
+                "weißbrod",
+                "crostini",
+                "baguette",
+                "ciabatta",
+                "semmel"
+            ]
+        },
+        {
+            "id": "weiße_bohnen",
+            "label": "Weiße_Bohnen",
+            "normName": "weiße bohnen",
+            "synonyms": ["cannellini-bohnen"]
+        },
+        {
+            "id": "weißer_spargel",
+            "label": "weißer_Spargel",
+            "normName": "weißer spargel",
+            "synonyms": []
+        },
+        {
+            "id": "weißkohl",
+            "label": "Weißkohl",
+            "normName": "weißkohl",
+            "synonyms": [
+                "weißer kohl",
+                "kohl"
+            ]
+        },
+        {
+            "id": "weißwein",
+            "label": "Weißwein",
+            "normName": "weißwein",
+            "synonyms": []
+        },
+        {
+            "id": "weißweinessig",
+            "label": "Weißweinessig",
+            "normName": "weißweinessig",
+            "synonyms": []
+        },
+        {
+            "id": "weizen",
+            "label": "Weizen",
+            "normName": "weizen",
+            "synonyms": ["zartweizen"]
+        },
+        {
+            "id": "weizenmehl",
+            "label": "Weizenmehl",
+            "normName": "weizenmehl",
+            "synonyms": [
+                "mehl",
+                "weizenvollkornmehl"
+            ]
+        },
+        {
+            "id": "wermut",
+            "label": "Wermut",
+            "normName": "wermut",
+            "synonyms": ["noilly prat"]
+        },
+        {
+            "id": "whiskey",
+            "label": "Whiskey",
+            "normName": "whiskey",
+            "synonyms": ["whisky"]
+        },
+        {
+            "id": "wiesenklee",
+            "label": "Wiesenklee",
+            "normName": "wiesenklee",
+            "synonyms": ["wiesenkleeblätter"]
+        },
+        {
+            "id": "wildbret",
+            "label": "Wildbret",
+            "normName": "wildbret",
+            "synonyms": []
+        },
+        {
+            "id": "wildfarce",
+            "label": "Wildfarce",
+            "normName": "wildfarce",
+            "synonyms": ["wild-farce"]
+        },
+        {
+            "id": "wildfond",
+            "label": "Wildfond",
+            "normName": "wildfond",
+            "synonyms": []
+        },
+        {
+            "id": "wildgeflügel",
+            "label": "Wildgeflügel",
+            "normName": "wildgeflügel",
+            "synonyms": [
+                "fasan",
+                "fasanenbrüste"
+            ]
+        },
+        {
+            "id": "wildschinken",
+            "label": "Wildschinken",
+            "normName": "wildschinken",
+            "synonyms": []
+        },
+        {
+            "id": "wildschwein",
+            "label": "Wildschwein",
+            "normName": "wildschwein",
+            "synonyms": []
+        },
+        {
+            "id": "wirsing",
+            "label": "Wirsing",
+            "normName": "wirsing",
+            "synonyms": []
+        },
+        {
+            "id": "wodka",
+            "label": "Wodka",
+            "normName": "wodka",
+            "synonyms": []
+        },
+        {
+            "id": "worcester",
+            "label": "Worcester",
+            "normName": "worcester",
+            "synonyms": []
+        },
+        {
+            "id": "wurst",
+            "label": "Wurst",
+            "normName": "wurst",
+            "synonyms": [
+                "bockwurst",
+                "bockwürste"
+            ]
+        },
+        {
+            "id": "wurzeln",
+            "label": "Wurzeln",
+            "normName": "wurzeln",
+            "synonyms": []
+        },
+        {
+            "id": "würzfenchel",
+            "label": "Würzfenchel",
+            "normName": "würzfenchel",
+            "synonyms": []
+        },
+        {
+            "id": "zander",
+            "label": "Zander",
+            "normName": "zander",
+            "synonyms": []
+        },
+        {
+            "id": "zatar",
+            "label": "Zatar",
+            "normName": "zatar",
+            "synonyms": []
+        },
+        {
+            "id": "zichorie",
+            "label": "Zichorie",
+            "normName": "zichorie",
+            "synonyms": []
+        },
+        {
+            "id": "zicklein",
+            "label": "Zicklein",
+            "normName": "zicklein",
+            "synonyms": []
+        },
+        {
+            "id": "ziegenfleisch",
+            "label": "Ziegenfleisch",
+            "normName": "ziegenfleisch",
+            "synonyms": []
+        },
+        {
+            "id": "ziegenfrischkäse",
+            "label": "Ziegenfrischkäse",
+            "normName": "ziegenfrischkäse",
+            "synonyms": []
+        },
+        {
+            "id": "ziegenkäse",
+            "label": "Ziegenkäse",
+            "normName": "ziegenkäse",
+            "synonyms": []
+        },
+        {
+            "id": "zimt",
+            "label": "Zimt",
+            "normName": "zimt",
+            "synonyms": [
+                "zimmt",
+                "zimmet"
+            ]
+        },
+        {
+            "id": "zitronat",
+            "label": "Zitronat",
+            "normName": "zitronat",
+            "synonyms": []
+        },
+        {
+            "id": "zitrone",
+            "label": "Zitrone",
+            "normName": "zitrone",
+            "synonyms": [
+                "zitronensaft",
+                "zitronenschale",
+                "zitronenabrieb"
+            ]
+        },
+        {
+            "id": "zitronengras",
+            "label": "Zitronengras",
+            "normName": "zitronengras",
+            "synonyms": []
+        },
+        {
+            "id": "zitronenmelisse",
+            "label": "Zitronenmelisse",
+            "normName": "zitronenmelisse",
+            "synonyms": []
+        },
+        {
+            "id": "zucchini",
+            "label": "Zucchini",
+            "normName": "zucchini",
+            "synonyms": []
+        },
+        {
+            "id": "zucker",
+            "label": "Zucker",
+            "normName": "zucker",
+            "synonyms": []
+        },
+        {
+            "id": "zuckerschoten",
+            "label": "Zuckerschoten",
+            "normName": "zuckerschoten",
+            "synonyms": ["zuckererbsen"]
+        },
+        {
+            "id": "zunge",
+            "label": "Zunge",
+            "normName": "zunge",
+            "synonyms": []
+        },
+        {
+            "id": "zwetschge",
+            "label": "Zwetschge",
+            "normName": "zwetschge",
+            "synonyms": ["zwetsche"]
+        },
+        {
+            "id": "zwieback",
+            "label": "Zwieback",
+            "normName": "zwieback",
+            "synonyms": ["zwiebäcke"]
+        },
+        {
+            "id": "zwiebel",
+            "label": "Zwiebel",
+            "normName": "zwiebel",
+            "synonyms": []
+        }
+    ]
+}

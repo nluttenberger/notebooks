@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="de">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+   <meta content="width=device-width, initial-scale=1" name="viewport"/>
+   <title>
+    03 Suppen
+   </title>
+   <base href="https://kochbuch.fruschtique.de/"/>
+   <link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+   <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet"/>
+   <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet"/>
+   <link href="recipe.css" rel="stylesheet" type="text/css"/>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+   </script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+   </script>
+   <script src="js/wordcloud2.js">
+   </script>
+   <script src="js/lodash.min.js">
+   </script>
+  </meta>
+ </head>
+ <body>
+  <div class="boxtainer">
+   <div class="title">
+    <h1>
+     Suppen
+    </h1>
+   </div>
+   <div class="logo">
+    <div>
+     <a href="index.html">
+      <img alt="Logo" class="logoImage" src="https://storage.googleapis.com/testx.fruschtique.de/logos/fruschtique%20Logo%20grau%20transparent.png" title="Kochbuch-Logo"/>
+     </a>
+    </div>
+    <div>
+     <ul class="nav-top">
+      <li class="nav-item" title="zurückblättern">
+       <a href="recipes/02%20Vorspeisen/Zwiebeltaschen.html" rel="prev">
+        <img alt="zurück" src="https://storage.googleapis.com/testx.fruschtique.de/icons/tile-backward.png"/>
+       </a>
+      </li>
+      <li class="nav-item" title="weiterblättern">
+       <a href="recipes/03%20Suppen/Ananas-Chili-Suppe%20mit%20roten%20Linsen.html" rel="next">
+        <img alt="weiter" src="https://storage.googleapis.com/testx.fruschtique.de/icons/tile-forward.png"/>
+       </a>
+      </li>
+      <!-- drei -->
+      <li class="nav-item">
+       <a href="nav/book-toc.html">
+        <img alt="Inhaltsverzeichnis" src="https://storage.googleapis.com/testx.fruschtique.de/icons/tile-toc.png" style="display:inline;" title="Inhaltsverzeichnis"/>
+       </a>
+      </li>
+      <li class="nav-item">
+       <a href="nav/cat-tiles-only.html">
+        <img alt="Kachelmenu" src="https://storage.googleapis.com/testx.fruschtique.de/icons/tile-tiles.png" style="display:inline;" title="Kachelmenü"/>
+       </a>
+      </li>
+      <li class="nav-item">
+       <a href="nav/index-ingdt.html">
+        <img alt="Zutaten-Index" src="https://storage.googleapis.com/testx.fruschtique.de/icons/tile-index-ingredient.png" style="display:inline;" title="Zutaten-Index"/>
+       </a>
+      </li>
+      <li class="nav-item">
+       <a href="nav/index-rcp.html">
+        <img alt="Rezept-Index" src="https://storage.googleapis.com/testx.fruschtique.de/icons/tile-index-rcp.png" style="display:inline;" title="Rezept-Index"/>
+       </a>
+      </li>
+      <li class="nav-item dropdown">
+       <a class="dropdown-toggle" data-toggle="dropdown" style="cursor: pointer; text-decoration: none;">
+        <img alt="mehr" src="https://storage.googleapis.com/testx.fruschtique.de/icons/tile-more.png" title="mehr"/>
+       </a>
+       <ul class="dropdown-menu dropdown-menu-right">
+        <li>
+         <a href="nav/about_cookbook.html">
+          Über das Kochbuch
+         </a>
+        </li>
+        <li>
+         <a href="nav/about_author.html">
+          Über mich
+         </a>
+        </li>
+        <li>
+         <a href="nav/book-help.html">
+          Gebrauchsanweisung
+         </a>
+        </li>
+        <li>
+         <a href="nav/book-blog.html">
+          Making of …
+         </a>
+        </li>
+        <li>
+         <a href="nav/book-versions.html">
+          Versionsgeschichte
+         </a>
+        </li>
+        <li>
+         <a href="nav/book-impressum.html">
+          Impressum
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="l-big">
+    <div id="sourrounding_div" style="width: 100%;">
+     <canvas id="canvas_cloud">
+     </canvas>
+    </div>
+   </div>
+   <div class="r-small">
+    <ul>
+     <li>
+      <a href="recipes/03 Suppen/Ananas-Chili-Suppe mit roten Linsen.html">
+       Ananas-Chili-Suppe mit roten Linsen
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Blumenkohl-Fenchel-Suppe mit Madras-Curry und Brezel-Cro%C3%BBtons.html">
+       Blumenkohl-Fenchel-Suppe mit Madras-Curry und Brezel-Croûtons
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Borschtsch.html">
+       Borschtsch
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Curry-Kl%C3%B6%C3%9Fchen.html">
+       Curry-Klößchen
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Feldgurken-Schaum.html">
+       Feldgurken-Schaum
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Gazpacho.html">
+       Gazpacho
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Gurken-Birnen-Suppe.html">
+       Gurken-Birnen-Suppe
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Hokkaido-Suppe.html">
+       Hokkaido-Suppe
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Karottensuppe.html">
+       Karottensuppe
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Kohlsuppe asiatisch.html">
+       Kohlsuppe asiatisch
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Lauchsuppe mit Hack.html">
+       Lauchsuppe mit Hack
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Markkl%C3%B6%C3%9Fchen.html">
+       Markklößchen
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Maronensuppe.html">
+       Maronensuppe
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Minestrone.html">
+       Minestrone
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Muskatk%C3%BCrbis-Suppe mit Chilifeuer.html">
+       Muskatkürbis-Suppe mit Chilifeuer
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Sauerkraut-Rahmsuppe mit Brezel-Cro%C3%BBtons.html">
+       Sauerkraut-Rahmsuppe mit Brezel-Croûtons
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Sauerkrautsuppe ungarisch.html">
+       Sauerkrautsuppe ungarisch
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Selleriesuppe.html">
+       Selleriesuppe
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Tomatensuppe.html">
+       Tomatensuppe
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Tom Khaa Kai.html">
+       Tom Khaa Kai
+      </a>
+     </li>
+     <li>
+      <a href="recipes/03 Suppen/Zwiebelsuppe.html">
+       Zwiebelsuppe
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <script>
+   $('#flyIn').click(function() {
+                        $('article').toggleClass('stretchLeft stretchRight');
+                        $('article').css("visibility", "visible");
+                        }); 
+                        
+                                                    
+                            var div = document.getElementById('sourrounding_div');                                    
+                            var canvas = document.getElementById('canvas_cloud');
+                            var options = {
+                                list : [ 
+                                
+                                    ["Ananas", "1"],
+                                    ["Rote Linsen", "1"],
+                                    ["Kokosmilch", "2"],
+                                    ["Blumenkohl", "2"],
+                                    ["Fenchel", "1"],
+                                    ["Curry", "2"],
+                                    ["Croûtons", "1"],
+                                    ["Rote Bete", "1"],
+                                    ["Vollkorngrieß", "1"],
+                                    ["Feldgurken", "1"],
+                                    ["Minze", "1"],
+                                    ["Paprika", "2"],
+                                    ["Tomaten", "2"],
+                                    ["Tabasco", "1"],
+                                    ["Salatgurken", "1"],
+                                    ["Birnen", "1"],
+                                    ["Kürbis", "1"],
+                                    ["Apfel", "2"],
+                                    ["Ingwer", "2"],
+                                    ["Karotten", "1"],
+                                    ["Weißkohl", "2"],
+                                    ["Passierte Tomaten", "2"],
+                                    ["Lauch", "1"],
+                                    ["Hack", "1"],
+                                    ["Schmand", "1"],
+                                    ["Gemüsebrühe", "1"],
+                                    ["Knochenmark", "1"],
+                                    ["Paniermehl", "1"],
+                                    ["Eier", "1"],
+                                    ["Maronen", "1"],
+                                    ["Limoncello", "1"],
+                                    ["Weißwein", "1"],
+                                    ["Parmesan", "1"],
+                                    ["Muskatkürbis", "1"],
+                                    ["Greyerzer", "2"],
+                                    ["Sauerkraut", "2"],
+                                    ["Laugenbrezel", "1"],
+                                    ["Champignons", "1"],
+                                    ["Bergkäse", "1"],
+                                    ["Sellerie", "1"],
+                                    ["Forelle", "1"],
+                                    ["Huhn", "1"],
+                                    ["Zitronengras", "1"],
+                                    ["Galgant", "1"],
+                                    ["Zwiebeln", "1"],
+                                ],
+                                gridSize: Math.round(16 * $('#canvas_cloud').width() / 800),
+                                weightFactor: function (size) {return Math.pow(size, 2.3) * $('#canvas_cloud').width() / 800;},
+                                fontFamily: 'Indie Flower, cursive',
+                                fontWeight: 600,
+                                rotateRatio: 0.5,
+                                rotationSteps: 6,
+                                color: 'random-dark',
+                                shape: 'square',
+                                weightFactor: 30 
+                                };
+                                
+                            function wc() {  
+                                canvas.height = div.offsetWidth;                                   
+                                canvas.width  = div.offsetWidth;  
+                                WordCloud(document.getElementById('canvas_cloud'), options); }
+                                
+                            $(document).ready(wc());
+                            window.addEventListener('resize', _.debounce(wc, 640));
+  </script>
+ </body>
+</html>
