@@ -1,66 +1,73 @@
-# Culinary Collection API (CC API)
+# The *fruschtique*&copy; API
 
 ## General Information
-The Culinary Collection&copy; API (CC_API) supports the programmer to create ingredient graphs from collections of cueML-encoded recipes. It has functions for
-- scraping the chefkoch.de website and converting found recipes to cueML format
+The *fruschtique*&copy; API supports the programmer to create ingredient graphs from culinary collections of cueML&copy;-encoded recipes. It has functions for
+- scraping recipes (selected by a searchstring) from the chefkoch.de website and converting them to cueML format
 - extracting several structural information from a culinary collection
 - creating an ingredient graph from a colinary collection
 - preparing a SVG-based preview of an ingredient graph
 - storing the graph in different formats, among them CSV, GEXF, and DOT 
 - comparing subcollections that have been compiled into a single culinary collection  
 
-The CC_API relies on a JSON-encoded ingredients catalogue providing synonymes for ingredient names found in recipes and related normalized names for them. It also assigns to each ingredients one of 16 different ingredient classes.  
+The *fruschtique*&copy; API relies on a JSON-encoded ingredients catalogue providing a normalized name and related synonymes for ingredient names found in recipes. The ingredients catalogue also assigns to each ingredients one of 16 different ingredient classes.  
 
-Find the cueML&copy; XSD Schema in this repository. Find a sample recipe, too, in this repo.  
+Find the cueML&copy; XSD Schema and the actual ingredients catalogue in this repository. Find a sample cueML&copy;-encoded recipe in this repo, too.  
 
 For a description what actually is meant by the term "culinary collection", see [this doc]().  
 
 Sample ingredient graphs can be seen [here](https://graphlab.fruschtique.de).  
 
-The CC_API is part of the fruschtique&copy; suite of software, data formats, data repositories, and websites.
+The *fruschtique*&copy; API is part of the *fruschtique*&copy; suite of Python and XSLT tools, data formats, data repositories, and websites.
 
 ## Getting started
-Start programming your CC_API-based application by installing the CC_API as follows:  
-`pip install`
+Start programming your *fruschtique*&copy; API-based application by installing the *fruschtique*&copy; API as follows:  
+
+`pip install fruschtique`  
+
 and importing it into your Python code:  
-`import CC_API as cc`
+
+`import fruschtique as fr`
 
 ## This doc
-The CC_API function descriptions are grouped by keywords indication their purpose.
+The descriptions of the *fruschtique* API functions are grouped by keywords indication their purpose.
 #####  &nbsp;
 
-## API Functions
+## The `CulinaryCollection` class and its methods
+The CulinaryCollection class provides a number of methods to the programmer that let him/her construct ingredient graphs from culinary collections, and analyse these graphs.
 #####  &nbsp;
 
-
+---
 ### Init
 ---
-### `RecipeCollection(graphLab, descriptor, igdtCat, working)`  
+#### `CulinaryCollection(graphLab, descriptor, igdtCat, working)`  
 - *description:*  
 read cueML/XML-coded descriptor for collection from graphLab, read cueML/json-coded ingredients catalog, generate json-coded file holding collection data   
 - *params:*  
 `graphLab:dirpath` (absolute path to graphLab top-level directory)  
 `descriptor:filename` (XML-encoded descriptor for graph experiment, located in graphLab top-level directory)  
-`igdtCat:fullpath` (absolute path to JSON-coded ingredients catalogue file)   
-`working:dirpath` (absolute path to notebook's working directory; usually the 'data' directory)  
+`igdtCat:fullpath` (absolute path to JSON-encoded ingredients catalogue file)   
+`working:dirpath` (absolute path to notebook's working directory; often the 'data' directory)  
 - *returns:*  
 nothing
 - *side-effects:*  
 produces json-encoded file `coll_data.json` in the given working directory with subcollection and recipe lists  
+- *errors*  
+    - missing ref
+    - null ref
 - *print:*  
 collection name, #subcollections, recipe author names, #recipes total, #recipes subcollection-wise, #distinct ingredients in collection, #ingredients in ingredients catalogue  
 - *example:*   
-`myColl = RecipeCollection('c:\users\nlutt\graphLab\', 'descriptor.xml', 'c:\users\nlutt\graphLab\igdt_cat.json', 'c:\users\nlutt\pyProjects\graphs\data\')`  
+`myColl = fr:CulinaryCollection('c:\users\xuser\graphLab\', 'descriptor.xml', 'c:\users\xuser\graphLab\igdt_cat.json', 'c:\users\xuser\pyProjects\graphs\data\')`  
+&nbsp;  
 `print(myColl)`
-#####  &nbsp;
-
+#####  &nbsp;  
 
 ---
 ### Collection-related
 ---
 
 
-### `infoSubcolls()`
+#### `infoSubcolls()`
 - *description:*  
   General information on subcollections contained in collection  
 - *params:*  
@@ -324,21 +331,20 @@ n/a
 
 
 ---  
-### Scraping
+### Scraping and normalizing
 ---
 
 
-### `scrapeCK(searchword=None, dirpath=none)`  
+### `scrapeCK(searchword=None, target=none)`  
 - *description:*  
-Scrapes search results from the Chefkoch website (chefkoch.de)
+Scrapes search results from the Chefkoch website (chefkoch.de); this function should be used after `EmptyCollection` and before `createRefs4Collection`
 - *params:*  
-bla
+`searchword:string` (input for Chefkoch search entry field)  
+`target:dirpath` (location for storing scraped recipes)
 - *returns:*  
 nothing
 - *side-effects:*  
-creates directory `searchword` in location given by `dirpath` and stores scraped recipes in this directory;  
-recipe files carry recipe names as filenames;  
-recipe files are encoded in cueML 
+creates directory named by `searchword` in location given by `dirpath` and stores scraped recipes in this directory; recipe files carry recipe names as filenames; recipe files are encoded in cueML; not contained: references to ingredients catalogue
 - *print:*  
 n/a  
 - *example:*  
@@ -362,11 +368,11 @@ n/a
 #####  &nbsp;
 
 
-### `createRefs4Collection(dirpath)`  
+### `createRefs4Collection(location)`  
 - *description:*  
 creates references to ingrendients catalogue for all ingredients listed in the recipe of a collection
 - *params:*  
-`dirpath` (location of collection)
+`location:dirpath` (location of collection)
 - *returns:*  
 `dict` with keys `'succRefs', 'noSuccRefs'` with list values
 - *side-effects:*  
@@ -378,7 +384,7 @@ n/a
 #####  &nbsp; 
 
 
-### `checkCollection ('path, 'filename')`  
+### `checkCollection ('dirpath')`  
 - *description:*  
 bla
 - *params:*  

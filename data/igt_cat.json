@@ -65,6 +65,22 @@
             "colorHex": "9ACD32"
         }
     },
+    "noRefIgts": [
+        "salz, pfeffer",
+        "salz und pfeffer",
+        "pfeffer und salz",
+        "salz",
+        "kala namak",
+        "meersalz",
+        "wasser",
+        "mineralwasser",
+        "salzwasser",
+        "eiswasser",
+        "eis",
+        "öl",
+        "natron",
+        "fett"
+    ],
     "ingredients": {
         "aal": {
             "i-name": "Aal",
