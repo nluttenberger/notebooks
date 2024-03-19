@@ -1,0 +1,66 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fc933db3-126e-43b0-a68e-595847c615e3">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Bavette mit Gr&#252;nkohl-Rahm-So&#223;e</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haselnuss">Haselnussbl&#228;ttchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Bio-Zitrone(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer oder TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="grana_padano">Hartk&#228;se (Grana Padano)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>180 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Nudeln (Bavette oder andere lange Nudeln)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>120 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Schlagsahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eigelb (zimmerwarm)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>N&#252;sse in einer Pfanne ohne Fett anr&#246;sten, herausnehmen. Zitrone absp&#252;len, trocknen, Schale fein abreiben, Saft auspressen. Knoblauch abziehen und fein hacken. Alles, bis auf den Zitronensaft, mischen.
+Frischen Gr&#252;nkohl evtl. putzen, absp&#252;len, trocken sch&#252;tteln, fein hacken. K&#228;se fein reiben. Nudeln in reichlich Salzwasser kochen, dabei &#246;fter umr&#252;hren. 5 Minuten vor Kochzeitende Gr&#252;nkohl zuf&#252;gen und mitkochen lassen.
+Sahne lauwarm erw&#228;rmen und in eine gro&#223;e vorgew&#228;rmte Sch&#252;ssel geben. Zitronensaft, Eigelb, K&#228;se und Pfeffer dazugeben und gut verr&#252;hren. Nudeln und Gr&#252;nkohl abgie&#223;en, kurz abtropfen lassen und sofort unter die Eigelb-Sahne-Mischung r&#252;hren. Haselnussmischung dar&#252;berstreuen, sofort servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

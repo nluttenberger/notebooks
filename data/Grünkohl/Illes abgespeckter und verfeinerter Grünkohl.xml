@@ -1,0 +1,99 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ec428c7a-efeb-4282-bc15-baa7f7551738">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Illes abgespeckter und verfeinerter Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="spinat">Spinat, oder etwas mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l, nicht WW 1 EL oder mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz, nicht WW mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, Instant</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>75 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenspeck, mager, oder Schinken in W&#252;rfel geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomatenmark">Tomatenmark</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>65 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, mager</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cr&#232;me">Sahne (Cr&#232;me leg&#232;re), nach Geschmack</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="chilischote">Chilipulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl sorgf&#228;ltig waschen und in Salzwasser kurz aufkochen. Abk&#252;hlen und mit dem Messer klein hacken. Spinat kurz in kochendem Salzwasser zusammenfallen lassen.
+&#214;l und Schmalz in der Pfanne erhitzen und feine Zwiebelw&#252;rfel mit etwas Salz dazu geben.
+Den Knoblauch gepresst dazu und langsam glasig werden lassen. Nun die Schinkenw&#252;rfel zugeben und leicht anbraten.
+Danach das Gem&#252;se mit 1 TL gek&#246;rnte Gem&#252;sebr&#252;he w&#252;rzen und dieses leicht vor sich hinschmoren lassen.
+Vor Ende der Garzeit mit Pfeffer, Salz, frisch geriebenen Muskat und einer Prise Chilipulver und 1 EL Tomatenmark verr&#252;hren und abschmecken. Eventuell noch etwas Br&#252;hw&#252;rze zugeben. Das in schmale Streifen geschnittene Kasseler im hei&#223;en Gr&#252;nkohl durchziehen lassen.
+Vor dem Servieren empfiehlt es sich, das Gericht mit Cr&#232;me l&#233;g&#232;re zu verfeinern, ist aber nicht unbedingt erforderlich.
+Wer mag kann den Kohl mit Parmesan abbinden, dazu aber bitte Punkte zus&#228;tzlich berechnen.
+Schmeckt aufgew&#228;rmt am anderen Tag am Besten.
+Seit ich den Gr&#252;nkohl abgespeckt mache, gebe ich immer noch ein Drittel Spinat als Fettersatz zum Gr&#252;nkohl,  es mildert den Geschmack.
+Meine Rezepte sind &#252;berwiegend fettarm und ww-geeignet, bei Bedarf die Fett- und Zutatenmenge erh&#246;hen.
+Beilagen nach Gusto und Punkterahmen bei ww.
+Pro Person 3,5 Punkte</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

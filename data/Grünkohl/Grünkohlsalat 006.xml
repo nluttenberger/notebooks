@@ -1,0 +1,60 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-85c02599-162b-4852-bcef-bab3f486a152">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsalat</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="knollensellerie">Sellerie, fein geraspelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n), fein geraspelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 Bl&#228;tter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>evtl.</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Akazienhonig bei Bedarf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Eine Marinade aus den obigen Zutaten bereiten. Dann den Gr&#252;nkohl so klein schneiden wie Petersilie. Alles vermengen und evtl. mit Akazienhonig abschmecken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

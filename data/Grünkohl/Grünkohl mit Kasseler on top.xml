@@ -1,0 +1,71 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-067d9f0a-0c34-4d5f-8c30-10e3a4003d55">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Kasseler on top</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler (Kotelett), ausgel&#246;st</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), fest kochend</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Kohl-)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="piment">Piment</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl waschen und kurz in kochendem Wasser blanchieren. Kohl in ein Sieb gie&#223;en, etwas abk&#252;hlen lassen und dann grob hacken.
+Zwiebeln sch&#228;len, w&#252;rfeln. Schweineschmalz in einem Topf erhitzen und die Zwiebeln darin and&#252;nsten. Kohl und Br&#252;he damit aufkochen. Kasseler hinzugeben und eine gute Stunde schmoren. Ca 20 Minuten vor Ende der Garzeit die Kohlw&#252;rste zum Gr&#252;nkohl geben.
+W&#228;hrend dessen die Kartoffeln waschen, garen, abgie&#223;en, abschrecken und pellen. Butterschmalz in einer Pfanne erhitzen. Kartoffeln darin unter Wenden goldbraun braten, dabei mit Salz und Pfeffer w&#252;rzen. Zucker dar&#252;ber streuen und karamellisieren lassen.
+Kasseler aus dem Gr&#252;nkohl nehmen und in Scheiben schneiden. Gr&#252;nkohl mit Salz und Piment abschmecken. Dann nur noch auf einem Teller anrichten.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

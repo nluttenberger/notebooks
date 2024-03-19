@@ -1,0 +1,80 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4e4e1bd1-9508-4be0-bdb8-94e00ad2803f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Brauer-Suppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Zweig/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="knollensellerie">Knollensellerie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="steckr&#252;be">R&#252;be(n), weiss</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, (Bauchspeck) in W&#252;rfeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="bier">Bier, (Vollbier), hell</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>0,15 Tasse/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="graupen">Graupen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="reismehl">Mehl (Reismehl)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="steckr&#252;be">R&#252;be(n), rote, gekocht</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er), davon das Eigelb</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Gem&#252;se w&#252;rfeln und zusammen mit dem Speck and&#252;nsten. Das Bier dar&#252;ber gie&#223;en und die Graupen sowie das Reismehl (vorher in Bier anger&#252;hrt) und das St&#252;ckchen Zucker dazugeben. 1 1/2 Stunden sieden lassen und danach das Ei darunter ziehen. Kurz vor dem Servieren die in d&#252;nne Streifen geschnittene rote R&#252;be dazu geben.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

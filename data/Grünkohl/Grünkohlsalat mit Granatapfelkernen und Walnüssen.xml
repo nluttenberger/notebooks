@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-858aa484-9914-49d3-a94a-d5594fbc55cf">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsalat mit Granatapfelkernen und Waln&#252;ssen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="walnuss">Walnusskerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="granatapfel">Granatapfelkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Honig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="balsamico">Balsamico, heller</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarzer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl in mundgerechte St&#252;cke zupfen, mit dem Salz vermischen und f&#252;r ca. 20 Minuten in den K&#252;hlschrank stellen.
+In der Zwischenzeit die Zwiebel sch&#228;len, halbieren und in feine Streifen schneiden. Die Walnusskerne grob hacken und ohne Fettzugabe in einer Pfanne anr&#246;sten.
+Oliven&#246;l, Salz, Pfeffer, Honig, Senf und Essig zu einer Marinade vermischen.
+Den Gr&#252;nkohl in einem Sieb abtropfen lassen und mit der Marinade, den Granatapfelkernen, der Zwiebel und den ger&#246;steten Walnusskernen vermischen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

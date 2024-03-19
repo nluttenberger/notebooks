@@ -1,0 +1,60 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-038">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Ein feinerer Aepfelpfannkuchen von vorz&#252;glichem Geschmack</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Teller voll</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfel">Aepfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="wein">Wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man kocht 2 Teller voll fein geschnittener Aepfel mit Zucker, Zitronenschale und so viel Wein langsam weich, da&#223; keine Fl&#252;ssigkeit darunter bleibt. Dann nimmt man 5 Eier, das Wei&#223;e zu Schaum geschlagen, 2 E&#223;l&#246;ffel Mehl, Salz, etwas Zimmet, und reichlich &#188; Ma&#223; saure Sahne, backt 2 Kuchen davon auf einer Seite nur eben gelb, l&#228;&#223;t den zweiten in der Pfanne, gibt die Aepfel gleichm&#228;&#223;ig dar&#252;ber hin, wendet den ersten, die ungebackene Seite darauf, l&#228;&#223;t den Kuchen auf beiden Seiten noch etwas nachbacken und gibt ihn mit Zucker bestreut sogleich zur Tafel. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

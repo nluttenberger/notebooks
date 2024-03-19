@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4ba35d59-9fc8-45eb-bf44-7028d8246d48">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gebratener Lachs auf Gr&#252;nkohl mit Zitronen-Senf-Sauce</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch (ca. 400 g netto)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>90 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, k&#246;rniger</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="dijonsenf">Dijonsenf, scharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronenabrieb, feiner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eigelb</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Schlagsahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Honig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="lachs">Lachsfilet(s) je ca. 180 - 200 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die zarten krausen Gr&#252;nkohlspitzen sowie die kleinsten Bl&#228;tter abzupfen und mehrfach gr&#252;ndlichst abwaschen. In reichlich kochendem Wasser 2 Min. blanchieren und in einem Sieb abtropfen lassen.
+F&#252;r die Sauce 60 g Butter schmelzen. Senf, 3 EL Zitronensaft und den Zitronenabrieb unterr&#252;hren. Das Eigelb und die Sahne verquirlen und darunter schlagen. Langsam erhitzen, bis die Sauce andickt - aber nicht kochen lassen. Mit dem Honig w&#252;rzen, mit Salz abschmecken und im hei&#223;en Wasserbad warm halten.
+Die Lachsfilets mit Salz und 2 EL Zitronensaft w&#252;rzen und im hei&#223;em Butterschmalz sanft von beiden Seiten 3 - 4 Min. braten.
+Nebenbei den Gr&#252;nkohl in der restlichen Butter wenden und erhitzen. Den Gr&#252;nkohl auf vorgew&#228;rmten Tellern anrichten, den Lachs auflegen und mit der Sauce &#252;berziehen.
+Dazu reiche ich R&#246;stkartoffeln, Bandnudeln oder Reis.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

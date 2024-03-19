@@ -1,0 +1,51 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b425dc9f-a416-48ee-badd-9065ab336ef3">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>40 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">Fett (Schweine - oder G&#228;nseschmalz)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl putzen, gr&#252;ndlich waschen. Die Bl&#228;tter von den Stielen abstreifen. In sprudelnd kochendem Salzwasser 3 Minuten blanchieren, abgie&#223;en und sofort mit kaltem Wasser abschrecken. Abtropfen lassen. Auf einem Schneidbrett mit einem Messer grob hacken.
+In einem Schmortopf das Fett erhitzen, Zwiebel and&#252;nsten, Gr&#252;nkohl zugeben und auch and&#252;nsten. Mit Br&#252;he aufgie&#223;en und mit Salz und Pfeffer w&#252;rzen. Zugedeckt bei bei milder Hitze etwa eine Stunde schmoren. Gegen Ende der Garzeit die Haferflocken einr&#252;hren, um die Fl&#252;ssigkeit zu binden.
+Das Gericht passt sehr gut zu Gans oder Ente.
+Der Gr&#252;nkohl sollte bereits Frost bekommen haben, da er dann besser schmeckt.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

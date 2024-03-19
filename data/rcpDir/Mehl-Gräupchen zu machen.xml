@@ -1,0 +1,23 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-30">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Mehl-Gr&#228;upchen zu machen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="weizenmehl">Mehlgr&#228;upchen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Derselbe, eben so fein ausgerollte Teig( Nro. 29), wird in kleine W&#252;rfel geschnitten, die man mit dem Wieg- oder Hackmesser so fein wie Graupen macht. Ist der Teig vorz&#252;glich sch&#246;n und fest, kann man ihn auch auf einer Reibe reiben. Diese Mehlgr&#228;upchen werden besonders zu Milchsuppen gebraucht. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

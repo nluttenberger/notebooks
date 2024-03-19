@@ -1,0 +1,78 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-49fad869-460b-4706-a03d-55fa9dd1030f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Deftiger Gr&#252;nkohleintopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, geschnitten und geputzt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), fest kochend</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Mettenden)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz, (Griebenschmalz)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 &#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinken, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="suppengem&#252;se">Suppengr&#252;n</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="gew&#252;rz">Gew&#252;rz(e), nach Wunsch</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zun&#228;chst einmal das Suppengr&#252;n putzen und klein schneiden. Die Zwiebel sch&#228;len und halbieren. Ebenso die Kartoffeln sch&#246;n klein schneiden nach dem Sch&#228;len.
+Dann in einem gro&#223;en Topf erst das Griebenschmalz auf mittlerer Stufe schmelzen. Anschlie&#223;end sowohl das Suppengr&#252;n wie auch die Schinkenw&#252;rfel und die Zwiebel hinzugeben und ca. 2 Minuten anbraten.
+Nun sowohl den Gr&#252;nkohl als auch die Kartoffeln sowie die Mettenden hinzu geben (die Mettenden leicht einstechen) und alles mit dem Wasser aufgie&#223;en bis alles vom Wasser bedeckt ist. Nun 2 leicht geh&#228;ufte Essl&#246;ffel gek&#246;rnte Br&#252;he hinzugeben und den Eintopf f&#252;r ungef&#228;hr 1 Stunde k&#246;cheln lassen. Nach ca. 40 Minuten die Kasselerscheiben obenauf legen und nach 10 Minuten wenden.
+Beim Abschmecken kann man alles benutzen was man mag - selbst etwas Zucker ist nicht verkehrt.
+Da wir es meistens nicht soooo suppig m&#246;gen, sch&#246;pfe ich immer noch etwas von dem Sud ab. Kann man auch prima als Grundlage f&#252;r andere Eint&#246;pfe benutzen.
+PS:
+Hat man einen guten Topf bei dem nichts anbrennt, kann man auf das Griebenschmalz verzichten. Es dient lediglich dazu, dass sich nichts am Boden ansetzt.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

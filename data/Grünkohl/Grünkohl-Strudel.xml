@@ -1,0 +1,64 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-de059454-0c16-46ca-ac4e-ea57b4b82df1">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Strudel</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Rolle(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, aus dem K&#252;hlregal</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schafsk&#228;se">Feta-K&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="salat">Salatkernmischung</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eigelb</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl waschen und in &#214;l anbraten. Mit Salz, Pfeffer und Muskatnuss w&#252;rzen. Mit Feta und saurer Sahne mischen und p&#252;rieren.
+WICHTIG: Die F&#252;llung etwas abk&#252;hlen lassen, sonst weicht der Bl&#228;tterteig auf.
+Die Salatkerne in der Pfanne, ohne &#214;l, r&#246;sten. Einen Teil davon zu der F&#252;llung geben, ein paar Kerne zum Garnieren zur&#252;ckbehalten.
+Den Bl&#228;tterteig ausrollen und die abgek&#252;hlte F&#252;llung darauf geben. Am besten auf einer Seite etwas Platz frei lassen, da sich die F&#252;llung beim Aufrollen automatisch verteilt. Dann den Bl&#228;tterteig von der bedeckten Seite aus zu einer Rolle aufrollen. Die Rolle mit Eigelb bestreichen und die restlichen Kerne darauf geben.
+Im vorgeheizten Ofen bei 180 &#176;C Umluft ca. 20 - 25 min backen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

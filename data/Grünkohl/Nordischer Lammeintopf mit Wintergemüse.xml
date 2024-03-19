@@ -1,0 +1,83 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2c168d14-9905-4058-806f-a13c5c4c36d7">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Nordischer Lammeintopf mit Wintergem&#252;se</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="lammfleisch">Lammschulter(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="s&#252;&#223;kartoffel">S&#252;&#223;kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="linsen">Linsen, rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomatenmark">Tomatenmark</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis, ca. 150 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Tasse/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser, 300 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige Stiele</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie, kraus, grob gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Fleisch waschen und in mundgerechte W&#252;rfel schneiden. Die Zwiebel und Knoblauchzehen fein hacken. Die S&#252;&#223;kartoffeln sch&#228;len und auch in mundgerechte St&#252;cke schneiden. Den Gr&#252;nkohl waschen, verlesen und grob hacken oder einfach TK-Gr&#252;nkohl nehmen.
+Das &#214;l in einem Topf erhitzen und die Fleischst&#252;cke darin unter Wenden etwas anbr&#228;unen. Dann die Zwiebel- und Knoblauchw&#252;rfel, S&#252;&#223;kartoffeln und Gr&#252;nkohl zugeben und ca. 5 Minuten bei mittlerer Hitze anbraten. Die Linsen zugeben, die Br&#252;he angie&#223;en, das Tomatenmark einr&#252;hren und ca. 45 Minuten bei mittlerer Hitze und geschlossenem Deckel k&#246;cheln. Dann mit Pfeffer und Salz abschmecken.
+W&#228;hrend der Eintopf k&#246;chelt den Reis zubereiten. Daf&#252;r das Wasser mit etwas Salz aufkochen. Sobald es kocht den Basmatireis zugeben, den Deckel auf den Topf legen und den Reis bei kleiner Stufe vor sich hin ziehen lassen. Nach ca. 20 Minuten ist er fertig, das Wasser ist dann komplett aufgesogen.
+Den Reis unter das Lamm-Gem&#252;se mischen.
+Zum Servieren gehackte, frische Petersilie &#252;ber den Eintopf geben.
+Varianten:
+Wer es gerne scharf mag, kann zus&#228;tzlich Chili mit in den Eintopf geben.
+Etwas orientalisch wird der Eintopf, wenn man statt Petersilie frische Korianderbl&#228;ttchen nimmt.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

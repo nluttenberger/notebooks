@@ -1,0 +1,83 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0fe8780a-e767-40b2-a2fa-28a34577a393">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Burritos f&#252;r Mealpreps</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Hackfleisch (Huhn, Pute oder Rind)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="champignon">Champignons</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>450 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="frischk&#228;se">Frischk&#228;se, k&#246;rniger</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="spinat">Spinat, optional</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gehackter, optional</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilipulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebelpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="oregano">Oregano</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="teigbl&#228;tter">Tortilla(s) (Vollkorntortillas)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Hack in einer gro&#223;en Pfanne oder einem Topf anbraten. Nachdem das Hack etwas Farbe bekommen hat, die Champignons hinzugeben und so lange braten, bis die sich bildende Bratfl&#252;ssigkeit eingekocht ist und das Hack langsam trocken aussieht. Dann den k&#246;rnigen Frischk&#228;se und die Gew&#252;rze hinzugeben. Nach Bedarf k&#246;nnen nun auch Spinat oder Gr&#252;nkohl hinzugegeben werden. Das Ganze kochen, bis die Masse andickt.
+W&#228;hrenddessen die Eier in einer separaten Pfanne zu R&#252;hrei verarbeiten und mit Salz und Pfeffer w&#252;rzen.
+Wenn beides fertig ist, alle Zutaten in eine gro&#223;e Sch&#252;ssel geben und gut vermischen. Danach etwas abk&#252;hlen lassen.
+Dann die Vollkorntortillas auslegen und eine Kelle der Masse mittig auf die Tortillas geben und zusammenfalten.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

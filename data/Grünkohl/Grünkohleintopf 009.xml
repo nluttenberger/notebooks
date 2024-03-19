@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a269cc38-2e8d-4e7f-ae90-6f9bf2da4ebf">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohleintopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, (TK, grob gehackt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), (gew&#252;rfelt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, magerer, ger&#228;ucherter Bauchspeck (w&#252;rfeln)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), (gew&#252;rfelt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rstchen, ger&#228;ucherte (in Scheiben geschnitten)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, scharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#252;mmel">K&#252;mmel, zersto&#223;ener</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zwiebeln sch&#228;len und w&#252;rfeln, die Schwarte von Bauchspeck abschneiden (wird mitgekocht und sp&#228;ter entfernt), Bauchspreck in kleine W&#252;rfel schneiden, Mettw&#252;rstchen in Scheiben schneiden. Kartoffeln sch&#228;len und ebenfalls w&#252;rfeln. Diese in etwas Wasser beiseite stellen.
+In einem gro&#223;en Topf reichlich Schweineschmalz erhitzen, den Speck und die Zwiebelw&#252;rfel anbraten, den gefrorenen Gr&#252;nkohl dazu geben, mit 500 ml Br&#252;he angie&#223;en und mindestens 45 Minuten k&#246;cheln lassen.
+Die Mettwurstscheiben auflegen und die Kartoffelw&#252;rfel mit dem Wasser, dem gesto&#223;enen K&#252;mmel und 250ml Br&#252;he zugeben und nochmal 30 Minuten k&#246;cheln lassen.
+Alles gr&#252;ndlich vermischen, Schwarte entnehmen, Senf unterr&#252;hren, mit Salz und Pfeffer abschmecken. Die Kasselerscheiben auflegen und 15 Minuten auf kleiner Stufe ziehen lassen.
+Sollte der Gr&#252;nkohltopf zu fl&#252;ssig sein, einfach bei der Zugabe der Kartoffeln etwas weniger Fl&#252;ssigkeit zugeben oder ein Tasse Haferflocken unterr&#252;hren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

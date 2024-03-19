@@ -1,0 +1,82 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7963f79d-d919-43cb-a428-cc15e570c509">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Kr&#228;ftige Gem&#252;sesuppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n), in Scheiben geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n), zerdr&#252;ckt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), neu, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Stange/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="staudensellerie">Staudensellerie, in Scheiben geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>120 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="champignon">Champignons, helle, geviertelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomate(n), gehackt aus Dose</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="kr&#228;uter">Kr&#228;uter, getrocknete, gemischte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mais">Mais, aus der Dose, abgetropft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, in d&#252;nne Streifen geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarz, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Zweig/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="basilikum">Basilikum, zum Garnieren</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Karotten, Zwiebel, Knoblauch, Kartoffeln, Sellerie, Champignons, Tomaten und Br&#252;he in einen gro&#223;en Topf geben. Lorbeerblatt und Kr&#228;uter einr&#252;hren. Aufkochen, die Temperatur reduzieren und abgedeckt 25 Minuten k&#246;cheln lassen.
+Mais und Kohl hinzugeben und erneut aufkochen. Die Temperatur reduzieren und abgedeckt 5 Minuten k&#246;cheln lassen, bis das Gem&#252;se gar ist. Vom Herd nehmen und das Lorbeerblatt entfernen. Mit Pfeffer abschmecken.
+Die Suppe in vorgew&#228;rmte Suppenschalen geben, nach Belieben mit Basilikum garnieren und sofort servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

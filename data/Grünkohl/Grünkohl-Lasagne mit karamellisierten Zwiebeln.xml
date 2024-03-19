@@ -1,0 +1,100 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a8a3664c-1a4f-4253-8abf-88336418cdb0">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Lasagne mit karamellisierten Zwiebeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Paket</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Lasagneplatte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="mozzarella">K&#228;seersatz (veganer Mozzarella)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomaten, st&#252;ckige</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), gr&#252;ne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Stange/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="rotwein">Rotwein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="herbes_de_provence">Kr&#228;uter der Provence</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="rohrzucker">Rohrohrzucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Pflanzen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tofu">Tofu, natur</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefeflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Pflanzenmilch (Pflanzendrink)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="miso">Misopaste, hell</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oregano">Oregano</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r den Tofu-Ricotta:
+Den Tofu mit der Gabel zerkr&#252;meln und in eine Sch&#252;ssel geben. Die Misopaste mit der Milch vermischen und zum Tofu geben. Die restlichen Zutaten hinzuf&#252;gen und gut vermischen. Alles mit Salz und Pfeffer abschmecken und ziehen lassen.
+F&#252;r die Gem&#252;sesauce:
+Die Chili halbieren, die Samen entfernen und die Schoten in feine Streifen schneiden. Den Gr&#252;nkohl waschen, von den  St&#228;ngeln befreien und klein hacken.
+Die Zwiebeln halbieren und in Scheiben schneiden. Diese Scheiben in einer Pfanne mit Pflanzen&#246;l bei mittlerer Hitze anschwitzen, bis sie weich sind und beginnen braun zu werden. Eine Prise Zucker dar&#252;ber geben und kurz karamellisieren lassen. Die Chili und den Gr&#252;nkohl hinzugeben und 5 Minuten lang mit and&#252;nsten. Dann die Kr&#228;uter, die Tomaten und den Rotwein hinzugeben. Die Hitze erh&#246;hen und alles einmal aufkochen lassen. Dann auf kleiner Hitze weiterkochen, bis der Gr&#252;nkohl weich ist. Die Sauce mit Salz und Pfeffer abschmecken.
+Die Lasagne schichten:
+Etwas Sauce auf den Boden der Auflaufform geben. Die Lasagneplatten dar&#252;berschichten. Eine d&#252;nne Schicht Ricotta daraufgeben und erneut Lasagneplatten dar&#252;berschichten. Die Sauce verstreichen und erneut mit Lasagneplatten bedecken. Den restlichen Ricotta und die letzte Lage Lasagneplatten dar&#252;bergeben und mit einer finalen Saucenschicht abschlie&#223;en. Alles mit veganem Mozzarella bedecken.
+Im hei&#223;en Ofen bei 180 &#176;C Ober-/Unterhitze etwa 30 Minuten backen.
+Tipp f&#252;r alle, die keinen gekauften Mozzarella verwenden m&#246;chten: Ein tolles Rezept f&#252;r zart schmelzenden, veganen Mozzarella zum &#220;berbacken findet ihr in meiner Rezept&#252;bersicht.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

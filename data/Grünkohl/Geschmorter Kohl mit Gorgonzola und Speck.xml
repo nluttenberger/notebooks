@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7c72ae7f-1624-4c88-87b6-b18060c40f2f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Geschmorter Kohl mit Gorgonzola und Speck</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sonnenblumen&#246;l">&#214;l, (Sonnenblumen&#246;l)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), klein geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="spitzkohl">Spitzkohl, klein geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, klein geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Currypulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gorgonzola">Gorgonzola, oder Roquefort</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, durchwachsener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weintrauben">Weintrauben, wei&#223;e ohne Kerne</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>&#214;l in der Pfanne erhitzen und die Zwiebeln anbr&#228;unen. Den Kohl, die Gew&#252;rze und das Wasser zuf&#252;gen und ca. 15 Minuten in der Pfanne schmoren.
+In der Zwischenzeit den Speck in d&#252;nne Scheiben oder W&#252;rfel schneiden und knusprig braten.
+Den K&#228;se zerkr&#252;meln, unter den Kohl mischen und den Kohl auf 4 Tellern anrichten. Den knusprigen Speck und die Trauben &#252;ber den Kohl geben.
+Dazu passen Salzkartoffeln oder P&#252;ree.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

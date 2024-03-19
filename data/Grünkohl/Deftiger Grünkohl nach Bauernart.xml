@@ -1,0 +1,83 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fe55ec52-24cf-4b6b-8559-0bcaef8088f5">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Deftiger Gr&#252;nkohl nach Bauernart</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, (von L&#252;ders !!!wichtig!!!)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>40 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">Schmalz (G&#228;nseschmalz, gut gef&#252;llte Essl&#246;ffel)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweinefleisch">Schweinefleisch (ger&#228;ucherte Schweinebacke)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, Piment, (reichlich)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="nelke">Nelke(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, (L&#246;wensenf)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), kleine feste</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>700 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Koch-, Kohlw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebel sch&#228;len und w&#252;rfeln. Schweinebacke in handliche St&#252;cke schneiden.
+Dann gibst du den Gr&#252;nkohl mit den Gew&#252;rzen, der Zwiebel und dem Senf zusammen in einen gro&#223;en Topf und l&#228;sst es ca. 1 &#8211;1,5 Std.  kochen. Dabei gelegentlich umr&#252;hren. Sollte dir die Menge am Ende zu fl&#252;ssig sein, f&#252;ge einfach eine Handvoll Haferflocken hinzu (nimmt die Fl&#252;ssigkeit auf). Der fertige Gr&#252;nkohl bleibt stehen und k&#252;hlt &#252;ber Nacht ab.
+Am anderen Tag hast du kleine (aber wirklich kleine) feste Pellkartoffeln gekocht. Wenn die Kartoffeln kalt sind, abpellen, mit etwas (!) Speise&#246;l bestreichen und im Backofen (Umluft) kross backen. Ein Teil der Kartoffeln kann auch mit Zucker bestreut werden.
+Kassler, im St&#252;ck, auch in den Backofen und durchbraten, ca. 45 Min. Danach aus dem Knochen trennen und in Scheiben schneiden.
+Die Kochw&#252;rste etwa 10 Minuten in den hei&#223;en Backofen legen.
+Den Gr&#252;nkohl vorsichtig aufw&#228;rmen .
+Jetzt alles zusammen auf den Tisch bringen und anfangen zu essen. Danach (und u. U. auch schon dazu) unbedingt einige klare, kalte Schn&#228;pse trinken (Aquavite oder &#228;hnliches).
+Wichtig ist, dass der Gr&#252;nkohl mindestens einmal wieder aufgew&#228;rmt wird.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

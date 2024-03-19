@@ -1,0 +1,56 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9afde33f-2414-4af4-8b46-f7a619c96047">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>&#220;berbackener Gr&#252;nkohl-Kartoffel-Auflauf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (Glas, Dose oder TK)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="cr&#232;me">Sahne oder Cremefine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">K&#228;se, gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">Mandelbl&#228;ttchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Backofen auf 200 &#176;C Ober- und Unterhitze oder 180 &#176;C Umluft vorheizen.
+Die Kartoffeln sch&#228;len, gar kochen, in Scheiben schneiden und in eine Auflaufform schichten.
+Mit Salz und frisch gemahlenem Pfeffer w&#252;rzen. Dar&#252;ber den Gr&#252;nkohl verteilen. Tiefgek&#252;hlten Gr&#252;nkohl vorher auftauen.
+Mit der Sahne gleichm&#228;&#223;ig &#252;bergie&#223;en, den geriebenen K&#228;se darauf verteilen und abschlie&#223;end die Mandeln dar&#252;ber streuen.
+Im vorgeheizten Backofen ca. 20 Minuten backen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,75 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d5d2bf8f-dae2-4e37-ad31-11d3ed8a2ee7">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohltarte</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Halbfettmargarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch oder TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenw&#252;rfel, magere oder R&#228;uchertofu</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="frischk&#228;se">Frischk&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">K&#228;se, gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r den Teig Mehl, Margarine, 1 TL Salz und Wasser verkneten. Zu einer Kugel formen und in Frischhaltefolie gewickelt ca. 30 Min. kalt stellen.
+F&#252;r den Belag Gr&#252;nkohl hacken, in kochendem Salzwasser ca. 10 Min. garen und gut abtropfen lassen. Zwiebeln in W&#252;rfel schneiden und mit Schinkenw&#252;rfeln oder R&#228;uchertofu in einem beschichteten Topf and&#252;nsten. Gr&#252;nkohl und Gem&#252;sebr&#252;he dazugeben und ca. 20 Min. d&#252;nsten (bei TK Gr&#252;nkohl reichen ca. 5 Min.) Frischk&#228;se mit Senf einr&#252;hren und mit Salz und Pfeffer kr&#228;ftig w&#252;rzen.
+Teig zwischen Frischhaltefolie ausrollen, eine gefettete 26er Tartform damit auskleiden und dabei einen Rand hochziehen. Den Teigboden mit einer Gabel mehrmals einstechen und im vorgeheiztem Backofen auf mittlere Schiene bei 180 &#176;C (Gas: Stufe 2, Umluft: 160&#176;C) ca. 10 min vorbacken.
+Die Gr&#252;nkkohlmasse in die Tarteform geben und mit K&#228;se bestreuen. Die Tarte weitere 35 - 40 Min. bei gleicher Temperatur backen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

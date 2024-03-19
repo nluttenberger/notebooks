@@ -1,0 +1,38 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4d929c1c-5682-43b8-a440-1f2f5bf5e529">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Uckerm&#228;rker Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Port.</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweinefleisch">Schweinefleisch (Bauch)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl mehrmals gewaschen. Anschlie&#223;end Bl&#228;tter von der gro&#223;en Mittelrippe abstreifen. Mit etwas Salzwasser im gr&#246;&#223;ten im Haushalt befindlichen Kochtopf aufsetzen. Je mehr der Kohl zusammenf&#228;llt, umso mehr kann man nachstopfen, bis alles im Topf ist.
+Mit in den Topf kommt ein gro&#223;es St&#252;ck fetten Schweinebauchs, der weichgekocht wird. Wenn der Kohl gar ist, wird das Wasser zum gro&#223;en Teil abgegossen und der Kohl kleingehackt. Nicht zu fein hacken, der Kohl darf nicht spinatm&#228;ssig werden, sondern soll noch grob sein. Wenn die Masse zu fest ist, kann man nach Bedarf etwas von der Kochbr&#252;he zugie&#223;en.
+Anschlie&#223;end dreht man den gekochten Schweinebauch durch den Fleischwolf und mischt ihn unter den Kohl. Jetzt noch mit Pfeffer und Salz kr&#228;ftig abschmecken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

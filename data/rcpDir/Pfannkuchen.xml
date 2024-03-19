@@ -1,0 +1,57 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-036">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Pfannkuchen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Pfannkuchen</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 - 6</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="apfel">Aepfelmus</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Zu 2 gro&#223;en Pfannkuchen nimmt man ein etwas geh&#228;uftes &#188; Ma&#223; feines Mehl, r&#252;hrt es mit &#189; Ma&#223; frischer Milch, worunter eine Tasse Wasser sein kann, etwas Salz und vier bis sechs Eidottern recht fein, mischt das zu steifem Schaum geschlagene Eiwei&#223; gut durch, l&#228;&#223;t reichlich Butter in einer Pfanne hei&#223; werden, nimmt sie vom Feuer, gibt die Masse l&#246;ffelweise hinein, da&#223; die Butter nicht auf eine Stelle zusammenflie&#223;e und backt die Kuchen bei raschem Feuer, w&#228;hrend man sie nur ein Mal umwendet. Das &#246;ftere Umwenden macht die Kuchen fest, doch mu&#223; man nicht dabei weggehen, anfangs mit einer Gabel hineinstechen, damit das Fl&#252;ssige unterlaufe, und nachher den Kuchen oft sch&#252;tteln und drehen. </ns0:instrStepText>
+      <ns0:instrStepText>Anmerk. Von dieser Masse kann man auch 4 d&#252;nne Pfannkuchen backen und alle aufeinander gelegt mit Zucker bestreut zur Tafel geben. Auch kann man auf jeden gut gekochtes Aepfelmus streichen, alle aufeinander legen, den Rand etwas glatt schneiden und &#188; Stunde im Ofen nachbacken lassen. Schl&#228;gt man das Wei&#223;e nicht zu Schaum, so erfordert jeder Kuchen ein Ei mehr. &#8212; Anstatt der Butter ist in manchen Gegenden ausgebratenes etwas durchwachsenes Speck sehr beliebt; halb Butter halb Speck zum Pfannkuchen verdient allgemeine Empfehlung. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

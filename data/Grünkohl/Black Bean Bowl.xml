@@ -1,0 +1,129 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3a513814-2056-4569-8216-a1f118aadf2f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Black Bean Bowl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tofu">Tofu</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sirup">R&#252;bensirup</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="rauchsalz">Rauchsalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver, ger&#228;uchertes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis (ca. 200 - 250 ml Inhalt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Tasse/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="bohnen">Bohnen, schwarze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="balsamico">Balsamico</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Paprikapulver, ger&#228;uchertes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilipulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="koriander">Korianderpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="thymian">Thymian</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarzer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="orange">Orange(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Am Vortag den Tofu zubereiten. Diesen wie gewohnt auspressen und in W&#252;rfel schneiden. In einem Beh&#228;lter Sojasauce, Zuckerr&#252;bensirup, Rauchsalz, Oliven&#246;l. Knoblauchpulver und ger&#228;uchertes Paprikapulver vermischen. Den Tofu darin w&#228;lzen und &#252;ber Nacht marinieren lassen.
+Zu Beginn den Reis mit dem Wasser ca. 10 Minuten kochen lassen. Anschlie&#223;end abdecken und auf der abgeschalteten Herdplatte bis zum Servieren ausquellen lassen.
+Den Boden eines gro&#223;en Topfes mit &#214;l bestreichen und bei mittlerer Hitze erhitzen. Die gew&#252;rfelte Zwiebel hinzuf&#252;gen und etwa 5 Minuten braten, bis sie weich und glasig ist. Gehackte Knoblauchzehen hinzuf&#252;gen und eine weite Minute braten, bis es duftet.
+Bohnen, Br&#252;he, Balsamico, Lorbeerbl&#228;tter, ger&#228;uchertes Paprikapulver, Chilipulver, Korianderpulver, Thymian und Pfeffer hinzuf&#252;gen und einige Male umr&#252;hren. Die Hitze auf eine hohe Stufe stellen und alles zum Kochen bringen. Anschlie&#223;end die Hitze reduzieren und den Topf abdecken. Ca. 30 Minuten k&#246;cheln lassen. Den Gr&#252;nkohl dazugeben und weiter k&#246;cheln lassen, bis er weich ist und die Bohnen den Eintopf eingedickt haben. Vom Herd nehmen und mit Salz abschmecken. Auch die Gew&#252;rze nun nach Belieben anpassen.
+Wenn der Gr&#252;nkohl in den Topf kommt, in einer Pfanne nebenbei den marinierten Tofu braten, bis er leicht kross ist.
+Den Reis in Bowls aufteilen. Mit Bohnen, Tofu und klein geschnittenen Fr&#252;hlingszwiebeln belegen. Jede Sch&#252;ssel mit ein paar Orangenscheiben servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,70 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-824d5ad0-2ad0-45bd-be3c-daa25bebe88a">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Spanischer Gem&#252;seeintopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="knollensellerie">Knollensellerie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="salami">Chorizo, scharfe</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomaten, st&#252;ckige (400 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>1. M&#246;hren und Sellerie putzen und 2 cm gro&#223; w&#252;rfeln. Zwiebel und Knoblauch fein w&#252;rfeln.
+2. Chorizo 1 cm gro&#223; w&#252;rfeln, in einem Topf im &#214;l kross anbraten und herausnehmen. Zwiebeln, Knoblauch, Sellerie und M&#246;hren in das Bratfett geben und 2 Min. anbraten. Mit Salz, Pfeffer und Paprikapulver w&#252;rzen. Br&#252;he zugie&#223;en, Gr&#252;nkohl zugeben und aufkochen. Zugedeckt bei mittlerer Hitze 15 Min. garen. Dann die Tomaten zugeben und weitere 10 Min. k&#246;cheln lassen. Eintopf w&#252;rzig abschmecken.
+Pro Portion 37 g E, 37 g F, 20 g KH = 608 kcal (2528 kJ)</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

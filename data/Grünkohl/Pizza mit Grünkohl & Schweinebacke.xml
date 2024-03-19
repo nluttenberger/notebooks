@@ -1,0 +1,83 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ef16ec5a-afa3-4cc6-bc77-2cc1c02b3c6d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Pizza mit Gr&#252;nkohl &amp; Schweinebacke</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="teig">Pizzateig mit Sauerteig (400 g, K&#252;hlregal)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="weizenmehl">Mehl f&#252;r die Arbeitsfl&#228;che</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinienkerne">Pinienkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmand">Schmand</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, k&#246;rniger</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">Guanciale (ital. Schweinebacke, luftgetrocknet), ersatzweise Bacon</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pinienkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Stiele</ns0:igdtQuantity>
+        <ns0:igdtName ref="basilikum">Basilikum</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Pizzateig 30 Minuten vor Gebrauch aus dem K&#252;hlschrank nehmen.
+F&#252;r das Pesto Gr&#252;nkohl absp&#252;len, gut trocken sch&#252;tteln, die Bl&#228;tter von den Mittelrippen zupfen. Pinienkerne in einer Pfanne ohne Fett leicht anr&#246;sten. Knoblauch grob hacken. Knoblauch, Salz, Pinienkerne, Gr&#252;nkohl und &#214;l in einen hohen R&#252;hrbecher geben, mit dem Stabmixer zu einem Pesto mixen. Mit Salz und Pfeffer abschmecken. Falls das Pesto sehr fest ist, etwas mehr &#214;l oder Wasser unterr&#252;hren.
+Backofen auf 220 Grad (Umluft 200 Grad) vorheizen.
+F&#252;r die Senfso&#223;e Schmand und Senf verr&#252;hren und mit Salz und Pfeffer abschmecken.
+F&#252;r den Belag Guanciale in d&#252;nne Scheiben schneiden.
+Pizzateig auf einer bemehlten Arbeitsfl&#228;che mit den H&#228;nden zu 2 runden Pizzen formen und je auf ein mit Backpapier belegtes Backblech legen. Mit Senfso&#223;e, Gr&#252;nkohlpesto und den Speckscheiben aus der Schweinebacke belegen.
+Pizzen nacheinander im hei&#223;en Ofen auf der mittleren Schiene in 10 - 12 Minuten knusprig backen. Nach der H&#228;lfte der Backzeit die Pinienkerne &#252;ber die beiden Pizzen streuen.
+1 - 2 St&#228;ngel Basilikum absp&#252;len, trocken sch&#252;tteln, Bl&#228;tter abzupfen und dar&#252;berstreuen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

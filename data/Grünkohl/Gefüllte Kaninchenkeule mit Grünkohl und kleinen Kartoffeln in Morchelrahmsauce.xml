@@ -1,0 +1,106 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6964d727-0535-43ae-b7ef-2866a79f16ab">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gef&#252;llte Kaninchenkeule mit Gr&#252;nkohl und kleinen Kartoffeln in Morchelrahmsauce</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="kaninchen">Keule(n), vom Kaninchen, evtl. 5</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="morchel">Morcheln, getrocknete, eingeweicht</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schnittlauch">Schnittlauch, geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), in W&#252;rfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, in W&#252;rfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), kleine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>25 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="morchel">Morcheln, getrocknet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 cl</ns0:igdtQuantity>
+        <ns0:igdtName ref="weinbrand">Weinbrand</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="bratenfond">Sauce, (braune Grundsauce oder Bratenfond)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="schnittlauch">Schnittlauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Kartoffeln waschen, in Salzwasser garen und sp&#228;ter in Butter angehen lassen. W&#252;rzen
+Kaninchenkeulen von den Knochen befreien. Eine Keule oder die Abschnitte von den vier Keulen in W&#252;rfel schneiden und grob zerkleinern. Mit der gleichen Menge Sahne im Mixer zu einer glatten Masse (Farce) verarbeiten. Mit Pfeffer und Salz w&#252;rzen. Schnittlauch und klein geschnittene (vorher eingeweichte) Morcheln untermengen. Keulen mit der Farce f&#252;llen und mit K&#252;chengarn binden.
+Br&#228;ter aufstellen und Butterschmalz darin erhitzen. Zuerst die Keulen und dann Speck- + Zwiebelw&#252;rfel in den Br&#228;ter geben und darin angehen lassen. Gr&#252;nkohl zuf&#252;gen, etwas angehen lassen und mit Br&#252;he abl&#246;schen. Mit Deckel etwa 20 - 25 Minuten garen und zum Schluss noch ohne Deckel etwas einkochen lassen. W&#252;rzen.
+Die Schalotte pellen und in kleine W&#252;rfel schneiden. Die Morcheln in warmem Wasser einweichen und sp&#228;ter klein schneiden. Die Schalottenw&#252;rfel in Butter angehen lassen, die Morcheln zuf&#252;gen und mit Weinbrand abl&#246;schen. Verkochen lassen und mit dem Einweichwasser der Morcheln auff&#252;llen (ohne Sand!). Einkochen lassen. Nun die Grundsauce dazugeben und s&#228;mig einkochen lassen. Kurz vor dem Servieren die Sahne und den Schnittlauch zuf&#252;gen, mit Salz und Pfeffer abschmecken.
+Anrichten:
+Den Gr&#252;nkohl mittig auf den Teller geben, die gef&#252;llte Kaninchenkeule in Scheiben geschnitten darauf platzieren. Kartoffeln dazu geben und mit der Morchelrahmsauce das Fleisch nappieren.
+Guten Appetit!</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

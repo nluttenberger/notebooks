@@ -1,0 +1,63 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-367044d0-b0fa-47df-afb6-35573ef8a060">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Dodinchens Gr&#252;nkohl Rezept</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Bregenw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="mettwurst">W&#252;rste (Mettenden, Cabanossi oder Schinkenwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">R&#228;ucherbauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Fett zum Anbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zuerst das St&#252;ck R&#228;ucherbauch in kleine W&#252;rfel schneiden, falls es sehr gro&#223; ist, reicht die H&#228;lfte davon. Die Zwiebel auch in kleine W&#252;rfel schneiden und die Mettenden, Cabanossi oder Schinkenwurst in d&#252;nne Scheiben oder St&#252;cke schneiden.
+Das Fett im Topf erhitzen und den Speck und die Wurstscheiben oder St&#252;ckchen reingeben. Ein wenig anbraten und dann die Zwiebelw&#252;rfel dazu. Wenn die Zwiebeln glasig sind, den Gr&#252;nkohl aus der Dose mit der Fl&#252;ssigkeit hinzugeben.
+Br&#252;he und Senf zum Gr&#252;nkohl geben und alles aufkochen und gut umr&#252;hren. Etwas Pfeffer hinzugeben (mit dem Salzen w&#252;rde ich bis zum Schluss warten). Jetzt die Bregenw&#252;rste von beiden Seiten mit einem spitzen Messer mehrmals einstechen und auf den Gr&#252;nkohl legen. Deckel auf den Topf und auf kleiner Flamme ca. 20 Min. k&#246;cheln lassen.
+Ich pers&#246;nlich lasse es viel l&#228;nger k&#246;cheln, weil mir das geschmacklich besser gef&#228;llt. Wer m&#246;chte, kann zum Schluss noch mit Salz, Pfeffer oder Senf abschmecken. Dazu schmecken Salzkartoffeln.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

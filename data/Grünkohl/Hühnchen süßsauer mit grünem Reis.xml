@@ -1,0 +1,109 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2dc2204c-4da0-4688-9cbd-53e4d78a7246">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>H&#252;hnchen s&#252;&#223;sauer mit gr&#252;nem Reis</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer, die Stiele entfernt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pflanzen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n), sehr fein geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n), schr&#228;g in ca. 3 mm dicke Scheiben geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Naturreis oder anderer Reis, gekocht</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce, glutenfreie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="huhn">H&#228;hnchenbr&#252;ste (Bio-), in kleine W&#252;rfel geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">Maisst&#228;rke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz, grobes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pflanzen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch, fein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 cm</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwer, fein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n), schr&#228;g in ca. 3 mm dicke Scheiben geschnitten (wei&#223;e und gr&#252;ne Anteile)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="chiliflocken">Chiliflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="reisessig">Reisessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="rohrzucker">Rohrzucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce, glutenfrei</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="koriandergr&#252;n">Koriandergr&#252;n, grob gehackt zum Servieren</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Maisst&#228;rke mit dem groben Salz und dem Pfeffer mischen. Die H&#228;hnchenbrustw&#252;rfel in der gew&#252;rzten Maisst&#228;rke wenden. Das &#214;l in einem antihaftbeschichteten Wok auf mittlerer Hitze hei&#223; werden lassen.
+Knoblauch, Ingwer, Fr&#252;hlingszwiebeln und Chiliflocken (optional) einr&#252;hren und ca. 1 Minute anschwitzen. Das Fleisch hinzuf&#252;gen und unter gelegentlichem R&#252;hren ca. 5 Minuten braten.
+Das Wasser aufsetzen. Die Gr&#252;nkohlbl&#228;tter in sehr d&#252;nne Streifen schneiden und etwa 7 Minuten in siedendem Wasser garen.
+Zum Fleisch jetzt Essig, Zucker und schwarzen Pfeffer (ruhig 5 - 6 Umdrehungen mit der Pfefferm&#252;hle) geben. Auf starker Hitze sprudelnd kochen lassen, bis der Essig seine Sch&#228;rfe verloren hat, der Zucker karamellisiert, und die Mischung sch&#246;n dunkelbraun und klebrig ist. Zum Schluss noch etwas Sojaso&#223;e dar&#252;ber geben, abschmecken und mit dem Koriandergr&#252;n bestreuen.
+Zwischenzeitlich Pflanzen&#246;l in einem gro&#223;en Topf auf schwacher bis mittlerer Hitze hei&#223; werden lassen. Den Knoblauch hineingeben und anschwitzen (ca. 2 Min.). Nicht braun werden lassen!
+Die Hitze etwas h&#246;her stellen und den abgetropften Gr&#252;nkohl und die Fr&#252;hlingszwiebeln hinzuf&#252;gen. 2 Minuten weiter d&#252;nsten. Dann den Reis dazugeben und unter R&#252;hren noch weitere 2 Minuten mitd&#252;nsten. Die Sojaso&#223;e dazugeben und umr&#252;hren. Den Gr&#252;nkohl mit der H&#252;hnerbrust anrichten und servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

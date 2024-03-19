@@ -1,0 +1,57 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4e452b5b-b491-4e58-8e72-11d85f10b6c8">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl im R&#246;mertof</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, ges&#228;ubert, vom Strunk befreit, grob gechnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rstchen (Schweine-), scharf, halbiert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;wein">Wei&#223;wein, s&#228;uerlich</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den ges&#228;uberten und geschnittenen Gr&#252;nkohl 10 Minuten im Wasser k&#246;cheln lassen. Dann herausnehmen, abtropfen lassen, abk&#252;hlen lassen. Mit den anderen Zutaten in den gew&#228;sserten R&#246;mertopf geben  und in den kalten Backofen geben. 2 1/2 Stunden bei 180 Grad Celsius im geschlossenen R&#246;mertopf k&#246;cheln lassen. Dann den R&#246;mertopf aus dem Backofen nehmen, &#246;ffnen, W&#252;rstchen herausnehmen, sie schmecken nicht mehr. Eventuell mit Mehl andicken.
+Mit Kasseler oder W&#252;rstchen servieren. L&#228;sst sich gut einfrieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

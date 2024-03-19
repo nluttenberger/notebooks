@@ -1,0 +1,68 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b0847ed2-027f-4a61-9650-fca0d171fdaf">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Smoothie-Bowl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="banane">Banane(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, alternativ TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="dattel">Dattel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chiasamen">Chiasamen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Msp.</ns0:igdtQuantity>
+        <ns0:igdtName ref="vanille">Vanillepulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Reismilch (Reisdrink), alternativ Sojareisdrink</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="beeren">Gojibeeren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="amarant">Amarant, gepufft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Chiasamen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Banane sch&#228;len und halbieren! Eine Bananenh&#228;lfte in Scheiben schneiden und beiseitelegen.
+Die andere H&#228;lfte der Banane mit Gr&#252;nkohl, Datteln, Haferflocken, Chiasamen, Reisdrink und Vanille in einen Hochleistungsmixer (alternativ Standmixer) geben und zu einem Smoothie p&#252;rieren.
+In eine Sch&#252;ssel geben und mit den beiseite gelegten Bananenscheiben, Chiasamen, Gojibeeren und Amaranthpops garnieren und genie&#223;en.
+Dieser Smoothie schmeckt auch Menschen, die sonst den Gr&#252;nkohl nicht so lieben, da er sch&#246;n s&#252;&#223; schmeckt!
+Gr&#252;nkohl enth&#228;lt sehr viel Kalzium, Kalium, Eisen, Vitamin K,  Vitamin E, au&#223;erdem fast alle Vitamine der B-Gruppe und mehr Vitamin C als alle anderen Kohlsorten. Au&#223;erdem enth&#228;lt Gr&#252;nkohl  4,3 g Eiwei&#223; pro hundert Gramm Gewicht und sein hoher Chlorophyllgehalt macht ihn zu einem wahren Superfood!</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,68 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b457eb96-5179-44fe-8119-8de9819fce3e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Eiern und Schinkenspeck</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, oder 1 kg TK-Ware</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Meersalz und Pfeffer, wei&#223;er</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, durchwachsener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he, hei&#223;e</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n) (ca. 100 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenspeck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl putzen und waschen, am besten in einer gro&#223;en Wanne. Das Gem&#252;se von den dicken Stielen befreien. Wasser in einem gro&#223;en Topf aufkochen lassen, salzen und den Gr&#252;nkohl darin 10 Minuten kochen. Dann abseihen und das Gem&#252;se hacken.
+Den Speck w&#252;rfeln und in einem ausreichend gro&#223;en Topf glasig werden lassen. Den Gr&#252;nkohl dazugeben und 5 Minuten anschwitzen, dabei r&#252;hren. Die hei&#223;e Fleischbr&#252;he zugie&#223;en und das Gem&#252;se w&#252;rzen. Etwa 60 Minuten sanft kochen lassen. Die Kartoffel sch&#228;len, waschen und in den Gr&#252;nkohl reiben. Weitere 5 Minuten kochen, mit Pfeffer und Muskat abschmecken und dann das Gem&#252;se warm halten.
+Den Schinkenspeck in d&#252;nne Scheiben schneiden. In einer Pfanne leicht kross braten. Die Eier aufschlagen und darauf gleiten lassen und zu Spiegeleiern braten. Das dauert etwa 6 Minuten, dann salzen.
+Den Gr&#252;nkohl in eine Gem&#252;sesch&#252;ssel f&#252;llen, mit dem Schinkenspeck und den Spiegeleiern belegen und servieren.
+Wer TK-Gr&#252;nkohl verwendet, gart diesen nach Packungsanweisung und gibt den ausgelassenen Speck dazu und evtl. die Fleischbr&#252;he. Dann geht es nach dem Garen weiter mit der Kartoffel.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

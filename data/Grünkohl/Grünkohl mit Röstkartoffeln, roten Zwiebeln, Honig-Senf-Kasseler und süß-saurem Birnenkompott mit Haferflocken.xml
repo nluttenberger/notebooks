@@ -1,0 +1,129 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-132248e0-0e85-4be2-871f-06457258b976">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit R&#246;stkartoffeln, roten Zwiebeln, Honig-Senf-Kasseler und s&#252;&#223;-saurem Birnenkompott mit Haferflocken</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK oder im Glas</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffeln, vorwiegend festkochende</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, k&#246;rniger (z. B. Rotisseursenf)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss, geriebene</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="chiliflocken">Chiliflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler Minutensteaks</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Honig, fl&#252;ssiger</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver, ger&#228;uchertes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="birne">Birne(n), reife</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;wein">Wei&#223;wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Pimentpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarzer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken, kernige</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Kasseler Minutensteaks w&#252;rfeln. Aus dem Senf, der Sojasauce und dem Honig eine Marinade anr&#252;hren. Diese mit etwas ger&#228;uchertem Paprikapulver und Pfeffer w&#252;rzen. Das gew&#252;rfelte Kasseler in eine Sch&#252;ssel geben, die Marinade dar&#252;ber gie&#223;en, alles gut vermischen und etwas ziehen lassen.
+Die Kartoffeln sch&#228;len, w&#252;rfeln und in einer Sch&#252;ssel w&#228;ssern. Die Zwiebel abziehen und in Streifen schneiden. Die Birne sch&#228;len, entkernen und dann in W&#252;rfel schneiden.
+Den Gr&#252;nkohl nach Packungsanweisung ohne weitere Gew&#252;rze garen. Das kann je nach verwendetem Gr&#252;nkohl (TK oder Glas) unterschiedlich lang sein (s. dazu auch Tipps).
+In einem kleinen Topf die Butter f&#252;r die Birnen aufsch&#228;umen lassen, die Birnen hinzuf&#252;gen und kurz karamellisieren lassen. Dann mit Wei&#223;wein abl&#246;schen, den Essig und den Zucker einr&#252;hren und das Pimentpulver hinzuf&#252;gen. Bei mittlerer Hitze alles so lange eink&#246;cheln lassen, bis eine kompottartige Konsistenz entsteht. Zum Schluss mit etwas Pfeffer w&#252;rzen.
+W&#228;hrend das Birnenkompott eink&#246;chelt, in einer hohen beschichteten Pfanne die abgegossenen Kartoffelw&#252;rfel flach ausbreiten. Die Gem&#252;sebr&#252;he eingie&#223;en, aufkochen und etwa 5 Minuten bei hoher Hitze offen verkochen lassen, dabei ab und zu umr&#252;hren. Somit werden die Kartoffeln schon einmal vorgegart. Sobald die Pfanne trocken zu werden droht, die Hitze etwas herunterdrehen, das Schweineschmalz hinzuf&#252;gen und die Kartoffeln etwa 3 - 4 Minuten lang anbraten. Dann die Zwiebeln hinzugeben und weitere 3 - 4 Minuten braten lassen. Nun die marinierten Kasseler-W&#252;rfel mit Marinade dazugeben und 3 weitere Minuten lang anbraten. Den k&#246;rnigen Senf einr&#252;hren und kurz mitbraten. Dann den fertig gegarten Gr&#252;nkohl in die Pfanne geben. Mit der geriebenen Muskatnuss und etwas Chiliflocken w&#252;rzen, den Zitronensaft hinzugeben und mit Pfeffer und Salz w&#252;rzig abschmecken.
+Zwischenzeitlich die Haferflocken bei mittlerer Hitze in einer kleinen Pfanne ohne weitere Fettzugabe duftend r&#246;sten lassen, dabei ab und zu r&#252;hren oder schwenken.
+Beim Anrichten das Birnenkompott &#252;ber das Gem&#252;se mit dem Fleisch geben und die Haferflocken dann dar&#252;ber streuen.
+Tipps: Bei frischem Gr&#252;nkohl darauf achten, die angegebene Menge zu verdoppeln, da frischer Gr&#252;nkohl beim Garen stark zusammenf&#228;llt. Es gibt auch bereits fertig gegarten Gr&#252;nkohl im Glas, der nicht gew&#252;rzt ist, der muss dann nur noch erhitzt werden. Die angegebene Kochzeit ist ohne die Garzeit f&#252;r den Gr&#252;nkohl gerechnet!
+Die Menge an Zucker f&#252;r die Birnen an der nat&#252;rlichen S&#252;&#223;e der Birnen anpassen. Noch h&#228;rtere Birnen etwas l&#228;nger in der Butter karamellisieren lassen.
+Wer m&#246;chte, kann das Gericht auch als Bowl anrichten. Dazu das Kasseler separat in einer Pfanne braten und den Gr&#252;nkohl zum Schluss nicht zu den Kartoffeln und den Zwiebeln geben. Beim Anrichten stattdessen alle Komponenten separat in die Sch&#252;ssel f&#252;llen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

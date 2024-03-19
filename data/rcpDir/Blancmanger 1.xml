@@ -1,0 +1,61 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-021">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Blancmanger 1</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 reichlich Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>24</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">s&#252;&#223;e Mandeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">bittere Mandeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">St&#228;rke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eidotter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="fr&#252;chte">eingemachte Fr&#252;chte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="fruchtsaft">Fruchtsaft</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Ein reichlich Ma&#223; Milch wird mit Zitronenschale, 4 Loth Zucker, 24 St&#252;ck s&#252;&#223;en und 12 bittern fein gesto&#223;enen Mandeln gekocht. Dann r&#252;hrt man 5 Loth St&#228;rke und 5 Eidotter mit etwas zur&#252;ckgelassener Milch glatt, gibt es unter best&#228;ndigem R&#252;hren in die kochende Milch, l&#228;&#223;t es durchkochen und f&#252;llt es schnell in eine dazu bereit stehende Sch&#252;ssel. Dieses Blancmanger kann nicht umgest&#252;rzt werden, es wird erkaltet mit eingemachten Fr&#252;chten verziert oder in Tassen mit Fruchtsaft herumgereicht. </ns0:instrStepText>
+      <ns0:instrStepText>Man kann auch statt Zitronenschale und bittern Mandeln Vanille dazu geben.  </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

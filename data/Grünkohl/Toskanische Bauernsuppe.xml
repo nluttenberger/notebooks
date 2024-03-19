@@ -1,0 +1,102 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1b73d683-b60e-46fe-989b-07f005f42542">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Toskanische Bauernsuppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="bohnen">Cannellinibohnen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Meersalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l extra vergine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gelbe, gesch&#228;lt und gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n), gesch&#228;lt und grob zerkleinert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Stange/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="staudensellerie">Staudensellerie in kleine St&#252;cke geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zweig/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="thymian">Thymian</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffeln, mehligkochende, gesch&#228;lt und gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schwarzkohl">Schwarzkohl (oder Gr&#252;nkohl), geputzt und zerkleinert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wirsing">Wirsing, geputzt und zerkleinert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mangold">Mangold, geputzt und zerkleinert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomatenmark">Tomatenmark</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesanrinde</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfefferk&#246;rner, schwarze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>160 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;brot">Wei&#223;brot, altbacken, grob zerkleinert (und nach Belieben ger&#246;stet)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Wort ribollire (wiederaufkochen) weist darauf hin, dass diese Suppe am Vortag f&#252;r den n&#228;chsten Tag zubereitet werden sollte. Am n&#228;chsten Tag wird die Suppe vor dem Servieren durch erneutes Aufkochen erhitzt und warm oder hei&#223; mit etwas Oliven&#246;l und frisch gemahlenem Pfeffer serviert.
+Vermutlich entsprechen aber das zwingende Wiederaufkochen und auch der Name ribollita nicht dem Ursprung dieser Suppe (bei der Konsistenz dieses Gerichts muss man eher von Eintopf reden). Im Kochbuch von Pellegrino Artusi hei&#223;t diese Suppe Nr. 58. Zuppa toscana di magro alla contadina (Toskanische Bauernsuppe). Das Wiederaufkochen oder die Zubereitung einen Tag vor dem Servieren wird hier nicht erw&#228;hnt. Vielleicht wurde diese Bohnensuppe von den Bauern auch einfach nur in gro&#223;er Menge zubereitet, und Reste wurden an den weiteren Tagen verbraucht, weshalb sie auch wieder aufgekocht wurde. Denn der Name ribollita ist erst viel sp&#228;ter entstanden. In Artusis Rezept kommt das Wort magro vor, was in der Regel auf fleischlose Gerichte hinweist. Dennoch schl&#228;gt er vor, etwas Schwarte oder Schinken hinzuzuf&#252;gen, um den Geschmack zu vertiefen.
+Was genau in eine echte ribollita DOC rein geh&#246;rt, wurde unter notarieller Beglaubigung am 24. Mai 2001 durch die Delegazione di Firenze dell&#8217;Accademia Italiana della Cucina(Florentiner Delegation der Italienischen Akademie der Kochkunst) zertifiziert, nach einer intensiven Sammlung einiger ribollite der besten florentinischen Trattorien und durch eigene Versuche.
+Eine ribollita sollte nicht r&#246;tlich aussehen, sie sollte trotz der Tomaten eine helle Suppe bleiben. K&#228;se wird auf keinen Fall verwendet, und Brot erst auf den Boden einer Sch&#252;ssel gelegt, wor&#252;ber dann die hei&#223;e Suppe gegossen wird.
+In meine ribollita, die nur in wenigen Punkten von der ribollita DOC abweicht, habe ich dennoch K&#228;se in Form von Parmesanrinde gegeben, die nach dem Kochen wieder entfernt wird. Das Brot lege ich nicht in die Sch&#252;ssel, sondern mische es ganz zum Schluss unter. Und ich r&#246;ste es auch vorher an, da ich das R&#246;staroma von Brot sehr liebe.
+Zu diesem Klassiker aus der Toskana empfehle ich aufgrund der enthaltenen Bohnen immer ein eher intensiv-fruchtiges Oliven&#246;l mit ausgepr&#228;gten Bitternoten.
+Die Bohnen &#252;ber Nacht in reichlich kaltem Wasser einweichen. Das Einweichwasser dann wegsch&#252;tten. In einem gro&#223;en Topf 2 l leicht gesalzenes Wasser zum Kochen bringen und die Bohnen darin 1 Stunde garen. Das Kochwasser abgie&#223;en und auffangen. Die H&#228;lfte der Bohnen p&#252;rieren und zur&#252;ck zum Bohnenwasser geben. Die restlichen Bohnen zur Seite stellen.
+In einem breiten Topf 8 EL Oliven&#246;l erhitzen und Zwiebel, Knoblauch, Karotte, Staudensellerie und Thymian darin etwas and&#252;nsten. Kartoffeln und das ganze Gem&#252;se dazugeben. Tomatenmark mit etwas Wasser aufl&#246;sen und unterr&#252;hren, alles salzen und zugedeckt kurz d&#252;nsten.
+Die restlichen Bohnen und Bohnenwasser zusammen mit 300 ml Wasser, Parmesanrinde und Pfefferk&#246;rnern in den Topf geben und die Suppe etwa 1 Stunde bei schwacher Hitze k&#246;cheln lassen. Ab und an umr&#252;hren und weiteres hei&#223;es Wasser (insgesamt noch etwa 300 ml) nachsch&#252;tten. Immer nur so viel, dass alles einen Finger hoch mit Fl&#252;ssigkeit bedeckt ist.
+Kurz vor Ende die Wei&#223;brotst&#252;cke dazugeben (eventuell noch hei&#223;es Wasser dazugeben), gut umr&#252;hren und das Brot kurz mitkochen. Die Suppe noch einmal mit Salz abschmecken und vom Herd nehmen.
+Die Suppe kann am gleichen Tag mit einem guten Schuss Oliven&#246;l und frisch gemahlenem schwarzem Pfeffer serviert werden oder erst am n&#228;chsten Tag.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

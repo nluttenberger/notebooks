@@ -1,0 +1,59 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-edc735b3-9137-40a6-9c6c-2fe17f8fe705">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohleintopf mit Mettwurst</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Gl&#228;ser</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (ca. 800 g - 1 kg)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rstchen (Mettw&#252;rstchen, luftgetrocknet oder ger&#228;uchert)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), fest kochende</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pkt.</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenspeck, gew&#252;rfelter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Piment</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Kartoffeln sch&#228;len und klein schneiden. Zusammen mit der Br&#252;he kurz aufkochen. Dann den Gr&#252;nkohl zugeben. Nun Zwiebelw&#252;rfel, den Schinkenspeck und obenauf die ganze Mettwurst geben. Den Topfdeckel auflegen und alles ca. 20 Min. kochen lassen.
+Die Mettwurst klein in Scheiben schneiden. Zur&#252;ck in den Topf geben und alles einmal durchr&#252;hren - evtl. noch einmal aufkochen. Mit einer guten Prise Piment und etwas Pfeffer abschmecken - Salz nur noch nach Bedarf zugeben.
+Dann den geschlossenen Topf eine Nacht drau&#223;en (nicht bei Frost oder Hitze) stehen lassen.
+Am n&#228;chsten Tag einfach erw&#228;rmen und servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-56">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>06 Eier-, Milch- und Mehl-Speisen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Round of Beef-Omelette</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Beef</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Rauchfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Schinken</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName>Fleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName>Fleisch</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Reste von Round of Beef, siehe I. No. 9. oder auch von Rauchfleisch, Schinken und Braten werden fein gehackt, eine Omelette nach No. 55 angerührt, das gehackte Fleisch darunter gemischt und auf einer Seite gebacken. </fr:instrStepText>
+            <fr:instrStepText>Oder man rührt das gehackte Fleisch durch Pfannkuchenteig und backt es auf beiden Seiten. Auch kann man aus dieser Masse kleine Kuchen backen. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+</fr:recipe>

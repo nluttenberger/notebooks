@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2fe20a77-2e8c-4fed-94a4-ccecdc61ed6e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsalat mit Ananas</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleisch">Ananas (Fruchtfleisch) oder Ananasst&#252;cke aus der Dose</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Cocktailtomaten oder 2 Fleischtomaten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="peperoni">Peperoni, mittelscharf, oder 1 m.-gro&#223;e Paprika, rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">R&#228;ucherspeck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie, frisch oder getrocknet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pflanzen&#246;l zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl putzen, waschen und gut abtropfen lassen. Von den einzelnen Bl&#228;ttern die Blattrippen herausschneiden und die Bl&#228;tter in Streifen schneiden. Einen Topf mit Salzwasser zum Kochen bringen, die Kohlstreifen darin etwa 20 Minuten garen, anschlie&#223;end herausnehmen und sofort in Eiswasser abschrecken. Danach die Streifen gut abtropfen lassen und nochmals grob schneiden.
+Die frische Ananas sch&#228;len, ihren Strunk herausschneiden und das Fruchtfleisch in kleine St&#252;cke schneiden. Dosenananas gut abtropfen lassen und wenn es Ringe sind, diese in kleine St&#252;cke schneiden. Die Tomaten waschen, ihren Stielansatz entfernen und die Cherrytomaten halbieren oder Fleischtomaten nach Belieben in kleinere St&#252;cke schneiden. Die Zwiebel sch&#228;len und fein hacken. Die gewaschene Paprika bzw. die Peperoni l&#228;ngst halbieren, Samen und Scheidew&#228;nde entfernen und den Rest in feine Streifen schneiden.
+Den Speck in kleine W&#252;rfel schneiden und in einer beschichteten Pfanne braten, anschlie&#223;end herausnehmen. Das &#214;l zum Bratfett geben und erhitzen. Darin die Zwiebel, Paprika und Petersilie f&#252;r 2 - 3 Minuten d&#252;nsten. Das Gem&#252;se mit der Gem&#252;sebr&#252;he und dem Essig abl&#246;schen, die Speckw&#252;rfel dazugeben und mit Pfeffer, Salz und Zucker abschmecken.
+Den Gr&#252;nkohl mit den Tomaten und der Ananas in eine Sch&#252;ssel geben. Die Vinaigrette zuf&#252;gen, untermischen und 30 Minuten ziehen lassen. Den Salat dann evtl. nochmals abschmecken und servieren.
+Passt sehr gut zu gebratenem oder gegrilltem Kasseler.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

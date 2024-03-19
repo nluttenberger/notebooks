@@ -1,0 +1,58 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7d6e0b87-f129-45d6-89fc-a1a00d24f834">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Schrat`s einfache Gr&#252;nkohlsuppe mit Dinkel</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1.000 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gefroren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">R&#228;ucherbauch, gekocht</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 &#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Rinderbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="dinkel">Dinkel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarz aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Dinkel in 0,5 Liter Br&#252;he 15 Minuten kochen, dann die Herdplatte ausstellen und den Dinkel darauf noch 60 Minuten aufquellen lassen.
+Zwiebel in kleine W&#252;rfel schneiden und in einem ausreichend gro&#223;en Topf  in dem hei&#223;en Oliven&#246;l anschwitzen. Gr&#252;nkohl dazu geben und 2 Liter Br&#252;he auff&#252;llen. Ca. 60 Minuten leicht k&#246;cheln lassen.
+Bauchspeck w&#252;rfeln und mit dem aufgequollenen Dinkel nach 50 Minuten zum Gr&#252;nkohl geben und noch 10 Minuten mitk&#246;cheln lassen. Mit Pfeffer und Salz abschmecken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

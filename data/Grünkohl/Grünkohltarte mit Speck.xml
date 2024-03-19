@@ -1,0 +1,84 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cca0ba9b-e4fa-45f0-9830-cf9a4e89d113">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohltarte mit Speck</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Halbfettmargarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pflanzen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenw&#252;rfel, mager</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="frischk&#228;se">Frischk&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">K&#228;se, geriebener</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r den Teig Mehl, Margarine, Salz und Wasser verkneten. Den Teig zu einer Kugel formen und in Folie gewickelt ca. 30 Minuten kalt stellen.
+F&#252;r den Belag den Gr&#252;nkohl waschen, hacken und in kochendem Salzwasser ca. 10 Minuten garen und gut abtropfen lassen.
+Die Zwiebeln sch&#228;len und w&#252;rfeln.
+&#214;l in einem Topf erhitzen und Zwiebel- und Schinkenw&#252;rfel darin and&#252;nsten. Den Gr&#252;nkohl und die Br&#252;he dazugeben und ca. 20 Minuten d&#252;nsten. Den Frischk&#228;se mit dem Senf einr&#252;hren und alles mit Salz und Pfeffer kr&#228;ftig w&#252;rzen.
+Den Backofen auf 180 &#176;C Ober-/Unterhitze (Gas: Stufe 2, Umluft: 160 &#176;C) vorheizen.
+Den Teig zwischen Frischhaltefolie ausrollen. Eine Tarteform (ca. 20 x 25 cm) damit auskleiden und dabei einen kleinen Rand hochziehen. Den Teigboden mit einer Gabel mehrmals einstechen und im Backofen auf mittlerer Schiene ca. 10 Minuten vorbacken.
+Die Gr&#252;nkohlmasse in die Tarteform geben und mit K&#228;se bestreuen.
+Die Tarte weitere ca. 35 - 40 Minuten backen und servieren.
+Bei 6 St&#252;cken hat ein St&#252;ck 355 Kcal.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

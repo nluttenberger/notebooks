@@ -1,0 +1,99 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ede51b11-ae44-4f06-bc48-73acac4043f0">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Bettenfelder Gr&#252;nkohlsalat</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1.000 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl - Spitzen, zarte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangensaft">Orangensaft, frisch gepresst</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft, frisch gepresst</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangenschale">Orangenschale, in Zesten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Honig, fl&#252;ssiger</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, grober</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, s&#252;&#223;er</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="mango">Mango(s), getrocknete, 6 mittelgro&#223;e St&#252;ckchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="papaya">Papaya, getrocknete, 6 mittelgro&#223;e St&#252;ckchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfefferk&#246;rner, rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="blauschimmel">Blauschimmelk&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="orange">Orange(n), f&#252;r 30 Orangenfilets</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitrone(n), f&#252;r 30 Zitronenfilets</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinienkerne">Pinienkerne, oder Mandelpl&#228;ttchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sultaninen">Rosinen, verschiedene Sorten, einige Teel&#246;ffel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="granatapfel">Granatapfel, davon die Kerne</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohlspitzen gr&#252;ndlich waschen und in feine St&#252;ckchen zupfen. Zitronen- und Orangensaft, Orangenzesten, sowie Senf, Honig, Salz, Pfeffer und Oliven&#246;l zuf&#252;gen und alles gut mischen. Nach Gusto getrocknete Mango- und Papayast&#252;ckchen in 2 x 2 mm gro&#223;e St&#252;ckchen schneiden und in das Dressing geben.
+Gr&#252;nkohl mit der Salatsauce mischen. Rote Pfefferk&#246;rner grob m&#246;rsern. Gut gek&#252;hlter Blauschimmelk&#228;se zerbr&#246;seln. Die Schalen der Orangen und Zitronen mit einem Messer inclusive wei&#223;er Haut entfernen und die Fr&#252;chte filieren. Pinienkerne oder Mandelbl&#228;ttchen vorsichtig leicht r&#246;sten. Die Kerne des Granatapfels ausl&#246;sen. Den Salat damit und zus&#228;tzlich mit einigen L&#246;ffeln Rosinen garnieren oder alles leicht unterheben.
+Tipp:
+Wer mag, kann dazu Schinken, Rauchfleisch, ger&#228;ucherte oder gebratene Enten- oder G&#228;nsebrust anrichten. Dann ist er aber nicht mehr vegetarisch.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

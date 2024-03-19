@@ -1,0 +1,49 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-aa08f371-538d-469f-b8d0-cc2b4f28cf07">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Milho frito a modo de Madeira</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>450 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="maismehl">Maismehl, fein gemahlenes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), getrocknete, entkernte, zerkr&#252;melte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>450 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, in feine Streifen geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l, zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die H&#228;lfte des Maismehl mit 300 ml Wasser zu einem glatten Teig ohne Kl&#252;mpchen verr&#252;hren.
+2,4 l Wasser in einem Topf mit der Butter, dem Chili und dem Salz zum Kochen bringen. Den Teig einr&#252;hren und das Ganze aufkochen lassen. Den Kohl zugeben und etwa 10 Min. garen, bis er weich ist. Das restliche Maismehl hinzuf&#252;gen, das Ganze wieder zum Kochen bringen und 20-30 Min. unter R&#252;hren garen, bis die Mischung dick ist und sich vom Boden des Topfes heben l&#228;sst. Bei Bedarf kochendes Wasser nachgie&#223;en. Den Brei auf ein leicht ge&#246;ltes Brett oder einen flachen Teller geben. Ruhen und abk&#252;hlen lassen. Anschlie&#223;end in mundgerechte W&#252;rfel schneiden und diese in &#214;l braten, bis sie kross und goldbraun sind.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

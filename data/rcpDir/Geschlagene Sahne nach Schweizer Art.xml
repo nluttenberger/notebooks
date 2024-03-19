@@ -1,0 +1,37 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-008">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Geschlagene Sahne nach Schweizer Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Geschlagene Sahne nach Schweizer Art</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Stck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="vanille">Vanille</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>In guter Sahne vom vorigen Tage, es darf aber keine Milch darunter sein, l&#228;&#223;t man ein gespaltenes St&#252;ck Vanille etwa eine Stunde ausziehen, gibt dann Zucker nach Geschmack hinzu und schl&#228;gt sie im Keller mit einem Schneebesen in gleichm&#228;&#223;iger Schnelligkeit, indem man denselben immer hin und her bewegt, nimmt zuweilen den Schaum ab, legt ihn auf ein Haarsieb, sch&#252;ttet die abgelaufene Fl&#252;ssigkeit wieder zur Sahne und f&#228;hrt fort zu schlagen, bis man den Schaum zusammen hat. Dann nimmt man die Vanille heraus (man kann sie mehrere Male gebrauchen) und gibt diese geschlagene Sahne in einer Assiette zur Tafel, oder man benutze sie nach Angabe. </ns0:instrStepText>
+      <ns0:instrStepText>Anmerk. Man kann die Vanille auch mit Zucker fein sto&#223;en, auf diese Weise gebraucht man viel weniger. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

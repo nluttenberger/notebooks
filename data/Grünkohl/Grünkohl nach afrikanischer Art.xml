@@ -1,0 +1,79 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b30abef6-e229-4b1d-ac0c-c81a93eec9e6">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl nach afrikanischer Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, geschnitten, oder Gr&#252;nkohl aus dem Glas</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch, geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomate(n), klein gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="curcuma">Currypulver oder Kurkuma</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="paprikapulver">Chilipulver, oder scharfes Paprikapulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="paprikapulver">Paprikapulver, ger&#228;uchertes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="koriander">Koriander</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitrone(n), den Saft davon</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleisch">Fleischersatz (Soja- oder Seitanfleisch), verzehrfertig, nach Belieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="erdnuss">Erdn&#252;sse, gehackt, nach Belieben</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Sukuma Wiki - ein Gr&#252;nkohlgericht, das in mehreren L&#228;ndern Ostafrikas genossen wird, ist eine sehr aromatische Zubereitungsvariante.
+Zuerst die Zwiebeln im &#214;l in einer gro&#223;en Pfanne anbraten. Dann die Tomaten und die Gew&#252;rze hinzuf&#252;gen und kurz zusammen k&#246;cheln lassen. Den Kohl und den Zitronensaft dazugeben und vermengen. Alles miteinander eink&#246;cheln lassen - bei frischem Kohl, bis der Kohl gar ist. Soja oder Seitan nach Geschmack untermischen. Abschmecken und es ist fertig. Wahlweise k&#246;nnen Erdn&#252;sse dar&#252;ber gegeben werden.
+Dazu passt es, kleingeschnittene Kartoffeln zu servieren.
+Nach afrikanischer Tradition isst man gemeinsam von einem gro&#223;en Teller, indem man ein St&#252;ck Wei&#223;brot oder Fladen in drei Fingern h&#228;lt und damit das Essen aufnimmt (d. h. man isst ohne Besteck). Dazu eignet sich dieses Gericht sehr gut.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

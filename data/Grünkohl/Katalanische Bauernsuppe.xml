@@ -1,0 +1,102 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c6967350-b4fa-4017-90cd-b492c129ab78">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Katalanische Bauernsuppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n), in Streifen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n) oder 3, gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauch">Porreestange(n), in Ringe geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kl. Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="bohnen">Bohnen, wei&#223;e, ca. 250 g Abtropfgewicht</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gehackt, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Nudeln, kleine (Muschelnudeln, oder Gabelspaghetti)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="h&#252;hnerbrust">Huhn, oder 1 H&#252;hnerbrust und 2 Schenkel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="rindfleisch">Rindfleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>0,8 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikamark">Paprikamark</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="rosmarin">Thymian oder Rosmarin</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>In einer tiefen Pfanne oder einem Schmortopf mit hei&#223;em &#214;l das klein geschnittene Rindfleisch anbraten, bis es gut Farbe hat. Mit Salz und Pfeffer w&#252;rzen. Einen EL Paprikamark zugeben und kurz mitbraten. Mit einer Tasse  hei&#223;er Gefl&#252;gelbr&#252;he abl&#246;schen und den Bodensatz l&#246;sen. Mit der restlichen Br&#252;he auff&#252;llen bis das Fleisch bedeckt ist.
+Das Fleisch nun etwa 1 Stunde k&#246;cheln lassen und anschlie&#223;end beiseite stellen. Die Br&#252;he kann ruhig einkochen.
+Das Huhn in kleine St&#252;cke teilen und in einem anderen Topf mit dem Speck und den gehackten Zwiebeln anbraten bis alles gut Farbe angenommen hat. Kartoffeln, Lauch, M&#246;hren, Gr&#252;nkohl und das Rindfleisch mit der Br&#252;he dazugeben und mit der Fleischbr&#252;he auff&#252;llen. Paprika und Thymian hinzugeben.
+Wenn die Kartoffeln gar sind, die Bohnen, den Reis und die Nudeln dazugeben und weitere 10 &#8211; 15 Minuten k&#246;cheln lassen.
+Sollte die Suppe zu dick sein, noch etwas Br&#252;he dazugeben.
+Mit Pfeffer und ggf. Salz abschmecken und servieren.
+Das Rezept ist angelehnt an ein altes spanisches Rezept. Die Suppe sieht wirklich nicht h&#252;bsch aus, aber sie schmeckt uns seit Jahren immer wieder sehr gut!</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

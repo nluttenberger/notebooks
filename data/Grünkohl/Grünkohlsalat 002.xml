@@ -1,0 +1,60 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3b65ddd8-864b-479d-8046-4479b0650b4e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsalat</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">Mandel(n), grob gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n), fein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), getrocknet oder eingelegt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="balsamico">Balsamico (Dattel-Balsamico)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarz, aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohlbl&#228;tter von Stielen und Rippen befreien und in mundgerechte St&#252;cke teilen. Dies gelingt am besten, wenn die Bl&#228;tter kurz im Ganzen eingefroren und im gefrorenen Zustand abgestreift werden. Die gefrorenen Bl&#228;tter kann man auch leicht brechen.
+In einem gro&#223;en Topf mit kochendem Wasser die Bl&#228;tter kurz blanchieren (ca. 2 Min.), mit kaltem Wasser abschrecken (so beh&#228;lt der Gr&#252;nkohl die Farbe), im Sieb abtropfen lassen, eventuell vorsichtig in der Salatschleuder trocken schleudern.
+Das &#214;l in einer gro&#223;en Pfanne erhitzen. Mandeln, Salz, Knoblauch und Chilischote darin bei geringer Hitze ca. 10 Minuten braten. Chilischote entfernen. Gr&#252;nkohl aus der Pfanne in eine Sch&#252;ssel geben.
+Den Dattel-Balsamico im &#214;l (Pfanne) kurz erw&#228;rmen. &#220;ber den Gr&#252;nkohl gie&#223;en, kurz vermengen. 1 Stunde ziehen lassen. Mit Salz und Pfeffer abschmecken.
+Auch eine feine Beilage.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

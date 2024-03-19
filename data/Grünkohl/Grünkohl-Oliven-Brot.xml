@@ -1,0 +1,75 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fe5f272e-a4f4-421c-be2f-95426a0c8a2f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Oliven-Brot</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Weizenmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Weizenvollkornmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="dinkel">Dinkelvollkornmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="hefe">Trockenhefe, 5 - 10 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>420 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>175 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (2 Handvoll)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>40 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="olive">Oliven, gr&#252;ne, entsteint</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l f&#252;r die Form</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die trockenen Zutaten (au&#223;er Oliven und Kohl) vermengen. Das Wasser hinzugeben. Erst mit einem Teigspachtel oder Holzl&#246;ffel, dann mit den Knethaken einer K&#252;chenmaschine alles zu einem glatten Teig kneten. So lange kneten, bis der Teig eine glatte, gleichm&#228;&#223;ige Masse ist und sich selbstst&#228;ndig beim Kneten vom Sch&#252;sselrand l&#246;st. Den Teig abgedeckt mindestens 1 Stunde, besser 2 - 3 Stunden an einem warmen Ort oder &#252;ber Nacht k&#252;hl gehen lassen.
+Den Gr&#252;nkohl waschen und entgegen des Strunkes in ca. 4 mm breite Streifen schneiden. Die Oliven grob schneiden, etwa je in 4 Teile.
+Oliven und Gr&#252;nkohl mit 2 Prisen Salz und etwas Pfeffer vermengen und mit einem Teigspachtel o. &#196;. unter den Teig arbeiten. Dabei gegen Ende rundwirken (Teig von au&#223;en "nach oben ziehen und in die Mitte dr&#252;cken"). Es muss keine homogene Masse entstehen, es sollte aber auch nichts "aus dem Teig fallen".
+Eine Brotbackform mit 2 - 3 EL Oliven&#246;l gut ausfetten, auf dem Boden der Form sollte ruhig etwas &#214;l stehen. Den Teig hineingeben und noch einmal abgedeckt an einem warmen Ort eine gute Stunde gehen lassen.
+Den Ofen auf 210 &#176;C Ober-/Unterhitze vorheizen und eine kleine Ofenform oder Metallsch&#252;ssel mit kochend hei&#223;em Wasser hineinstellen.
+Das Brot 10 Min. backen, dann die Temperatur um 10 Grad reduzieren. Nach weiteren 10 Min. die Temperatur noch einmal um 10 Grad reduzieren und 30 Min. bei 190 &#176;C Ober-/Unterhitze backen. Den Ofen zwischendurch nicht &#246;ffnen! Nach insgesamt 50 Min. das Brot aus dem Ofen nehmen und aus der Form l&#246;sen. Notfalls mit einem Messer etwas vom Rand l&#246;sen. Das Brot weitere 10 Min. bei 190 &#176;C Ober-/Unterhitze backen.
+Dann das Brot abk&#252;hlen lassen.
+Ein einfaches, aber superleckeres Brot! Eines unserer Lieblingsrezepte wenn wir viel frischen Gr&#252;nkohl aus dem Garten haben.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,66 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7619d41f-8d42-4c85-a97c-592ec61e3e0e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Supreme von der Ringeltaube auf Gr&#252;nkohl und Mais</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="taube">Taube(n) (Ringeltauben), je ca. 280 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl - Bl&#228;tter ohne Str&#252;nke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="meerrettich">Meerrettich (Sahnemeerrettich), mild, aus Glas oder Tube</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="mais">Maiskolben, vorgegart</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Mit einem scharfen Messer die Taubenbr&#252;ste und Schenkel vorsichtig ausl&#246;sen, waschen, mit K&#252;chenkrepp trocknen und zur Seite stellen.
+Gr&#252;nkohlbl&#228;tter vorsichtig von den Str&#252;nken zupfen, gr&#252;ndlich waschen und in einem Durchschlag abtropfen lassen. Ingwer sch&#228;len und in d&#252;nne Scheiben schneiden. Die vorgegarten Maiskolben in  2 cm breite Scheiben schneiden.
+Ca. 2 Liter Wasser zusammen mit den Ingwerscheiben in einem gro&#223;en Topf zum Kochen bringen, einen Essl&#246;ffel Salz sowie die Gr&#252;nkohlbl&#228;tter  hineingeben und 5-6 Minuten kochen. In einen Durchschlag abgie&#223;en und die Bl&#228;tter in Eiswasser abschrecken, damit die sch&#246;ne gr&#252;ne Farbe erhalten bleibt. Mit Hilfe der Salatschleuder &#252;bersch&#252;ssiges Wasser entfernen. Bl&#228;tter wieder etwas auflockern.
+Eine ausreichend gro&#223;e, beschichtete Pfanne m&#246;glichst mit hohem Rand ohne Fett erhitzen, Kohlbl&#228;tter bei mittlerer Hitze kurz darin schwenken, damit noch etwas Restfeuchtigkeit verdampft, die Sahne angie&#223;en, den Sahnemeerrettich dazu geben und vermischen, je nach Geschmack und Sch&#228;rfe des Meerrettichs 2-4 Essl&#246;ffel. 2 Essl&#246;ffel Oliven&#246;l mit unter den Gr&#252;nkohl heben und alles mit Pfeffer, Salz und Muskat abschmecken.
+Maisscheiben in einer Pfanne mit 3 EL Oliven&#246;l bei mittlerer Hitze von beiden Seiten br&#228;unen.
+Taubenbr&#252;ste und Schenkel pfeffern, salzen, leicht in Mehl wenden und auf der Hautseite kurz kross anbraten. Wenden und langsam gar ziehen lassen. Das Fleisch soll innen noch leicht rosa sein. An warmer Stelle ca. 5 Minuten ruhen lassen.
+Gr&#252;nkohl auf die Teller geben, etwas verteilen und die aufgeschnittenen Br&#252;ste und die Schenkel darauf setzen. Maisscheiben daneben platzieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

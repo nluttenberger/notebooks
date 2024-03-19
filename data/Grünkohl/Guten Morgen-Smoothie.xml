@@ -1,0 +1,54 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4eeffb3f-232a-46f4-b6b8-f89a3cc7219f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Guten Morgen-Smoothie</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="spinat">Blattspinat, frisch, jung</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="kiwi">Kiwi(s), reif</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="banane">Banane(n), reif</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="weintrauben">Weintrauben, kernlos</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Spritzer</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Wasser in den Mixer geben, dann Spinat und Gr&#252;nkohl sowie zwei Spritzer Zitronensaft hinzuf&#252;gen. Kr&#228;ftig durchmixen, bis eine sch&#246;ne gr&#252;ne Fl&#252;ssigkeit entsteht.
+Die m&#246;glichst reifen Bananen und die Kiwi sch&#228;len und in mixergerechte St&#252;cke schneiden, die gewaschenen, kernlosen Trauben ggf. halbieren. Dann das Obst in den Mixer geben und so lange mixen, bis keine St&#252;ckchen mehr vorhanden sind und der Smoothie eine s&#228;mige Konsistenz erreicht hat.
+Zum Schluss den Smoothie in Gl&#228;ser f&#252;llen und genie&#223;en oder f&#252;r den n&#228;chsten Morgen im K&#252;hlschrank kalt stellen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

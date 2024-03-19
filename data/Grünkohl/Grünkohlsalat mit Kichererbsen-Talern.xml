@@ -1,0 +1,82 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0f281e8f-9b78-41ab-8d90-0e427a200ed5">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsalat mit Kichererbsen-Talern</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, ca.</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ei">Meersalz, fein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="kichererbsen">Kichererbsen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;es</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfelessig">Balsamessig, heller oder Apfelessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Honig oder Honig-Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>75 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="cranberry">Cranberrys</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="frischk&#228;se">Frischk&#228;se, k&#246;rniger</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl waschen, trocken sch&#252;tteln bzw. trocken tupfen, von den harten Blattrippen befreien und in mundgerechte St&#252;cke schneiden oder zupfen. Dann in eine Sch&#252;ssel geben, mit 1 TL Meersalz bestreuen und das Salz mit sauberen H&#228;nden etwa 1 bis 2 Minuten in den Gr&#252;nkohl einmassieren, bis dieser sich weich anf&#252;hlt.
+Die Kichererbsen in einem Sieb abtropfen lassen. Die Zwiebel abziehen und fein w&#252;rfeln.
+Die abtropften Kichererbsen in eine R&#252;hrsch&#252;ssel geben und mit dem Mixstab fein p&#252;rieren. Dann Ei, Mehl und Zwiebelw&#252;rfel unterr&#252;hren und mit Meersalz und Pfeffer kr&#228;ftig w&#252;rzen.
+Aus der Kichererbsenmasse mit einem L&#246;ffel etwa 16 kleine H&#228;ufchen auf ein mit Backpapier ausgelegtes Backblech setzen und mit dem L&#246;ffelr&#252;cken leicht zu Talern andr&#252;cken. Die Butter in Fl&#246;ckchen darauf verteilen und die Taler im vorgeheizten Backofen bei 225 &#176;C (Ober-/Unterhitze) oder bei 200 &#176;C (Umluft) in etwa 15 Minuten goldbraun backen.
+F&#252;r die Vinaigrette den Balsamico oder Apfelessig mit etwas Meersalz, Pfeffer und Honig oder Honig-Senf verr&#252;hren und dann das Oliven&#246;l darunterschlagen. Den Gr&#252;nkohl mit den Cranberries und der Vinaigrette mischen. Etwa 30 Minuten ziehen lassen und dabei mehrmals mischen.
+Die Kichererbsen-Taler nach Ende der Backzeit aus dem Backofen nehmen und etwas abk&#252;hlen lassen.
+Den Gr&#252;nkohlsalat mit den Kichererbsen-Talern auf Tellern mit jeweils 1 Klecks k&#246;rnigem Frischk&#228;se anrichten und etwas frisch gemahlenen Pfeffer dar&#252;ber streuen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

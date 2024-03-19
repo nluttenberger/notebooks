@@ -1,0 +1,51 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-627c4c4c-1aa6-41aa-8077-ea44011c6a13">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Wurstsuppe und Mettenden</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gefroren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Wurstbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Mettenden)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="majoran">Majoran</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebeln in kleine W&#252;rfel schneiden und in &#214;l goldbraun anschwitzen. Den gefrorenen Gr&#252;nkohl mit in den Topf geben sowie die H&#228;lfte der Wurstsuppe. Den Gr&#252;nkohl bei kleiner Hitze auftauen lassen (in ca. 30 Minuten) und anschlie&#223;end die Suppe zum Kochen bringen. Dann die restliche Wurstsuppe und die Mettenden in den Topf geben. Wenn die Mettenden prall und gar sind, diese mit einer Gabel anstechen. So lange bei kleiner Hitze weiter kochen, bis der Gr&#252;nkohl sch&#246;n s&#228;mig ist, das dauert 1,5 bis 2 Stunden.
+Auf Salz kann beim W&#252;rzen verzichtet werden, da die Wurstsuppe und die Mettenden gen&#252;gend Salz mitbringen. Auf jeden Fall mit Majoran w&#252;rzen.
+Mit Kartoffeln servieren.
+Tipp: das Gericht schmeckt besonders gut, wenn man am Vortag alles zubereitet und dann am n&#228;chsten Tag den Kohl und die Wurst aufw&#228;rmt und nur noch die Kartoffeln frisch dazu kocht.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

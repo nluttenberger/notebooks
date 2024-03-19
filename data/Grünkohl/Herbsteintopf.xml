@@ -1,0 +1,57 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-23fbf287-fdc3-42ef-bbdc-a93a6089e0d6">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Herbsteintopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l, neutral</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mettwurst">Cabanossi, in Scheiben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), grob gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>800 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 W&#252;rfel</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, je f&#252;r 500 ml</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK, gerupft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), vorwiegend festkochend, gesch&#228;lt und gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n), in Scheiben</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das &#214;l in einem gro&#223;en Topf erhitzen. Die Cabanossischeiben ca. 2 Minuten braten, die Zwiebelw&#252;rfel zuf&#252;gen und weitere 2 Minuten d&#252;nsten. Die Mischung mit Wasser abl&#246;schen, die Br&#252;hw&#252;rfel einr&#252;hren und alles aufkochen lassen. Den Gr&#252;nkohl zuf&#252;gen und den Eintopf im geschlossenem Topf 15 Minuten leicht k&#246;cheln lassen. Dann die Kartoffeln zugeben und diese 10 Minuten garen. Zuletzt die M&#246;hren noch 7 Minuten darin garen.
+Vegetarische Variante: Die Cabanossi weg lassen und den Eintopf zum Servieren mit Parmesanhobeln garnieren. Oder 100 g Kartoffeln und 50 g M&#246;hren durch 150 g K&#252;rbisw&#252;rfel ersetzen. Diese dann zusammen mit den Kartoffeln zum Eintopf geben.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

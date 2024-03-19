@@ -1,0 +1,66 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5b437fe7-2ed2-4a1d-b0ee-fd73f282aa30">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Kartoffel-M&#246;hren-Suppe mit Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Bundm&#246;hren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffeln, vorwiegend festkochende</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettenden, ger&#228;uchert, &#224; ca. 100 g oder Debrecziner bzw. Wiener W&#252;rstchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sefond</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer, aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss, frisch gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Rinderbouillon, instant</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl putzen, waschen, trocken schleudern und in mundgerechte St&#252;cke zupfen. Die Zwiebel abziehen und fein w&#252;rfeln. Die M&#246;hren putzen, sch&#228;len, waschen und in Scheiben schneiden. Die Kartoffeln sch&#228;len, waschen und w&#252;rfeln. Die W&#252;rstchen in Scheiben schneiden.
+In einem Suppentopf das Oliven&#246;l erhitzen und die Zwiebelw&#252;rfel zusammen mit den W&#252;rstchen darin etwa 2 Minuten anbraten. Dann die M&#246;hrenscheiben und die Kartoffelw&#252;rfel zugeben und etwa 2 Minuten mitbraten. Mit dem Gem&#252;sefond abl&#246;schen und zugedeckt etwa 10 Minuten bei kleiner bis mittlerer Hitze k&#246;cheln lassen. Anschlie&#223;end den Gr&#252;nkohl zugeben und noch etwa 5 Minuten k&#246;cheln lassen. Mit etwas Salz, mehreren Umdrehungen schwarzem Pfeffer aus der M&#252;hle, Muskat und etwas Rindsbouillon abschmecken.
+Dazu passen frisches Bauernbrot oder Baguette und Senf.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

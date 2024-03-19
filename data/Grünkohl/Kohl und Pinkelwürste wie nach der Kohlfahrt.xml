@@ -1,0 +1,80 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4d2346ed-eca0-4198-8bb2-930bb126a191">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Kohl und Pinkelw&#252;rste wie nach der Kohlfahrt</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl oder 1 kg frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinkelwurst">Pinkelw&#252;rste</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Mettenden</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;hw&#252;rfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Pimentk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wacholder">Wacholderbeere(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prisen</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Hafergr&#252;tze, alternativ Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, durchwachsenes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zwiebeln sehr klein schneiden und in Fett glasig bis braun d&#252;nsten. Kohl kleinschneiden und etappenweise and&#252;nsten oder ein Glas Gr&#252;nkohl in den Topf geben.
+Etwa 500 ml Wasser aufgie&#223;en, sodass der Kohl die Konsistenz von einem dicken Eintopf erh&#228;lt. Nicht zu wenig Wasser verwenden, sonst brennt es zu schnell an. Das Fleisch, die Gew&#252;rze und die Br&#252;he dazugeben, aber keinen Senf. Zugedeckt etwa 2 &#8211; 3 Stunden k&#246;cheln lassen. Tipp: &#252;ber Nacht ziehen lassen. Zur Not am Abend nur eine Stunde kochen lassen und am n&#228;chsten Tag weiterkochen.
+Nach 3 Stunden (ich lasse ihn auch 4 oder 5 Stunden kochen) einen Essl&#246;ffel Senf hinzugeben und die trockene Hafergr&#252;tze. Das Ganze noch einige Minuten k&#246;cheln oder ziehen lassen, bis die Hafergr&#252;tze aufgequollen ist.
+Tipp:
+Schmeckt wie in der Kneipe. Der Geschmack ist am n&#228;chsten Tag vergleichbar; ich empfehle wirklich, den Kohl eine Nacht durchziehen zu lassen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

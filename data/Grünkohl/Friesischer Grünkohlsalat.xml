@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-90f15c2c-196f-42ef-b8d1-5d54321f0c9b">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Friesischer Gr&#252;nkohlsalat</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, die oberen, jungen Bl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Raps&#246;l, kalt gepresst</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Honig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="walnuss">Ingwer, etwa walnussgro&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="clementine">Clementine(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="walnuss">Walnusskerne, halbiert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schafsk&#228;se">Schafsk&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="brot">Bauernbrot, frisch</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Gr&#252;nkohlbl&#228;tter waschen, von der Mittelrippe befreien, trocken sch&#252;tteln und in kleinere St&#252;cke zupfen. Zwei Clementinen auspressen und den Saft beiseitestellen. Das sind ca. 80 ml.
+Die Zwiebel und den Ingwer fein hacken. Die Zwiebel im &#214;l etwas and&#252;nsten, den Ingwer dazugeben und kurz mitd&#252;nsten. Nun mit Essig und dem Saft abl&#246;schen, ein wenig einreduzieren und etwas erkalten lassen. Dann den Honig mit einr&#252;hren.
+Dieses Dressing &#252;ber den Gr&#252;nkohl geben und mit den H&#228;nden sehr gut durchkneten damit er weich wird. Den Salat f&#252;r etwa 2 - 3 Stunden durchziehen lassen.
+In der Zwischenzeit die Walnussh&#228;lften ein bisschen klein brechen und ohne Fett in der Pfanne leicht anr&#246;sten. Den Schafsk&#228;se in kleinere W&#252;rfel schneiden und beiseitestellen. Die anderen beiden Clementinen sch&#228;len, die Filets abtrennen und auch in kleinere St&#252;cke schneiden.
+Nachdem der Salat gut durchgezogen ist mit Salz und Pfeffer abschmecken, die Clementinenst&#252;cke untermischen, mit den Waln&#252;ssen und dem Schafsk&#228;se garnieren und mit frischem Bauernbrot servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

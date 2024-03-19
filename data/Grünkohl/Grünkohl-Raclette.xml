@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2833afe2-a2c0-4c34-8a4a-ea49d8011c42">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Raclette</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Drillinge</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#252;mmel">K&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>120 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohlbl&#228;tter, junge</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rstchen (Mettende; 120 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfel">Apfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">Raclettek&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Drillinge mit K&#252;mmel in kochendem Salzwasser 20 Min. garen. Gegarte Kartoffeln abgie&#223;en und ausdampfen lassen. Kartoffeln halbieren oder vierteln und abgedeckt warm halten.
+Gr&#252;nkohl putzen und grob schneiden. Kasseler in kleine W&#252;rfel und Mettende in d&#252;nne Scheiben schneiden. Butterschmalz in einer Pfanne erhitzen, Kasseler und Mettenden darin 2 Min. braten. Fleisch herausnehmen und beiseitestellen. Gr&#252;nkohl in die Pfanne geben und im Bratfett anbraten, mit Br&#252;he abl&#246;schen und 3 - 4 Min. bei mittlerer Hitze d&#252;nsten.
+Apfel putzen, entkernen, fein w&#252;rfeln und zum Gr&#252;nkohl geben. Mit Kartoffeln, Kasseler und Mettenden portionsweise auf die Raclette-Pf&#228;nnchen verteilen. Mit K&#228;se belegen und &#252;berbacken.
+Pro Portion 33 g E, 35 g F, 27 g KH = 576 kcal (2409 kJ)</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

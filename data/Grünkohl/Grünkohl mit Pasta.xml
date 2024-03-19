@@ -1,0 +1,83 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ed915a8e-1f65-4570-b048-f3d48a34d24d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Pasta</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, geputzt, ersatzweise TK oder Glas</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Penne oder andere kurze Nudeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), rot, scharf (z. B. Habanero)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="bratwurst">Bratw&#252;rste (Bauernbratw&#252;rste, ersatzweise Mettenden, oder eine andere grobe R&#228;ucherwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sultaninen">Sultaninen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Pecorino, gerieben, ersatzweise Parmesan</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>75 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="salzmandeln">Rauchmandeln, gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl putzen, dazu die Bl&#228;tter von den St&#228;ngeln streifen. In reichlich kaltem Wasser sehr gut waschen, trocken sch&#252;tteln.
+In einem gro&#223;en Topf Salzwasser erhitzen. Wenn es sprudelnd kocht, den Gr&#252;nkohl 10 Min. darin blanchieren, abgie&#223;en und in Eiswasser abschrecken. In einem Sieb abtropfen lassen, dann mit den H&#228;nden gut ausdr&#252;cken.
+Penne nach Packungsanweisung in reichlich Salzwasser al dente kochen, abgie&#223;en und abtropfen lassen.
+Die Chilischote in d&#252;nne Ringe schneiden. Knoblauch pellen und in d&#252;nne Scheiben schneiden. Die W&#252;rste ebenfalls in Scheiben schneiden.
+Eine beschichtete Pfanne mit der Butter erhitzen, darin die Wurst von allen Seiten etwas anbraten, dann die Chiliringe und Knoblauchscheiben dazugeben und and&#252;nsten. In der Zwischenzeit die Zwiebel fein w&#252;rfeln und dann mitd&#252;nsten. Den Gr&#252;nkohl grob zerzupfen und zusammen mit den Sultaninen in die Pfanne geben. Mit Gefl&#252;gelbr&#252;he abl&#246;schen, aufkochen lassen und mit Salz, Pfeffer und frisch geriebener Muskatnuss w&#252;rzen. 5 Minuten bei mittlerer Hitze d&#252;nsten. Dann 1 EL Butter sowie den geriebenen K&#228;se untermischen.
+Die Mandeln grob hacken.
+Die Nudeln unter den Gr&#252;nkohl heben und wieder warm werden lassen.
+Alles auf einer tiefen Platte oder Tellern anrichten. Mit den gehackten Mandeln und gehobeltem Pecorino bestreut servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

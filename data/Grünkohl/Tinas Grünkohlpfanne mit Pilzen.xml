@@ -1,0 +1,73 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c5f5013c-14f2-401e-94c0-506ef2c9ede5">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Tinas Gr&#252;nkohlpfanne mit Pilzen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frische Bl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 cm</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), mittelscharf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pilze">Pilze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Stange/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="staudensellerie">Staudensellerie oder Fenchel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Paprikaschote(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l oder Kokosfett</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gew&#252;rz">Gew&#252;rzmischung (Dukkah)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohlbl&#228;tter waschen und in 1 - 2 cm schmale Streifen schneiden. Wer das Gericht etwas feiner mag, entfernt die Stile, n&#246;tig ist das aber nicht.
+Pilze in Scheiben schneiden. Hat man nicht viele, k&#246;nnen auch Reste gegarter Kichererbsen o.&#228;. f&#252;r Proteine sorgen.
+Alle anderen Zutaten fein schneiden, ggf hacken.
+Das Fett auf recht hoher Stufe erhitzen. Zwiebeln und Ingwer ins Fett geben. Nach 3 Minuten die Pilze und die Chili zugeben und gut erhitzen. Die Paprika und den Sellerie oder Fenchel hinzugeben. Nun kann man auch andere Reste unterbringen. Mit Dukkah w&#252;rzen. Abdecken und 15 min nicht zu hei&#223; schmoren.
+Einen hohen Topf mit einem D&#252;nsteinsatz versehen, 1 - 2 cm Wasser f&#252;llen, reingeben, sodass er grade nicht &#252;berflutet, und zum Kochen bringen. Gr&#252;nkohlstreifen hineingeben und 10 min d&#228;mpfen. Selbst durchgegart haben sie noch etwas Biss.
+Die Pfanne zum Schluss mit Salz und Pfeffer abschmecken. Den Gr&#252;nkohl rasch untermengen oder getrennt reichen.
+Dazu passen Bulgur, Reis oder kr&#228;ftiges Roggenbrot.
+Erh&#246;ht man die Menge Gr&#252;nkohl, s&#228;ttigt dieses Essen durchaus auch ohne Kohlenhydratbeilage. Die grobe Konsistenz des Kohls gibt dem Gericht F&#252;lle und dem Magen lange etwas zu tun.
+Dukkah ist eine &#228;gyptische Mischung aus Gew&#252;rzen und N&#252;ssen oder Sesam, die man fertig kauft oder selbst r&#246;stet und mischt. Mit den Zutaten kann man herrlich variieren; lecker wird es immer.
+Ich w&#228;hle Chili oder Paprika nur so scharf, dass ich sie mit den Kernen verarbeiten kann. Hier sollte eine von beiden rot, die andere gelb oder orange sein, da der Kohl ja schon gr&#252;n ist.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

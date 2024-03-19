@@ -1,0 +1,103 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8467a5e3-86f4-4a8c-acd1-055fd008bef4">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Quiche mit Champignons und Paprika</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>180 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter, zimmerwarme</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser, kalt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="champignon">Champignons, braune</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="spitzpaprika">Spitzpaprika</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n) (je nach gew&#252;nschter Sch&#228;rfe)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schafsk&#228;se">Feta-K&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan, geriebener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sonnenblumenkerne">Sonnenblumenkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Pesto (Gr&#252;nkohlpesto), sofern vorhanden</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Aus den ersten 4 Zutaten einen Teig kneten und mind. 30 Minuten kaltstellen.
+Gr&#252;nkohl in ein Sieb zum Auftauen geben.
+Zwiebel sch&#228;len und in feine Ringe schneiden. Diese dann halbieren. Chilischote waschen und in feine Ringe schneiden (wer es mild mag - unbedingt Kerne entfernen). Beides in etwas Oliven&#246;l in einem Topf anschwitzen.
+Champignons putzen, Spitzpaprika waschen, Geh&#228;use und Kerne entfernen und beides in W&#252;rfel (1 x 1 cm) schneiden. Zu der Zwiebel geben und leicht anbraten. Gr&#252;nkohl zugeben und alles weiterk&#246;cheln, bis Fl&#252;ssigkeit verdampft ist.
+Teig in eine Quicheform rollen und den Rand hochziehen. Das ist etwas Arbeit, da der Teig ziemlich fest ist und erst nach und nach flexibel wird. Mit einer Gabel mehrmals einstechen.
+Im vorgeheizten Backofen bei 180 &#176;C Umluft 15 Minuten backen.
+Feta-K&#228;se klein kr&#252;meln oder schneiden und mit dem geriebenen Parmesan, dem Ei, der sauren Sahne, den Sonnenblumenkernen und dem Pesto zu einer cremigen Masse verr&#252;hren. Zu dem Gem&#252;se geben und unterr&#252;hren. Herdplatte ausmachen. Mit Pfeffer und Salz abschmecken, wobei man mit dem Salz sehr sparsam umgehen sollte. F&#252;llung auf den inzwischen gebackenen Quicheteig geben und glattstreichen.
+Jetzt nochmal f&#252;r 40 Minuten weiterbacken und dann noch warm servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

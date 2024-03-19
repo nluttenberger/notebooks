@@ -1,0 +1,70 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1b8b9f45-96c7-4ba6-b537-2a80d03b6730">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohleintopf mit Cabanossi</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, geputzt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; m.-gro&#223;er</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;kohl">Wei&#223;kohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">G&#228;nseschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he, gek&#246;rnte klare</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Paprikaschote(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mettwurst">Cabanossi, (Mini-Cabanossi)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl waschen und grob hacken. Den Wei&#223;kohl putzen, vierteln, den harten Strunk entfernen und den Kohl klein schneiden. Kartoffeln und Zwiebeln sch&#228;len und w&#252;rfeln.
+Das G&#228;nseschmalz in einem gro&#223;en Topf erhitzen. Die Zwiebeln darin anschwitzen. Kartoffeln und Kohl dazu geben, alles anbraten. Mit 1 &#189; l Wasser abl&#246;schen und die gek&#246;rnte Br&#252;he und das Lorbeerblatt dazugeben. Aufkochen lassen und 25-30 Minuten bei mittlerer Hitze k&#246;cheln lassen.
+Die Paprikaschote in Streifen schneiden und die W&#252;rste in St&#252;cke schneiden. Beides circa 10 Minuten vor Garzeitende zum Eintopf geben. Den Eintopf mit Salz, Pfeffer und Senf abschmecken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

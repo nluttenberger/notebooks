@@ -1,0 +1,45 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-479fc4aa-5216-491d-b4c2-31b28af3b444">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gebackener Lachs mit Kartoffeln und knusprigem Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), junge</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>15 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="salbei">Salbei - Bl&#228;tter, frische</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lachs">Lachsfilet(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Ofen auf 200&#176;C vorheizen. Die Kartoffeln in 1 cm dicke St&#228;bchen schneiden. Die Kartoffeln und die H&#228;lfte der Salbeibl&#228;tter mit 1 EL Oliven&#246;l berieseln und auf einem Backblech verteilen. 20 min. backen, bis die Kartoffeln eine goldene Farbe annehmen, ab und zu wenden.
+Derweil das restliche Oliven&#246;l und den &#252;brigen Salbei mit dem Gr&#252;nkohl vermischen. Den Gr&#252;nkohl &#252;ber den Kartoffeln verteilen und die Lachsfilets (&#224; 150 g) darauf legen. 8 - 10 min. backen, bis der Lachs gar ist.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

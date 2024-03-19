@@ -1,0 +1,102 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-916c6d27-7568-4fd4-8212-87759f2dbf40">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Kl&#246;&#223;e mit Pilzsauce</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), gesch&#228;lt und gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hartweizengrie&#223;">Hartweizengrie&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter, nach Bedarf auch mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">Kartoffelmehl, ca. 1 EL</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="champignon">Champignons, braun</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l, zum Anbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl, zum Best&#228;uben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 Tropfen</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">s&#252;&#223;e Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Kartoffeln werden gesch&#228;lt und in einer Sch&#252;ssel gerieben. Dann gebe ich den Grie&#223; dazu, die Eier werden aufgeschlagen und untergemischt. Wer will kann den Grie&#223; auch vorher mit Wasser kochen.
+Zuvor habe ich den Gr&#252;nkohl gewaschen, ca. 3 Minuten in Salzwasser blanchiert und klein geschnitten, sowie gehackt. Der Gr&#252;nkohl wird dann noch einmal, mit einer in W&#252;rfel angebratenen Zwiebel, welche in Butter ged&#252;nstet wurde, mehrmalig geschwenkt.
+Unter die Masse gebe ich dann den Gr&#252;nkohl und w&#252;rze ihn mit Salz, Pfeffer und Muskat. Zum Abbinden wird zum Schluss noch Kartoffelmehl gegeben, damit  der Klo&#223; nicht auseinander f&#228;llt. Mit einer Klo&#223;kelle gebe ich dann die Kl&#246;&#223;e nach und nach in kochendes Salzwasser, lasse sie kurz aufkochen und dann 15 Minuten simmern, bis sie im Wasser aufsteigen. Dabei lasse ich den Deckel darauf.
+In der Zeit mache ich meine Pilzsauce fertig. Wer mehr Pilze hat, kann auch mehr verarbeiten.
+Die Pilze s&#228;ubern und in Scheiben schneiden. &#214;l in der Pfanne hei&#223; werden lassen und die Pilze zugeben. Jetzt erst mit Salz und Pfeffer w&#252;rzen. Kurz danach die in W&#252;rfel geschnittene Zwiebel dazugeben. Alles kr&#228;ftig anbraten und die Butter dazugeben, damit ein guter Buttergeschmack rauskommt. Wenn die Pilze eingebruzzelt sind und an Wasser verloren haben, gebe ich ein wenig Mehl &#252;ber die Pilze und danach kommt dann die Sahne hinzu.
+Wenn die Kl&#246;&#223;e und auch die Pilzsauce fertig sind, kann man alles gut anrichten und ein vegetarisches Gericht ist fertig. Man kann die Kl&#246;&#223;e aber auch mit Gulasch oder anderen Sachen servieren.
+Ich habe den Rest, der Kl&#246;&#223;e, in Scheiben geschnitten und noch einmal aufgebraten und dazu Schweinegulasch gereicht.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

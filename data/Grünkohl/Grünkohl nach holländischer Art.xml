@@ -1,0 +1,55 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-38b41a19-0e7b-4ae1-9828-af2b696c3f46">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl nach holl&#228;ndischer Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gefroren, ca. 450 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), mehlig kochend</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz (Grieben-)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Rinderknack-)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl in einen gro&#223;en Topf mit ganz wenig Wasser kochen, bis er ganz aufgetaut ist. Dann das Griebenschmalz dazugeben und ca 15 min leicht k&#246;cheln lassen.
+Die Kartoffel sch&#228;len und in kleinere St&#252;ckchen schneiden. Diese auf den Gr&#252;nkohl geben und bei niedriger Temperatur gar kochen. Evtl. Kochwasser absch&#252;tten. Mit dem Kartoffelstamper die Kartoffeln zerdr&#252;cken und mit Salz und einem guten Schuss Essig, evtl. auch noch Griebenschmalz abschmecken.
+Die Wurst in Wasser erw&#228;rmen und zum Servieren auf den "Stampot" legen.
+Essig zum Nachw&#252;rzen bereit stellen.
+In Holland isst man dazu "gerookte Worst", aber die gibt es in Deutschland leider nicht.
+Tipp:
+Wer es ein wenig zu trocken findet, kann noch einen L&#246;ffel Bratenjus/saft dar&#252;ber geben.
+Verwendet man frischen Gr&#252;nkohl, verl&#228;ngert sich die Garzeit. Die Kartoffeln werden dann 15 Minuten vor Ende der Garzeit auf den Kohl gelegt.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

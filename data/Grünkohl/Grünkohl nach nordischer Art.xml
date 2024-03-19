@@ -1,0 +1,60 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6e2549eb-f71b-498b-80b2-8d5e0ce7b01c">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl nach nordischer Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gr. Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Kohlpinkel)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), als Beilage</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl aus der Dose in ein Sieb geben und den Sud ausdr&#252;cken. So werden Bitterstoffe entfernt, die den Gr&#252;nkohl oft nicht schmecken lassen. Die Zwiebeln grob hacken, dazugeben, wie auch den Senf, Fleischbr&#252;he, Wasser und W&#252;rfelspeck.
+Im Topf ca 1 Stunde garen und &#252;ber Nacht stehen lassen.
+Am n&#228;chsten Tag die Kohlpinkel in den Topf geben und zeitgleich mit den Beilagenkartoffeln aufsetzen und 20 min leicht k&#246;cheln lassen.
+Sollte der Gr&#252;nkohl noch zu viel Wasser enthalten, kann man noch 2 EL Haferflocken untermischen und 5 Min. ziehen lassen. Diese saugen die Fl&#252;ssigkeit auf.
+Dieses Rezept ist entstanden, weil wir im Norden nur Gr&#252;nkohl mit gleich 4 Fleisch- und Wurstsorten kennen, uns das aber immer zu m&#228;chtig vorkam. Statt fetten Bauchspeck, fette Mettenden, R&#228;ucherkasseler und Kohlpinkel zu verwenden, haben wir uns mal geeinigt, wer was mag. F&#252;r uns reichen etwas R&#228;uchergeschmack = W&#252;rfelspeck, und Kohlpinkel, die den gewissen Fett-Anteil liefern, somit kein Bauchspeck und keine Mettenden mehr.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,85 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-32750107-9038-4e7b-b2f1-4917acfa837c">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl &#224; la Mama</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, roh, frisch, ohne Stiele</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Wasser, oder Rindfleischbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">G&#228;nseschmalz, (vorzugsweise) oder Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>11</ns0:igdtQuantity>
+        <ns0:igdtName ref="nelke">Nelke(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 K&#246;rner</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Piment</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 K&#246;rner</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="rauchsalz">Rauchsalz, Hickory-</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl von den Str&#252;nken befreien.
+In einem gro&#223;en Topf reichlich Salzwasser zum Kochen bringen, den Gr&#252;nkohl darin ca. 3 - 5 Minuten blanchieren, abgie&#223;en und in einem Sieb auffangen. Den Gr&#252;nkohl, wenn er etwas abgek&#252;hlt ist, fein schneiden. Kartoffeln sch&#228;len und einen Topf mit Salzwasser daf&#252;r aufsetzen.
+Die Zwiebeln sch&#228;len und zwei davon klein hacken. Das G&#228;nseschmalz auslassen und Zwiebeln darin anschwitzen.
+Die &#252;brige Zwiebel mit 6 Nelken und 2 Lorbeerbl&#228;ttern spicken. Die Piment- und Pfefferk&#246;rner im M&#246;rser fein zersto&#223;en, die restlichen 5 Nelkenk&#246;pfe fein zerbr&#246;seln, die Stiele wegwerfen.
+Den klein geschnittenen Gr&#252;nkohl zu den Zwiebeln geben und verr&#252;hren. Die Gew&#252;rze, inkl. etwas Salz, hinzuf&#252;gen und mit der Br&#252;he aufgie&#223;en. Die gespickte Zwiebel hineinlegen, mit etwas Gr&#252;nkohl bedecken und ca. 20 Minuten bei kleiner Hitze abgedeckt k&#246;cheln lassen.
+W&#228;hrenddessen die Kartoffeln im Salzwasser gar kochen, dann abgie&#223;en und etwas stampfen. Die gespickte Zwiebel aus dem Gr&#252;nkohl fischen, von Nelken und Lorbeerbl&#228;ttern befreien und grob hacken. Dann mit den gestampften Kartoffeln, Senf und den Haferflocken zum Gr&#252;nkohl geben, verr&#252;hren und noch einmal 5 - 10 Minuten k&#246;cheln lassen. Mit Hickory Rauchsalz und nach Bedarf mit Pfeffer und Piment abschmecken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

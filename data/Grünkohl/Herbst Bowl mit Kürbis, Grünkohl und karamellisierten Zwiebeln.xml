@@ -1,0 +1,81 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e62e4e88-b386-4da1-9a03-d4c5968ef3b8">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Herbst Bowl mit K&#252;rbis, Gr&#252;nkohl und karamellisierten Zwiebeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="bulgur">Bulgur</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salzwasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="salat">Salatkernmischung</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pflanzen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Pflanzenmargarine mit Buttergeschmack</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="rohrzucker">Rohrohrzucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cayennepfeffer">Cayennepfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Pflanzen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilipulver</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Ofen auf 200 &#176;C vorheizen. Den K&#252;rbis waschen und mit Schale w&#252;rfeln. In eine Sch&#252;ssel geben und mit 2 EL Pflanzen&#246;l, Chilipulver und etwas Salz und Pfeffer vermengen. Das Backblech mit Backpapier auslegen und die K&#252;rbisw&#252;rfel darauf verteilen. Im Ofen 30 - 35 Minuten backen, bis der K&#252;rbis an den R&#228;ndern braun wird.
+Die Zwiebeln sch&#228;len, halbieren und in Scheiben schneiden. Pflanzen&#246;l in einer mittelgro&#223;en Pfanne erhitzen und die Zwiebeln bei mittlerer Hitze glasig anschwitzen. Wenn Sie weich sind, die Hitze erh&#246;hen und die Zwiebel weiter braten, bis sie braun werden. Den Rohrohrzucker unterr&#252;hren und karamellisieren lassen. Die Zwiebeln dann beiseitestellen.
+250 ml Salzwasser zum Kochen bringen und den Bulgur darin 10 Minuten bei schwacher Hitze k&#246;cheln lassen. Die Pflanzenbutter unterr&#252;hren und den Bulgur beiseitestellen.
+&#214;l in einer mittelgro&#223;en Pfanne erhitzen. Den Gr&#252;nkohl und eine Prise Salz hinzugeben und bei mittlerer Hitze braten, bis der Kohl eingefallen und gar, aber noch bissfest ist. Die Salatkernmischung in einer kleinen Pfanne ohne &#214;l anr&#246;sten. Beides beiseitestellen.
+Bulgur, K&#252;rbis, Gr&#252;nkohl und Zwiebeln rundherum in der Schale verteilen. Am Schluss die Salatkernmischung &#252;ber den Gr&#252;nkohl geben.
+Tipp: Je nach Geschmack kann man auch andere K&#252;rbissorten verwenden. Auch der Bulgur kann problemlos gegen Reis, Couscous oder andere Getreidesorten ausgetauscht werden.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

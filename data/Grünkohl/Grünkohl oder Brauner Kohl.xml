@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c7110bb2-8afe-4ba9-8630-94c0d0de5257">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl oder Brauner Kohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1.200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Piment, gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, ger&#228;uchert, durchwachsen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleisch">W&#252;rste (Fleischpinkel), Gr&#252;tzwurst zum Kochen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Kochwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Wurst (Knipp), Gr&#252;tzwurst zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zwiebeln klein hacken und im Schweineschmalz in einem gro&#223;en Topf glasig d&#252;nsten. Gefrorenen Kohl hinzugeben und mit ca 1/2 l Wasser auff&#252;llen, mit Salz und Piment w&#252;rzen. Auf kleiner Flamme 30 min. garen, zwischendurch umr&#252;hren. Danach den Knipp hinzugeben und unterr&#252;hren, Speck und Kassler hinzugeben und weitere 30 min. auf kleiner Flamme d&#252;nsten. Danach die Kochw&#252;rste und die Pinkel hinzugeben und wieder 30 min. d&#252;nsten.
+Das Fleisch und die W&#252;rste aus dem Kohl nehmen und auf einer Fleischplatte bis zum Verzehr warm stellen. Kohl abschmecken und eventuell nachw&#252;rzen.
+Dazu passen gut Salz- oder Bratkartoffeln.
+Am besten schmeckt der Gr&#252;nkohl, wenn man ihn &#252;ber Nacht stehen l&#228;sst und am n&#228;chsten Tag wieder aufw&#228;rmt.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,77 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-dad4a3b0-47a2-4e38-a50d-76aaf7ade770">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Kokosmilch und Ofenkartoffeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokosmilch">Kokosmilch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfel">Apfel, s&#228;uerlicher roter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Currypulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r die Kartoffeln den Ofen auf 200 Grad vorheizen (180 Grad Umluft). Die Kartoffeln unter flie&#223;endem Wasser abb&#252;rsten und anschlie&#223;end abtrocknen. Die Kartoffeln ungesch&#228;lt aufs Backblech legen und 50 Minuten backen (kleinere Kartoffeln sind schneller fertig).
+Den Gr&#252;nkohl von den &#228;u&#223;eren welken Bl&#228;ttern befreien und die Bl&#228;tter von den dicken Mittelrippen trennen. Unter flie&#223;endem Wasser waschen, kurz in Salzwasser blanchieren, kalt abschrecken, abtropfen lassen und grob hacken.
+Die Zwiebel grob hacken und mit &#214;l im Topf glasig anbraten. Currypulver hinzuf&#252;gen und kurz anbraten. Den Kohl dazugeben, mit Salz &#252;berstreuen, die Br&#252;he angie&#223;en und den Kohl zugedeckt bei milder Hitze ca.30 Min. schmoren.
+Die Kokosmilch hinzugeben und mit Salz, Pfeffer und Zucker abschmecken. 10 weitere Minuten k&#246;cheln lassen. Falls der Gr&#252;nkohl noch fl&#252;ssig ist, mit einigen Essl&#246;ffeln Haferflocken abbinden und die Haferflocken einkochen lassen.
+Die gegarten Kartoffeln aus dem Ofen nehmen. Kurz vor dem Servieren den Apfel ungesch&#228;lt w&#252;rfeln (falls es doch noch etwas dauert, mit Zitronensaft die Br&#228;unung stoppen).
+Zum Servieren die Kartoffeln in tiefen Tellern halbieren und andr&#252;cken, eine kr&#228;ftige Portion &#214;l, Salz und Pfeffer mit einer Gabel einmassieren. Den Gr&#252;nkohl auf den Kartoffelh&#228;lften verteilen und die Apfelw&#252;rfel darauf streuen. Senf dazu reichen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

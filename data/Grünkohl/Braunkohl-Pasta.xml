@@ -1,0 +1,79 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ef0cbffb-59cc-47e1-bef9-db0b02e8afbb">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Braunkohl-Pasta</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (Braunkohl), geputzt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Nudeln, kurze (z. B. Penne)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfefferschote(n), rot</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch, frische</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sultaninen">Sultaninen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskat, frisch gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pecorino">K&#228;se, Pecorino (ital. Hartk&#228;se) gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pecorino">K&#228;se, gehobelten Pecorino, zum Garnieren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>75 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="salzmandeln">Mandel(n), (Rauchmandeln)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Braunkohl in reichlich kochendem Salzwasser 10 Minuten blanchieren, abgie&#223;en, eiskalt abschrecken und gut abtropfen lassen. Nudeln in reichlich kochendem Salzwasser bissfest garen, abgie&#223;en und abtropfen lassen.
+Pfefferschote in d&#252;nne Ringe schneiden. Knoblauch abziehen und in d&#252;nne Scheiben schneiden. Beides in einer hei&#223;en Pfanne mit 2 El Butter kurz and&#252;nsten. Zwiebel abziehen, fein w&#252;rfeln und mitd&#252;nsten. Braunkohl grob zerzupfen und zusammen mit den Sultaninen zugeben. Mit Gefl&#252;gelbr&#252;he abl&#246;schen, aufkochen und mit etwas Salz, Pfeffer und etwas frisch geriebener Muskatnuss w&#252;rzen. 5 Minuten bei mittlerer Hitze schmoren. 1 El Butter und geriebenen Pecorino untermischen.
+Rauchmandeln grob hacken.
+Nudeln unter den Braunkohl mischen und auf einer tiefen Platte anrichten. Mit den Mandeln bestreuen und mit gehobeltem Pecorino bestreut servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

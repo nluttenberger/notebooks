@@ -1,0 +1,93 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-db5c360b-bd54-4852-87ad-baf2ac4a7c96">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Bulgur-Salat mit Schweinenackensteak</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangensaft">Orangensaft (frisch gepresster)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curcuma">Kurkuma</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="bulgur">Bulgur, feiner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="minze">Minze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie, glatte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="salzzitrone">Salzzitrone(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="joghurt">Joghurt (3,5 % Fett)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>180 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (gezupft und geputzt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="granatapfel">Granatapfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinenackensteak(s) vom Duroc-Schwein (&#224; ca. 210 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Fleur de Sel</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r die Zubereitung ben&#246;tigte K&#252;chenutensilien: Wok mit D&#228;mpfeinsatz
+1. F&#252;r den Bulgur Orangensaft mit Kurkuma, 1 EL &#214;l, Essig, Salz und Pfeffer aufkochen. Bulgur einrieseln lassen, verr&#252;hren und zugedeckt 15 Minuten quellen lassen. Bulgur mithilfe von 2 Gabeln auflockern. Minze und Petersilie waschen und trocken schleudern, die Bl&#228;tter abzupfen, fein schneiden und mit dem Bulgur mischen. Salzzitrone in Spalten schneiden.
+2. F&#252;r den Dip Joghurt mit Zitronensaft und 1 EL &#214;l verr&#252;hren, mit Salz und Pfeffer w&#252;rzen.
+3. Gr&#252;nkohl waschen, trocken schleudern und grob schneiden. Granatapfel entkernen, am besten mit einem Holzl&#246;ffel auf die Schale schlagen, um die Kerne zu l&#246;sen.
+4. Restliches &#214;l in einer ofenfesten Pfanne erhitzen. Schweinenackensteaks mit Salz w&#252;rzen. Bei starker Hitze in der Pfanne ca. 30 Sekunden pro Seite anbraten und im vorgeheizten Backofen bei 180 Grad (Gas 2 - 3, Umluft nicht empfehlenswert) auf der 2. Schiene von unten 12 - 14 Minuten garen, dabei einmal wenden. Inzwischen breiten Wok mit D&#228;mpfeinsatz mit 1 Liter Wasser stark erhitzen, Gr&#252;nkohl im D&#228;mpfeinsatz verteilen, mit Fleur de sel w&#252;rzen und zugedeckt 12 Minuten garen.
+5. Schweinenackensteaks aus dem Ofen und der Pfanne nehmen, kurz ruhen lassen. Gr&#252;nkohl und Bulgur mischen, eventuell leicht nachw&#252;rzen. Fleisch quer in Scheiben schneiden, mit Bulgursalat, Salzzitronen und Granatapfelkernen auf einer vorgew&#228;rmten Platte anrichten und servieren. Joghurt-Dip separat dazu servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

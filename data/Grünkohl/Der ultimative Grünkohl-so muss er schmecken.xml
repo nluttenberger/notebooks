@@ -1,0 +1,70 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8e3505e3-f595-4002-8ee0-0a8c540de406">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Der ultimative Gr&#252;nkohl-so muss er schmecken</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Stange/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauch">Lauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinebauch, frisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinebauch, ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler Nackenbraten ohne Knochen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Bregenw&#252;rste oder Kohlw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Dieses Rezept stammt von meiner Schwester und unterscheidet sich in allen Belangen von den &#252;brigen Gr&#252;nkohlrezepten hier im Forum. Kohl muss gl&#228;nzen, sonst schmeckt er nach nix. Statt Zwiebeln kommt Porree dazu. Das macht ihn besonders deftig.
+Den gefrorenen Gr&#252;nkohl (man kann auch frischen nehmen, was nat&#252;rlich die Zubereitungszeit um einiges verl&#228;ngert und nichts am Geschmack &#228;ndert) in einen gro&#223;en Topf geben und auftauen lassen. Porree putzen und in St&#252;cke schneiden. Den Gr&#252;nkohl etwas zur Seite schieben, das Schmalz auf den Boden des Topfes legen, den Gr&#252;nkohl wieder darauf schichten und vorsichtig zum Kochen bringen. Wenn vom Schmalz nichts mehr zu sehen ist, Porree, die beiden Scheiben Schweinebauch und zwei in St&#252;cke geschnittene Bregenw&#252;rste dazugeben, schwach salzen, pfeffern, einmal kr&#228;ftig aufkochen lassen, den Kasseler Nackenbraten oben darauf legen, zudecken und 4 - 5 Stunden bei kleiner Temperatur vor sich hin k&#246;cheln lassen. In der letzten halben Stunden die 4 restlichen Bregenw&#252;rste im ganzen mitkochen.
+Das Fleisch aus dem Topf nehmen. Vom Schweinebauch die Schwarte und evtl. Knochen-und Knorpelteile entfernen. Er ist nun sehr weich, wird zerpfl&#252;ckt und kommt wieder zur&#252;ck zum Gr&#252;nkohl. Den Nackenbraten abk&#252;hlen lassen, dann l&#228;sst er sich besser schneiden. Das geht am besten mit dem Elektromesser.
+Der Gr&#252;nkohl wird nun kr&#228;ftig mit Senf und Zucker (jeweils ca. 1 EL), Salz und Pfeffer abgeschmeckt.
+Ich bereite den Gr&#252;nkohl  i m m e r  einen Tag vorher zu, weil er aufgew&#228;rmt einfach besser schmeckt. Beim Aufw&#228;rmen die Temperatur nicht zu hoch stellen und immer wieder umr&#252;hren, damit er nicht ansetzt. Die Kasseler Scheiben oben darauf legen und ebenfalls erhitzen.
+Dazu gibt es Salzkartoffeln.
+Durch den Porree bekommt der Gr&#252;nkohl eine ganz besondere Note. Das war bisher mein K&#252;chengeheimnis.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,72 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e20d77da-f693-4c01-8e1d-0587d94f2cf8">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Italienische Gr&#252;nkohlsuppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">Bacon</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenw&#252;rfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n), gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, klein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="parmesan">Parmesan, geriebener zur Dekoration</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Bacon in einem Topf von beiden Seiten mit &#214;l anbraten, bis die St&#252;cke sch&#246;n kross sind. Dann herausnehmen und beiseite legen.
+Jetzt die gehackten Zwiebeln und den Schinken in das hei&#223;e Fett geben. Leicht and&#252;nsten, dann den Knoblauch hinzugeben, alles kurz weiterd&#252;nsten und dann mit der Br&#252;he abl&#246;schen. Ich nehme hier auch gerne etwas Wei&#223;wein und lasse diesen dann ein bisschen einreduzieren.
+Wenn die Br&#252;he kocht, die Chilis und die in Kartoffeln in den Topf geben und alles ca. 15 min. k&#246;cheln lassen. Nun den Gr&#252;nkohl hinzugeben und weitere 5 min k&#246;cheln lassen. Am Ende der Garzeit mit Salz und Pfeffer abschmecken.
+Alles in Sch&#252;sseln oder Suppentassen geben und mit dem krossen Bacon garnieren, dar&#252;ber etwas von dem Parmesan streuen.
+Tipp: Man kann auch Pancetta statt des Bacon nehmen, das ist etwas authentischer.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

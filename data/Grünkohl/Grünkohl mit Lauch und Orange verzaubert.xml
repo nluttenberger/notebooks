@@ -1,0 +1,57 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-196d8bb8-17fb-454f-b9a5-d5865aab465a">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Lauch und Orange verzaubert</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, ca. (die Bl&#228;tter 1 kleinen Staude)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauch">Lauchstange(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="orange">Orange(n), Bio</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="zimt">Zimtpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Currypulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kl. Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokosmilch">Kokosmilch (200 ml)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl vorbereiten und fein hacken, Lauch putzen und in 4 mm dicke Ringe schneiden. Beides beiseite stellen.
+Nun eine mittelgro&#223;e Pfanne auf den Herd stellen und bei kleiner Temperatur einschalten. Den Kohl und Lauch in die Pfanne geben. Gew&#252;rze dar&#252;berstreuen und die Kokosmilch dar&#252;ber gie&#223;en. Alles gut vermengen und mit Deckel verschlie&#223;en.
+In der Zwischenzeit, die Orange waschen, abtrocknen und die Schale abreiben.
+Mittlerweile hat das Gem&#252;se angefangen zu k&#246;cheln. Die Schale zu dem Gem&#252;se geben und umr&#252;hren. Wieder mit Deckel verschlie&#223;en.
+Nun die Orange sch&#228;len und Fruchtfleisch klein schneiden. Dieses ebenfalls unter das Gem&#252;se mengen. Deckel wieder zu machen und weitere 10 Min leicht k&#246;cheln lassen. Abschmecken, wenn n&#246;tig und servieren.
+Dazu kann CousCous, Bulgur oder Hirse gereicht werden. Bei uns gab es Gefl&#252;gelfrikadellen. Auch vegane W&#252;rstchen k&#246;nnte ich mir gut vorstellen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

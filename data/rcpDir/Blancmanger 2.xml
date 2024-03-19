@@ -1,0 +1,72 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-022">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Blancmanger 2</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Blancmanger</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="mandel">gesto&#223;ene Mandeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>7 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">St&#228;rke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList>
+      <ns0:igdtListName>Sauce</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="vanille">Vanille</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eidotter</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Ein Ma&#223; Milch wird mit Zitronenschale, ganzem Zimmet, 4 Loth Zucker, 4 Loth gesto&#223;enen Mandeln, worunter einige bittere sein k&#246;nnen, zugedeckt langsam gekocht, damit das Gew&#252;rz auszieht, dann solches herausnehmen; 7 Loth St&#228;rke mit etwas kalter Milch dazu ger&#252;hrt, durchgekocht, der Topf vom Feuer genommen, der steife Schaum von 12 Eiern gut durchger&#252;hrt, in ein mit Wasser na&#223; gemachtes und mit etwas Zucker bestreutes Geschirr gesch&#252;ttet. Ganz kalt geworden wird es auf eine Sch&#252;ssel gest&#252;rzt und mit folgender Sauce herumgereicht: 1 Ma&#223; Milch wird mit Vanille und Zucker langsam gekocht und mit 10&#8212;12 Eidottern vorsichtig abger&#252;hrt. Oder man gibt Fruchtsaft, oder die kalte Sahnen-Sauce, oder Schaum-Sauce von Himbeerensaft, oder Schaum-Sauce von wei&#223;em Wein dazu. </ns0:instrStepText>
+      <ns0:instrStepText>Anmerk. Man kann zu diesem Blancmanger statt des ganzen Gew&#252;rzes 18 Tropfen Zitronen&#246;l nehmen, oder f&#252;r 1 Sgr. mit Zucker fein gesto&#223;ene Vanille in der Milch zur Sauce kochen, ehe die Eidottern dazu ger&#252;hrt werden. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,62 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cfc71c8a-0908-4bc5-972c-13459dcd795c">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Kr&#228;uersuppe Bicolor</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilienwurzel">Wurzel(n) (Petersilienwurzel)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butter oder Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">saure Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="schnittlauch">Schnittlauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="spinat">Spinat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;, aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Petersilienwurzeln waschen, sch&#228;len, kleinschneiden. In zerlassener Butter and&#252;nsten. Gem&#252;sebr&#252;he zugeben, Wurzeln weich k&#246;cheln. Saure Sahne unterr&#252;hren. Die Suppe mit dem P&#252;rierstab mixen, die H&#228;lfte davon in einen Topf gie&#223;en.
+Gr&#252;nkohl waschen, verlesen und in Salzwasser 10 Minuten blanchieren. Kr&#228;uter hacken (einige Petersilienbl&#228;tter f&#252;r die Deko beiseite legen), Spinat zugeben. In kaltem Wasser abschrecken. Gem&#252;se mit den Kr&#228;utern p&#252;rieren, durch ein Sieb streichen, unter die eine H&#228;lfte der hellen Suppe r&#252;hren.
+Beide Suppen nochmals erw&#228;rmen, mit Salz und wei&#223;em Pfeffer abschmecken. Dann gleichzeitig von beiden Seiten in die Teller geben. Mit einem Holzst&#228;bchen in die Mitte eine Verzierung machen und mit Petersilenbl&#228;ttern bestreuen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,61 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f107d8c4-3182-459f-8876-8db6722558e8">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Prignitzer falscher Knieperkohl &#224; la Mama Krystyna</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweinefleisch">Schweinefleisch (z. B. Eisbein, Rippchen etc.)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweinsrippe">Rippchen, ger&#228;uchert oder anderes Fleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Pimentk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sauerkraut">Sauerkraut</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Knackw&#252;rste oder Lungenwurst</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebel vierteln oder kleiner schneiden.
+Gr&#252;nkohl, Gew&#252;rze und Zwiebel mit dem Fleisch im Ganzen und etwas Wasser aufsetzen und eine Stunde k&#246;cheln lassen.
+Dann erst das Sauerkraut zugeben und weitere 2 Stunden k&#246;cheln lassen. Zwischendurch immer mal schauen, ob genug Fl&#252;ssigkeit im Topf ist, gegebenenfalls nachgie&#223;en. Die Wurst zum Schluss dazugeben und den Eintopf 10 Minuten weiter kochen lassen. Sollte das Fleisch nicht zerfallen sein, es zum Servieren noch zerkleinern.
+Am besten Salzkartoffeln dazu reichen.
+Tipps: Als Sauerkraut nimmt man am besten frisches oder auch aus der Dose.
+Das Gericht ist auch aufgew&#228;rmt sehr lecker.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

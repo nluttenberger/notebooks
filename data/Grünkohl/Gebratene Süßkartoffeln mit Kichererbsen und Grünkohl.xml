@@ -1,0 +1,82 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c1b5a2a0-ba17-4eab-9c6a-2d3d42f59da9">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gebratene S&#252;&#223;kartoffeln mit Kichererbsen und Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="s&#252;&#223;kartoffel">S&#252;&#223;kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>265 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kichererbsen">Kichererbsen, gegarte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmelpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cayennepfeffer">Cayennepfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="koriander">Koriander</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="avocado">Avocado(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="mayonnaise">Mayonnaise, vegan</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Pflanzenmilch (Pflanzendrink)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die S&#252;&#223;kartoffel w&#252;rfeln, die Kichererbsen absp&#252;len und den Gr&#252;nkohl kleinzupfen. Die Gew&#252;rze in einer kleinen Sch&#252;ssel miteinander verr&#252;hren.
+Die Zutaten f&#252;r den Dip im Mixer verr&#252;hren. Nach und nach Pflanzenmilch hinzugeben, bis der Dip die gew&#252;nschte Konsistenz hat. Den Dip zum Schluss mit Salz und Pfeffer abschmecken.
+Die Kartoffelw&#252;rfel in eine gro&#223;e Pfanne mit Deckel geben. Einen Schuss Wasser hinzugeben und die Kartoffeln bei geschlossenem Deckel 5 Minuten d&#252;nsten. Deckel abnehmen und Restwasser verkochen lassen. Pflanzen&#246;l und die Kichererbsen hinzugeben und alles rundherum anbraten. Zum Schluss die Gew&#252;rzmischung und den Gr&#252;nkohl unterr&#252;hren und kurz warten, bis der Gr&#252;nkohl zusammenf&#228;llt. Den Pfanneninhalt auf 2 Schalen verteilen und mit Koriandergr&#252;n und dem Avocadodip garniert servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

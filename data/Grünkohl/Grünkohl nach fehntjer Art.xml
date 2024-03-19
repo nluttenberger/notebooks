@@ -1,0 +1,56 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-99d696a6-9d54-4370-8ab4-e889be71f6bc">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl nach fehntjer Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Beutel</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK (750 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, instant (W&#252;rfel, f&#252;r 1 l Wasser)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinken, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="hafergr&#252;tze">Hafergr&#252;tze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">W&#252;rste, (Kohlw&#252;rste) oder Kassler</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebeln grob w&#252;rfeln und in Butterschmalz in einem gro&#223;en Topf glasig and&#252;nsten. Dazu die Schinkenw&#252;rfel geben und kurz mitd&#252;nsten lassen. Danach den TK-Gr&#252;nkohl und eine gute Handvoll (oder eine Teetasse voll) Hafergr&#252;tze dazugeben, mit 1 l Wasser aufgie&#223;en und die Br&#252;hw&#252;rfel dazugeben. Dies nun 30 Minuten lang auf geringer Stufe zugedeckt k&#246;cheln lassen, dabei immer wieder gut durchr&#252;hren, damit unten nichts anbrennt.
+Nach den 30 Minuten die W&#252;rste oder Kassler hinzugeben und eine weitere halbe Stunde weiter k&#246;cheln lassen. Je nach Gr&#252;nkohl-Sorte muss es noch etwas l&#228;nger k&#246;cheln, aber in den meisten F&#228;llen reicht das aus.
+Dazu werden traditionell Kartoffeln gegessen.
+Tipp:
+Wer es nicht all zu salzig mag, nimmt die halbe Menge Br&#252;he auf einem Liter Wasser. Besonders wenn eine gr&#246;&#223;ere Menge an Fleisch mitgekocht wird, ist dem anzuraten, da es sonst zu salzig werden kann. Nachsalzen kann man schlie&#223;lich immer noch.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

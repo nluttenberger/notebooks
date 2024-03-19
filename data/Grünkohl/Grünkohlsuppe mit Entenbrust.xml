@@ -1,0 +1,101 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0f400483-629a-4b23-ae24-13869af568a0">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsuppe mit Entenbrust</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, geputzt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salzwasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ei">Wasser (Eiswasser)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pflanzen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">Speck (R&#228;ucherspeck), mager</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="knollensellerie">Sellerie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauch">Porree</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne, geschlagen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="sultaninen">Sultaninen, eingelegt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Calvados zum Einlegen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfelessig">Apfelessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="walnuss&#246;l">&#214;l (Walnuss&#246;l)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ente">Entenbrust, ger&#228;uchert (ca. 200 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl in kochendem Salzwasser ca. 3 min. blanchieren. Anschlie&#223;end abgie&#223;en, in Eiswasser abschrecken und gut ausdr&#252;cken. Die Sultaninen im Calvados einweichen.
+Das &#214;l in einem hohen Topf auf ca. 160 - 180&#176;C erhitzen und knapp 160 -180 g des Gr&#252;nkohls darin portionsweise kross frittieren und auf K&#252;chenkrepp abtropfen lassen. Den restlichen Kohl grob hacken.
+Den Speck im Schmalz auslassen, 50 g Schalotten, den Sellerie, den Porree und die Kartoffeln w&#252;rfeln und darin anschwitzen. Die Br&#252;he dazugie&#223;en und 30 min. zugedeckt bei geringer Hitze k&#246;cheln lassen.
+Den frittierten Kohl und die H&#228;lfte des gehackten Kohls mit 50 g Sahne mischen und mit dem P&#252;rierstab fein p&#252;rieren. Mit Salz und Pfeffer abschmecken.
+F&#252;r den Salat die restlichen 30 g Schalotten w&#252;rfeln und mit dem restlichen Gr&#252;nkohl, den eingeweichten Sultaninen, Essig und Walnuss&#246;l mischen, salzen und pfeffern.
+Zum Anrichten den Salat seitlich auf 4 gro&#223;e Teller h&#228;ufen, die Entenbrust in d&#252;nne Scheiben schneiden und darauf legen. Die Suppe in vorgew&#228;rmte Schalen gie&#223;en, die restliche Schlagsahne darauf verteilen und mit auf die Teller stellen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

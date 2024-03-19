@@ -1,0 +1,84 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1ca14be6-4dc5-4005-ae2d-1780b19ad5bd">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Citizen Kale</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>220 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, ohne Knochen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Schweinehackfleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eigelb, (Klasse M)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paniermehl">Semmelbr&#246;sel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>120 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Wurst, (Kohlwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Rinderfond</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, (scharfer)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Roggenbr&#246;tchen, oder Kartoffelbr&#246;tchen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Kassler in grobe W&#252;rfel schneiden und im Blitzhacker mittelfein hacken. Kassler, Schweinehackfleisch und Eigelb verkneten und mit Pfeffer w&#252;rzen. Aus der Masse 2 Patties formen und abgedeckt Beiseite stellen.
+Gr&#252;nkohlbl&#228;tter von den Stielen zupfen, waschen und trockenschleudern. Kohlwurst l&#228;ngs in d&#252;nne Scheiben schneiden. 2 EL &#214;l in einer Pfanne erhitzen und die Wurstscheiben darin knusprig braten. Dabei mit einem Topf beschweren damit die Scheiben sich nicht wellen. Anschlie&#223;end auf K&#252;chenpapier abtropfen lassen.
+Butter in einer Pfanne erhitzen. Zwiebeln in Scheiben schneiden und darin weich d&#252;nsten. Mit 1 Prise Zucker bestreuen und leicht karamellisieren lassen. Semmelbr&#246;sel untermengen und abk&#252;hlen lassen. 2 EL &#214;l in die Pfanne geben und die Patties darin bei mittlerer Hitze 5 - 6 Minuten auf jeder Seite braten.
+Inzwischen restliches &#214;l in einem Topf stark erhitzen. Gr&#252;nkohl zugeben und unter R&#252;hren, scharf anbraten. Mit dem Fond abl&#246;schen und bei mittlerer Hitze 3 - 4 Minuten zugedeckt garen. Anschlie&#223;end offen einkochen lassen und mit Salz und Pfeffer abschmecken.
+Br&#246;tchen waagerecht halbieren und im vorgeheizten Backofen erw&#228;rmen. Br&#246;tchenunterh&#228;lften mit Senf bestreichen und mit Wurt, Gr&#252;nkohl, den Pattys, Zwiebeln und nochmal Wurst belegen. Die Br&#246;tchendeckel mit Senf bestreichen und auf die Burger setzen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

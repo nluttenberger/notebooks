@@ -1,0 +1,68 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fe4d7b46-ff2e-40b0-aec1-e064b7dd0d0a">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Orecchiette mit Gr&#252;nkohl, Speck und getrockneten Tomaten</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Nudeln (Orecchiette)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, ohne Stiele gewogen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomate(n), getrocknete, in &#214;l eingelegt, abgetropft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, rot, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl waschen, von den Stielen befreien und klein schneiden. Den Speck in feine Streifen, die Tomaten in St&#252;cke schneiden und den Knoblauch klein hacken.
+Die Nudeln nach Anleitung bissfest kochen, zwei Minuten vor Ende der Kochzeit den klein geschnittenen Gr&#252;nkohl hinzuf&#252;gen. Abgie&#223;en, dabei ca 200 ml Kochwasser auffangen.
+W&#228;hrend die Pasta kocht, den Speck in einer gro&#223;en Pfanne kross braten. Den Speck aus der Pfanne nehmen, die Tomaten, den Knoblauch und den roten Pfeffer hineingeben. Etwa eine Minute bei mittlerer Hitze d&#252;nsten, dabei oft r&#252;hren.
+Die Pasta-Gr&#252;nkohl-Mischung mit dem Kochwasser, schwarzem Pfeffer und Salz hinzuf&#252;gen und mischen.
+Die Pasta auf Tellern anrichten, den gebratenen Speck und gehobelten Parmesan darauf verteilen und mit Zitronensaft betr&#228;ufeln.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

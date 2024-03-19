@@ -1,0 +1,47 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-04c64486-4bf7-435b-b27e-3553e032f18e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Kasseler Lummerbraten mit Niedrigtemperatur gegart</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2.500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler Lummerbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilisauce, s&#252;&#223;e oder</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="honig">Honig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>evtl.</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangensaft">Orangensaft oder</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="balsamico">Balsamico</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Backofen auf 80&#176;C vorheizen (die Temperatur bitte mit dem Backofenthermometer kontrollieren!). Den Kasselerbraten von allen Seiten zart anbraten. Falls gew&#252;nscht, mit Chiliso&#223;e oder Honig, letzterer ggf. mit etwas Orangensaft oder Balsamico vermischt, wiederholt bestreichen.
+3 Std. bei 80&#176;C (Ober-/Unterhitze) im Ofen garen, bis eine Kerntemperatur 65&#176;C erreicht ist. Die Temperatur mit einem Bratenthermometer kontrollieren.
+Warm kann der Braten zu Gr&#252;nkohl, Sauerkraut oder Rosenkohl serviert werden, als magere aber saftige Alternative zum durchwachsenen Kasselernacken. Abgek&#252;hlt und aufgeschnitten eignet er sich wunderbar f&#252;r das kalte Buffet.
+Bei geringeren Fleischmengen vermindert sich die Garzeit - der Braten sollte aber in jedem Fall nach Erreichen der Kerntemperatur aus dem Ofen geholt werden.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

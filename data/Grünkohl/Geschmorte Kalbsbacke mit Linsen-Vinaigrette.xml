@@ -1,0 +1,96 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a2d31f70-c3eb-44f4-8ea6-31f6d6241274">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Geschmorte Kalbsbacke mit Linsen-Vinaigrette</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="kalbfleisch">Kalbfleisch (Kalbsbacken)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="linsen">Linsen (Puy-Linsen)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Knolle/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Zweig/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="thymian">Thymian</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">Schmalz (G&#228;nseschmalz)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Wein, wei&#223;, trocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="kalbsfond">Kalbsfond</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="weinessig">Essig (Weinessig)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Backen in G&#228;nseschmalz anbraten, dabei mit der fetten Seite beginnen. Dann den Knoblauch sowie ein Mirepoix aus Zwiebeln und zwei Karotten zuf&#252;gen. Kalbsfond und Wei&#223;wein zugeben, salzen, pfeffern, abdecken und zugedeckt etwa 2 Stunden in einem auf 150&#176; C vorgeheizten Backofen schmoren lassen.
+Die Kohlbl&#228;tter in Salzwasser blanchieren und abschrecken. Die Linsen in einen Topf geben, mit kaltem Wasser bedecken. Die anderen 2 klein geschnittenen Karotten dazugeben. Mit Thymian  und Lorbeer w&#252;rzen und 20-25 Minuten bei schwacher Hitze k&#246;cheln lassen.
+Nach dem Schmoren die Backen abgie&#223;en, dann den Bratensaft durch ein Sieb geben und bis zur gew&#252;nschten Konsistenz reduzieren. Jede Backe mit etwas Sauce in ein Kohlblatt einwickeln. Das Ganze in Folie einwickeln, um es vor dem Servieren im Dampf wieder warm zumachen.
+Die Vinaigrette mit Weinessig, Oliven&#246;l, Salz und Pfeffer zubereiten.
+Die Linsen abgie&#223;en, mit den Schalotten und der gehackten Petersilie mischen. Mit Vinaigrette w&#252;rzen. Die Linsen auf den Teller geben, die Backen darauf und die Sauce darum geben.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

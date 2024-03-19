@@ -1,0 +1,69 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8f2f9c7b-ddd9-44d3-ab3e-91000db8b3c9">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Schmorkartoffeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz, (Griebenschmalz)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#8539; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>900 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler - Nacken oder Fleisch nach Wahl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>900 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), kleine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Fett</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl gr&#252;ndlich waschen und von den Str&#252;nken abzupfen. Ca 5 Minuten in kochendem Salzwasser blanchieren, kalt abschrecken und abtropfen.
+In einem gro&#223;em Topf Schmalz auslassen und die fein gehackte Zwiebel glasig braten. Den Kohl dazugeben und kurz mitschmoren. Mit Salz und Senf w&#252;rzen und die Br&#252;he zugie&#223;en. Die Hitze auf Stufe 1 schalten. Den Gr&#252;nkohl ca. 60 Minuten k&#246;cheln lassen.
+Etwa 30 Minuten vor Ende der Kochzeit das Kasseler unter den Kohl legen und sanft garen lassen.
+Gut schmecken auch Mettenden (Kohlwurst) dazu. Wer allerdings auf Kalorien achten muss, sollte sie lieber im Wechsel statt zusammen mit Kassler essen.
+Inzwischen kleine Pellkartoffeln kochen, abk&#252;hlen lassen und pellen. In grobe W&#252;rfel schneiden oder wenn sie klein genug sind, ganz lassen.
+In einer gro&#223;en Pfanne das Fett erhitzen, die Kartoffeln kross braten und salzen. Den Zucker dar&#252;ber geben. Bei milder Hitze karamellisieren lassen. Dabei die Pfanne st&#228;ndig r&#252;tteln, damit nichts anbrennt.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,61 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-25">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Reis mit Aepfeln . Ein warmes Abend-Gericht</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="reis">Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Stich</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName>Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="apfel">Aepfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName>Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName>Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName>Aepfel</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man br&#252;he den Reis gut ab, lasse in einem Topf einen Stich Butter zergehen, gebe den Reis mit kaltem Wasser und einem St&#252;ck Zimmet hinein und lasse ihn langsam kochen. Wenn er halb weich ist, gebe man etwas Salz, die Aepfel, nebst einem guten St&#252;ck Zucker dazu, koche ihn vollends gahr, aber nicht zu dick, und r&#252;hre ihn sorgf&#228;ltig um, damit der Reis so viel als m&#246;glich ganz bleibe, richte ihn an und streue Zucker dar&#252;ber. </ns0:instrStepText>
+      <ns0:instrStepText>Auch kann man, wenn der Reis gahr ist, ein Glas wei&#223;en Wein durchr&#252;hren. </ns0:instrStepText>
+      <ns0:instrStepText>Zu &#188; Pfund Reis sind 6 mittelm&#228;&#223;ig gro&#223;e Aepfel ein gutes Verh&#228;ltni&#223; und ist dies eine Portion f&#252;r 3 Personen. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

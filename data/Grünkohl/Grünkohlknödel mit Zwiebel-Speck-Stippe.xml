@@ -1,0 +1,82 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2badfbb1-91a5-4c61-9088-8ce54728362e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlkn&#246;del mit Zwiebel-Speck-Stippe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Bl&#228;tter (Gr&#252;nkohlbl&#228;tter), frisch ohne Stiele</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarz, aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#190; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, wei&#223;, aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss, frisch gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>375 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hartweizengrie&#223;">Hartweizengrie&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="bergk&#228;se">Bergk&#228;se, am St&#252;ck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gew&#252;rfelt, (S&#252;dtiroler Speck)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Gr&#252;nkohlbl&#228;tter verlesen, waschen und dann in sprudelnd kochendem, leicht gesalzenen Wasser etwa 3 Minuten blanchieren. Anschlie&#223;end sofort in Eiswasser abschrecken, abtropfen lassen und fein hacken.
+Die Zwiebeln abziehen und eine davon fein w&#252;rfeln, die anderen in Ringe schneiden und beiseitestellen.
+In einem Topf 1 EL Butter schmelzen und die Zwiebelw&#252;rfel darin glasig d&#252;nsten. Anschlie&#223;end den fein gehackten Gr&#252;nkohl zugeben und etwa 5 Minuten d&#252;nsten, bis die Fl&#252;ssigkeit verkocht ist. Mit etwas Salz und einigen Umdrehungen schwarzem Pfeffer aus der M&#252;hle w&#252;rzen.
+In einem Topf die Milch zusammen mit 4 EL Butter, 1 gestrichenen TL Salz, einigen Umdrehungen wei&#223;em Pfeffer aus der M&#252;hle sowie etwas frisch geriebener Muskatnuss aufkochen. Anschlie&#223;end den Grie&#223; zugeben und solange r&#252;hren, bis sich die Masse klo&#223;artig vom Topfboden l&#246;st.
+Dann in eine Sch&#252;ssel geben und sofort ein Ei unterr&#252;hren. Dann den Gr&#252;nkohl unterr&#252;hren und die Masse etwa 5 Minuten abk&#252;hlen lassen. Den Bergk&#228;se reiben und zusammen mit zwei Eiern unterheben.
+Anschlie&#223;end aus der Masse etwa 18 Kn&#246;del formen und diese in zwei Portionen in einem gro&#223;en Topf in kochendem, leicht gesalzenem Wasser geben, kurz aufkochen lassen und dann bei kleiner Hitze zugedeckt etwa 15 Minuten gar ziehen lassen.
+W&#228;hrenddessen in einer gro&#223;en Pfanne das Oliven&#246;l erhitzen und die Speckw&#252;rfel darin knusprig braten. Anschlie&#223;end herausnehmen und auf K&#252;chenkrepp abtropfen lassen. Dann die Zwiebelringe in der Pfanne im Bratfett goldbraun braten und die Speckw&#252;rfel zugeben. Die Kn&#246;del aus dem Wasser nehmen und zusammen mit der Zwiebel-Speck-Stippe auf Tellern anrichten.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

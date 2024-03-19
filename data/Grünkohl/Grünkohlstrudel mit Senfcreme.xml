@@ -1,0 +1,75 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-201e808d-427c-4e70-8dc0-9579b4fdacd6">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlstrudel mit Senfcreme</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>70 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rstchen (Mettenden)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Paket</ns0:igdtQuantity>
+        <ns0:igdtName ref="teigbl&#228;tter">Strudelbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, k&#246;rniger</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paniermehl">Paniermehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmand">Schmand</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebeln fein w&#252;rfeln und in 2 EL Schmalz anschwitzen, den Gr&#252;nkohl und die Mettenden hinzugeben, etwa 10 Min. schmoren lassen.
+Die Kartoffeln mit Schale ca. 20 Min kochen, dann abschrecken und pellen. Den Strudelteig 10 Min. bei Raumtemperatur ruhen lassen. Die Wurst aus dem Topf holen.
+Den Gr&#252;hnkohl in einem Sieb abtropfen lassen und dann mit Salz, Zucker und 1 TL Senf abschmecken. Kartoffeln und Wurst klein schneiden und unter den Kohl mischen.
+50 g Schmalz zerlassen. Ein feuchtes Geschirrtuch auf der Arbeitsfl&#228;che ausbreiten und ein trockenes auf diesem ausbreiten. 1 Teigblatt darauf legen und mit Schmalz bestreichen und so weiter machen, bis 5 Bl&#228;tter &#252;bereinander liegen, das letzte nicht mit Schmalz bestreichen.
+Den Ofen auf 175&#176;C Umluft vorheizen.
+Das Paniermehl auf dem Teig verteilen, darauf die Gr&#252;nkohlmasse geben, dabei rund ca. 2 cm Rand lassen. Die Teigr&#228;nder &#252;ber den Kohl legen und jetzt mit Hilfe der T&#252;cher den Strudel fest aufwickeln.
+Den Strudel auf ein mit Backpapier ausgelegtes Blech legen und mit dem Rest Schmalz bestreichen. Dann f&#252;r ca. 30 Min. goldgelb backen.
+Den Schmand mit Senf, Salz und Pfeffer verr&#252;hren und zum Strudel servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

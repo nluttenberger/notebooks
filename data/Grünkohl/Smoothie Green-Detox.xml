@@ -1,0 +1,47 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-db78d732-f038-475b-8c66-9651bded047f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Smoothie Green-Detox</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="grapefruit">Pink Grapefruit(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="birne">Birne(n), s&#252;&#223;, eher gelb, z. B. Santa Maria</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="beeren">Blaubeeren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Msp.</ns0:igdtQuantity>
+        <ns0:igdtName ref="curcuma">Kurkuma</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Grapefruit auspressen und den gut gewaschenen frischen Gr&#252;nkohl mit dem Saft p&#252;rieren. Bei Verwendung eines P&#252;rierstabes empfiehlt es sich, den Gr&#252;nkohl portionsweise dazuzugeben.
+Die Birne waschen ggf. sch&#228;len und entkernen. Das Fruchtfleisch der Birne, Blaubeeren und Kurkuma zur Grapefruit-Gr&#252;nkohl-Mischung geben und weiter p&#252;rieren.
+Wer mit einem Mixer statt mit einem P&#252;rierstab arbeitet, kann alle Zutaten auf einmal p&#252;rieren.
+Tipp: Gerne frischen Gr&#252;nkohl direkt aus dem Garten verwenden, der noch keinen Frost gekriegt hat.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

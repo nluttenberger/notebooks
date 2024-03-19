@@ -1,0 +1,59 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ce90835b-c9d9-4d32-ba65-5d0766cb93ae">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gem&#252;se mit Lupinen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="lupinen">Lupinen (ca. 200 - 250 ml Inhalt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauch">Porreestange(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Flasche</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomaten, passierte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>evtl.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gem&#252;se (z. B. Zucchini, Aubergine, Gr&#252;nkohl, Wei&#223;kohl)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Lupinen mit reichlich Wasser in einem gro&#223;en Gef&#228;&#223; zum Beispiel &#252;ber Nacht einweichen.
+Die Lupinen mit klarem Wasser abwaschen und in frischem Wasser ca. 15 Minuten kochen.
+Die Zwiebel klein schneiden und mit &#214;l in einem Topf oder einer Pfanne mit passendem Deckel anschwitzen. Den Porree und die Karotten (und sonstigem Gem&#252;se nach Wahl) schneiden und mit den Zwiebeln bei geschlossenem Deckel d&#252;nsten. Die Tomaten dazugie&#223;en und w&#252;rzen.
+Die Lupinen abgie&#223;en und unter die Gem&#252;semischung r&#252;hren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

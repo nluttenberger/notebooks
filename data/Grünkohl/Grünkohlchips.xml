@@ -1,0 +1,56 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-af93de36-3450-47d1-97d6-b7b48eb15b3d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlchips</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Kopf</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfelessig">Apfelessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gew&#252;rz">Gew&#252;rzmischung (Zwiebel-Knoblauch-Gew&#252;rz)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchknolle(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl leicht waschen. Die St&#228;ngel von den Bl&#228;ttern entfernen. Die Bl&#228;tter in etwa 5 cm gro&#223;e St&#252;cke rei&#223;en.
+Alle anderen Zutaten in eine Sch&#252;ssel geben und gut miteinander vermischen. Anschlie&#223;end den Mix &#252;ber die Gr&#252;nkohl-Bl&#228;tter geben, bis sie alle gut bedeckt sind. Der Apfelessig mildert ein bisschen die bl&#228;hende Wirkung des Gr&#252;nkohls.
+Jetzt die Gr&#252;nkohlbl&#228;tter nebeneinander auf das Trocknungsgitter legen und 8 - 10 Stunden bei ca. 42 &#176;C in einem D&#246;rrger&#228;t trocknen.
+F&#252;r die Zwiebel-Knoblauch-Gew&#252;rzmischung die Zwiebeln und den Knoblauch sch&#228;len. Alles in mittelgro&#223;e W&#252;rfel schneiden.
+Das Trockengut auf das Trocknungsgitter geben. Ca. 10 - 12 Std. bei einer Temperatur von 42 &#176;C d&#246;rren. Das Trockengut zu feinem Pulver vermahlen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,104 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-abf0252c-3b13-4c61-a169-d85c587d5199">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Veganer Gr&#252;nkohl in Chili-Erdnuss-Sauce mit Ingwer-Balsamico-Cranberries</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK oder aus dem Glas</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="erdnuss">Erdn&#252;sse, ger&#246;stet, ungesalzen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="erdnussbutter">Erdnussbutter, cremige</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sauce">Sriracha-Sauce</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="minze">Minze, getrocknete</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmelpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss, frisch geriebene</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="erdnuss&#246;l">Erdnuss&#246;l, ger&#246;stetes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="cranberry">Cranberrys, getrocknete</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>70 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Wasser, kochendes, zum Einweichen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>7 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwerwurzel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="rohrzucker">Rohrohrzucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="balsamico">Balsamico, dunkler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die getrockneten Cranberries in eine kleine Sch&#252;ssel geben, mit dem kochendem Wasser &#252;bergie&#223;en und quellen lassen.
+Die Zwiebeln und den Knoblauch abziehen und beides fein w&#252;rfeln. Den Ingwer sch&#228;len und fein hacken. Die Erdn&#252;sse grob hacken.
+Den Gr&#252;nkohl nach Packungsanweisung zubereiten. Wenn man Gr&#252;nkohl im Glas verwendet, dann sollte dieser bis auf evtl. Salz ungew&#252;rzt sein. Man kann auch gut ungew&#252;rzte bereits gegarte Reste vom Vortag benutzen, weil der Gr&#252;nkohl hier nur noch erhitzt wird.
+Die eingeweichten Cranberries abseihen und das Einweichwasser in einer Sch&#252;ssel auffangen. Die Cranberries mit dem gehackten Ingwer in einem kleinen Topf in &#214;l bei nicht voller Hitze etwa 2 - 3 Minuten anbraten. Dann den Rohrohrzucker, das Einweichwasser und den Balsamico dazugeben und alles auf maximal mittlerer Hitze so lange eink&#246;cheln lassen, bis die Fl&#252;ssigkeit sirupartig und nahezu verkocht ist.
+W&#228;hrenddessen Erdnuss&#246;l in einer Pfanne erhitzen und die Zwiebeln mit dem Knoblauch bei mittlerer Hitze etwa 4 Minuten and&#252;nsten. Die gehackten Erdn&#252;sse dazugeben und kurz mitbraten. Danach die Gem&#252;sebr&#252;he eingie&#223;en und aufkochen lassen. Getrocknete Minze und gemahlenen Kreuzk&#252;mmel hinzuf&#252;gen. Die Erdnussbutter einr&#252;hren und schmelzen lassen. Sriracha-Sauce ebenso zuf&#252;gen. In die Sauce nun den fertig gegarten Gr&#252;nkohl geben, umr&#252;hren und alles noch einmal aufkochen lassen. Geriebene Muskatnuss zuf&#252;gen und mit Salz und Pfeffer abschmecken.
+Beim Anrichten die Cranberries auf dem Gr&#252;nkohl verteilen.
+Ich habe dazu Reis serviert, so wird die Portionsmenge zu einer Hauptmahlzeit.
+Die angegebene Kochzeit ist ohne eine Garzeit des Gr&#252;nkohls gerechnet.
+Anmerkungen: Die fruchtig-s&#252;&#223;en, leicht sauren Cranberries bieten zusammen mit dem zitrusartig scharfen Ingwer einen guten Kontrast zur mildw&#252;rzigen Erdnusssauce und in Verbindung mit den sonstigen Gew&#252;rzen verliert der Gr&#252;nkohl seinen dominanten Kohl-Geschmack. Insofern ist das ein Gericht f&#252;r alle, die sonst den intensiven Geschmack des Gr&#252;nkohls nicht so m&#246;gen. Die Erdn&#252;sse f&#252;gen noch eine knackige Textur hinzu.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

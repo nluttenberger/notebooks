@@ -1,0 +1,72 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7934e25c-1892-4aa1-96f4-65d5728e35ef">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Kartoffel-Quetsch B&#252;rgerlich</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1.400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, ca. 840g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), ca. 120g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenspeck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, ca. 60g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cr&#232;me">Pflanzencreme, ca. 50g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Rinderbr&#252;he, instant, bei Bedarf auch mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Piment, gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die H&#228;lfte des Specks (ca. 175g) und die 2 mittelgro&#223;en Zwiebeln klein schneiden/w&#252;rfeln, die Kartoffeln sch&#228;len und in W&#252;rfel schneiden. Die andere H&#228;lfte des Specks wird in etwas gr&#246;&#223;ere St&#252;cke geschnitten.
+3 EL Pflanzencreme im Topf erhitzen und den Speck und die Zwiebeln darin leicht anbraten. 750 ml Wasser, 4 EL Senf und die 2 Gl&#228;ser Gr&#252;nkohl dazugeben, 5 TL Rinderbr&#252;he einr&#252;hren und die Kartoffeln darauf verteilen. Deckel zu und ca. 1 Stunde kochen lassen - aufpassen, damit nichts anbrennt, ab und zu leicht durchr&#252;hren.
+Anschlie&#223;end die Br&#252;he in ein Gef&#228;&#223; absch&#252;tten. Den Rest des Topfinhalts gut durchstampfen und die Br&#252;he im Anschluss wieder hinzugeben und das Ganze gut durchr&#252;hren. Mit Pfeffer und ggf. weiterer Br&#252;he (Pulver) abschmecken. Zum Schluss die gr&#246;&#223;eren Speckst&#252;cke in den Topf geben und noch einmal 10 Minuten auf kleiner Flamme k&#246;cheln lassen.
+Dazu schmecken Mettw&#252;rste oder Frikadellen.
+Wer es etwas fester mag, nimmt 500ml anstatt der 750ml Wasser.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

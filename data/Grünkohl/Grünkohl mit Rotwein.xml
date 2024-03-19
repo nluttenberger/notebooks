@@ -1,0 +1,81 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-08e5fc7f-46ae-445e-ab59-fc32d7159a38">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Rotwein</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, ganze Bl&#228;tter, ungehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Flasche</ns0:igdtQuantity>
+        <ns0:igdtName ref="rotwein">Rotwein, kr&#228;ftig, auch halbtrocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sezwiebel">Zwiebel(n), sehr gut auch S&#252;&#223;zwiebeln (Oignon doux), keine Gem&#252;sezwiebeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Tasse</ns0:igdtQuantity>
+        <ns0:igdtName ref="hafergr&#252;tze">Hafergr&#252;tze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="feige">Feige(n), getrocknet, oder 10 kleine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleisch">W&#252;rste (Pinkel), bevorzugt ger&#228;ucherte Fleisch-Pinkel oder Oldenburger Pinkel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="rindfleisch">W&#252;rste (Kochw&#252;rste), oder 2 gro&#223;e, sehr gut auch aus Rindfleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, bevorzugt leicht durchwachsener Nacken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, wei&#223;, aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>1,5 Kilo Kohl mit Stiel gibt ca. 1 Kilo essbaren Kohl. Den Kohl gr&#252;ndlich waschen. Die Str&#252;nke herauszupfen, das Restblatt nicht schneiden oder hacken. Den Kohl in 3/4 des Rotweins ca. 2 Stunden mit geschlossenem Deckel k&#246;cheln lassen. Die Hafergr&#252;tze einstreuen und eine halbe Stunde weiter k&#246;cheln lassen.
+Parallel dazu die Zwiebeln schneiden, die H&#228;lfte der Menge recht klein und die andere H&#228;lfte eher gro&#223;, z.B. Viertel. Die kleiner geschnittenen fr&#252;hzeitig dem k&#246;chelnden Kohl zugeben. Die Feigen entstielen und recht klein schneiden, die kleineren sind hier besser geeignet weil saftiger.
+Knochen vom Kasseler ausl&#246;sen, Fleischreste vom Knochen l&#246;sen und mit verwerten. Fleisch quer in ca. 2 cm dicke Scheiben schneiden. Allzu fettige oder sehnige Partien entfernen. Die durchwachseneren Partien in W&#252;rfel schneiden, die sch&#246;nen St&#252;cke - f&#252;r jeden Gast eines - ganz lassen. Etwas Butter in der Pfanne zerlassen, das Kasseler pfeffern und nur die W&#252;rfelst&#252;cke recht scharf anbraten. Fleisch herausnehmen.
+Bei kleiner Hitze die gesch&#228;lten und mit der Kochmesserklingenseite zerdr&#252;ckten Knoblauchzehen, die Feigen und die Zwiebeln ein paar Minuten d&#252;nsten, bis die Zwiebeln glasig sind. Pinkelwurst aus dem Darm l&#246;sen, in St&#252;cke schneiden und dazugeben. Die schon angebratenen W&#252;rfel des Kasslers wieder dazugeben, etwas Rotwein angie&#223;en und alles 10 - 15 Minuten bei geringer Hitze k&#246;cheln lassen.
+Dann den Pfanneninhalt zu dem jetzt 2 1/2 Stunden gekochten Kohl geben. Bratensatz der Pfanne mit dem Rest Rotwein deglacieren und zum Kohl geben. Die W&#252;rste mehrfach mit der Gabel anstechen und dazugeben, die gr&#246;&#223;eren Kasselerst&#252;cke ebenfalls. Den Senf zuf&#252;gen. Eine weitere Stunde k&#246;cheln lassen. Vorsicht, sp&#228;testens wenn die Gr&#252;tze richtig anzieht, muss regelm&#228;&#223;ig vorsichtig ger&#252;hrt werden, W&#252;rste und Fleisch liegen am besten am Topfrand und m&#252;ssen ganz bleiben! Evtl. Deckel abnehmen. Am Ende der Garzeit soll so gut wie keine Fl&#252;ssigkeit mehr zu sehen sein. Abschmecken falls n&#246;tig mit Zucker und Pfeffer, kein zus&#228;tzliches Salz verwenden. Kasseler ist als P&#246;kelfleisch sehr stark gesalzen, das ist f&#252;r das Kohlgem&#252;se durch das gemeinsame Garen v&#246;llig ausreichend.
+Dazu auf vorgew&#228;rmtem Teller gekochte Kartoffeln (festkochend) reichen, auch Pellkartoffeln aber keine Bratkartoffeln - Der Kohl spielt hier die Hauptrolle. Ein kr&#228;ftiger trockener Rotwein begleitet vorz&#252;glich. Beim fertigen Gericht sollen die Bl&#228;tter noch zu erkennen sein, die Fl&#252;ssigkeit insbesondere des Weins soll restlos verdunstet oder aufgenommen sein, Fleisch und Wurst sollen ganz geblieben sein (was bei durchwachsenem Nacken nur bedingt m&#246;glich ist, Nacken passt zu diesem Gericht aber besser als Kotelett aus der Rippe oder Schulter), der Kohlgeschmack soll frisch und lieblich-rund aber nicht wirklich s&#252;&#223; sein, die verbleibende Sch&#228;rfe vom Pfeffer und Senf darf nur minimal sein, Rotwein und Knoblauch sollen nur noch unterschwellig zu schmecken sein. Obwohl ein Eintopf, soll das Ergebnis nicht salzig, fettig oder matschig wirken; aus genau diesen Gr&#252;nden m&#246;gen manche Menschen diese norddeutsche Spezialit&#228;t n&#228;mlich nicht.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,81 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-931cb3b0-4f80-4927-bcbf-434852bed7f5">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Galette</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="dinkel">Dinkelvollkornmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>70 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="dinkel">Dinkelmehl Type 630 plus etwas zum Bearbeiten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="backpulver">Weinsteinbackpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="cayennepfeffer">Cayennepfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinienkerne">Pinienkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schafsk&#228;se">Feta-K&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>1. In einer gro&#223;en Sch&#252;ssel beide Mehlsorten, Backpulver und 1 Prise Salz mischen. 40 ml &#214;l und Wasser zugeben und mit den H&#228;nden zu einem glatten Teig verkneten. Teig zu einer Kugel formen, etwas flach dr&#252;cken und abgedeckt 10 Min. in den K&#252;hlschrank stellen.
+2. Schalotte in Ringe schneiden. Gr&#252;nkohl putzen und die Bl&#228;tter von den dicken Stielen zupfen. 20 ml &#214;l in einem gro&#223;en Topf erhitzen. Gr&#252;nkohl mit den Schalotten darin 5 Min. d&#252;nsten, bis der Gr&#252;nkohl zusammengefallen ist. Mit Salz, Pfeffer und etwas Cayennepfeffer w&#252;rzen. Beiseitestellen und abk&#252;hlen lassen. Das Ei trennen, das Eigelb mit 1 EL Wasser verquirlen. 1 EL Pinienkerne grob hacken.
+3. Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Teig mit dem Rollholz auf einem mit Backpapier belegten Blech ca. 35 cm &#216; ausrollen. Gr&#252;nkohlmischung gut ausdr&#252;cken, auf dem Teig verteilen, dabei einen 4 cm breiten Rand frei lassen. Feta dar&#252;ber br&#246;seln und mit ganzen Pinienkernen bestreuen. Den Rand wellenf&#246;rmig &#252;ber die F&#252;llung klappen.
+4. Teigrand mit Eigelb bestreichen, gehackte Pinienkerne dar&#252;berstreuen. Im hei&#223;en Ofen auf der 2. Schiene von unten 35 Min. backen.
+Das Rezept reicht f&#252;r 2 - 3 Portionen.
+Pro Portion (BEI 3) 29 g E, 38 g F, 56 g KH = 723 kcal (3028 kJ)</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

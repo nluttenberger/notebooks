@@ -1,0 +1,78 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a02271c2-f2fe-4451-958d-99c825a14e0c">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Hirse-Gr&#252;nkohl-Auflauf mit Emmentaler</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hirse">Hirse</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>450 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (TK, alternativ 500 g frischer)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="emmentaler">K&#228;se (Emmentaler)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er), getrennte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="paprikapulver">Paprikapulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, instant</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Fett f&#252;r die Form</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Hirse gr&#252;ndlich absp&#252;len.
+Zwiebel und Knoblauchzehe abziehen und in feine St&#252;cke schneiden. In 1 EL hei&#223;em &#214;l anbraten. Wenn sie glasig sind, die Hirse dazu geben und ca. 5 Minuten bei mittlerer Hitze mitr&#246;sten. Dann die 400 ml Gem&#252;sebr&#252;he angie&#223;en und die Hirse ca. 20 Minuten bei kleiner Flamme k&#246;cheln lassen.
+W&#228;hrenddessen den tiefgek&#252;hlten Gr&#252;nkohl auftauen lassen oder den frischen Gr&#252;nkohl in feine Streifen schneiden und gut waschen. Den Gr&#252;nkohl leicht erw&#228;rmen und bereits mit den Gew&#252;rzen kr&#228;ftig abschmecken. Den Emmentaler reiben und unter die Gr&#252;nkohlmasse ziehen. Die Eier trennen. Ein Eigelb mit unter den Gr&#252;nkohl heben, die restlichen Eigelbe anderweitig verarbeiten.
+Alle vier Eiwei&#223;e steif zu Schnee schlagen.
+Die fertig gequollene Hirse mit zu dem Gr&#252;nkohl - K&#228;se - Gemisch geben und alles gut miteinander vermengen. Nochmals kr&#228;ftig abschmecken. Den Eischnee vorsichtig unterheben, so dass eine homogene Masse entsteht. Eine Auflaufform gut einfetten und die Masse einf&#252;llen.
+Zun&#228;chst im vorgeheizten Backofen bei 200&#176;C ca. 30 Minuten backen, danach auf die oberste Schiene stellen und noch weitere 10 Minuten br&#228;unen lassen.
+Tipps: Diesen Auflauf kann man auch gut variieren, indem man anstelle von Hirse zum Beispiel Quinoa, Couscous oder Bulgur verwendet. Den Gr&#252;nkohl kann man auch durch Spinat oder Mangold ersetzen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

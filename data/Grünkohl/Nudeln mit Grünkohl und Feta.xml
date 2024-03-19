@@ -1,0 +1,72 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-92817f37-2f5d-4ed9-b920-5ce3c0736890">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Nudeln mit Gr&#252;nkohl und Feta</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Nudeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleiner</ns0:igdtQuantity>
+        <ns0:igdtName ref="kohlrabi">Kohlrabi</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gefroren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="schafsk&#228;se">Feta-K&#228;se oder Tofu</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokosmilch">Kokosmilch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>120 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="saure_sahne">Sauerrahm</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gew&#252;rz">Suppengew&#252;rz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Msp.</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokos&#246;l">Fett zum Braten oder Kokos&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Nudeln, evtl. glutenfreie, in reichlich Salzwasser bissfest kochen und abseihen.
+Gleichzeitig den gefrorenen Gr&#252;nkohl in einem anderen Topf ins kochende Salzwasser geben und ca. 8 Minuten kochen. Anschlie&#223;end in einem Sieb abtropfen lassen.
+Die Karotten und den Kohlrabi sch&#228;len, die Karotten in Scheiben und den Kohlrabi in W&#252;rfel schneiden. Den Feta ebenfalls w&#252;rfeln.
+In einer Pfanne das geschnittene Gem&#252;se in Kokos&#246;l leicht anbraten und bissfest garen. Die Kokosmilch und Gew&#252;rze dazugeben und die Nudeln beimengen. Anschlie&#223;end den Gr&#252;nkohl untermischen, den Feta zugeben und den Sauerrahm erst am Schluss unterr&#252;hren.
+Der Feta kann durch Tofu ersetzt werden, der Sauerrahm durch etwas Zitronensaft.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

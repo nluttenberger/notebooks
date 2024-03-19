@@ -1,0 +1,83 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6a8c3a6b-0714-4a4e-a876-dfddc36e1142">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Feine Gr&#252;nkohlcremesuppe</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sezwiebel">Gem&#252;sezwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>900 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch oder TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>35 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne zum Kochen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinienkerne">Pinienkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Mettenden</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salzwasser</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebel sch&#228;len und in W&#252;rfel schneiden. Den Knoblauch sch&#228;len und hacken. Die Kartoffeln sch&#228;len, waschen und w&#252;rfeln. Den frischen Gr&#252;nkohl verlesen, putzen, waschen, abtropfen lassen und klein schneiden bzw. TK-Gr&#252;nkohl auftauen. Den Parmesan reiben.
+Zwei Essl&#246;ffel Butterschmalz in einem Topf erhitzen. Die Zwiebel, den Knoblauch und die Kartoffeln darin unter Wenden and&#252;nsten. Den Parmesan und 700 g Gr&#252;nkohl zugeben, im geschlossenen Topf circa 5 Minuten schmoren. Br&#252;he und Wein zugie&#223;en, aufkochen und alles ca. 15 Minuten k&#246;cheln lassen. Die Suppe fein p&#252;rieren und die Sahne unterr&#252;hren. Die Suppe mit Salz, Pfeffer und Zucker abschmecken.
+Den restlichen Gr&#252;nkohl in siedendem Salzwasser 3 - 4 Minuten blanchieren. Die Pinienkerne in einer Pfanne ohne Fett hellbraun r&#246;sten. Die Mettenden in ca. 1 cm dicke Scheiben schneiden und mit dem restlichen Butterschmalz in einer Pfanne 2 - 3 Minuten anbraten.
+Den Gr&#252;nkohl und die Mettenden in die Suppe geben und unterr&#252;hren. In Suppentassen anrichten und mit Pinienkernen bestreuen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,99 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3dd7608d-9d29-4cbd-8fc5-e9d1efab2ff1">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Feurige Linsentaler mit ged&#252;nstetem Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="linsen">Linsen, rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="cashew">Cashewn&#252;sse, gesalzen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken, zarte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), getrocknete</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="koriander">Koriander, gemahlener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser, ca. 1 - 2 EL</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er, gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="quark">Quark nach Bedarf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>9 Bl&#228;tter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl als Beilage</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="minze">Minze, getrocknet (oder frisch aufgeschnitten)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="frischk&#228;se">Frischk&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="joghurt">Joghurt</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Linsen in 400 ml Wasser geben und ca. 15 Minuten kochen, bis sie weich sind. Falls nicht das ganze Wasser verkocht ist, die Linsen in einem feinen Sieb abgie&#223;en. Die Linsenmasse sollte nicht zu nass sein.
+W&#228;hrend die Linsen kochen, die N&#252;sse, Haferflocken, Chili, Cumin und Koriander in einem Hacker fein hacken, bis alles die Konsistenz von Semmelbr&#246;seln (Paniermehl) hat.
+Die Zwiebel und den Knoblauch ebenfalls fein hacken oder im Hacker zerkleinern. Die Gew&#252;rze mit Zwiebel und Knoblauch und den abgetropften Linsen vermischen. Die Masse muss ca. 10 Minuten ruhen. Nach Geschmack noch mit Salz und Pfeffer nachw&#252;rzen. Falls die Konsistenz zu locker ist, noch etwas Quark hinzugeben, es sollte allerdings auch ohne gehen.
+Die Gr&#252;nkohlbl&#228;tter von den dicken Stellen (Strunk) und den sehr dunkelgr&#252;nen Stellen befreien und in ca. 1 cm breite Streifen schneiden. In einer Pfanne etwas Oliven&#246;l erhitzen und den Kohl darin kurz and&#252;nsten. Etwas Wasser (1 - 2 EL) dazugeben, damit nichts anh&#228;ngen kann und der Kohl mehr Fl&#252;ssigkeit zum Garen hat. Mit Salz und wei&#223;em Pfeffer leicht w&#252;rzen und bei geschlossenem Deckel ca. 7 Minuten d&#252;nsten lassen.
+Dann etwas Oliven&#246;l in einer Pfanne erhitzen, mit Hilfe zweier Essl&#246;ffel flache Taler aus der Linsenmasse in die Pfanne dr&#252;cken und etwa f&#252;nf Minuten auf jeder Seite ausbacken.
+F&#252;r den Dip die frischen Kr&#228;uter waschen und fein schneiden, gegebenenfalls mit den trockenen Kr&#228;utern mischen und zu Joghurt und Frischk&#228;se geben, gut verr&#252;hren (ich habe Joghurt mit 0,1 % Fett benutzt, der ist eher d&#252;nn - wenn h&#246;herer Fettgehalt benutzt wird, wird der Dip eher dickfl&#252;ssig).
+Taler mit dem Gr&#252;nkohl auf einem Teller anrichten und etwas Dip dazugeben.
+Hinweis: Die Taler passen nat&#252;rlich auch zu anderen ged&#252;nsteten Gem&#252;sen oder knackigen Salaten. Ich habe relativ viel Chili verwendet. Aber wer es nicht so scharf mag, sollte da etwas vorsichtiger sein.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

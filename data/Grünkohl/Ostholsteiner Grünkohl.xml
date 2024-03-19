@@ -1,0 +1,69 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7c5fde68-3eb2-4794-94ef-39bbc3071bfe">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Ostholsteiner Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch oder aus dem Glas</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, Nackenst&#252;ck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinebacke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Kohlw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), kleine od. Kartoffeln in W&#252;rfeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Kasseler und die Schweinebacke im Salzwasser ca. 45 Minuten garen.
+Anschlie&#223;end den Gr&#252;nkohl dazu geben und nochmals 35 - 45 Min. bei kleiner Hitze garen. (Frischer Gr&#252;nkohl braucht ein wenig l&#228;nger).
+Zum Ende der Garzeit die Kohlw&#252;rste, so ca. 10 - 12 Min., auf den Gr&#252;nkohl geben und mitgaren.
+Die Kartoffeln kochen und pellen, evtl. in W&#252;rfel schneiden.
+In der Pfanne 2 EL Schweinemalz erhitzen und die Kartoffeln darin braten. Wenn diese goldbraun sind, Zucker dazugeben und karamellisieren lassen. Dieser Vorgang dauert ungef&#228;hr 4 - 5 Min.
+In der Zwischenzeit das Fleisch und die W&#252;rste aus dem Gr&#252;nkohl herausnehmen und warm stellen.
+Gr&#252;nkohl durch ein grobes Sieb pressen. Der Kohl darf nicht mehr tropfen.
+Im Kochtopf das restliche Schweineschmalz schmelzen, den ausgepressten Gr&#252;nkohl wieder in den Kochtopf geben und im geschmolzenen Schweinemalz schwenken. Mit Salz und Pfeffer und evtl. ein wenig Zucker abschmecken.
+Karamellisierte Kartoffeln anrichten, Kasseler und die Schweinebacke in Scheiben schneiden und mit der Kohlwurst zum Gr&#252;nkohl reichen.
+Bei uns ist es &#252;blich, den Gr&#252;nkohl mit etwas Zucker nachzus&#252;&#223;en und zur Kohlwurst wird Senf serviert.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

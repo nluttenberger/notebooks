@@ -1,0 +1,55 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-21727b92-ed08-4225-a76f-4918009d236d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Wurst im Glas</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1,2 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Bauchspeck, ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="bratwurst">Knackw&#252;rste, Bauernbratw&#252;rste oder &#196;hnliches</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#252;mmel">K&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="gew&#252;rz">Gew&#252;rz(e)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Als Gl&#228;ser verwende ich Gurken- oder Gem&#252;segl&#228;ser mit ca. 600 - 700 ml Inhalt. Die Gl&#228;ser gut auswaschen und bereitstellen.
+Den Gr&#252;nkohl waschen, blanchieren und fein hacken oder die entsprechende Menge (400 g pro Glas) tiefgefrorenen Gr&#252;nkohl vorsichtig auftauen.
+Den Speck in Streifen oder W&#252;rfel schneiden und das Fett auslassen, bis er leicht gebr&#228;unt ist, dann beiseitestellen. Die Zwiebel fein hacken und ebenfalls anbr&#228;unen.
+Die ger&#228;ucherte Wurst, hier nehmt ihr einfach, was ihr gerne selber esst, in grobe St&#252;cke teilen.
+Jetzt Gr&#252;nkohl, Speck samt ausgelassenem Fett und Zwiebeln gleichm&#228;&#223;ig auf die Gl&#228;ser verteilen, ca. 2/3 hoch. Alles w&#252;rzen mit etwas K&#252;mmel und Gew&#252;rzen nach Geschmack, falls notwendig. Auf den Gr&#252;nkohl je Glas eine Wurst in St&#252;cken legen und etwas Gr&#252;nkohl noch oben darauflegen. Alles gut eindr&#252;cken, sodass die Luft heraus kommt. Den Deckel aufsetzen und handfest anziehen.
+Die Gl&#228;ser im Einkochautomaten oder im Dampf (Backofen, D&#228;mpfer) bei 100 &#176;C ca. 80 Minuten einkochen. Dabei wird der Kohl auch gut gar gekocht, daher ist kein Vorkochen n&#246;tig. Im Ofen oder Einkocher die Gl&#228;ser noch eine Weile abk&#252;hlen lassen und dann herausnehmen.
+Dieses Rezept ist geeignet f&#252;r alle, die gerne Gr&#252;nkohl essen, aber nicht immer den zeitlichen Aufwand mit der Zubereitung haben wollen oder wer nur wenige Mitesser hat und deswegen den Aufwand scheut, einen gro&#223;en Kessel anzusetzen. Ein Glas entspricht einer gro&#223;z&#252;gigen Portion. Die Haltbarkeit ist &#252;ber 6 Monate, vermutlich auch &#252;ber ein Jahr.
+Bei Gr&#252;nkohlappetit einfach ein Glas aufw&#228;rmen, Kartoffeln dazugeben oder Brot.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

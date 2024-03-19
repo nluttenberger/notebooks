@@ -1,0 +1,87 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-21dc81b9-6f11-4548-9cae-9434f4bba583">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Rosinenkinds Gr&#252;nkohl nordfriesische Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), geputzt und klein gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he, (oder 500ml Gem&#252;sebr&#252;he und 500ml Kochsud von der Backe)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, Salz ggf etwas Piment und K&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker, mind.</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinebacke, ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinebauch, ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, im Ganzen oder 6 Scheiben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Kohlw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), kleine (hier gibts spezielle kleine Gr&#252;nkohlkartoffeln)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker 2 EL hellen Sirup</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die nordfriesische Variante ist etwas s&#252;&#223;lich und wird nicht gebunden. Hier haben weder Haferflocken oder &#228;hnliches etwas im Kohl verloren.
+Das Schmalz in einem ausreichend gro&#223;en Topf zerlassen, die Zwiebelw&#252;rfel darin glasig d&#252;nsten (wer mag, der kann auch noch 200g Speckw&#252;rfel zus&#228;tzlich auslassen). Den Kohl zugeben, mit der Br&#252;he auff&#252;llen. Die Gew&#252;rze zuf&#252;gen und das Ganze auf kleiner Flamme mind. zwei Stunden k&#246;cheln lassen. Gerne l&#228;nger. Kasseler separat anbraten, den Bratensatz mit Kohlfl&#252;ssigkeit abl&#246;sen und zum Kohl geben, Kasseler bis zum Servieren warm stellen. Man kann ihn auch auf den Kohl legen, allerdings muss man aufpassen, er wird gerne schnell trocken.
+Die Schweinebacke gar kochen, den Schweinebauch und die W&#252;rste auf den Kohl legen und mitgaren.
+F&#252;r die s&#252;&#223;en Kartoffeln die Butter in einer Pfanne zerlassen, den Zucker zuf&#252;gen und karamellisieren lassen und die gekochten und gepellten Kart&#246;ffelchen im ganzen zuf&#252;gen und br&#228;unen.
+Eine andere Variante ist, hellen Kuchensirup in der Pfanne zerlassen und die Kart&#246;ffelchen dann darin br&#228;unen. Das mag aber nicht jeder, deswegen gehen nat&#252;rlich auch Bratkartoffeln.
+Den Kohl nochmals abschmecken (er soll w&#252;rzig und etwas s&#252;&#223;lich schmecken, wobei das S&#252;&#223;e auf keinen Fall dominieren sollte), auf einer Platte anrichten, das Fleisch portionieren und ebenfalls auf der/einer Platte anrichten. Dazu gibt's nat&#252;rlich Senf. Der Kohl schmeckt aufgew&#228;rmt noch besser.
+Tipp:
+Ich gebe den Kohl und seine Zutaten (ohne Fleisch) in einen gro&#223;en Br&#228;ter und schmore das bequem auf kleiner Temperatur im Ofen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

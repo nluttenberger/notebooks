@@ -1,0 +1,56 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-24">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Reisbrei . Eine kalte und warme Sch&#252;ssel</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName>Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName>Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName>Reis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName>Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Zu &#189; Pfund Reis geh&#246;ren 2 Ma&#223; Milch . Man br&#252;he den Reis nach A. 51 ab, lasse ein St&#252;ckchen Butter in einem Topfe, der nicht leicht anbrennt, zergehen, wodurch er, ohne zu r&#252;hren, vor Anbrennen gesichert wird, sch&#252;tte die Milch hinein und lasse sie zum Kochen kommen. Dann gebe man den Reis mit einigen St&#252;ckchen guten Zimmet dazu und lasse ihn gahr, aber ja nicht zu weich und zu dick kochen. Sp&#228;ter wird ein St&#252;ckchen Zucker und wenig Salz hinzugef&#252;gt, in eine Sch&#252;ssel gef&#252;llt und mit Zucker bestreut. Soll der Reis kalt gegeben werden, so mu&#223; man beim Kochen darauf rechnen, da&#223; derselbe w&#228;hrend des Kaltwerdens viel dicker wird. Auch thut man dann wohl, ihn nicht gleich auf die bestimmte Sch&#252;ssel zu geben, sondern ihn vorher wieder umzur&#252;hren und ihn dann mit Zucker anzurichten. </ns0:instrStepText>
+      <ns0:instrStepText>Anmerk. Man kann im Winter, wo die Milch oft schwer zu bekommen ist, recht gut ein Drittheil Wasser dazu nehmeu, ohne da&#223; der Reis einen w&#228;sserigen Geschmack erh&#228;lt, wenn man n&#228;mlich beides zusammen kochen l&#228;&#223;t, ehe der Reis dazu kommt. Einige St&#252;ckchen Zimmet mit dem Reis gekocht, gibt demselben einen feinern Geschmack, als wenn der Reis damit bestreut wird. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

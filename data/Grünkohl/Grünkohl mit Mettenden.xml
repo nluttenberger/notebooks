@@ -1,0 +1,53 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d91ce017-b407-4cc9-91de-6ae35720eaea">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Mettenden</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gr. Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, handgerupfter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Mettenden) &#225; 4 Stk</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, (Lachs)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl aus der Dose nehmen (ist sehr fest, es hilft wenn man beide Seiten der Dose &#246;ffnet) und unter flie&#223;endem Wasser absp&#252;len. Wichtig! Den Sud aus der Dose nicht verwenden, da dieser sehr bitter ist! Dann den Gr&#252;nkohl in einen gro&#223;en Topf geben und so viel Wasser dazugeben, dass dieser gerade so bedeckt ist. Nun 3 TL Zucker und 2 TL Salz draufgeben und auf h&#246;chster Stufe aufkochen lassen. In der Zeit die Mettenden von allen Seiten mehrfach mit einer Gabel einstechen. Nachdem der Gr&#252;nkohl aufgekocht ist, die Mettenden hinzugeben und bei geringer Hitze kochen lassen.
+Empfehlung f&#252;r die Kochzeit:
+Am Vortag am fr&#252;hen Vormittag anfangen. Bis Mittag kochen lassen, ausstellen und nach drau&#223;en stellen. Am sp&#228;ten Nachmittag wieder aufkochen und wieder raus stellen. Am n&#228;chsten Morgen wieder rein nehmen und bis zum Mittag kochen. Falls erst Abends gegessen werden soll, &#252;ber den Nachmittag wieder raus stellen und dann zum gew&#252;nschten Zeitpunkt erw&#228;rmen. Was auch geht, ist Nachmittags kochen bis zum Abend, &#252;ber Nacht raus stellen und den n&#228;chsten Tag mehrere Stunden kochen bis Abends.
+Ich nehme die W&#252;rste zwischendurch immer mal wieder raus und lasse sie etwas an der Luft stehen. Dadurch bekommen sie eine sch&#246;ne dunkle Farbe und werden weich. Danach einfach wieder auf den Gr&#252;nkohl in den Topf legen.
+Der Kasseler braucht am St&#252;ck max. 15 Minuten und in Scheiben geschnitten deutlich weniger. Diesen lege ich kurz vorm Servieren zum Erhitzen in den Gr&#252;nkohl.
+Dazu gibt es bei uns Bratkartoffeln und mittelscharfen Senf.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

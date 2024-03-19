@@ -1,0 +1,84 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4aa34e88-1931-42cf-a7f7-d4fc3bca5320">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Ente mit Backpflaumenhackf&#252;llung</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ente">Ente(n) (ca. 2.5 kg)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Hackfleisch, gemischtes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="brot">Toastbrot</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="ahornsirup">Ahornsirup</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="backpflaume">Backpflaume(n), entsteinte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Wein, wei&#223; oder rot</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinken (Gourmet-Schinken)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">Speisest&#228;rke</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Ente waschen, trockentupfen und innen und au&#223;en mit Salz und Pfeffer einreiben.  Backpflaumen in Wasser einweichen. Zwiebeln abziehen und w&#252;rfeln. Das Hackfleisch mit dem in W&#252;rfel geschnittenen Toastbrot, dem Ei, der H&#228;lfte der Zwiebelw&#252;rfel und den ausgedr&#252;ckten und in kleine W&#252;rfel geschnittenen Pflaumen gut vermischen, mit Salz und Pfeffer w&#252;rzen. Die Ente mit der Masse f&#252;llen, verschlie&#223;en und f&#252;r 2 - 2,5 Stunden in den auf 200&#176;C (Umluft 170&#176;C) vorgeheizten Backofen schieben. Nach ca. 20 Minuten mit Wein und Br&#252;he abl&#246;schen, &#246;fter &#252;bergie&#223;en. 20 Minuten vor Ende der Garzeit mit Ahornsirup bepinseln, 2 x wiederholen.
+W&#228;hrend die Ente br&#228;t, die restliche Zwiebel und den Schinken in etwas abgesch&#246;pftem Entenfett anbraten. Den Gr&#252;nkohl dazugeben, mit Salz, Pfeffer, Muskat und Zucker w&#252;rzen und 30-40 Min schmoren lassen, danach nochmals abschmecken.
+Die knusprig gebratene Ente aus den Br&#228;ter nehmen und warm stellen. Die So&#223;e durch ein Sieb gie&#223;en und entfetten. Mit Ahornsirup, Salz und Pfeffer abschmecken und mit etwas Speisest&#228;rke binden.
+Die Ente zerteilen, die F&#252;llung in Scheiben schneiden und mit dem Entenfleisch, der So&#223;e und dem Gr&#252;nkohl servieren.
+Dazu reicht man Semmelkn&#246;del.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,63 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e8c8dd66-1d92-4771-ba4a-bdc730d42000">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl wie von Oma</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (TK)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Stange/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauch">Porree, klein geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), klein geschnittene</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rstchen (Kohlwurst oder Pinkel, alternativ Mettw&#252;rstchen und Bauchspeck)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler (Nacken mit Knochen)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hafergr&#252;tze">Hafergr&#252;tze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl mit 2 Litern Wasser ca. 1 Stunde lang k&#246;cheln lassen. Den Kohl dann durchsieben und das Wasser weg gie&#223;en. Dies bewirkt, dass die Bitterstoffe herauskommen, das mache ich schon am Vortag.
+Porree, Zwiebel, Gr&#252;nkohl mit ca. 1 Liter Wasser aufsetzen und auf kleiner Hitze kochen. Nach ca. 1 Stunde den Kasseler Nacken dazugeben. Das Kasseler ist ja schon ger&#228;uchert, es braucht also nur hei&#223; werden und der Kohl nimmt den Geschmack sch&#246;n mit auf. Deswegen Vorsicht mit Salz und Pfeffer - Kasseler kann sehr salzig sein. Je nachdem, wie gro&#223; der Nacken ist, ist das Fleisch nach ca. einer 3/4 Stunde gar. Dann das Kasseler herausholen, in Scheiben schneiden und warm stellen. Nun den Pinkel einlegen (Pinkel gibt es meist nur regional, ansonsten Kochmettwurst und Bauchspeck nehmen), aber vorher anstechen, damit der Wurstsaft seinen Geschmack beisteuert. Obenauf kommt die Hafergr&#252;tze, dies dickt den Kohl an. Auf kleiner Flamme noch einmal eine halbe Stunde k&#246;cheln (die Hafergr&#252;tze aber erst zum Schluss unterr&#252;hren, weil sie schnell anbrennt). Mit Senf, Salz und Pfeffer abschmecken. Hei&#223; servieren.
+Dazu Salzkartoffeln reichen.
+Tipp: Aufgew&#228;rmt am n&#228;chsten Tag schmeckt es noch einmal so gut.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

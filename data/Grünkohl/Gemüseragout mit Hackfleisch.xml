@@ -1,0 +1,84 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-af632243-5bfd-4991-9069-a9ca4ffea011">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gem&#252;seragout mit Hackfleisch</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="blumenkohl">Blumenkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>280 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffeln, festkochende</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kohlrabi">Kohlrabi mit Bl&#228;ttern</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, k&#252;chenfertig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver, z.B. Frugola</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Rinderhackfleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#190; Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">Hirtenk&#228;se oder Feta</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz oder Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="chiliflocken">Chiliflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Einen gro&#223;en Topf mit Deckel bereitstellen. Das Gem&#252;se in folgender Reihenfolge in den Topf geben: Die Kartoffeln sch&#228;len und klein w&#252;rfeln. Die Karotten sch&#228;len und in halbe Scheiben schneiden. Den Kohlrabi sch&#228;len und w&#252;rfeln, die Bl&#228;tter klein schneiden. Den Blumenkohl waschen und in kleine R&#246;schen teilen. 2 TL Gem&#252;sebr&#252;hepulver dar&#252;ber streuen. Den geschnittenen, k&#252;chenfertigen Gr&#252;nkohl obendrauf schichten. Mit Wasser bis ca. 2 cm unterhalb des Gem&#252;ses auff&#252;llen. Deckel auflegen und alles zum Kochen bringen. Je nach Gr&#246;&#223;e des Gem&#252;ses ca. 10 - 15 Minuten leicht  k&#246;cheln lassen.
+In der Zwischenzeit die Zwiebel sch&#228;len und w&#252;rfeln. Zusammen mit dem Hackfleisch, ohne Zugabe von Fett, braten. Wenn das Gem&#252;se fertig ist, ungef&#228;hr die H&#228;lfte Gem&#252;sebr&#252;he absch&#252;tten und auffangen (kann f&#252;r eine Suppe weiterverwendet werden) und das Hackfleisch zum Gem&#252;se f&#252;gen. Cr&#232;me fra&#238;che und Gew&#252;rze unterr&#252;hren und abschmecken.
+Die Petersilie waschen und mit Stielen klein schneiden. Feta sehr klein w&#252;rfeln. Petersilie und K&#228;se in den Topf geben und alles gut durchmischen.
+Davon werden 4 - 5 Personen satt.
+Tipps: Das Ragout schmeckt auch aufgew&#228;rmt super. Kann also gut vorbereitet oder aufgehoben werden. Wer Hirtenk&#228;se oder Feta nicht mag, kann auch Schmelzk&#228;se oder Frischk&#228;se verwenden. Wer es vegetarisch m&#246;chte, kann das Fleisch einfach weglassen oder durch Tofu oder &#196;hnliches ersetzen. Auch meine vegetarischen Hackb&#228;llchen (Rezept in der DB), passen hier gut. Dann ist es aber nicht mehr wirklich low carb.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

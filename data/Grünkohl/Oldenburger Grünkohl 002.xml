@@ -1,0 +1,91 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-46fa87d4-89c3-4fa9-b9e6-23ff94f4be33">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Oldenburger Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Margarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, (800 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he, (kr&#228;ftig)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, (eher mehr, ist Geschmackssache)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinkelwurst">W&#252;rste, (Pinkelw&#252;rste, Gr&#252;tzwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Kochw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gestreiften (ger&#228;uchert)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hafergr&#252;tze">Hafergr&#252;tze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>75 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>TIPP: Den Gr&#252;nkohl auf jeden Fall einen Tag zuvor kochen, da er am Zubereitungstag noch nicht so gut schmeckt!!!
+Die Zwiebeln in W&#252;rfel schneiden und in einem gro&#223;en Topf in der Margarine glasig d&#252;nsten.
+Den TK-Gr&#252;nkohl zugeben und umr&#252;hren, sodass sich die Zwiebeln sch&#246;n verteilen. Nun die Br&#252;he angie&#223;en und aufkochen lassen. Nach 10 Minuten den restlichen Gr&#252;nkohl aus der Dose zugeben und bei kleiner Hitze ca. 30 Minuten durchkochen lassen.
+Jetzt den Senf zugeben und durchr&#252;hren. Zwei von den Pinkelw&#252;rsten zusammen mit dem Kasseler und dem Speck in dem Gr&#252;nkohl mitk&#246;cheln lassen, bis das Fleisch gar ist.
+Nun das Kasseler, Speck und die Pinkel aus dem Topf nehmen. Kasseler und Speck beiseitestellen, von den Pinkelw&#252;rsten die Pelle entfernen und den Inhalt wieder mit zu dem Gr&#252;nkohl geben und unterr&#252;hren. Den Gr&#252;nkohl jetzt noch mal eine halbe Stunde k&#246;cheln lassen. NICHT VERGESSEN den Kohl w&#228;hrend der gesamten Kochzeit immer wieder umzur&#252;hren, da er schnell anbrennt und dann kaum mehr zu retten ist!
+Die restlichen Pinkelw&#252;rste und die Kochwurst zu dem Kohl geben und ca. 20. Min. auf kleiner Flamme mitgaren (aufpassen, dass sie nicht platzen). Die W&#252;rste ebenfalls aus dem Gr&#252;nkohl entfernen und beiseitestellen.
+Jetzt den Gr&#252;nkohl mit Pfeffer, Salz, Schweineschmalz und Senf abschmecken. Mit dem Salz aufpassen, da das Fleisch &amp; die W&#252;rste auch Salz enthalten!!!
+Den Gr&#252;nkohl jetzt mit der Hafergr&#252;tze binden so ca. 100-200 g je nachdem, wie viel Fl&#252;ssigkeit noch vorhanden ist. Noch einmal so lange k&#246;cheln, bis die Hafergr&#252;tze weich ist. Den Topf von der Herdplatte nehmen und bei ge&#246;ffnetem Deckel abk&#252;hlen lassen. Der Kohl sollte nicht zu fl&#252;ssig und nicht zu fest sein. Ich sage immer ein kleines bisschen fester als TK Spinat.
+Wenn der Gr&#252;nkohl abgek&#252;hlt ist, das Fleisch, Speck und die W&#252;rste zu dem Kohl geben und bis n&#228;chsten Tag k&#252;hl stellen.
+Am n&#228;chsten Tag das Fleisch und die Wurst rausnehmen und den Gr&#252;nkohl LANGSAM erw&#228;rmen!!! IMMER DABEI UMR&#220;HREN!!! Brennt schnell an, da er gebunden ist. Wenn der Kohl hei&#223; ist, das Fleisch und die W&#252;rste zugeben und warm werden lassen.
+TIPP: Kasseler vorher in Scheiben schneiden, dann geht es schneller.
+Dazu passen nat&#252;rlich Salzkartoffeln - und hier im Norden trinkt Mann noch einen Korn dazu.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

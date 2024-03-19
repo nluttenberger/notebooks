@@ -1,0 +1,66 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-945032f7-37ae-486e-887d-72c3d71f3b2f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Green Smoothie mit Gr&#252;nkohl, Spinat und Co</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 W&#252;rfel</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK, Minis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 W&#252;rfel</ns0:igdtQuantity>
+        <ns0:igdtName ref="spinat">Spinat, TK, Minis</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="rucola">Rucola</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="feldsalat">Feldsalat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="banane">Banane(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfel">Apfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="orange">Orange(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Zweig/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="minze">Minze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188;</ns0:igdtQuantity>
+        <ns0:igdtName ref="gurke">Gurke(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die gr&#252;nen Zutaten sollten zu etwa gleichen Mengen in den Mixer- au&#223;er der Minze, hier reicht ein St&#228;ngel. Alle Zutaten in den Mixer geben und p&#252;rieren.
+Das Obst und Wasser am besten vorher im K&#252;hlschrank aufbewahren, so ist der Smoothie direkt nach dem Mixen sch&#246;n kalt und frisch. Aus dem gleichen Grund nehme ich auch immer TK-Spinat und TK-Gr&#252;nkohl statt Frischem.
+F&#252;r G&#228;ste gerne noch mit ein bisschen Minze und vielleicht einer Orangenscheibe dekorieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

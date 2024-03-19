@@ -1,0 +1,135 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-042">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Aepfelscheiben in Schmalz gekocht oder in einer Pfanne gebacken</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="apfel">Aepfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="schmalz">Schmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;brot">Brodschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="rum">Arrac</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList noshow="noshow" fromRecipe="Klare mit Hefen in Schmelzbutter zu backen" fromRcpID="A-037" fromBook="KochbuchHD" fromChapter="00 Allgemeine Regeln">
+      <ns0:igdtListName>Klare mit Hefen in Schmelzbutter zu backen</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#8539; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="bier">Bier oder Wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">dicke Hefen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="rum">Rum</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList noshow="noshow" fromRecipe="Klare von Eiern" fromRcpID="A-038" fromBook="KochbuchHD" fromChapter="00 Allgemeine Regeln">
+      <ns0:igdtListName>Klare von Eiern</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#8539; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 - 4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList noshow="noshow" fromRecipe="Klare von Wein" fromRcpID="A-039" fromBook="KochbuchHD" fromChapter="00 Allgemeine Regeln">
+      <ns0:igdtListName>Klare von Wein</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#8539; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 Loth</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Schmelzbutter</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Aepfelscheiben</ns0:instrStepName>
+      <ns0:instrStepText>Gro&#223;e, saftige, recht m&#252;rbe Aepfel werden gesch&#228;lt, in fingerdicke Scheiben geschnitten, in die Klare A-37, 38 oder 39 (s.u.) getunkt und in kochendem Schmalz bei best&#228;ndigem Umsch&#252;tteln gelb gebacken, mit dem Schauml&#246;ffel auf einige Brodschnitten gelegt, die das Fett anziehen und dann auf einer warmen Sch&#252;ssel mit Zucker bestreut, angerichtet. Man darf jedoch nicht mehr als 6 St&#252;ck zugleich backen, die Aepfel nehmen sonst zu viel Fett an. </ns0:instrStepText>
+      <ns0:instrStepText>Man kann auch die Aepfelscheiben vorher mit Arrac und Zucker durchziehen lassen. Die Aepfelscheiben lassen sich auf dieselbe Weise auch in einer Kuchenpfanne mit Butter backen. </ns0:instrStepText>
+    </ns0:instruction>
+    <ns0:instruction>
+      <ns0:instrStepName>Klare mit Hefen in Schmelzbutter zu backen</ns0:instrStepName>
+      <ns0:instrStepText>Ein Viertel Pfund feines Mehl wird mit &#8539; Ma&#223; (einer Tasse voll) warm gemachtem Bier oder Wein, 2 Eidottern und etwas Salz zerr&#252;hrt, nebst 2 Loth zerlassener Butter, 2 zu Schaum geschlagenem Eiwei&#223; und einem L&#246;ffel dicker, oder einem Loth trockener Hefen. (Die Masse mu&#223; so dick sein, da&#223; sie an dem, was man hinein tunkt, h&#228;ngen bleibt.) Man l&#228;&#223;t nun solches aufgehen, tunkt das Bestimmte hinein und legt es dann schnell in das kochende Schmalz, w&#228;hrend man es ein Mal umdreht und sch&#246;n gelb werden l&#228;&#223;t.</ns0:instrStepText>
+      <ns0:instrStepText>Anmerk. Man kann zu allen Klaren, die nicht zu Fleischspeisen gebraucht werden, einen E&#223;l&#246;ffel Rum geben.</ns0:instrStepText>
+    </ns0:instruction>
+    <ns0:instruction>
+      <ns0:instrStepName>Klare von Eiern</ns0:instrStepName>
+      <ns0:instrStepText>Ein Achtel Ma&#223; frische Milch wird mit &#188; Pfund feinem Mehl, 3&#8212;4 Eidottern, etwas Salz zerr&#252;hrt, dann das von diesen Eiern zu Schaum geschlagene Wei&#223;e darunter gemischt, das Bestimmte hinein getunkt und in kochender Schmelzbutter oder Schmalz gebacken.</ns0:instrStepText>
+    </ns0:instruction>
+    <ns0:instruction>
+      <ns0:instrStepName>Klare von Wein</ns0:instrStepName>
+      <ns0:instrStepText>Ein Achtel Ma&#223; Wein, 2 Loth Butter, 2 Loth Zucker werden hei&#223; gemacht, 6 Loth Mehl darin auf dem Feuer abger&#252;hrt, etwas abgek&#252;hlt den steifen Schnee von 4 Eiern nach und nach darunter gemischt, das Bestimmte damit dick bestrichen und in Schmelzbutter oder Schmalz gebacken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

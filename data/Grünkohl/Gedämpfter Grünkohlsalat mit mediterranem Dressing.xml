@@ -1,0 +1,52 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fc620a4f-c50a-418f-be98-73edfe587a7d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Ged&#228;mpfter Gr&#252;nkohlsalat mit mediterranem Dressing</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>800 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gehackter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch nach Belieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den unteren Teil eines Gasdampfger&#228;tes oder eines elektrischen Dampfger&#228;tes mit Wasser f&#252;llen und dieses auf der h&#246;chsten Stufe zum Kochen bringen. Sobald das Wasser kocht, den zerkleinerten Gr&#252;nkohl hineingeben und mit einem Deckel abdecken. Etwa 8 Minuten kochen lassen. Der Gr&#252;nkohl sollte dann weich sein.
+W&#228;hrend der Gr&#252;nkohl kocht, Oliven&#246;l, Zitronensaft, Sojasauce, Knoblauch, Pfeffer und Salz nach Geschmack in eine gro&#223;e R&#252;hrsch&#252;ssel geben und gut verquirlen.
+Nun den ged&#252;nsteten Gr&#252;nkohl unterheben und vorsichtig mit dem Dressing vermischen, sodass das ganze Gem&#252;se davon benetzt ist.
+Hei&#223; servieren!
+Pro Portion ca. 91 Kcal</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,104 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e32e98df-c58f-4759-91cf-2f4b548cb98b">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Bami Goreng im Wok</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="agavendicksaft">Agavendicksaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="limette">Limettensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="walnuss">Ingwer, walnussgro&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tofu">Naturtofu</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>7 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="nudeln">Mie-Nudeln oder Tagliatelle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sesam">Sesam</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>60 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="cashew">Cashewkerne, ger&#246;stet und gesalzen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Agavendicksaft mit Sojasauce und Limettensaft verr&#252;hren. Knoblauch sch&#228;len und dazu pressen. Ingwer sch&#228;len und dazu reiben. Marinade gut verr&#252;hren.
+Tofu im K&#252;chenhandtuch gut ausdr&#252;cken, in ca. 1,5 cm gro&#223;e W&#252;rfel schneiden. Die H&#228;lfte mit der Marinade mischen und gelegentlich R&#252;hren, mindestens 15 min durchziehen lassen.
+Gr&#252;nkohl putzen, waschen und im Sieb abtropfen lassen. Alles in 1 - 2 cm breite Streifen schneiden.
+Kohl in einer Sch&#252;ssel mit 1 EL &#214;l und 1/2 TL Salz mit den H&#228;nden kr&#228;ftig durchkneten.
+M&#246;hren sch&#228;len, je nach Dicke l&#228;ngs vierteln oder achteln und quer in 4 cm lange Sticks schneiden. Zwiebeln sch&#228;len, halbieren und quer in ca. 0,5 cm dicke Halbringe schneiden.Chili waschen, halbieren, entkernen und fein w&#252;rfeln.
+Nudeln nach Packungsanleitung al dente garen. Im Sieb abgie&#223;en und abtropfen lassen.
+Sesam im Wok ohne Fett bei mittlerer Hitze hellbraun r&#246;sten und auf einen Teller zum Abk&#252;hlen geben.
+Im Wok 2 EL &#214;l erhitzen, Nudeln darin unter R&#252;hren ca. 3 min. bei mittlerer bis hoher Hitze anbraten, aus dem Wok nehmen und zur Seite stellen.
+Tofu aus der Marinade nehmen, 2 EL &#214;l im Wok erhitzen und Tofu darin ca. 5 min. bei mittlerer Hitze goldbraun anbraten. Aus dem Wok nehmen und zur Seite stellen.
+Restliches &#214;l im Wok erhitzen und M&#246;hren, Zwiebeln und Chili darin bei mittlerer bis hoher Hitze anbraten. Gr&#252;nkohl nach und nach zugeben und kurz mitbraten. Gem&#252;se mit restlicher Marinade und 150 ml Wasser abl&#246;schen, aufkochen und im geschlossenen Wok unter gelegentlichem R&#252;hren ca. 10 - 12 min. bei niedriger bis mittlerer Hitze k&#246;cheln lassen.
+Inzwischen die Cashewkerne grob hacken. Nudeln und Tofu unter das Gem&#252;se mischen und kurz erw&#228;rmen. Das Gericht nach Belieben mit Sojasauce und Salz abschmecken. Sesam untermischen,
+Auf 4 Schalen verteilen, mit Cashewkernen bestreuen und servieren.
+Tipps:
+Da Tagliatelle eine l&#228;ngere Garzeit haben, sollte Sie diese bereits aufsetzen, bevor Sie die M&#246;hren sch&#228;len.
+Lassen Sie das Gem&#252;se je nach gew&#252;nschter Bissfestigkeit l&#228;nger oder k&#252;rzer k&#246;cheln.
+Damit das Gem&#252;se nicht am Wok-Boden ansetzt, ggf. noch 50 ml Wasser zugeben.
+Pro Portion ca. 741 Kcal</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

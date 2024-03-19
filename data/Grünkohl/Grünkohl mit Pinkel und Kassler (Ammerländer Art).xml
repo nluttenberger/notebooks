@@ -1,0 +1,62 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9141589f-77b6-40c8-9f51-32751be4c112">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Pinkel und Kassler (Ammerl&#228;nder Art)</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Pinkel), Ammerl&#228;nder</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">R&#228;ucherbauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Gl&#228;ser</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, abgetropft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Kochwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="hafergr&#252;tze">Hafergr&#252;tze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>evtl.</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Rinderbr&#252;he, instant</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Fleisch und die Wurst werden in einem gro&#223;en Topf vollst&#228;ndig mit Wasser bedeckt und ca 45 min. gekocht (nicht zu hei&#223;, sonst platzen die W&#252;rstchen, ich stelle es immer auf Stufe 2). Danach f&#252;lle ich die Br&#252;he in einen Messbecher, der Rest wird weggekippt (es wird nur 1 Liter gebraucht). Die W&#252;rste und das Fleisch stelle ich zur Seite, sie werden erstmal nicht ben&#246;tigt.
+Dann kommt der abgetropfte Gr&#252;nkohl in den Topf, zusammen mit der Br&#252;he und der Hafergr&#252;tze. Das Ganze muss einmal aufkochen und dann ca 1 Std. k&#246;cheln (solange, bis die Hafergr&#252;tze weich ist) und wird anschlie&#223;end mit Senf, Salz und Pfeffer gew&#252;rzt (ich bevorzuge allerdings 1-2 TL Rinderbr&#252;he). Als Letztes kommt nun das Fleisch rein, um es zu erw&#228;rmen.
+Meistens platzt beim Kochen der Br&#252;he mindestens eine Pinkel, falls nicht, empfehle ich mindestens eine vom Darm zu befreien und zum Gr&#252;nkohl zu geben. Dazu gibts nat&#252;rlich Salzkartoffeln und am 2. Tag Bratkartoffeln.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

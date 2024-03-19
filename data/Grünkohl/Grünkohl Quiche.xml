@@ -1,0 +1,109 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4c2ab7a3-ea11-4e80-ad9e-dc2986d52e52">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl Quiche</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Dinkelmehl Type 1050 oder Weizenmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Margarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>40 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="cashew">Cashewkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Msp.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Margarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="ananas">Ananasst&#252;cke, 200 g Abtropfgewicht</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, geputzt gewogen mind. 200 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwerwurzel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), mittelscharf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Margarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Currypulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokosmilch">Kokosmilch oder pflanzliche Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r den M&#252;rbeteig:
+Mehl, Margarine, Ei, 3 EL kaltes Wasser und Salz in eine R&#252;hrsch&#252;ssel geben, z&#252;gig zu einem Teig verkneten und dann zu einer Kugel formen.
+Quiche-Form einfetten, Teig mithilfe von Mehl zu einem Kreis von etwa 32 cm Durchmesser ausrollen. Teigplatte in die Form legen, sodass Boden und Rand ausgekleidet sind. Teig andr&#252;cken. &#220;ber den Rand hinausragenden Teig abschneiden. Boden mit einer Gabel mehrfach einstecken. Form ca. 30 Min. in den K&#252;hlschrank stellen.
+F&#252;r den Belag:
+Die Cashewkerne ohne Fettzugabe in einer Pfanne unter R&#252;hren langsam goldbraun r&#246;sten, kurz vor Schluss 1 Msp. Margarine zugeben und mit etwas Salz bestreuen. Abk&#252;hlen lassen. F&#252;r den Guss Zwiebeln, Knoblauch und Ingwer sch&#228;len. Die Zwiebeln und den Knoblauch fein w&#252;rfeln. Chilischoten waschen, entkernen, vierteln und in sehr feine Streifen schneiden. Ananasst&#252;cke abgie&#223;en, Saft auffangen.
+1 EL Margarine in einem Topf erhitzen, die Zwiebeln darin etwa 5 Min. auf mittlerer Stufe unter R&#252;hren glasig and&#252;nsten, dabei Knoblauch dazugeben, Ingwer dazu reiben, Chilischoten und Salz dazugeben. Mit Curry best&#228;uben und gut verr&#252;hren, etwa 1 Min. weiter d&#252;nsten. Mit Ananassaft und der Kokosmilch abl&#246;schen, kurz aufkochen. Zum Abk&#252;hlen in eine Sch&#252;ssel geben.
+Zum Gr&#252;nkohlblanchieren ca. 3 L Wasser mit 1 geh. TL Salz in einem gro&#223;en Topf aufkochen. Parallel Gr&#252;nkohl verlesen, d. h. vom Strunk abzupfen und in kleine St&#252;cke teilen. Gut waschen und abtropfen lassen. Gr&#252;nkohl in das kochende Salzwasser und ca. 30 - 60 Sek. blanchieren. Sofort in ein Sieb geben und mit kaltem Wasser abbrausen. Gut abtropfen lassen.
+Backofen auf 190 &#176;C Ober-/Unterhitze oder 170 &#176;C Umluft vorheizen.
+Erst Gr&#252;nkohl, dann Ananasst&#252;cke und Cashewkerne auf dem M&#252;rbeteig verteilen. F&#252;r den Guss die 3 Eier zum Curry-Kokosmilch-Gemisch geben, mit einem Schneebesen gut verschlagen. Guss mit einer Kelle &#252;ber den Belag gie&#223;en, Zwiebel- und Chilischotenst&#252;ckchen mit einem Teel&#246;ffel leicht unterarbeiten.
+Quiche im Backofen auf mittlerer Schiene 35 - 40 Min. backen. Vor dem Anschneiden mindestens 10 Min. bei Zimmertemperatur ruhen lassen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

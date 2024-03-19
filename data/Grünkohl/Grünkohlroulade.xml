@@ -1,0 +1,56 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-67d4dcf3-0421-4d12-90f1-057cba95776c">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlroulade</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Gr&#252;tzwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rstchen (Mettenden)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Gr&#252;tzwurst 30 Min. kochen, die Mettenden nach 25 Min dazugeben. Das Kochwasser aufbewahren. Den Gr&#252;nkohl waschen, entrippen und blanchieren.
+Die Gr&#252;nkohlbl&#228;tter auf Alufolie zu vier 15 x 20 cm gro&#223;en Rechtecken ausbreiten. Den restlichen Gr&#252;nkohl sowie die Zwiebeln fein hacken. Die Gr&#252;tzw&#252;rste h&#228;uten und fein w&#252;rfeln.
+Die Zwiebeln im Schmalz glasig anschwitzen, dann Gr&#252;tzwurstw&#252;rfel sowie den gehackten Gr&#252;nkohl zugeben und mit Kochwasser angie&#223;en. Den Kohl darin 30 Min. garen und den Fond m&#246;glichst verkochen lassen. Mit Salz, Pfeffer und Senf abschmecken.
+Die Masse dann auf den Gr&#252;nkohlbl&#228;ttern verstreichen und die Mettenden mittig darauf legen. Das Ganze stramm mit der Alufolie einrollen und im K&#252;hlschrank gut durchk&#252;hlen lassen.
+Vor dem Servieren im vorgeheizten Backofen etwa 10 Min. bei 150&#176;C erw&#228;rmen und die Folie vorsichtig entfernen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

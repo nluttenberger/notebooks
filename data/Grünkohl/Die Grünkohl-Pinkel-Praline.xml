@@ -1,0 +1,40 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9919c598-1052-4074-9679-ced13e9657c3">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Die Gr&#252;nkohl-Pinkel-Praline</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, fertig gegart</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 cm</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Wurst (Pinkelscheibe), gepellt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Msp.</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Bei einem Gr&#252;nkohlessen mit Freunden ist es in Norddeutschland Tradition, vor dem Genuss einen ausgedehnten Fu&#223;marsch zu absolvieren, der f&#252;r den richtigen Hunger sorgen soll.
+Wenn dann die Gesellschaft nach dieser Anstrengung am Tisch Platz nimmt, erwartet sie normalerweise, dass sofort serviert wird. Findet das Essen in einem Lokal statt, ist das auch kein Problem, wenn der Zeitpunkt vorher ausgemacht wurde.
+Findet das Essen allerdings in einem privaten Haushalt statt, wobei auch der oder die Gastgeber an dem Marsch teilgenommen haben, funktioniert das nicht. Es m&#252;ssen erst die zwar schon gesch&#228;lten, aber noch rohen Kartoffeln aufgesetzt und gekocht sowie der schon fertige Kohl wieder erhitzt werden. Damit vergeht etwa eine halbe Stunde. Was soll also in der Zwischenzeit den G&#228;sten angeboten werden, damit sie nicht ungeduldig werden?
+In diesem Fall bietet sich die Gr&#252;nkohl-Pinkel-Praline an, so habe ich sie jedenfalls genannt, denn sie ist schnell gemacht und sorgt f&#252;r ein Aha-Erlebnis bei den G&#228;sten. Dieser Happen besteht aus einem TL Gr&#252;nkohl, der mit einer Pinkelscheibe abgedeckt wird. Dies setzt man in ein Papier-Backf&#246;rmchen und erhitzt es kurz in Backofen oder Mikrowelle. Vor dem Servieren eine Msp. Senf auf die Pinkelscheibe geben und schon wird serviert. Das ist eine Arbeit von 5-10 Minuten, denn der Kohl ist ja bereits fertig. Serviert wird das Backf&#246;rmchen auf einer Untertasse zusammen mit einem Teel&#246;ffel als Esshilfe.
+Bei mir zu Hause hat dieser rustikale &#8222;Gru&#223; aus der K&#252;che&#8220; den G&#228;sten sehr gut gefallen und auch das erste Magenknurren unterbunden.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

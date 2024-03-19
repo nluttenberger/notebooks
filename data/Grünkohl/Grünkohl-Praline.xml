@@ -1,0 +1,43 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-60d873cf-9fb9-4c4e-a75d-38d52a475d56">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Praline</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="teig">Yufka-Teigbl&#228;tter, ersatzweise Strudelteig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter, zerlassen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, fertig zubereitet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Mettenden d&#252;nn geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Rezept ist aus der Tatsache entstanden, dass ich noch einen Minirest an Gr&#252;nkohl hatte und vom Tag vorher noch Yufkateig im K&#252;hlschrank. Probiert es aus, wir waren begeistert!
+Die Yufkabl&#228;tter halbieren und mit der zerlassenen Butter bestreichen. In das obere Viertel jeweils 1 EL Gr&#252;nkohl geben und eine d&#252;nne Scheibe der Mettenden auflegen. Das obere Viertel umschlagen, dann die Seitenteile rechts und links &#252;ber das Viertel geben (mittig zusammenf&#252;hren) und das R&#246;llchen bis unten aufrollen. Nicht zu straff aufrollen, da sonst die Gefahr besteht, dass das R&#246;llchen rei&#223;t.
+Auf ein mit Backpapier ausgelegtes Backblech so legen, dass die Naht unten ist. Die Oberseite nochmals mit Butter bestreichen. Wenn man keine Butter hat, kann man auch &#214;l nehmen, das funktioniert auch.
+Den Ofen auf 200 Grad vorheizen und die R&#246;llchen 20 Minuten backen. Ca. 5 Minuten abk&#252;hlen lassen und genie&#223;en.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

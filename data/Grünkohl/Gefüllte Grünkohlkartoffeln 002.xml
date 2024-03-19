@@ -1,0 +1,82 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c0bdb59f-1b40-46d2-a476-99343315b9f6">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gef&#252;llte Gr&#252;nkohlkartoffeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Beutel</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Gr&#252;nkohl, gezupfter (pro Kartoffel wird 1/2 Tasse blanchiert ben&#246;tigt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), (festkochend)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, durchwachsener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">s&#252;&#223;e Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Tasse/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan, geriebener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="br&#252;he">Br&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="rosmarin">Rosmarin</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Kartoffeln sch&#228;len, eine Kappe der L&#228;nge nach abschneiden und aush&#246;hlen (mit scharfem kleinem Messer oder Kugelausstecher). Gr&#252;nkohl von den groben Str&#252;nken befreien und in kochendem Salzwasser 3 Minuten blanchieren, dann kalt abschrecken und das Wasser ausdr&#252;cken. Kleingeschnittene Zwiebeln, Knobi und Speck in einem Topf in Oliven&#246;l and&#252;nsten.
+Pro Person eine halbe Tasse voll ausgedr&#252;cktem Gr&#252;nkohl dazugeben, mit Sahne aufgie&#223;en und mit Salz, Pfeffer und Muskat w&#252;rzen. Ein bis zwei Minuten k&#246;cheln lassen. Die Masse in die ausgeh&#246;hlten Kartoffeln f&#252;llen und fest in die Kartoffel dr&#252;cken. Mit Parmesan bestreuen und etwas Oliven&#246;l dar&#252;ber geben. Die gef&#252;llten Kartoffeln auf ein Backblech oder in eine Auflaufform legen und im Ofen 35 Minuten bei 200 Grad braten.
+Die ausgekratzten Kartoffelreste mit Zwiebeln, Butter, etwas Rosmarin und Salz in einer Pfanne schmoren und mit etwas Br&#252;he abl&#246;schen!</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

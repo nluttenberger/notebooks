@@ -1,0 +1,62 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fb1e4e5e-2428-49e6-8e3d-91810076b218">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsalat</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfelessig">Apfelessig oder Weinessig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senfsamen">Senfk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan, gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl waschen und die Mittelrippen herausschneiden. Dabei bleiben nur noch etwa 250g Gr&#252;nkohl &#252;brig.
+Den Kohl am besten zusammenrollen oder fest zusammendr&#252;cken und so fein wie m&#246;glich schneiden. In eine gro&#223;e Sch&#252;ssel geben und mit Essig, Zitronensaft, &#214;l und Salz vermengen. Der anfangs feste Kohl wird durch Essig und Zitrone weicher und f&#228;llt mit der Zeit zusammen.
+Der Kohl sollte mindestens drei Stunden ziehen, er sollte &#246;fter durchger&#252;hrt werden. Man kann ihn auch eine Nacht im K&#252;hlschrank ziehen lassen.
+Kurz vor dem Servieren die Senfk&#246;rner und den fein geschnittenen Knoblauch in &#214;l in der Pfanne anr&#246;sten. Man kann die Senfk&#246;rner vorher im M&#246;rser ein wenig zersto&#223;en. Mit dem Salat vermengen.
+Die Senfk&#246;rner sind nicht unbedingt n&#246;tig, der angebratene Knoblauch sollte aber sein. Anstelle der Senfk&#246;rner k&#246;nnen auch gehackte K&#252;rbis- oder Sonnenblumenkerne genommen werden.
+Nach dem Anrichten Parmesan dar&#252;ber streuen.
+Die Kalorienangabe ist unverbindlich. Wesentliche Kalorien haben nur das &#214;l und der K&#228;se, hier kann man selbst bestimmen, wie viel man nimmt.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

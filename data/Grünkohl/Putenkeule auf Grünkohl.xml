@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-225a4f47-54eb-412c-886f-31318bf099cf">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Putenkeule auf Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="pute">Putenbraten (Putenoberkeule)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, ger&#228;uchert, durchwachsen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>375 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, klare</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), mehlig kochend</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="brot">Toastbrot</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>40 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Knochen aus der Keule l&#246;sen. Kohl waschen, von den Rippen Streifen, in Salzwasser 3 Minuten d&#252;nsten, abtropfen, ausdr&#252;cken und grob hacken. Zwiebeln w&#252;rfeln.
+Schmalz erhitzen. 3/4 der Zwiebeln darin and&#252;nsten. Gr&#252;nkohl zugeben, etwas Br&#252;he angie&#223;en. Kartoffel sch&#228;len, in den Kohl reiben. Speck von der Schwarte l&#246;sen, in Streifen schneiden. Knochen und Schwarte zum Kohl geben. Zugedeckt ca. 30 Minuten schmoren.
+Keule einschneiden, aufklappen. Innenseite salzen, mit Senf bestreichen. Petersilie hacken, Brot zerbr&#246;seln, mit Rest Zwiebeln mischen, auf der Keule verteilen, aufrollen und zur Rolle binden. Salzen und pfeffern. In einem Br&#228;ter mit etwas Wasser im hei&#223;en Ofen (E-Herd 200&#176;C, Gas Stufe 3) ca. 1,5 Stunden garen.
+Speck zum Gr&#252;nkohl geben. 1 weitere Stunde schmoren. Dabei restliche Br&#252;he angie&#223;en. Kohl salzen und pfeffern.
+Dazu passen R&#246;stkartoffeln.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

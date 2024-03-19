@@ -1,0 +1,70 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fdc430f7-b0a0-45fc-9560-09792d2c2bf1">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Doppelt gespicktes Kingklipfilet auf Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>800 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fisch">Fischfilet(s), Kingklipfilet oder anderes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="aal">Aal(e), ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, (TK)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Wurst, Bremer Pinkel (leicht ger&#228;uchert)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Rinderbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 St&#252;ck(e)</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwieback">Zwieback</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 St&#228;ngel</ns0:igdtQuantity>
+        <ns0:igdtName ref="schnittlauch">Schnittlauch</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>In dieser Zusammenstellung wird der Genypterus capensis, das ist der lateinische Name f&#252;r den s&#252;dafrikanischen Kingklip, noch nicht serviert worden sein, da bin ich sicher. Nat&#252;rlich ist es ein ungew&#246;hnliches Rezept und wird bei Puristen ein Kopfsch&#252;tteln verursachen, aber es sollte wenigstens probiert worden sein, bevor es verurteilt wird.
+Zun&#228;chst wird der Kohl gekocht, weil er am l&#228;ngsten braucht. Man kann diese Arbeit auch schon am Tag zuvor machen, denn aufgew&#228;rmt schmeckt Gr&#252;nkohl noch besser. Daf&#252;r die Zwiebel sehr fein w&#252;rfeln und in etwas Butterschmalz glasig anschwitzen. Mit der Rinderbr&#252;he l&#246;schen, den Kohl dazugeben und langsam zum Kochen bringen. Bei geringer Hitze etwa 45 Minuten garen.
+Gleichzeitig wird die Pinkelwurst entfettet, in dem sie mehrere Male mit einer Nadel angepiekst und in Wasser erhitzt wird. Nicht kochen lassen, sonst platzt sie. Nach etwa 15 Minuten ist ein Teil des Fettes ausgelaufen, der Rest bleibt als Geschmackstr&#228;ger in der Wurst. Den Darm aufschneiden, die Wurst in den Gr&#252;nkohl dr&#252;cken und gut unterr&#252;hren. Mit Pfeffer und Salz, evtl. mit noch etwas Br&#252;he abschmecken. Der fertige Kohl sollte eine s&#228;mige Konsistenz haben Ist er zu d&#252;nnfl&#252;ssig, kann man ihn durch die Zugabe von Haferflocken binden.
+Zwieb&#228;cke zerst&#252;ckeln und mit dem Mixer p&#252;rieren. Fischfilets auf der Hautseite damit panieren. Butterschmalz in einer Pfanne erhitzen und die Fischfilets auf der panierten Seite etwa eine Minute stark anbraten. Dann die Hitze auf die H&#228;lfte herunterstellen und weitere 3 Minuten braten. Filets wenden und auf ausgestellter Herdplatte in ca. 3-4 Minuten fertig garen.
+Zwischenzeitlich den Aal in etwa 1 cm gro&#223;e W&#252;rfel schneiden und diese auf 8 Zahnstocher stecken. Jeweils mit einem Schnittlauchhalm die obere Spitze abdecken.
+Zum Anrichten gibt man den Kohl in die Mitte des Tellers und setzt die Fischfilets darauf. Jedes Filet wird mit zwei Spie&#223;en versehen.
+Dazu reiche ich Kartoffelw&#252;rfel, die in Rinderbr&#252;he gegart wurden.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,84 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7f6077d5-5299-496d-8b6c-f592b213f538">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Veganes S&#252;&#223;kartoffelp&#252;ree mit Gr&#252;nkohlchips und karamellisierten Zwiebeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="s&#252;&#223;kartoffel">S&#252;&#223;kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="paprikapulver">Paprikapulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tofu">R&#228;uchertofu</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Pflanzensahne (Pflanzencreme Cuisine), z. B. Sojasahne</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl gut waschen, den Strunk entfernen und die Bl&#228;tter in mundgerechte St&#252;cke zerteilen - nicht zu klein, der Gr&#252;nkohl schrumpft noch stark. Nun m&#252;ssen die Bl&#228;tter gut getrocknet werden, entweder mit einer Salatschleuder oder manuell mit einem Frotteetuch.
+F&#252;r die Marinade 10 ml Oliven&#246;l mit einer Prise Salz und Paprikapulver vermischen und &#252;ber die Bl&#228;tter geben. Den Gr&#252;nkohl auf einem mit Backpapier ausgelegten Backblech bei 130 &#176;C (Ober-/Unterhitze) 40 Minuten im vorgeheizten Backofen backen.
+W&#228;hrenddessen die Kartoffeln, die S&#252;&#223;kartoffel und die M&#246;hre sch&#228;len und in wenig gesalzenem Wasser gar kochen. Das Wasser abgie&#223;en, das Gem&#252;se mit einem Schuss Pflanzensahne stampfen und mit Salz, Pfeffer und Muskatnuss dezent w&#252;rzen.
+Die Zwiebeln in Streifen oder Ringe schneiden und mit ein wenig Sonnenblumen&#246;l glasig braten. Den R&#228;uchertofu ganz klein w&#252;rfeln und mit in die Pfanne geben. Alles sollte gut Farbe bekommen, bevor man den Zucker dazugibt, und die Zutaten karamellisieren l&#228;sst.
+Beim Servieren die karamellisierten Zwiebeln &#252;ber das P&#252;ree geben und die Chips dazu reichen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

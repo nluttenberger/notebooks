@@ -1,0 +1,100 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7c3f6c3a-764b-444e-9e68-b2f4b3aa75dc">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Schellfisch mit Kruste, Reis und Chinakohl-Gem&#252;se</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>220 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fisch">Schellfischfilet(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Pesto (mein Gr&#252;nkohl-Pesto aus der Datenbank)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paniermehl">Semmelbr&#246;sel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="suppengem&#252;se">Suppengem&#252;se, gesalzenes (mein Rezept aus der Datenbank)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="gouda">K&#228;se, geriebener, z. B. Pizzak&#228;se, Gouda oder Edamer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eiwei&#223;</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Tasse/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Langkornreis, ca.50 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Tasse/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte oder Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Kopf</ns0:igdtQuantity>
+        <ns0:igdtName ref="chinakohl">Chinakohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#252;mmel">K&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Semmelbr&#246;sel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eigelb</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Fischfilet abwaschen und mit K&#252;chenpapier trocknen und in kleine St&#252;cke schneiden, es kann aber auch ganz gelassen werden. Dann den Fisch mit Salz und Pfeffer w&#252;rzen und in Mehl w&#228;lzen bzw. damit best&#228;uben. Das Pesto mit Oliven&#246;l, Semmelmehl, Eiwei&#223;, ein wenig K&#228;seraspeln und dem gesalzenen Suppengem&#252;se mischen. Diese Masse auf dem Fischfilet verteilen und obenauf noch einmal ein wenig K&#228;seraspeln streuen. Die Fischfiletst&#252;ckchen auf ein Backpapier, welches oben zusammengeschlossen wird, legen und f&#252;r 15 - 20 Minuten bei 180 &#176;C in die Backr&#246;hre geben.
+In der Zwischenzeit den Langkornreis mit der zwei- bis dreifachen Menge Wasser aufkochen lassen. 15 Minuten auf kleiner Flamme k&#246;cheln lassen, bis der Reis bissfest und gar ist. Mit Gem&#252;sebr&#252;he oder nur Salz w&#252;rzen. Immer mal nachschauen und umr&#252;hren und gegebenenfalls Wasser zugeben. Man muss nicht st&#228;ndig dabei stehen.
+Den Chinakohl putzen und klein schneiden und mit etwas gew&#252;rzter Gem&#252;sebr&#252;he und etwas K&#252;mmel kurz aufkochen lassen. Die Butter dazugeben, von der Kochstelle nehmen und nicht l&#228;nger kochen.
+Abbinden mit Mehl und/oder mit Semmelmehl. Etwas abk&#252;hlen lassen und ein Eigelb unterziehen.
+Fisch, Reis und Gem&#252;se auf Tellern anrichten und eventuell mit Petersilie und Tomaten garnieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

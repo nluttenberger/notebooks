@@ -1,0 +1,79 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-87ea7fe4-de1c-47d0-bc7b-f8e1f1413d26">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Bremer Gr&#252;nkohl vegan</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Gl&#228;ser</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (ca. 1,8 kg), vegan</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="hafergr&#252;tze">Hafergr&#252;tze, man kann bis zu 150 g nehmen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz (Zwiebelschmalz), vegan, z.B. von Zwergenwiese</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tofu">R&#228;uchertofu</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinkelwurst">Pinkelw&#252;rste, vegan</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12</ns0:igdtQuantity>
+        <ns0:igdtName ref="bratwurst">Bratw&#252;rste, vegan</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Am besten am Vortag beginnen und zun&#228;chst die Zwiebel und den R&#228;uchertofu in kleine St&#252;cke schneiden und anschlie&#223;end in dem Zwiebelschmalz in einem gro&#223;en Topf kr&#228;ftig anbraten. Mit Sojasauce abl&#246;schen. Gr&#252;nkohl, Senf&#180;und Lorbeerbl&#228;tter hinzugeben, kurz anschwitzen und mit Gem&#252;sebr&#252;he abl&#246;schen. Die Hafergr&#252;tze hinzuf&#252;gen und den Gr&#252;nkohl  1 bis 1,5 Stunden k&#246;cheln lassen, dabei regelm&#228;&#223;ig umr&#252;hren. Guter Gr&#252;nkohl muss mindestens einmal richtig ansetzen! Zum Schluss noch mit Salz, Pfeffer, Zucker, Senf und Sojasauce gut abschmecken, die veganen Pinkel und W&#252;rstchen hinzuf&#252;gen und abk&#252;hlen lassen.
+Am n&#228;chsten Tag wieder erhitzen und noch mal eine gute Stunde k&#246;cheln lassen, damit alles richtig durchziehen kann. Ggf. nachw&#252;rzen und wenn notwendig mit noch etwas mehr Gem&#252;sebr&#252;he "schlotzig" k&#246;cheln.
+Parallel die Kartoffeln sch&#228;len, in St&#252;cke schneiden und in Salzwasser gar kochen.
+Option: (nicht original Bremer Art, aber megalecker): Die gekochten Kartoffeln in der Pfanne knusprig braten und karamellisieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

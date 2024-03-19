@@ -1,0 +1,73 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-de04ea68-2600-4da8-b553-ba38d04952fc">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Winterliches Stracciatella</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan, geriebener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paniermehl">Semmelbr&#246;sel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="rosenkohl">Rosenkohl, n. B. mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, 2 - 3 Bl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="schnittlauch">Petersilie oder Schnittlauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskatnuss, frisch gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="k&#252;rbiskern&#246;l">Raps&#246;l oder K&#252;rbiskern&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Eier mit dem Parmesan und den Semmelbr&#246;seln verquirlen. Die Br&#252;he aufkochen, das Eigemisch zugeben und mit dem Schneebesen verquirlen.
+In der Zwischenzeit das Gem&#252;se putzen, die M&#246;hren der L&#228;nge nach halbieren und in d&#252;nne Scheiben schneiden, den Rosenkohl nach Gr&#246;&#223;e vierteln oder achteln. Den Gr&#252;nkohl gut waschen, trocknen, von der Rippe schneiden und kleinhacken.
+Die Br&#252;he zweimal aufkochen und mit dem Schneebesen aufschlagen. Dann das Gem&#252;se hineingeben und kochen. Mit geriebener Muskatnuss, Pfeffer und evtl. Salz w&#252;rzen.
+Auf Suppenteller verteilen, mit etwas &#214;l betr&#228;ufeln und ggf. mit gehackten Kr&#228;utern bestreuen.
+Mit Brot serviert reicht es f&#252;r 2 Personen als Hauptmahlzeit, f&#252;r 4 Personen als Vorsuppe.
+Das Gem&#252;se kann je nach Vorliebe ge&#228;ndert werden. Blumenkohl eignet sich sehr gut und mit Spargel und etwas Zitronensaft und -abrieb ist es eine sehr gute Alternative zur &#252;blichen Spargelsuppe. Mit Spargelbr&#252;he ist es dann vegetarisch.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

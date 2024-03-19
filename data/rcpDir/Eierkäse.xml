@@ -1,0 +1,41 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-004">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Eierk&#228;se</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10 - 12</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName ref="sultaninen">Korinthen</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Zehn bis zw&#246;lf Eier, je nachdem sie gro&#223; sind, schl&#228;gt man gut durcheinander, r&#252;hrt sie mit einem Ma&#223; Milch und etwas Salz &#252;ber schwachem Feuer, bis es gerinnt (zu hei&#223; darf es nicht werden) und sch&#252;ttet es dann zum Ablaufen schnell in die Form, damit die Eier recht weich bleiben. Auch kann man einige Korinthen, die man vorher im Wasser hat aufquillen lassen, lagenweise durchstreuen. </ns0:instrStepText>
+      <ns0:instrStepText>Hat man inde&#223; etwas l&#228;nger Zeit, ehe der Eierk&#228;se gebraucht werden soll, so wird er jedenfalls milder, wenn man das Anger&#252;hrte in einen Steintopf sch&#252;ttet, solchen in kochendes Wasser stellt und dasselbe so lange fortw&#228;hrend kochen l&#228;&#223;t, bis die Eiermilch gerinnt. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish>Eine angenehme Sauce dazu ist: die Sahne von saurer Milch mit Zucker und Zimmet geschlagen, bis sie etwas sch&#228;umt. Auch pa&#223;t eine Wein- oder Fruchtsauce, so wie auch Milch mit Zucker und Zimmet gekocht, mit einigen Eidottern abger&#252;hrt; doch m&#252;ssen alle diese Saucen kalt sein. </ns0:recipeSideDish>
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

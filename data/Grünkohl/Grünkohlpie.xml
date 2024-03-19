@@ -1,0 +1,97 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0ff44c5b-53c4-4662-8a30-438099c53125">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlpie</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#252;mmel">K&#252;mmelpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Margarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Prisen</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tofu">R&#228;uchertofu</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, scharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="joghurt">Joghurt (Sojajoghurt)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Sojamehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojacreme">Sahne (Sojasahne)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">St&#228;rkemehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Fett f&#252;r die Form</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Aus Mehl, Margarine, 1 TL Salz und dem gemahlenen K&#252;mmel einen M&#252;rbeteig bereiten. Zugedeckt eine Stunde kaltstellen.
+F&#252;r die F&#252;llung den Gr&#252;nkohl grob hacken (oder TK-Gr&#252;nkohl auftauen lassen), die Zwiebeln hacken und den R&#228;uchertofu in kleine W&#252;rfel schneiden. Die Zwiebeln in einem gro&#223;en Topf im &#214;l glasig anschwitzen, dann nach und nach den tropfnassen Gr&#252;nkohl zugeben und anbraten.
+Das Wasser zugeben (evtl. etwas mehr, damit nichts anbrennt) und mit Salz und Pfeffer w&#252;rzen. Nach 5 Minuten Senf und Tofu untermischen und im geschlossenen Topf bei kleiner Hitze 10 Minuten schmoren lassen.
+F&#252;r den Guss Sojasahne mit Sojajoghurt (oder Seidentofu), 1 TL Salz, Pfeffer, Muskat, Sojamehl und St&#228;rkemehl glatt r&#252;hren.
+Den M&#252;rbteig in zwei Teile teilen und jede H&#228;lfte zu einem gro&#223;en Kreis ausrollen, eine gefettete Pieform (27 - 30 cm) mit einem Teigkreis auslegen. Sollte der Teig zu trocken sein, eventuell ein paar Tropfen Wasser zuf&#252;gen. Die F&#252;llung hineingeben und glatt streichen, dann den Guss gleichm&#228;&#223;ig dar&#252;ber verteilen.
+Mit dem zweiten Teigkreis bedecken, den Deckel mit der Gabel mehrfach einstechen und nach Wunsch mit etwas Sojasahne bestreichen. Bei 180&#176;C im vorgeheizten Ofen 30 - 40 Minuten backen. Dazu passen allerlei Wintergem&#252;se und Salat.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,78 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fde24116-2ce1-451d-8918-b50384ceff88">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Pesto</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="walnuss">Waln&#252;sse, frische</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gr&#252;ner (fetter R&#252;ckenspeck, unger&#228;uchert)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Prisen</ns0:igdtQuantity>
+        <ns0:igdtName ref="rauchsalz">Rauchsalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch, frisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan, frisch gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="muskat">Muskatnuss</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Rapskern&#246;l, Bio</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl putzen und die groben St&#228;ngel wegschneiden. Waschen und ca. 3 - 5 Minuten blanchieren. Abk&#252;hlen lassen.
+In der Zeit den Speck in ganz kleine W&#252;rfelchen schneiden und ebenso die Zwiebel. Den Speck zuerst in eine Pfanne geben und und ausbraten, dann erst die Zwiebeln dazugeben und diese anbr&#228;unen.
+In einer anderen Pfanne die Waln&#252;sse anr&#246;sten, anschlie&#223;end mit einem gro&#223;en K&#252;chenmesser grob hacken.
+Den abgek&#252;hlten Gr&#252;nkohl in einen Mixer geben und Speck, Zwiebeln und Waln&#252;sse dazugeben. Die Butter auch in der Pfanne fl&#252;ssig machen und dazugeben. Gut vermischen und dann mixen. Jetzt die ganzen restlichen Zutaten zu der Masse geben und alles gut vermischen.
+Man kann jetzt das Pesto in das Glas geben und fest verschlie&#223;en.
+Das Pesto passt zu Nudeln oder anderen Gerichten, etwa als Kruste zu Fisch oder Fleisch.
+Ich habe es aber auch weiter verarbeitet zu meinem Gr&#252;nkohlsenf, f&#252;r den das Rezept ebenfalls in der Datenbank ist.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

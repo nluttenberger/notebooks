@@ -1,0 +1,104 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e2c0c487-3115-4eb4-9e5e-af20bcd3779e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Kartoffel-Gr&#252;nkohlpuffer mit Joghurt-Kr&#228;utersauce</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="steinpilz">Steinpilze, getrocknete</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Pellkartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, geputzt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Sojamehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefe - W&#252;rze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paniermehl">Semmelbr&#246;sel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="majoran">Majoran</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarzer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pflanzenfett">Fett, (Pflanzenfett) zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="joghurt">Joghurt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che (oder saure Sahne)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gorgonzola">Gorgonzola</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="kr&#228;uter">Kr&#228;uter, gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, wei&#223;er</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Steinpilze in warmem Wasser ca. 1 Stunde einweichen. Kartoffeln als Pellkartoffeln zubereiten. Geputzten Gr&#252;nkohl ca. 10. Minuten in Salzwasser kochen.
+Zwiebeln klein hacken, Pilze klein schneiden, Kartoffeln pellen und grob reiben. Gr&#252;nkohl gut ausdr&#252;cken und sehr klein hacken. Alles vermischen mit Majoran, Hefew&#252;rze und schwarzem Pfeffer, Sojamehl, Mehl und Semmelbr&#246;sel unterkneten. Etwas ruhen lassen.
+Ca. 12-15 kleine Puffer formen und in einer beschichteten Pfanne in hei&#223;em Fett von beiden Seiten braten. Nach dem Braten auf ein K&#252;chentuch legen. So spart man Fett.
+Dazu passt eine Joghurt-Kr&#228;utersauce:
+Den Gorgonzola mit einer Gabel zerdr&#252;cken, mit Joghurt und Creme fraiche p&#252;rieren, Kr&#228;uter und eine Prise Zucker zugeben. Mit Pfeffer und Salz vorsichtig abschmecken (Gorgonzola ist schon salzhaltig).
+Tipp:
+statt Gr&#252;nkohl: Spinat, Mangold
+statt Sojamehl: 2 TL Sojalezithin fl&#252;ssig und 2 TL Creme fraiche
+statt Gorgonzola: 1 TL Honigsenf</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

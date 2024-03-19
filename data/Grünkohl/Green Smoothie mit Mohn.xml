@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c6b5ae82-a941-48b9-a504-669754aa60c5">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Green Smoothie mit Mohn</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Port.</ns0:igdtQuantity>
+        <ns0:igdtName ref="kohlrabi">Bl&#228;tter, (Kohlrabibl&#228;tter)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>25 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie, ca.1/2 Bund</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, evtl. TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="banane">Banane(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfel">Apfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mango">Mango(s), evtl. getrocknet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="mohn">Mohn, gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="leinsamen">&#214;l, (Leinsamen&#246;l)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="orangensaft">Orangensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Je nach Mixer zun&#228;chst ggf. den Gr&#252;nkohl auftauen lassen (z. B. einfach im O-Saft). Die Bl&#228;tter eines Kohlrabis und die Petersilie (ruhig mit Stielen) grob hacken, den gewaschenen Apfel in grobe St&#252;cke schneiden. Das Apfelgeh&#228;use darf ruhig mit in den Smoothie. Dann zusammen mit dem Orangensaft, dem Gr&#252;nkohl und der Mango in einem hohen Gef&#228;&#223; ca. 2 Min. p&#252;rieren. Dann mit den restlichen Zutaten auff&#252;llen und nochmals p&#252;rieren, bis keine St&#252;ckchen mehr zu sehen sind. Schlie&#223;lich mit etwas Wasser auff&#252;llen, um die gew&#252;nschte Konsistenz zu erreichen.
+Tipps:
+Es braucht nicht viel &#214;l zu sein. Einige Tropfen reichen aus, damit der K&#246;rper die Vitamine gut aufschlie&#223;en kann.
+Dazu passen auch einige Beeren oder Datteln statt der Mango - je nachdem, was eben gerade so im Haus ist. Statt des Mohns w&#228;re ein Versuch mit Weizenkleie oder N&#252;ssen sicher auch lohnenswert.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

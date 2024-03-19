@@ -1,0 +1,84 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-56ea6322-d5ec-42da-a475-ca7ab12397db">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohls&#252;ppchen pur aus Fiefhusen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, entstrunkt, gezupft und gewaschen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Wasser, leicht gesalzen, zum Blanchieren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt, frisch, mehrfach eingeritzt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, gek&#246;rnt, Bio</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cayennepfeffer">Cayennepfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Raps&#246;l oder Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n), fein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lauchzwiebel">Lauchzwiebel(n), fein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Weizenmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker, brauner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#252;rbiskern&#246;l">K&#252;rbiskern&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="balsamico">Balsamico, bei Bedarf vegan</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den frischen Gr&#252;nkohl vom Hofladen um die Ecke erstmal von den groben Strunken befreien, in ca. 1 Euro-M&#252;nzen-Gr&#246;&#223;e klein zupfen und ausgiebig unter flie&#223;endem Wasser waschen. Um die 300 g f&#252;rs Gericht zu haben, braucht man etwa 400 - 500 g "Ausgangsmaterial".
+Jetzt das leicht gesalzene Wasser zum Kochen bringen. Das Lorbeerblatt entlang der Blattadern mehrfach einschneiden und dazugeben. Durch das Einschneiden kommt der volle Geschmack des Lorbeers hervor. Auch hinein kommt die Gem&#252;sebr&#252;he. Jetzt den Gr&#252;nkohl zugeben und ca. 8 Minuten leicht sprudelnd k&#246;cheln lassen. Danach den Gr&#252;nkohl mit einer Schaumkelle herausnehmen und in kaltem Wasser abschrecken. Dadurch wird der Garprozess unterbrochen und es bleibt die sattgr&#252;ne Farbe. Das Lorbeerblatt herausnehmen. Das Kochwasser unbedingt aufbewahren.
+In einem neuen Topf nun das &#214;l (f&#252;r die vegane Version) oder die Butter (f&#252;r die vegetarische Version) auf 3/4 Hitze bringen und darin den Knoblauch und die Lauchzwiebeln mit dem Zucker ca. 3 Minuten glasig anschwitzen. Jetzt das Mehl hinzugeben und gr&#252;ndlich und h&#228;ufig mit dem Schneebesen ins hei&#223;e Fett einr&#252;hren. Jetzt bitte 2 - 3 Minuten unter h&#228;ufigem R&#252;hren anschwitzen lassen, ohne dass die Schwitze braun wird.
+Vom Kochwasser des Kohls einen Liter abmessen, in 2 - 3 Portionen zugeben und mehrfach umr&#252;hren, bis die Suppenbasis anf&#228;ngt sprudelnd zu k&#246;cheln. Die Hitze auf 1/2 zur&#252;ckdrehen und 3 - 4 Minuten k&#246;cheln lassen, damit die Bindung entsteht und sich der Mehlgeschmack verliert. Anschlie&#223;end den Gr&#252;nkohl und den Cayennepfeffer zugeben und noch einmal aufwallen lassen.
+Mit dem P&#252;rierstab ("Zauberstab") ausgiebig auf h&#246;chster Stufe p&#252;rieren und mit Salz und Pfeffer aus der M&#252;hle nach pers&#246;nlichem Geschmack abschmecken.
+Zuletzt in vorgew&#228;rmten Suppentellern, -tassen oder Gl&#228;sern anrichten und &#252;ber jede Portion einige Tropfen K&#252;rbiskern&#246;l und Balsamicoessig geben. Fertig.
+Die S&#228;ure des Balsamico auch immer erst direkt vor dem Verzehr zugeben, da sonst die Gefahr besteht, dass durch die S&#228;ure die sch&#246;ne gr&#252;ne Farbe grau wird.
+Die Suppe hat servierbereit eine ganz kleine St&#252;ckigkeit, die auch gewollt ist. Wer dies nicht mag, kann die Suppe noch durch ein feines Sieb passieren. Mit dem &#252;brigen Kochwasser des Kohls kann man auch die S&#228;migkeit der Suppe noch etwas nach Geschmack nachjustieren.
+Wer mag, kann in der vegetarischen Variante noch einen Klacks geschlagene Sahne in die Mitte geben oder in der flexitarischen Variante eine knusprig gebratene Scheibe Bacon dar&#252;berlegen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

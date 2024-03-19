@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-591ff753-67b8-49be-98c4-9e3b032d56f6">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Wintereintopf mit Gr&#252;nkohl und K&#252;rbis</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleiner</ns0:igdtQuantity>
+        <ns0:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Br&#252;he, bzw. 2TL Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chili&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Msp.</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Pimentpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenw&#252;rfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="hackfleisch">Mettenden</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomate(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zuerst den K&#252;rbis f&#252;r 20 Minuten bei 120 Grad auf dem Rost vorgaren. Der K&#252;rbis wird dadurch weicher und kann besser zerteilt werden. Den K&#252;rbis kann man mit Schale verarbeiten. Nachdem der K&#252;rbis etwas abgek&#252;hlt ist, kann man ihn ohne weiteres zerteilen. Die Kerne kann man am besten mit einem L&#246;ffel entnehmen.
+In der Zwischenzeit die Zwiebel und die Tomaten kleinschneiden. Danach die Kartoffeln sch&#228;len und in kleine St&#252;cke w&#252;rfeln.
+Wenn das alles fertig ist, gebe ich gut 2 EL Chili&#246;l in einen gro&#223;en Topf. Das Chili&#246;l ist Oliven&#246;l, in dem eine kleine scharfe Chili eingelegt wurde. Danach gebe ich die Zwiebel und den Schinken dazu und schwitze alles kurz an. Mit der Fl&#252;ssigkeit aus dem Glas Gr&#252;nkohl l&#246;sche ich ab. Nun kommen die Kartoffeln, der K&#252;rbis, die Tomatenst&#252;ckchen und der Gr&#252;nkohl nacheinander in den Topf. Da ich gek&#246;rnte Br&#252;he verwende, f&#252;lle ich das Glas Gr&#252;nkohl mit Wasser auf und gebe 2 geh&#228;ufte Teel&#246;ffel Br&#252;he dazu. Dann mache ich kurz den Deckel auf das Glas, um auch noch die letzten Reste Gr&#252;nkohl aus dem Glas zu sch&#252;tteln. Die Fl&#252;ssigkeit gebe ich dann in den Topf und lasse alles f&#252;r 20 Minuten k&#246;cheln. Zwischendurch gebe ich noch das Pimentpulver hinzu.
+Wenn nach 20 Minuten alles weich gekocht ist, gehe ich mit einem Kartoffelstampfer in die Suppe und zerdr&#252;cke die einzelnen Bestandteile. Diese Methode erh&#228;lt die Struktur in der Suppe. Wer es lieber feiner mag, kann nat&#252;rlich auch einen P&#252;rierstab benutzen. Als letztes kommen die klein geschnittenen Mettenden dazu. Die geben noch eine gute W&#252;rze ab. Erst nachdem der Eintopf einmal richtig aufgekocht ist, w&#252;rde ich noch mal mit Salz und Pfeffer abschmecken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

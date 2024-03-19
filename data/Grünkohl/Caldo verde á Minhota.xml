@@ -1,0 +1,59 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-487e1aaa-8492-4042-b16c-5fdeaf58ceb0">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Caldo verde &#225; Minhota</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="blumenkohl">Gr&#252;nkohl (portug. couve galega), ersatzweise Gr&#252;nkohl, Spinat, Blumenkohlbl&#228;tter, Lattich oder Mangold</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Wurst (chouri&#231;o de carne) oder ger&#228;ucherte gew&#252;rzte Paprikawurst</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>2 EL Oliven&#246;l in einem gro&#223;en Topf erhitzen. Die fein geschnittenen Zwiebeln und den klein gehackten Knoblauch mit etwas Salz mischen und glasig anr&#246;sten. Gesch&#228;lte, in d&#252;nne Scheiben geschnittene Kartoffeln dazugeben, kurz anbraten, so viel Wasser angie&#223;en, dass alles gut bedeckt ist und die Kartoffelscheiben bei m&#228;&#223;iger Hitze weich kochen. Topf vom Herd nehmen, die Kartoffeln p&#252;rieren und den Brei ins Kochwasser zur&#252;ckgeben.
+Die in fadend&#252;nne Streifen geschnittenen Kohl- oder Gem&#252;sebl&#228;tter, Salz und Pfeffer hinzuf&#252;gen, zum Kochen bringen und bei starker Hitze kochen lassen, bis der Kohl weich ist. Wurst in einer Pfanne mit reichlich Wasser zum Kochen bringen, 12-15 Minuten k&#246;cheln lassen, herausnehmen und in Scheiben schneiden.
+2 EL Oliven&#246;l in die Suppe mischen, die Wurstscheiben einlegen und 2-3 Min. erhitzen.
+Die fertige Suppe in Tonschalen gie&#223;en und mit frischem Brot, am besten passt nat&#252;rlich Maisbrot, auf den Tisch bringen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

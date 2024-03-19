@@ -1,0 +1,106 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-034a0533-d48f-4804-b93a-94bc52b9e305">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Entenbrust mit Linsengem&#252;se</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n) (&#224; 30 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="linsen">Berglinsen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerblatt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Entenfond</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="balsamico">Aceto balsamico</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ente">Barbarie-Entenbr&#252;ste (&#224; 400 g; k&#252;chenfertig)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Raps&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfefferk&#246;rner, gr&#252;ne, eingelegte, plus etwas zum Bestreuen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Schalotte(n) (&#224; 30 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>120 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomaten, passierte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Entenfond</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter, kalte (20 g)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r die Zubereitung ben&#246;tigte K&#252;chenutensilien: Fleischthermometer.
+F&#252;r das Gem&#252;se Gr&#252;nkohl putzen, waschen und trocken schleudern. Bl&#228;tter von den harten St&#228;ngeln befreien und in grobe St&#252;cke schneiden. Schalotten und Knoblauch fein w&#252;rfeln. Linsen im Sieb sorgf&#228;ltig waschen und abtropfen lassen.
+Oliven&#246;l im Topf erhitzen, Schalotten und Knoblauch darin bei mittlerer Hitze ca. 2 Minuten d&#252;nsten. Linsen zugeben und 1 Minute mitd&#252;nsten. Lorbeerblatt, Entenfond, 4 EL Essig und 300 ml Wasser zugeben, aufkochen und bei kleiner bis mittlerer Hitze mit halb geschlossenem Deckel 30 - 35 Minuten garen. 10 Minuten vor Ende der Garzeit Gr&#252;nkohl zu den Linsen geben.
+F&#252;r das Fleisch inzwischen Entenbr&#252;ste trocken tupfen, die Haut mit einem scharfen Messer im Abstand von 1 - 2 cm mehrmals einschneiden und mit Salz bestreuen. Raps&#246;l in einer Edelstahlpfanne erhitzen, die Entenbr&#252;ste darin auf der Hautseite bei mittlerer bis starker Hitze 3 - 4 Minuten goldbraun und knusprig anbraten (ggf. mit einem schweren Topf beschweren). Entenbr&#252;ste wenden, weitere 2 Minuten braten und aus der Pfanne nehmen, Pfanne beiseitestellen. Entenbr&#252;ste auf ein Backofengitter mit Fettpfanne (tiefes Backblech) geben und im vorgeheizten Backofen bei 180 Grad (Umluft nicht empfehlenswert) auf der mittleren Schiene ca. 8 - 10 Minuten auf eine Kerntemperatur von ca. 62 Grad garen (Fleischthermometer benutzen!). Aus dem Backofen nehmen und abgedeckt ca. 5 Minuten ruhen lassen.
+F&#252;r die Sauce inzwischen Pfeffer abtropfen lassen und im M&#246;rser grob zersto&#223;en. Schalotten halbieren und in feine Streifen schneiden. Pfeffer und Schalotten im Bratfett der Entenbr&#252;ste ca. 2 Minuten d&#252;nsten. Passierte Tomaten und Fond zugeben, Bratensatz mit einem Pfannenwender vom Pfannenboden l&#246;sen und 5 - 7 Minuten offen kochen lassen. Sauce durch ein feines Sieb in einen Topf gie&#223;en und erhitzen. Kalte Butter in W&#252;rfeln nach und nach in die Sauce r&#252;hren, bis sie andickt, dabei Sauce nicht mehr kochen lassen. Mit Salz w&#252;rzen und warm halten.
+Gem&#252;se mit restlichem Essig (2 EL), Salz und Pfeffer w&#252;rzen. Entenbr&#252;ste gegen die Faser in 1 cm breite Scheiben schneiden und mit Gem&#252;se und Pfeffersauce auf 4 Tellern anrichten. Mit ein paar gr&#252;nen Pfefferk&#246;rnern bestreut servieren.
+Pro Portion 54 g E, 33 g F, 31 g KH = 683 kcal (2861 kJ)</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

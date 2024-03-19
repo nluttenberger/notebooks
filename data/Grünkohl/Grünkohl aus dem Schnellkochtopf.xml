@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a5fd726f-aaa7-4738-957f-f0fb8322fd88">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl aus dem Schnellkochtopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, locker tiefgefroren, kein Block, den m&#252;sste man vorher auftauen lassen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 dicke</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sonnenblumen&#246;l">Fett, z. B. Margarine oder Sonnenblumen&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Wurst (Kohl-), frisch oder ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler - Koteletts</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 dicke</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Fett in einen gro&#223;en  Schnellkochtopf geben, 1 gew&#252;rfelte Zwiebel zuf&#252;gen, hei&#223; werden lassen, kurz and&#252;nsten, Gr&#252;nkohl zugeben und salzen, mit hei&#223;em Wasser &#252;bersch&#252;tten (der Gr&#252;nkohl f&#228;llt dabei flacher zusammen). Schnellkochtopf schlie&#223;en, hochkochen und 10 Minuten garen lassen, dann unter kaltem Wasser abk&#252;hlen und &#246;ffnen.
+Kohlwurst kurz waschen, in den hei&#223;en Gr&#252;nkohl dr&#252;cken, evtl. noch hei&#223;es Wasser zugeben, wenn die Wurst sich nicht so einfach im Gr&#252;nkohl untertauchen l&#228;sst. Kasseler nach Wunsch dazu geben und eindr&#252;cken, jetzt die zweite gew&#252;rfelte Zwiebel oben auf den Kohl geben, den Topf schlie&#223;en, hochkochen und etwa 9-10 Minuten weiter garen. Es kommt auf die Beschaffenheit der Kohlwurst an, sie soll ja gar sein, aber nicht platzen - muss man austesten f&#252;r das n&#228;chste Mal. Topf unter kaltem Wasser abk&#252;hlen, &#246;ffnen und auf den Herd zur&#252;ck stellen, Wurst und Kasseler (wenn zugegeben) herausnehmen und warm stellen.
+Die geriebene Kartoffel zum Binden in den kochenden Kohl einr&#252;hren, evtl. die Menge erh&#246;hen, wenn der Kohl noch zu fl&#252;ssig erscheint. Nun Senf zuf&#252;gen und Muskat dar&#252;ber reiben, verr&#252;hren, abschmecken und evtl. nachsalzen. Bei ger&#228;ucherter Kohlwurst eher weniger, auch Kasseler bringt mehr Salz ein.
+Dazu schmecken Salzkartoffeln, die man auch gew&#252;rfelt zugeben kann, so dass daraus eine Art Eintopf wird. Zur Wurst unbedingt Senf reichen. Uns schmeckt am besten die frische Kohlwurst mit scharfem Senf.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

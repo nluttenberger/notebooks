@@ -1,0 +1,80 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-050">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Ein gebackenes Semmel- oder Wei&#223;brod</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName>Semmel- oder Wei&#223;brod</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;brot">Semmelbrod</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="mandel">Mandeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList noshow="noshow" fromRecipe="null" fromRcpID="null" fromBook="null" fromChapter="null">
+      <ns0:igdtListName>Klare von Eiern</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#8539; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Pfund</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 - 4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList noshow="noshow" fromRecipe="null" fromRcpID="null" fromBook="null" fromChapter="null">
+      <ns0:igdtListName>Schmelzbutter f&#252;r Gebackenes zu bereiten</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#252;ck</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Von einem frischen gro&#223;en Semmelbrod schneide man die Kruste ab, weiche das ganze Brod gleich den Zwieb&#228;cken ein, da&#223; es durch und durch weich werde, tunke es in die [Klare A. 38](Klare von Eiern.html) und backe es in [Schmelzbutter No. 24](Schmelzbutter f&#252;r Gebackenes zu bereiten.html) gelbbraun. Man gebe eine Schaum-Sauce dazu. Auch kann man dasselbe, wenn es eingeweicht ist, mit geschnittenen Mandeln bestecken und solches im Ofen ausbacken, w&#228;hrend man es zuweilen mit gelbbrauner Butter bestreicht und mit Zucker bestreut. </ns0:instrStepText>
+    </ns0:instruction>
+    <ns0:instruction>
+      <ns0:instrStepName>Klare von Eiern</ns0:instrStepName>
+      <ns0:instrStepText>Ein Achtel Ma&#223; frische Milch wird mit &#188; Pfund feinem Mehl, 3&#8212;4 Eidottern, etwas Salz zerr&#252;hrt, dann das von diesen Eiern zu Schaum geschlagene Wei&#223;e darunter gemischt, das Bestimmte hinein getunkt und in kochender Schmelzbutter oder Schmalz gebacken.</ns0:instrStepText>
+    </ns0:instruction>
+    <ns0:instruction>
+      <ns0:instrStepName>Schmelzbutter f&#252;r Gebackenes zu bereiten</ns0:instrStepName>
+      <ns0:instrStepText>Die Butter, worin man Backwerk kochen will, mu&#223; gereinigt sein, sonst wird dieselbe, wenn man solches hinein gibt, sch&#228;umig und l&#228;uft &#252;ber. Die Butter wird daher erst auf gelindes Feuer gesetzt und gekocht, bis sie hell und klar ist, dann setzt man sie ruhig hin, da&#223; das K&#228;sige sich zu Boden setze, nimmt den Schaum ab und gie&#223;t das Klare vom Bodensatz in einen steinernen oder irdenen Topf.</ns0:instrStepText>
+      <ns0:instrStepText>Wirft man ein St&#252;ck Ingwer in die Butter, so nimmt das Backwerk nicht so viel Fett an. Die Butter kann zwei Mal gebraucht und dann zu passenden Speisen benutzt werden.</ns0:instrStepText>
+      <ns0:instrStepText>Anmerk. Diese Schmelzbutter gibt dem Backwerk den feinsten Geschmack und ist zum Kochen und Ausstreichen der Formen unvergleichlich gut. Schweineschmalz ist zum Ausbacken auch sehr gut. Man mu&#223; aber ja einen kleinen eisernen Topf dazu nehmen, und hat man viel zu backen, ein T&#246;pfchen mit hei&#223;em Schmalz zum Nachf&#252;llen stehen haben, weil sich das Fett ziemlich schnell verbackt. Zur Zeit setzt man von dieser Schmelzbutter etwa 1&#8212;1 &#189; Pfund zu Feuer, gibt, wenn sie kocht, das Bestimmte hinein, legt solches, wenn es unten gelb ist, auf die andere Seite und l&#228;&#223;t es beim Herausnehmen auf L&#246;schpapier oder auf einigen Schnitten Wei&#223;brod abtr&#246;pfeln.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

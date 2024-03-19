@@ -1,0 +1,55 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-72bc5d48-0fa2-473a-904c-05cbc4fb7862">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>R&#252;hrtofu mit S&#252;&#223;kartoffel und Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="tofu">Tofu, natur</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="tandoori_masala">Tandoori Masala</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curcuma">Kurkuma</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="s&#252;&#223;kartoffel">S&#252;&#223;kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Tofu zerkr&#252;meln, die S&#252;&#223;kartoffel waschen und mit Schale in Halbmonde schneiden. Die Zwiebeln in Streifen schneiden. Den Gr&#252;nkohl von den Rippen entfernen und klein zupfen.
+Den Tofu in einer gro&#223;en Pfanne in Pflanzen&#246;l leicht anbr&#228;unen. Tandoori und Kurkuma unterr&#252;hren und den Tofu mit Salz und Pfeffer w&#252;rzen. Den Tofu in eine Schale umf&#252;llen und beiseitestellen.
+Die Pfanne auswischen, etwas &#214;l hineingeben und die Kartoffelscheiben 3 Minuten anbraten. Die Zwiebeln unterr&#252;hren und 5 Minuten anschwitzen, bis sie weich werden. Alles mit Salz und Pfeffer w&#252;rzen. Den Gr&#252;nkohl und Tofu unterr&#252;hren und kurz erw&#228;rmen, bis der Gr&#252;nkohl beginnt einzufallen.
+Dann das Gericht umgehend servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

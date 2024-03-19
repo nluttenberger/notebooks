@@ -1,0 +1,71 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-120c1122-71fc-43de-9ab4-d1bdbd87161c">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Zitronige Linsensuppe mit Fenchel und Gr&#252;nkohlchips</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="fenchel">Fenchelknolle(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="linsen">Linsen, &#224; 800 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokosmilch">Kokosmilch, 200 - 300 ml</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitrone(n), Saft davon, evtl. mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmelpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l zum Braten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Bl&#228;tter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Margarine, z. B. Alsan</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sesam">Sesam, optional</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die halbe Zitrone auspressen. Den Fenchel in grobe St&#252;ckchen schneiden. Etwas &#214;l in einem Topf erhitzen, darin den Fenchel anschwitzen. Je 1 gestrichenen TL gemahlenen Kreuzk&#252;mmel, Salz und Pfeffer dazugeben, gut verr&#252;hren und kurz mit anr&#246;sten. Den Fenchel und die Gew&#252;rze mit dem Zitronensaft abl&#246;schen.
+Die Dose Linsen mitsamt der Fl&#252;ssigkeit hinzuf&#252;gen und ca. 15 Minuten k&#246;cheln lassen. Anschlie&#223;end den Topfinhalt etwas p&#252;rieren und die 200 - 300 ml Kokosmilch unterr&#252;hren. Falls die Suppe sehr d&#252;nn ist, weiter k&#246;cheln lassen, bis etwas Wasser verdampft ist. Abschmecken mit der restlichen Kokosmilch, mit den Gew&#252;rzen und evtl. weiterem Zitronensaft.
+F&#252;r die Gr&#252;nkohlchips in einer Pfanne die Margarine erhitzen. Den Gr&#252;nkohl abzupfen, dazugeben und kurz kross braten. Die Gr&#252;nkohlst&#252;cke sofort herausnehmen und in einer Sch&#252;ssel beiseitestellen. Optional in der gleichen Pfanne kurz etwas Sesam r&#246;sten.
+Die Suppe servieren und mit Gr&#252;nkohlchips und ggf. Sesam garnieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

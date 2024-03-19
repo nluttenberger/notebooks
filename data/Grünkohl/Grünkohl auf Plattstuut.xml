@@ -1,0 +1,95 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6e222f7f-b378-4cc3-bc5b-76c1bc2206fd">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl auf Plattstuut</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Weizenmehl Type 1050</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Weizenvollkornmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser, lauwarm</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="hefe">Hefe</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Schmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken, zart</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Ring/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Kohlw&#252;rste), ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmand">Schmand</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sirup">R&#252;bensirup</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Hefe in einem kleinen Teil des Wassers aufl&#246;sen und mit dem restlichen Wasser zum Mehl geben. Nach Belieben Salz zuf&#252;gen und zu einem festen Teig kneten. Den Teig in einer Sch&#252;ssel mit einem Tuch bedecken und gehen lassen. In der Zeit k&#252;mmern wir uns um den Belag.
+Die Zwiebeln klein hacken und in einem gro&#223;en Topf im Schmalz anbraten. Wenn die Zwiebeln sch&#246;n glasig sind, das Wasser und die H&#228;lfte des Gr&#252;nkohls in den Topf geben. Darauf das Kasseler legen und mit dem Rest Gr&#252;nkohl belegen. Au&#223;erdem nach Belieben Salz und Pfeffer hinzuf&#252;gen und die Haferflocken dar&#252;ber streuen. Nicht unterr&#252;hren!
+Den Gr&#252;nkohl jetzt 60 - 90 Minuten kochen lassen.
+In der Zwischenzeit wird schnell die Sirup-Senf-So&#223;e anger&#252;hrt: Schmand, Senf und Zuckerr&#252;bensirup gut verr&#252;hren.
+Wenn der Gr&#252;nkohl fast fertig ist, kann der Teig auf drei Blechen ausgerollt werden. Sch&#246;n gro&#223;z&#252;gig mit So&#223;e bestreichen.
+Das Kasseler aus dem Gr&#252;nkohl nehmen und in W&#252;rfel schneiden. Die Kohlw&#252;rste in Scheiben schneiden.
+Jetzt den Gr&#252;nkohl durchr&#252;hren und auf den Teig geben. Die Kasselerw&#252;rfel und Kohlwurstscheiben darauf verteilen und f&#252;r 20 - 30 Minuten bei 200 &#176;C Ober-/Unterhitze in den Ofen geben.
+Die Bleche nicht zu weit nach oben in den Ofen schieben, damit das Kasseler nicht austrocknet.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

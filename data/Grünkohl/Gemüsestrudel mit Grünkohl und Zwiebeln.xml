@@ -1,0 +1,87 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8c2dee9b-427a-414c-9e70-08eaca73323a">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gem&#252;sestrudel mit Gr&#252;nkohl und Zwiebeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="s&#252;&#223;kartoffel">S&#252;&#223;kartoffel(n), in W&#252;rfel geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="koriander">Korianderpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilipulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>75 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="ahornsirup">Ahornsirup</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, grob gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schafsk&#228;se">Feta-K&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pekannuss">Pekann&#252;sse</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="thymian">Thymianbl&#228;ttchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 Bl&#228;tter</ns0:igdtQuantity>
+        <ns0:igdtName ref="teigbl&#228;tter">Filoteig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>75 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter, geschmolzene</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Backofen auf 200 &#176;C Ober-/Unterhitze oder 180 &#176;C Umluft vorheizen.
+S&#252;&#223;kartoffeln, Zwiebel, Koriander und Chili mischen. Mit Ahornsirup, 1 EL &#214;l betr&#228;ufeln. Auf ein mit Backpapier belegtes Blech geben und ca. 30 Min. im Ofen backen. Einmal wenden.
+Den Gr&#252;nkohl mit in Scheiben geschnittenen Knoblauch ca. 2 - 3 Minuten im restlichen &#214;l braten und abk&#252;hlen lassen.
+Mit der S&#252;&#223;kartoffelmischung, zerdr&#252;cktem Feta, gehackten Pekann&#252;ssen und Thymian mischen. Salzen und pfeffern.
+Die Ofentemperatur auf 180 &#176;C Ober-/Unterhitze oder 160 &#176;C Umluft reduzieren.
+Die Teigbl&#228;tter mit etwas Butter bestreichen und aufeinanderlegen. Die Gem&#252;semischung darauf verteilen. Den Teig von der L&#228;ngsseite her aufrollen und die Enden einschlagen. Auf ein mit Backpapier belegtes Blech legen. Mit Butter bestreichen und ca. 35 Min. auf der mittleren Einschubleiste backen.
+Den Strudel nach Belieben mit griechischem Joghurt und Salat servieren.
+Ca. 730 Kcal. pro Portion.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

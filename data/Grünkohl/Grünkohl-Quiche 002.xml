@@ -1,0 +1,118 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c0735e94-edd0-4219-ab22-f46e6454cd4f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Quiche</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinienkerne">Pinienkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">Bacon</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenspeck, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;wein">Wei&#223;wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gew&#252;rz">Gew&#252;rzmischung (Magic Dust)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="balsamico">Balsamico</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>240 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="dinkel">Dinkelmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Mineralwasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100</ns0:igdtQuantity>
+        <ns0:igdtName ref="bergk&#228;se">Bergk&#228;se, w&#252;rzig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="frischk&#228;se">Frischk&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>15 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="dijonsenf">Dijonsenf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Meersalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 W&#252;rfel</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter zum Einfetten</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>F&#252;r den Teig Mehl, Butter, Salz und Wasser mischen und in einer K&#252;chenmaschine in zwei Minuten zu einem Teig kneten. Den Teig zu einer Kugel formen, in Frischhaltefolie wickeln und f&#252;r mindestens 30 Minuten in den K&#252;hlschrank stellen.
+Den Gr&#252;nkohl von den harten Rippen befreien und f&#252;nf Minuten blanchieren. Gut abtropfen lassen und bei Bedarf mit einem Messer den Gr&#252;nkohl noch etwas kleiner schneiden.
+Die Pinienkerne trocken r&#246;sten und zum Abk&#252;hlen zur Seite stellen. Den Bacon kross braten und auf einem K&#252;chenpapier abtropfen lassen.
+In dem verbliebenen Fett die Schalotten und den Schinkenspeck knusprig braten, mit Balsamico und Wei&#223;wein abl&#246;schen und mit Pfeffer und Magic Dust w&#252;rzen. Diese  Mischung mit dem Gr&#252;nkohl und den ger&#246;steten Pinienkerne vermischen und zur Seite stellen.
+F&#252;r die F&#252;llung Frischk&#228;se, Milch, Eier, Senf, Salz, Pfeffer, Gem&#252;sebr&#252;he und Zucker in einer K&#252;chenmaschine vermischen. Den Bergk&#228;se klein reiben.
+Den Backofen auf 180 &#176;C vorheizen. Eine Springform (26er) mit Butter einfetten. Den Teig so ausrollen, dass ein Rand von etwa drei bis vier Zentimeter in der Form gebildet werden kann. Den Boden mit einer Gabel einpieken und zehn Minuten vorbacken.
+Die Gr&#252;nkohl-Schinkenspeck-Masse auf den vorgebackenen Teig f&#252;llen und mit der Frischk&#228;semasse bedecken. Abschlie&#223;end den geriebenen K&#228;se darauf verteilen. Die Quiche in 45 Minuten goldbraun backen. Abk&#252;hlen lassen und warm mit dem knusprigen Bacon servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

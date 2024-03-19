@@ -1,0 +1,92 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-504b9430-5a99-4364-9742-ecb34e9fc63b">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit G&#228;nsekeulen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nsekeule">G&#228;nsekeule(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinebauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rstchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="honig">Honig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Puderzucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Bund</ns0:igdtQuantity>
+        <ns0:igdtName ref="thymian">Thymian</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">G&#228;nseschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), festkochende</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl zun&#228;chst blanchieren. Daf&#252;r die geputzten Bl&#228;tter f&#252;r circa zwei Minuten in kochendes Wasser geben, anschlie&#223;end in sehr kaltem Wasser abschrecken. Die Fl&#252;ssigkeit heraus dr&#252;cken und den Gr&#252;nkohl grob hacken. Die Schalotten sch&#228;len und in kleine W&#252;rfel schneiden. 2 L&#246;ffel G&#228;nseschmalz in einem gro&#223;en Schmortopf erhitzen und die Schalotten darin anschwitzen. Puderzucker und Senf hinzuf&#252;gen und mit den Schalotten verr&#252;hren. Den Gr&#252;nkohl und die Br&#252;he hinzuf&#252;gen, alles gut vermengen und etwas salzen.
+Die G&#228;nsekeulen, waschen, trocknen und auf den Gr&#252;nkohl legen. Den Topf verschlie&#223;en und alles bei mittlerer Hitze circa zwei Stunden k&#246;cheln lassen. Je nach Gr&#246;&#223;e der G&#228;nsekeulen kann sich die Garzeit auch etwas verl&#228;ngern. Die Keulen aus dem Topf nehmen, etwas abtrocknen und salzen.
+Den Honig kurz erw&#228;rmen, bis er fl&#252;ssig ist. Thymianbl&#228;tter von den Stielen zupfen und zum Honig geben. Die Keulen auf ein Backblech legen und mit dem Honig bestreichen. Im Backofen etwa vier bis f&#252;nf Minuten grillen oder mit dem "Umluft-Grill" etwa zehn Minuten braten, bis die Haut braun und knusprig ist.
+Am besten schmeckt der Gr&#252;nkohl wenn man ihn nach Beendigung der Kochzeit &#252;ber Nacht kalt stellt, am n&#228;chsten Tag aufkocht und mit den Haferflocken bindet.
+Die festkochenden Kartoffeln mit Schale in Salzwasser garen (Pellkartoffeln), dann sch&#228;len und abk&#252;hlen lassen. Kurz vor dem Servieren etwas Butterschmalz in einer Pfanne erhitzen und die Kartoffeln gut anbraten. Zucker in die Pfanne geben und die Kartoffeln karamellisieren, bis sich etwas braune Kruste auf den Knollen bildet.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

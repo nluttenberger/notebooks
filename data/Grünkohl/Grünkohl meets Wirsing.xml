@@ -1,0 +1,62 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6a69215e-961a-4e37-b12d-d2d4bddbb303">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl meets Wirsing</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl - Bl&#228;tter ohne Str&#252;nke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wirsing">Wirsing - Bl&#228;tter ohne Rippen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="meerrettich">Meerrettich (Sahnemeerrettich), aus Glas oder Tube</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, wei&#223; aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Hier geht es beim Gr&#252;nkohl nicht um ein deftiges Wintergericht mit Schmalz- und Speckzutaten sowie langer Garzeit, sondern um eine sehr leichte Variante, die gut als Beilage zu Meeresfischen oder auch hellem Fleisch passt. Interessant ist die Kombination mit dem Wirsing.
+Gr&#252;nkohlbl&#228;tter ohne Str&#252;nke von den Stielen zupfen. Wie viel Gr&#252;nkohl man einkaufen muss, um die vorgesehene Menge an Bl&#228;ttern zu bekommen, kann ich nicht genau sagen, da die Str&#252;nke der Pflanzen unterschiedlich dick und schwer sind.
+Beim Wirsing die Rippen aus den Bl&#228;ttern herausschneiden und die Bl&#228;tter in gleiche Gr&#246;&#223;e zupfen wie beim Gr&#252;nkohl.
+Die Kohlbl&#228;tter 7 Minuten in kochendem, gesalzenem Wasser blanchieren. Abgie&#223;en und mit Eiswasser abschrecken, damit die sch&#246;ne gr&#252;ne Farbe erhalten bleibt. Den Kohl gut abtropfen lassen.
+Eine ausreichend gro&#223;e, beschichtete Pfanne m&#246;glichst mit hohem Rand ohne Fett erhitzen, Kohlbl&#228;tter kurz darin schwenken, damit noch etwas Restfeuchtigkeit verdampft, die Sahne angie&#223;en, den Sahnemeerrettich dazu geben und vermischen Je nach Sch&#228;rfe des Meerrettichs 1-2 Essl&#246;ffel.
+Das Oliven&#246;l dazu gie&#223;en, vermischen und alles mit Pfeffer, Salz und Muskat abschmecken.
+Wir a&#223;en zu dem Kohl ein Putenbrustfilet.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

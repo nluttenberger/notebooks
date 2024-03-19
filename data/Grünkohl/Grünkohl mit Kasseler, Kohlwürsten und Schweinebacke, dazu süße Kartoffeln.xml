@@ -1,0 +1,78 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f02a3997-fef2-48ea-9024-91ae6cc5c576">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Kasseler, Kohlw&#252;rsten und Schweinebacke, dazu s&#252;&#223;e Kartoffeln</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK, grob gehackt bzw. gerupft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinebacke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Kohlw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, Knochen vom Schlachter ausl&#246;sen lassen und mitnehmen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Drillinge, kleine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Vorab auf den ersten Blick vielleicht ein sehr zeitintensives Rezept. Doch ist es total praktisch f&#252;r den Tag des Gr&#252;nkohlessens, da alles so weit fertig ist und nur noch die Kartoffeln gewendet werden m&#252;ssen. Durch das komplette Vorbereiten des Gr&#252;nkohls einen Tag vorher zieht der Gr&#252;nkohl erst richtig den Geschmack.
+Tag 1:
+Den Gr&#252;nkohl im Br&#228;ter &#252;ber Nacht auftauen lassen. Ein Handtuch drunter legen, damit das Kondenswasser aufgesogen wird.
+Tag 2:
+Die Schweinebacke (ich habe sie zwar noch nie mitgegessen, doch das Fett, das sich beim Kochen ausl&#246;st, gibt dem Gr&#252;nkohl ordentlich Geschmack) nach unten in den Br&#228;ter legen. Gr&#252;nkohl darum verteilen und die Kasselerknochen in den Gr&#252;nkohl stecken. Pfeffer (mit meiner Handm&#252;hle drehe ich etwa 45x), Salz, Zucker und das Wasser dazugeben. Auf dem Herd 1,5 Stunden k&#246;cheln lassen.
+Anschlie&#223;end das Fleisch von den Knochen kratzen und die Fleischfitzel wieder zum Gr&#252;nkohl geben. Die Kochw&#252;rste in den Gr&#252;nkohl stecken, so dass sie abgedeckt sind, und das Kasseler oben auflegen. Deckel auf den Br&#228;ter legen und ca. 1,5 Stunden bei 175 &#176;C Ober-/Unterhitze in den Backofen geben.
+Die Drillinge kochen und nach 15 - 20 min in Eiswasser abschrecken. Kartoffeln pellen, auf einem Blech verteilen und einen Tag ausdampfen lassen.
+Tag 3:
+Den Gr&#252;nkohl mit dem ganzen Fleisch darin auf den Herd etwa eine Std. kochen lassen. Darauf achten, dass genug Fl&#252;ssigkeit vorhanden ist. Dann 1,5 Std. bei 175 &#176;C Ober-/Unterhitze in den Backofen geben.
+Den Zucker in einer beschichteten Pfanne mit &#214;l karamellisieren und die Kartoffeln schnell dazugeben. Vorsicht: Es spritzt sehr stark! Nach der ersten Hitze die Temperatur runter drehen und ca. 2 Stunden langsam braun werden lassen. Regelm&#228;&#223;ig vorsichtig wenden. Am Ende je nach Geschmack noch salzen.
+Zum Essen gibt es bei uns noch Senf mit verschiedenen Sch&#228;rfen und als Abschluss noch einen Verteiler.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

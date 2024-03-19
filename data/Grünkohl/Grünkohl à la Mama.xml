@@ -1,0 +1,87 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cbe7ea09-f06e-4844-935a-0b39d3ff89da">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl &#224; la Mama</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer, ohne Str&#252;nke (nur die Bl&#228;tter)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">G&#228;nseschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>16</ns0:igdtQuantity>
+        <ns0:igdtName ref="nelke">Nelke(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 K&#246;rner</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Piment</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfefferk&#246;rner, schwarze</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Rinderbr&#252;he, (oder einfach nur Wasser)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz, (Hickorysalz) nach Bedarf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch gemahlen, nach Bedarf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebeln sch&#228;len. Eine Zwiebeln mit der H&#228;lfte (8) der Nelken spicken.
+Einen gro&#223;en Topf mit Salzwasser aufsetzen und den Gr&#252;nkohl darin einige Minuten blanchieren, durch ein Sieb abgie&#223;en und kalt abschrecken. Dann fein hacken. So kann man ihn auch gut einfrieren, wenn man ihn nicht sofort braucht.
+Die K&#246;pfe der restlichen Nelken, die Piment- und Pfefferk&#246;rner in einem M&#246;rser fein zersto&#223;en.
+Die restlichen Zwiebeln klein hacken, die Kartoffeln sch&#228;len und in grobe W&#252;rfel schneiden.
+Das G&#228;nseschmalz in einem gro&#223;en Topf auslassen und die Zwiebeln darin and&#252;nsten. Den Gr&#252;nkohl hinzuf&#252;gen und etwas mitd&#252;nsten. Die zersto&#223;enen Gew&#252;rze einstreuen, etwas salzen, die Rinderbr&#252;he (bzw. das Wasser) und die gespickte Zwiebel dazu geben und etwa 20 Minuten kochen lassen.
+W&#228;hrenddessen einen weiteren Topf mit Salzwasser aufsetzen und die Kartoffelw&#252;rfel darin ca. 20 Minuten garen.
+Die gespickte Zwiebel aus dem Gr&#252;nkohl nehmen, die Nelken entfernen und dann hacken. Zusammen mit den Haferflocken und dem Senf zum Gr&#252;nkohl geben und weitere 5-10 Minuten k&#246;cheln lassen. Die Kartoffeln abgie&#223;en und grob stampfen, dann ebenfalls unter den Gr&#252;nkohl mischen.
+Mit (Hickory-) Salz und ggf. etwas schwarzem Pfeffer abschmecken. Statt des Hickorysalzes kann man auch was Ger&#228;uchertes mitkochen und anschlie&#223;end wieder rausnehmen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

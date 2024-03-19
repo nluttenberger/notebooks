@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-38ccb4f9-d58c-4268-808a-480513c743b2">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Gr&#252;tzwurst (Pinkel) nach Bremerhavener Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, tiefgek&#252;hlt, auch mehr</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Bauchspeck, ger&#228;uchert, am St&#252;ck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz, oder G&#228;nse- oder Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Kochw&#252;rste/Mettenden)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinkelwurst">W&#252;rste (Pinkelw&#252;rste, Gr&#252;tzpinkel)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>800 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, Nacken oder mageres Lachsfleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 W&#252;rfel</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Wasser, lauwarm</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zwiebeln w&#252;rfeln und im Schmalz goldig werden lassen. Den Bauchspeck kurz mit anbraten, m&#246;glichst gro&#223;e St&#252;cke, die k&#246;nnen sp&#228;ter mit angerichtet werden.
+Den Gr&#252;nkohl w&#228;hrenddessen mit kaltem Wasser abbrausen und abtropfen lassen. Zur Not gehen auch  3-4 Gl&#228;ser Gr&#252;nkohl "Oldenburger Art". Den Gr&#252;nkohl zu den Zwiebeln und dem Bauch zgeben und mit ca. 1 bis 1,5l lauwarmem Wasser und dem W&#252;rfel Fleischbr&#252;he vermischen. Ca. 15 Minuten leicht k&#246;cheln lassen. Zwei Gr&#252;tzpinkel komplett mit Pelle in den Topf geben. Diese Rezept ist ohne Haferflocken und/oder zus&#228;tzlicher Hafergr&#252;tze, weil wir das nicht m&#246;gen, allerdings ist in der Gr&#252;tzpinkel gen&#252;gend Hafergr&#252;tze. Deckel drauf und 10 Minuten weiter k&#246;cheln lassen. Dann die Pinkelw&#252;rste aus dem Topf nehmen und die F&#252;llung mit einem Teel&#246;ffel aus der Pelle in den Kohl schaben. Das geht n&#228;mlich viel einfacher, wenn sie schon warm sind. Pelle entsorgen. 1-2 Teel&#246;ffel Senf zu dem Eintopf geben, gut umr&#252;hren und das Kasseler hineinlegen. Weiter leicht k&#246;cheln lassen. Zwischendurch alles mal wenden und abschmecken mit wenig Salz und Pfeffer. Achtung: Speck und W&#252;rste sind schon salzig. Lieber sp&#228;ter nachsalzen!
+Nach ca. 30 Minuten die Mettenden/Kochw&#252;rste oben drauf legen und weiter k&#246;cheln lassen.
+Den Gr&#252;nkohl am besten &#252;ber Nacht abk&#252;hlen lassen, am n&#228;chsten Tag langsam erw&#228;rmen.
+Dazu Salzkartoffeln, Bier und einen Absacker (Schn&#228;psken) reichen. Eignet sich hervorragend f&#252;r Neujahrsmittagessen, weil man die Tags zuvor gesch&#228;lten Kartoffeln nur noch kochen und den Gr&#252;nkohltopf langsam erw&#228;rmen muss. Reste lassen sich &#252;brigens wunderbar einfrieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

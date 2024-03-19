@@ -1,0 +1,52 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5c8d4922-4243-4762-8ca1-a5a2f935c7eb">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Mettwurst und Kartoffeln aus dem Dutch Oven</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gr. Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, ca. 660 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speckw&#252;rfel, ca. 125 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rste</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebel pellen und in Streifen schneiden. Die Kartoffeln sch&#228;len und in ca. 1 cm gro&#223;e W&#252;rfel schneiden.
+Speckw&#252;rfel und Zwiebelstreifen auf dem Topfboden verteilen. Den Gr&#252;nkohl abgie&#223;en und die H&#228;lfte auf den Speckw&#252;rfeln und den Zwiebeln verteilen. Auf dem Gr&#252;nkohl die Kartoffelw&#252;rfel verteilen und mit dem restlichen Gr&#252;nkohl bedecken. Die Mettw&#252;rste darauf legen und mit der Br&#252;he aufgie&#223;en.
+Salz und Pfeffer ist nicht zwingend notwendig, da die Speckw&#252;rfel, die Br&#252;he und die W&#252;rste genug W&#252;rze mitbringen. Jetzt ist der Topf fertig beladen. Ich habe einen 4,5 l Dutch Oven und es hat alles gut hinein gepasst.
+18 durchgegl&#252;hte Briketts oder Eierkohlen verteilen. Bei meinem Topf waren 6 unten und 12 oben optimal.
+Nach ca. 30 Minuten die Mettw&#252;rste einstechen und drehen damit das Fett zu der Kartoffel-Gr&#252;nkohlmischung flie&#223;en kann. Nach 1 Stunde ist das Essen fertig.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

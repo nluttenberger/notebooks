@@ -1,0 +1,80 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-037">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Aepfelpfannkuchen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="ei">Ei</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="apfel">Aepfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+    <ns0:igdtList noshow="noshow" fromRecipe="Pfannkuchen" fromRcpID="G-036" fromBook="KochbuchHD" fromChapter="06 Eier-, Milch- und Mehl-Speisen">
+      <ns0:igdtListName>Pfannkuchen</ns0:igdtListName>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 - 6</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="apfel">Aepfelmus</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man nimmt denselben Teig wie zu [Pfannkuchen](Pfannkuchen.html), jedoch zu jedem Kuchen ein Ei mehr. Dann nimmt man zu jedem Pfannkuchen einen Teller voll recht m&#252;rbe gewordener, gesch&#228;lter und in ganz feine Scheiben geschnittener Aepfel, r&#252;hrt sie mit etwas Zimmet durch den Teig, gibt ihn in die Pfanne und l&#228;&#223;t ihn zugedeckt langsam backen. Ist er auf einer Seite dunkelgelb, wendet man ihn um, backt ihn offen auch auf dieser Seite und gibt ihn stark mit Zucker bestreut sogleich zur Tafel. </ns0:instrStepText>
+      <ns0:instrStepText>Anmerk. Zucker durch den Teig zu r&#252;hren, finde ich nicht gut, weil der Kuchen sich dann leicht ansetzt und brennt. Man gebe ihn dabei herum. Sind die Aepfel nicht m&#252;rbe, mu&#223; man sie vorher mit etwas Butter in der Pfanne zugedeckt beinahe gahr schwitzen und dann den Teig dar&#252;ber geben. Aepfelpfannkuchen m&#252;ssen ja nicht zu d&#252;nn gebacken werden, aus der angegebenen Portion etwa 3 St&#252;ck. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

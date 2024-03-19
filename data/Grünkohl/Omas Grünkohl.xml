@@ -1,0 +1,70 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c6cc3816-e707-440c-a2dc-e8850371e915">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Omas Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rstchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hw&#252;rfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, fein gehackt (frisch oder TK)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), rohe, klein gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>wenig</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter zum Anbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojasauce">Sojasauce oder Maggi</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 &#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>2,5 l Wasser in einem gro&#223;en Topf zum Kochen bringen. Unzerkleinerte Mettw&#252;rstchen, dann gew&#252;rfelte Zwiebeln hinzuf&#252;gen. Anschlie&#223;end die Br&#252;hw&#252;rfel zugeben. Alles eine halbe Stunde kochen.
+Den Gr&#252;nkohl hineingeben und eine weitere halbe Stunde kochen. Die Kartoffelst&#252;cke mit in den Topf geben. Sobald diese gar sind, die Mettw&#252;rstchen herausnehmen und den Inhalt des Topfes nach Bedarf grob oder fein stampfen (nicht mit dem P&#252;rierstab! Das wird zu fein). Die W&#252;rstchen wieder einlegen und auf kleinerer Flamme weiter k&#246;cheln lassen. Dann den Speck in der Butter anbraten und das entstandene Fett in den Topf geben. Der Speck wird nicht ben&#246;tigt und kann nach Belieben separat gereicht werden. Mit den Gew&#252;rzen und der Sojasauce bzw. Maggi abschmecken und noch einmal kurz k&#246;cheln lassen.
+Hinweis: Wahlweise k&#246;nnen auch noch gekochte Wiener oder Frankfurter W&#252;rstchen mit gereicht werden, wer die Mettw&#252;rste nicht mag. Letztere sind aber f&#252;r den Geschmack unabdingbar.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

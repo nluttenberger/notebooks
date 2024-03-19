@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1c3651ed-f72c-42ad-92e7-a17ea7d964f8">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Spanischer Gr&#252;nkohl mit Chorizo</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sezwiebel">Gem&#252;sezwiebel(n), mittelfein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch, fein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfefferschote(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfefferschote(n), gr&#252;ne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Ring/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Paprikawurst, milde Chorizo (225 g, spanische )</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver, rosenscharf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Rinderfond</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Paprikaschote(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>30 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinienkerne">Pinienkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Gr&#252;nkohlbl&#228;tter von den Stielen streifen, gr&#252;ndlich waschen und abtropfen lassen. Den Gr&#252;nkohl portionsweise 2 - 3 Minuten in einem gro&#223;en Topf blanchieren, abschrecken, abtropfen lassen und grob hacken.
+Pfefferschoten l&#228;ngs halbieren, entkernen und in d&#252;nne Streifen schneiden. Chorizo in d&#252;nne Scheiben schneiden. Schmalz in einem gro&#223;en Topf erhitzen, Zwiebeln, Knoblauch, Pfefferschoten und Chorizo hinein geben und unter Wenden and&#252;nsten. Den Gr&#252;nkohl unterheben, kurz mitd&#252;nsten und mit Paprikapulver, Pfeffer und Salz herzhaft w&#252;rzen. Mit Rinderfond abl&#246;schen und bei milder Hitze zugedeckt 30 bis 45 Minuten kochen.
+Inzwischen die Paprika halbieren, entkernen und mit der Hautseite nach oben auf ein Backblech legen. Unter dem vorgeheizten Grill auf der 3. Schiene von unten 10 bis 12 Minuten grillen, bis die Haut schwarze Blasen wirft. Mit einem feuchten Tuch bedecken, dann h&#228;uten und in 2 cm gro&#223;e Rauten schneiden.
+Pinienkerne in einer Pfanne ohne Fett goldbraun r&#246;sten. Kurz vor dem Servieren die Paprikarauten unter den Gr&#252;nkohl geben, erw&#228;rmen und mit den Pinienkernen bestreuen.
+Dazu Kartoffelspalten oder Pellkartoffeln.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

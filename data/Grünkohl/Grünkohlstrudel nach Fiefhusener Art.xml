@@ -1,0 +1,65 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3e5c3484-d012-42bf-b618-1bce198838d1">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlstrudel nach Fiefhusener Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, k&#252;chenfertig, geschnittener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste (Mettenden), hei&#223;t auch Kochwurst oder Kohlwurst</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">Bacon, in Scheiben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="teigbl&#228;tter">Strudelbl&#228;tter, oder Filo- oder Yufkateig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharf</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zuerst den Gr&#252;nkohl in ein Sieb geben und das Einkochwasser gr&#252;ndlich abtropfen lassen. Anschlie&#223;end noch in einem Geschirrhandtuch auswringen, damit er sch&#246;n trocken wird. Sonst l&#228;uft nachher unerw&#252;nscht viel Fl&#252;ssigkeit aus dem Strudel.
+Die Mettenden werden der L&#228;nge nach geviertelt und in kleine W&#252;rfel geschnitten. In einer beschichteten Pfanne ohne weitere Fettzugabe bei 3/4-Hitze mindestens 5 Minuten auslassen. Mit einer Schaumkelle aus der Pfanne nehmen und auf K&#252;chenkrepp das restliche Fett von den W&#252;rfeln ablaufen lassen. Die W&#252;rfel d&#252;rfen nun erst mal abk&#252;hlen.
+Jetzt die Butter im Topf schmelzen lassen, ohne dass diese zu hei&#223; wird und verbrennt.
+Auf der Arbeitsplatte ein feuchtes Geschirrhandtuch eben ausbreiten und das erste Blatt Strudelteig darauf legen. Mit dem Backpinsel d&#252;nn und gleichm&#228;&#223;ig mit der geschmolzenen Butter bestreichen, den Vorgang noch 2 mal wiederholen, bis drei Bl&#228;tter gebutterter Teig &#252;bereinander liegen.
+Jetzt den Gr&#252;nkohl gleichm&#228;&#223;ig ca. einen halben Zentimeter dick auf die Strudelbl&#228;tter verteilen. Auf einer Seite 5 cm und an den kurzen Seiten 2 cm freilassen zum sp&#228;teren Einschlagen. Jetzt den Gr&#252;nkohl kr&#228;ftig mit Pfeffer w&#252;rzen, vorsichtig salzen (Mettenden und Bacon haben viel Salz) und gleichm&#228;&#223;ig zart zuckern (hebt den Geschmack). Auf den Gr&#252;nkohl kommt nun eine gleichm&#228;&#223;ige &#252;berlappende Schicht Bacon. Der Bacon wird gleichm&#228;&#223;ig und gro&#223;z&#252;gig mit dem Senf bestrichen. Zuletzt kommt ein gleichm&#228;&#223;iger Streifen der gebratenen Mettenden-W&#252;rfel in die Mitte.
+Jetzt wird der Teig unter Zuhilfenahme des Handtuchs in Richtung des frei gelassenen Strudelteigs aufgerollt. Nun noch die kurzen Enden nach innen einschlagen. Die Strudelrolle jetzt noch einmal rundum buttern und ein abschlie&#223;endes Strudelblatt um die Rolle wickeln und dieses auch noch einmal buttern.
+Die Rolle kommt auf Backpapier auf einen Grillrost. Auf der mittleren H&#246;he wird der Strudel bei 190 Grad im vorgeheizten Ofen ca. 1 Stunde gebacken.
+Der Strudel soll am Ende sch&#246;n goldbraun und knusprig sein. Da die Backzeit auch vom Ofen abh&#228;ngt, gern &#246;fters kontrollieren. Wird der Strudelteig schon zu braun, aber noch nicht knusprig, mit Backpapier oder Alufolie von oben abdecken und weiter backen, bis die gew&#252;nschte Knusprigkeit erreicht ist.
+Dann aus dem Ofen nehmen und 5 bis 10 min ruhen lassen.
+Eigentlich ist der Strudel so schon eine vollwertige Mahlzeit, aber ich gebe gern noch ein mild ger&#228;uchertes und in Butter gebratenes Kasseler Kottelet und eine leichte Senfso&#223;e dazu.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

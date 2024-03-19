@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 22185.18 14378.29" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="22185.18" height="14378.29">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14374.3)">
+    <g id="rr-80">
+      <g>
+        <rect x="11092.59" y="-13978.29" width="11092.59" height="599.0954166666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="11132.59" y="-13778.29" style="text-anchor: start; font-family: Arial; font-size: 160px">80 Schmalz- oder Butterkohl</text>
+      </g>
+      <g class="edge" id="butterkohl--kartoffel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16027.7,-7767.85L18998.8,-14226.3" />
+      </g>
+      <g class="node" id="kartoffel" data-sub="AB" style="cursor: pointer;">
+        <title>#occ: 34</title>
+        <ellipse class="i-carb" cx="16027.7" cy="-7767.85" rx="665.5" ry="665.5" />
+        <text x="16027.7" y="-7737.85" style="text-anchor: middle; font-family: Arial; font-size: 72px;">Kartoffel</text>
+      </g>
+      <g class="node" id="butterkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-veg" cx="18998.8" cy="-14226.3" rx="144.0" ry="144.0" />
+        <text x="18998.8" y="-14196.3" style="text-anchor: middle; font-family: Arial; font-size: 72px;">Butterkohl</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,78 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-db134ebe-c810-40d7-8b2d-6f80f773525f">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlauflauf mit Wei&#223;w&#252;rsten</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), festkochend</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="mais">Mais</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Wei&#223;w&#252;rste</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="kapern">Kapern</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">K&#228;se</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="mayonnaise">Mayonnaise</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">G&#228;nseschmalz oder Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#188; TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, grob</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Ein tolles Gericht f&#252;r den Winter, wenn es Gr&#252;nkohl ohne Kaloriebombe sein soll.
+Kartoffeln sch&#228;len, in 0,5 cm dicke Scheiben schneiden und 7 Minuten in gesalzenem Wasser vorkochen. Gr&#252;nkohl 10 Minuten vorkochen.
+Dann die Auflaufso&#223;e zubereiten: ein leeres Marmeladenglas mit Mayonnaise, G&#228;nseschmalz, Salz, Pfeffer, Wasser, etwas von dem Kapernwasser und Senf f&#252;llen, den Deckel schlie&#223;en und kr&#228;ftig sch&#252;tteln.
+Den Backofen auf 150 &#176;C Umluft vorheizen.
+Die erste H&#228;lfte vom Gr&#252;nkohl in der Auflaufform verteilen. Die Kartoffeln abgie&#223;en und als n&#228;chste Schicht darauf verteilen. Dann Mais, dann in Scheiben geschnittene Wei&#223;w&#252;rste und dann den Rest Gr&#252;nkohl &#252;bereinander schichten. Die gesch&#252;ttelte Auflaufso&#223;e gleichm&#228;&#223;ig dar&#252;ber gie&#223;en und die Form f&#252;r 20 Minuten in den Backofen geben.
+Den K&#228;se reiben. Zuerst K&#228;se, dann die H&#228;lfte der Kapern &#252;ber den Auflauf streuen, den Backofen auf 200 Grad hochstellen und den Auflauf weitere 10 Minuten backen.
+Dazu passt ein halbtrockener Wei&#223;wein oder eine Apfelschorle.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

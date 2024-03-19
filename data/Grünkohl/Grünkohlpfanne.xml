@@ -1,0 +1,55 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cd846dd1-14b5-4726-a203-e11978d9834b">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlpfanne</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="chilischote">Chilischote(n), rot</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter, und &#214;l zum Anbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Kartoffeln sch&#228;len und in mundgerechte St&#252;cke schneiden, in Salzwasser zum Kochen bringen aber nach ca. 10 Minuten abgie&#223;en. Die Kartoffeln werden ein wenig fester sein, wer sie gern weicher m&#246;chte, sollte sie l&#228;nger kochen lassen.
+Den Gr&#252;nkohl gr&#252;ndlich waschen, vom Stiel abziehen und in ungef&#228;hr 1 cm breite Streifen schneiden. Der Kohl muss jetzt blanchiert werden. Ich gebe ihn dazu meistens in den letzten 2 Minuten mit zu den Kartoffeln. Nach 2 Minuten im sprudelnd kochenden Wassers, abgie&#223;en und gut abschrecken, eventuell mit Eisw&#252;rfeln den K&#252;hlungsprozess beschleunigen.
+Die Zwiebel w&#252;rfeln, den Knoblauch und die Chilischoten sehr fein hacken.
+In einer Bratpfanne die Butter mit dem &#214;l erhitzen und die Zwiebeln glasig d&#252;nsten. Die Kartoffeln und den Gr&#252;nkohl dazugeben und auf kleiner Flamme garen. Wenn der Gr&#252;nkohl zusammenf&#228;llt, den Knoblauch und die Chilischoten dazugeben und mit Salz und Pfeffer abschmecken. Kurz ruhen lassen und dann servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

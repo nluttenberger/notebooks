@@ -1,0 +1,90 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-963c151d-9fae-4443-bd1f-b0939f39f95d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Buchweizen-Topf mit getrockneten Tomaten</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="buchweizen">Buchweizen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>800 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomate(n), getrocknete</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikamark">Paprikamark, scharfes</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="curcuma">Kurkumapulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmelpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Piment&#243;n de la Vera</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitrone(n), eingelegte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomate(n), frische oder 1 Dose st&#252;ckige Tomaten)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zwiebeln schneiden, Knoblauch zerkleinern (ich quetsche sie mit dem Messer und hacke sie dann klein), Gr&#252;nkohl vom St&#228;ngel abstreifen.
+In einer gro&#223;en Pfanne oder im Wok 3 EL &#214;l erhitzen und Zwiebeln und Knoblauch darin anschwitzen. Gr&#252;nkohl derweil zerkleinern, auch die St&#228;ngel. Gr&#252;nkohl zu Zwiebeln und Knoblauch in die Pfanne geben. Etwas wenden und dann mit Deckel bei moderater Hitze in der Pfanne d&#252;nsten.
+Karotten sch&#228;len und schneiden. Eingelegte Zitronen zerkleinern. Die gibt's meist in orientalischen L&#228;den, eingelegt in Salz und Essiglake.
+Die frischen Tomaten in St&#252;cke schneiden (gehackte Tomaten aus der Dose sind auch ok), getrocknete Tomaten zerkleinern.
+Nun 3 Essl&#246;ffel Oliven&#246;l in einen sehr gro&#223;en Topf - ich nehme meinen gro&#223;en Schnellkochtopf - geben. Zerkleinerte Zitrone, Paprikamark, Kurkuma, Kreuzk&#252;mmel, Piment&#243;n und Salz hinzugeben und gemeinsam anschwitzen. Nun auch die Karotten mit anschwitzen und den Gr&#252;nkohl aus der Pfanne in den Topf geben.
+Den Buchweizen hinzugeben und gut umr&#252;hren. Mit 500 - 700 ml Wasser aufgie&#223;en. Es soll keine Suppe werden, sondern dient haupts&#228;chlich dem Buchweizen zum Quellen. Umr&#252;hren, damit nichts anbrennt.
+Bei Zubereitung im Schnellkochtopf: Deckel drauf, warten bis Druck aufgebaut ist und anschlie&#223;end ca. 12 Minuten bei geringer Energiezufuhr garen. In einem normalen Topf d&#252;rfte es ca. 20 - 25 Minuten dauern.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

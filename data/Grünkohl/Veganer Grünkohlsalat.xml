@@ -1,0 +1,63 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f9bc4cf6-960f-45f0-aa42-fce5ad6dd6bd">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Veganer Gr&#252;nkohlsalat</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="knollensellerie">Knollensellerie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohlbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="sojacreme">Sojasahne (Sojacreme Cuisine)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Raps&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, frisch aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="agavendicksaft">Agavendicksaft, bei Bedarf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebel abziehen in feine W&#252;rfel schneiden. Den unteren Wurzelansatz und den Blattansatz vom Knollensellerie entfernen. Danach die Schale rundherum um den Sellerie entfernen und noch &#252;brige braune Stellen abschneiden. Den Sellerie in Scheiben schneiden und die Selleriescheiben mit einer K&#252;chenreibe in eine Sch&#252;ssel raspeln. Die M&#246;hren sch&#228;len, die gr&#252;nen Stielans&#228;tze entfernen und die M&#246;hren mit kaltem Wasser absp&#252;len, trocken reiben und mit der K&#252;chenreibe in die Sch&#252;ssel reiben.
+Sojasahne, Essig und Raps&#246;l zu einem Dressing verr&#252;hren, mit Salz und Pfeffer w&#252;rzen und mit Zwiebelw&#252;rfeln, Sellerie und M&#246;hren mischen.
+Die Gr&#252;nkohlbl&#228;tter mit kaltem Wasser absp&#252;len, kurz in einem Sieb abtropfen lassen und welke oder besch&#228;digte Stellen entfernen. Danach auch die dicken Mittelrippen entfernen und die Bl&#228;tter in mundgerechte Streifen schneiden.
+Den Gr&#252;nkohl unter die anderen Salatzutaten mischen und eventuell mit Agavendicksaft abschmecken. In kleine Dessertschalen f&#252;llen und servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

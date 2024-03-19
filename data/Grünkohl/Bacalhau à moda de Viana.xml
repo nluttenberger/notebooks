@@ -1,0 +1,64 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ab268a26-f89c-468f-aad5-9c4abe94ae50">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Bacalhau &#224; moda de Viana</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>700 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="stockfisch">Fisch, Stockfisch oder 4 dicke Filets von Fisch mit festem Fleisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>900 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), in feine RInge geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Kopf</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>900 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), fest kochende, gesch&#228;lt und in dicke Scheiben geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;wein">Wein, Vino Verde oder ein anderer trockener Wei&#223;wein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="petersilie">Petersilie, gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="piripiri">Sauce, Piri-Piri-Sauce (nach Belieben)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Stockfisch in vier gleich gro&#223;e St&#252;cke zerteilen und 48 Stunden in Wasser einweichen, bis er prall und v&#246;llig entsalzen ist. Dabei mehrmals das Wasser wechseln. Das Wasser abgie&#223;en, aber den Fisch nicht trocknen (eventuell die Haut abziehen). Frischen Fisch absp&#252;len, leicht salzen und einige Stunden in einem Sieb liegen lassen, damit das Aroma sich entwickeln kann.
+Den Backofen auf 180&#176; vorheizen. &#214;l in einer gro&#223;en Pfanne erhitzen, die Zwiebeln zugeben und 30 Min. glasig d&#252;nsten; sie d&#252;rfen aber nicht braun werden.
+Den Kohl waschen und putzen. Vier gro&#223;e, sch&#246;ne Bl&#228;tter beiseite legen. Den restlichen Kohl grob zerkleinern und ebenfalls beiseite legen. Den dicken St&#228;ngel an der Basis der vier Bl&#228;tter entfernen. Die Bl&#228;tter mit einem breiten Messer flach dr&#252;cken und die Fischst&#252;cke darin einwickeln. Die P&#228;ckchen auf ein Backblech legen und 20-30 Min. im vorgeheizten Ofen backen, bis die Kohlbl&#228;tter trocken und braun wie Tabakbl&#228;tter sind. Inzwischen den Wein in einen Topf geben. Die Kartoffeln hinzuf&#252;gen und so viel Wasser zugie&#223;en, dass sie bedeckt sind. 10 Min. garen, dann den Kohl zugeben. Einen gut schlie&#223;enden Deckel auflegen (damit der Kohl im Dampf garen kann) und das Ganze garen, bis der Kohl weich ist. Die Kartoffeln und den Kohl mit einem Schauml&#246;ffel aus dem Topf nehmen und in eine vorgew&#228;rmte Serviersch&#252;ssel geben. Den Sud zu den Zwiebeln in die Pfanne r&#252;hren. Mit Salz und Pfeffer abschmecken. Den Sud einkochen lassen, bis eine dickliche Sauce entsteht.
+Zum Servieren die Sauce &#252;ber die Kartoffeln und den Kohl gie&#223;en. Die Fischp&#228;ckchen &#246;ffnen und obenauf legen.
+Mit Petersilie bestreuen und nach Belieben einen Spritzer Piri-Piri-Sauce darauf geben</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

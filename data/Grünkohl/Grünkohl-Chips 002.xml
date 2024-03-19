@@ -1,0 +1,46 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-97c4a563-fb21-499a-b6a1-2eaae2e571da">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-Chips</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Currypulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>1. Gr&#252;nkohl waschen und in einer Salatschleuder trocken schleudern. Die Bl&#228;tter von den dicken St&#228;ngeln zupfen und mit K&#252;chent&#252;chern ordentlich trocken tupfen.
+2. Die Bl&#228;tter in eine Schale geben, Salz, Paprika, etwas Paprikapulver und Currypulver dazugeben. Oliven&#246;l dar&#252;ber geben und die Gew&#252;rze mit dem &#214;l in die Bl&#228;tter einmassieren. Anschlie&#223;end auf einem mit Backpapier ausgelegten Backblech verteilen.
+3. Damit der Gr&#252;nkohl im Ofen richtig kross wird, ist es wichtig die abgezupften Bl&#228;tter bei einer niedrigen Temperatur von 120 - 140 &#176;C Ober-/Unterhitze zu backen. (Bei Umluft nicht h&#246;her als 110&#176;C gehen.) Damit die feuchte Luft schnell entweichen kann, und die Chips sch&#246;n kross werden, sollte ein Kochl&#246;ffel in die Backofent&#252;r geklemmt werden. Die Gr&#252;nkohlbl&#228;tter bleiben ca. 30 Min.im Backofen. Je nach Backofen kann die Backzeit jedoch variieren, am besten zwischendurch mal reinschauen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

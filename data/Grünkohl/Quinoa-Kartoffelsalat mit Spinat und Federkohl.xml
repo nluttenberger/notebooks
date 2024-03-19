@@ -1,0 +1,84 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f5979b09-dacd-47a7-ba23-4e0ffea5c7d5">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Quinoa-Kartoffelsalat mit Spinat und Federkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="quinoa">Quinoa, ca. 300 ml</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, k&#246;rniger</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Prisen</ns0:igdtQuantity>
+        <ns0:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz und Pfeffer, schwarzer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="spinat">Blattspinat, frischer, einige Bl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 Bl&#228;tter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (Federkohl), frischer, einige Bl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Handvoll</ns0:igdtQuantity>
+        <ns0:igdtName ref="kerne">Kerne oder N&#252;sse, gemischte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Currypulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Spritzer</ns0:igdtQuantity>
+        <ns0:igdtName ref="ahornsirup">Ahornsirup</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>einige</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Cherrytomate(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Bl&#228;tter</ns0:igdtQuantity>
+        <ns0:igdtName ref="blattsalat">Blattsalat zum Garnieren</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Quinoa in der gleichen Menge Salzwasser gar kochen. Die Kartoffeln sch&#228;len, in mundgerechte St&#252;cke schneiden und ebenfalls in Salzwasser bissfest kochen.
+Unterdessen aus Senf, &#214;l, Essig, Salz und Pfeffer eine Salatsauce anr&#252;hren. Die Quinoa und die Kartoffeln noch hei&#223; zur Sauce geben und gut durchziehen lassen.
+Den Spinat waschen und in feine Streifen schneiden. Zusammen mit einer zerdr&#252;ckten Knoblauchzehe in einer Pfanne mit wenig &#214;l kurz erhitzen, sofort zum Quinoa-Kartoffelsalat geben.
+Den Federkohl waschen und von den dicken Stielen trennen. Ganz fein schneiden und ebenfalls zum Salat geben.
+In einer Bratpfanne die Kerne oder N&#252;sse mit dem Currypulver ohne Fett kurz anr&#246;sten, bis es duftet. Mit wenig Ahornsirup abl&#246;schen, gut mischen und ausk&#252;hlen lassen. Vor dem Anrichten &#252;ber den Salat streuen. Den Salat allenfalls mit Cherrytomaten und Blattsalat garnieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

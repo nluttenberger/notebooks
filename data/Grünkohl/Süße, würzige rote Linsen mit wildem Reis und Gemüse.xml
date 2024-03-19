@@ -1,0 +1,96 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-08928cbb-8d95-436a-967a-0122103277fe">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>S&#252;&#223;e, w&#252;rzige rote Linsen mit wildem Reis und Gem&#252;se</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senfsamen">Senfk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwer, frisch, gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmelpulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curcuma">Kurkuma</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="cayennepfeffer">Cayennepfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Paprikaschote(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="peperoni">Peperoni</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 kl. Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomaten, st&#252;ckige</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>450 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="linsen">Linsen, rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="sultaninen">Rosinen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>125 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokosmilch">Kokosmilch oder griechischer Joghurt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Tasse/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="reis">Reis, wei&#223;er, brauner oder wilder, ca. 370 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, Rucola oder Spinat, frischer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="koriandergr&#252;n">Koriandergr&#252;n</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die rote Zwiebel und die Paprikaschoten hacken. Peperoni, Ingwer und Knoblauch fein hacken. Die Linsen waschen.
+Das &#214;l in einem gro&#223;en Topf bei hoher Hitze erhitzen. Falls gew&#252;nscht, die Senfk&#246;rner 1 - 2 Minuten r&#246;sten. Zwiebel und Ingwer ca. 5 Minuten anschwitzen, bis sie weich sind. Kreuzk&#252;mmel, Kurkuma, Cayennepfeffer und Knoblauch 45 Sekunden mitkochen. Die Paprikast&#252;cke hinzugeben und bei mittlerer Hitze 5 Minuten mitkochen.
+Inzwischen die roten Linsen zubereiten. Daf&#252;r Tomaten, Linsen und 1 Liter Wasser in den Topf hinzugeben und verr&#252;hren. Salzen, pfeffern und die Rosinen dazugeben. Zum Kochen bringen, dann die Hitze reduzieren und ca. 30 Minuten, oder bis die Linsen weich sind, k&#246;cheln lassen. Bei Bedarf mehr Wasser hinzugeben. Ab und zu umr&#252;hren, damit die Linsen nicht anbacken.
+W&#228;hrend die Linsen k&#246;cheln, den Reis nach Packungsanweisung kochen. Wenn der Reis fertig ist, den Deckel vom Topf nehmen und den klein gehackten frischen Gr&#252;nkohl, Rucola oder Spinat auf den Reis legen und mit Salz, Pfeffer und 1 EL Oliven&#246;l betr&#228;ufeln. Nach 2 - 3 Minuten, oder wenn das Gem&#252;se zusammenf&#228;llt, mit dem Reis vermischen und vom Herd nehmen.
+Die Kokosnussmilch oder den griechischen Jogurt mit den Linsen vermengen und vom Herd nehmen. Falls gew&#252;nscht, mit frischem Koriander servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

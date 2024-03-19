@@ -1,0 +1,63 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e1717acf-8b69-499c-92f7-a61af1eddb5d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Eisbein und Cabanossi</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Dose/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, insgesamt zwischen 1 und 1,5 kg</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eisbein(e), ungep&#246;kelt, roh</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="mettwurst">Cabanossi</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="pflanzenfett">Margarine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="st&#228;rke">Speisest&#228;rke</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das Wasser in einem gro&#223;en Topf mit der Br&#252;he vermengen, Margarine und die fein gew&#252;rfelten Zwiebeln und Knoblauch zugeben. Die erste Dose Gr&#252;nkohl komplett hineingeben. Darauf das Eisbein legen und mit der zweiten Dose Gr&#252;nkohl bedecken. Darauf die in d&#252;nne Scheiben geschnittene Cabanossi legen.
+Bei mittlerer Hitze eine halbe Stunde k&#246;cheln lassen und nach Bedarf umr&#252;hren (nicht anbrennen lassen, schmeckt sonst bitter). Danach noch eine Stunde k&#246;cheln lassen.
+Wenn das Eisbein weich ist (muss quasi vom Knochen abfallen), herausnehmen und in gr&#246;&#223;ere St&#252;cke zerteilen. Den Gr&#252;nkohl mit der vorher in kaltem Wasser aufgel&#246;sten Speisest&#228;rke verr&#252;hren und noch 5 min k&#246;cheln lassen. Das Eisbein wieder in den Topf geben, warm ziehen lassen und servieren.
+Dazu passen Salzkartoffeln.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

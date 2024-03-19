@@ -1,0 +1,57 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-62d5ae7e-921d-4edc-b792-52ad5c00b3a0">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Uromas Gr&#252;nkohleintopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, geputzt, gewaschen, grob geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rstchen (R&#228;ucherenden)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1.000 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, fetter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl, Zwiebeln und Wasser in einen Topf geben und zum Kochen bringen. Anschlie&#223;end bei mittlerer Hitze im geschlossenen Topf garen. Zwischendurch immer wieder mal umr&#252;hren. Nach etwa einer Stunde Kochzeit die W&#252;rstchen zuf&#252;gen, weitere 15 Minuten k&#246;cheln lassen.
+In der Zwischenzeit die Kartoffeln sch&#228;len, waschen, halbieren und in Salzwasser in einem zweiten Topf gar kochen.
+Wenn der Kohl weich ist, die W&#252;rstchen rausnehmen und beiseitestellen. Das Gem&#252;se mit Pfeffer und Salz pikant w&#252;rzen. Die Kartoffeln zuf&#252;gen und alles mit einem Kartoffelstampfer recht fein zerstampfen.
+Den Speck w&#252;rfeln und bei m&#228;&#223;iger Hitze in einer Pfanne auslassen. Die Grieben entfernen. Das hei&#223;e Speckfett zu dem Gem&#252;se geben.
+Die W&#252;rstchen in Scheiben schneiden und wieder zum Kohl geben.
+Alles gr&#252;ndlich miteinander vermengen. Das Speckfett gut unterr&#252;hren. Abschlie&#223;end noch mal mit Pfeffer und Salz abschmecken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

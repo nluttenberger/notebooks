@@ -1,0 +1,64 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-752ea1a9-b557-4ed0-a392-91d6f376a6b7">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Braunkohl auf einfache Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Gl&#228;ser</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">G&#228;nseschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (frische Bregenw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (ger&#228;ucherte Bregenw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="r&#228;ucherspeck">R&#228;ucherbauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler, (Nacken oder Kotelett)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfefferk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Das G&#228;nseschmalz in einem gro&#223;en Br&#228;ter auf dem Herd erhitzen und die in W&#252;rfel geschnittenen Zwiebeln darin hell anschwitzen.
+Den Br&#228;ter vom Herd nehmen.  Gr&#252;nkohl aus einem Glas auf den Zwiebeln verteilen, leicht salzen und ein paar Pfefferk&#246;rner darauf streuen, 4 frische Bregenw&#252;rste darauf legen, wieder Gr&#252;nkohl darauf verteilen und leicht w&#252;rzen. 4 ger&#228;ucherte Bregenw&#252;rste darauf legen, abermals ein Glas Gr&#252;nkohl darauf verteilen, das Kasseler und den ger&#228;ucherten Schweinebauch darauf geben und alles mit dem Gr&#252;nkohl aus dem letzten Glas bedecken.
+Den Br&#228;ter f&#252;r 2 Stunden in den auf 150 Grad vorgeheizten Backofen stellen.
+Durch die ger&#228;ucherten W&#252;rste und das Kasseler braucht man den Kohl kaum mit Salz zu w&#252;rzen.
+Dazu passen kleine Pellkartoffeln, die in Butter mit Zucker oder Butter und R&#252;bensaft in der Pfanne gebraten und karamellisiert werden.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

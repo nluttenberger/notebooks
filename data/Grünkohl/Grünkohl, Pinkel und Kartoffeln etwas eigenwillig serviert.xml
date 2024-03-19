@@ -1,0 +1,76 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f30fdcb5-ac14-4ed8-ad60-1461ad4777c1">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl, Pinkel und Kartoffeln etwas eigenwillig serviert</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>400 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl (TK)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">Schmalz (G&#228;nseschmalz)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Rinderfond</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinkelwurst">W&#252;rste (Pinkelw&#252;rste)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gegart (Bauchspeck)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="schalotten">Schalotte(n), fein gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="sonnenblumen&#246;l">&#214;l (Sonnenblumen&#246;l)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat, frisch gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="senf">Senf, scharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>G&#228;nseschmalz in einem Topf erhitzen und die Zwiebelw&#252;rfel darin glasig anschwitzen. Den noch gefrorenen Kohl dazu geben, durchr&#252;hren und mit dem Fond &#252;bergie&#223;en. Eine Pinkelwurst aus dem Darm dr&#252;cken und unter den Kohl r&#252;hren. Langsam zum Kochen bringen und bei geschlossenem Topf und geringer Hitze k&#246;cheln lassen. Hin und wieder umr&#252;hren. Sollte sich zu viel Fl&#252;ssigkeit in dem Kohl befinden, zeitweise bei offenem Topf  k&#246;cheln lassen, damit sie verdunsten kann. Mit Salz, Pfeffer und etwas Senf w&#252;rzen.
+Die beiden anderen Pinkelw&#252;rste mit einer Gabel anpieksen und in einem Topf Wasser hei&#223; werden lassen, damit einiges Fett aus den W&#252;rsten austreten kann. Aber Vorsicht, das Wasser darf nicht kochen, sonst platzen sie und der Geschmack geht verloren. In den letzten 15 Minuten vor dem Servieren den Bauchspeck in der Br&#252;he erhitzen.
+Pinkel aus dem Wasser heraus nehmen und aus der Pelle in eine Pfanne dr&#252;cken. Bei mittlerer Hitze etwa 10 Minuten braten.
+F&#252;r die Puffer die Kartoffeln sch&#228;len, waschen, trocknen, in eine R&#252;hrsch&#252;ssel raspeln und mit der fein gew&#252;rfelten Schalotte vermischen. Die Masse mit Pfeffer, Salz und Muskat w&#252;rzen. Reichlich Sonnenblumen&#246;l in einer Pfanne erhitzen, und die Kartoffelmasse l&#246;ffelweise hinein geben, mit dem L&#246;ffel flach dr&#252;cken und beidseitig bei gro&#223;er Hitze ausbacken, bis die Puffer eine sch&#246;ne braune Farbe haben.
+Zum Anrichten je einen Puffer auf die Teller legen, Gr&#252;nkohl darauf verteilen, darauf wieder einen Puffer legen, der wieder mit Kohl belegt wird. Den Abschluss bildet wieder ein Puffer. Daneben die gebratene Pinkel und den Bauschspeck platzieren. Etwas Senf auf Pinkel und Speck geben.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

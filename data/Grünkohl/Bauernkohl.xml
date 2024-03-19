@@ -1,0 +1,65 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a61d0fd5-577a-44ef-9d78-65611d708368">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Bauernkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), mehlig kochend</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>750 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, (Federkohl), fein geschnitten, nur die Bl&#228;tter benutzen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, gew&#252;rfelt, mager</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>40 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="essig">Essig</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189; dl</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch, warm</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Sch&#252;blig oder Rauchwurst)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="senf">Senf</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Kartoffeln sch&#228;len, in St&#252;cke schneiden und mit Wasser und etwas Salz in eine Pfanne geben. Den fein geschnittenen Federkohl auf die Kartoffeln legen und dar&#252;ber die W&#252;rste verteilen. Das Ganze etwa 20 Minuten leicht kochen lassen. &#220;berpr&#252;fen, ob die Kartoffeln weich gekocht sind.
+Die Speckw&#252;rfel in einer anderen Pfanne anbraten. Die W&#252;rste aus der Pfanne nehmen, die Kochfl&#252;ssigkeit abgie&#223;en und die Kartoffeln und den Federkohl gemeinsam mit einem Kartoffelstampfer zerdr&#252;cken. Butter beif&#252;gen. Um den Eintopf luftiger zu machen, die warme Milch beif&#252;gen. Speckw&#252;rfel beif&#252;gen und mit dem Kartoffel-Federkohlbrei mischen. Das Ganze mit etwas Salz und Pfeffer w&#252;rzen sowie den Essig beif&#252;gen. Die Sch&#252;blige in Scheiben schneiden. Den Bauernkohl-Eintopf in eine vorgew&#228;rmte Sch&#252;ssel geben, die Wurstscheiben darauf legen und servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

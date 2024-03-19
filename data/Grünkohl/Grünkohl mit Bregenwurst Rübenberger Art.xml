@@ -1,0 +1,68 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c844e1fd-9bd1-4b35-8a82-8d3649a00d43">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Bregenwurst R&#252;benberger Art</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>700 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gehackt (TK oder Konserve)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schmalz">Zwiebelschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Scheibe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler (Lachs oder durchwachsen)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, s&#252;&#223;er</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="rohrzucker">Rohrzucker, brauner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL, gestr.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, grob geschrotet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Bregenw&#252;rste bzw. Kohlw&#252;rste</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zur Vorbereitung die Zwiebeln fein w&#252;rfeln. Das Kasseler, durchwachsen oder ein mageres St&#252;ck Lachs &#8211; je nach Geschmack, in kleine W&#252;rfel schneiden. Ich verwende meistens beides, also jeweils ein St&#252;ck Kasseler durchwachsen und mager vom Lachs. Als letzte Vorbereitung die Gem&#252;sebr&#252;he aufkochen. Ich bereite in der Regel zun&#228;chst erst einen halben Liter Gem&#252;sebr&#252;he zu.
+Die fein gehackten Zwiebeln im Br&#228;ter im Zwiebelschmalz anschwitzen, bis sie glasig bzw. ganz leicht br&#228;unlich werden. Dann den Gr&#252;nkohl hinzugeben und noch kurz kr&#228;ftig anbraten. Mit der hei&#223;en Gem&#252;sebr&#252;he abl&#246;schen. Kasseler, die zwei Senfsorten und den Zucker hinzugeben. Sobald der Kohl kocht, die Hitze reduzieren und nur noch k&#246;cheln lassen. Den Br&#228;ter nicht komplett, sondern nur zur H&#228;lfte mit dem Deckel schlie&#223;en.
+Den Kohl nun ca. 5 Std. k&#246;cheln lassen. Bei Bedarf erneut hei&#223;e Gem&#252;sebr&#252;he nachgie&#223;en, wenn diese ann&#228;hernd verkocht ist. Mehr als 1 Liter Gem&#252;sebr&#252;he verbrauche ich dazu in der Regel nicht. Die Bregen- bzw. Kohlw&#252;rste mit einer Gabel leicht anstechen und nach ca. 3 Stunden Kochzeit zum Kohl hinzugeben und mit dem Kohl bedecken. Regelm&#228;&#223;iges Umschichten dabei nicht vergessen (1 bis 2 mal die Stunde).
+Zum Ende der Kochzeit, auf die Minuten kommt es dabei nicht an, und wenn die Gem&#252;sebr&#252;he fast verkocht ist, den Kohl nochmals abschmecken und ggf. mit Pfeffer und Senf nachw&#252;rzen. Als Beilage reiche ich dazu Kartoffeln.
+Oft mache ich gleich gr&#246;&#223;ere Mengen, da sich das Kohlgericht prima tiefk&#252;hlen und auch aufw&#228;rmen l&#228;sst. Manche sagen, dass es nach jedem Aufw&#228;rmen besser schmeckt. Ich bereite den Gr&#252;nkohl in der Regel einen Tag vor dem Verzehr vor. Guten Appetit.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

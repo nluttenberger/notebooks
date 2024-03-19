@@ -1,0 +1,80 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cbc0b6fa-9806-4909-9213-b5020736d3c1">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit M&#246;hren und gef&#252;lltem Schweinsfu&#223;</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1,2 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinefu&#223;, gef&#252;llter (Zampone)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1,2 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="schwarzkohl">Gr&#252;nkohl, oder Cavolo Nero (Schwarzkohl)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>100 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer, frisch gemahlener schwarzer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n), festkochende</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>80 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, ger&#228;ucherter, durchwachsener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="petersilie">Petersilie, glatte</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Schweinsf&#252;&#223;e auf italienisch (Zampone) sind gef&#252;llt mit einer Farce aus Schweinefleisch und verschiedenen Gew&#252;rzen. Gewiss, man kann diese Spezialit&#228;t selbst herstellen. Allerdings nur mit viel Aufwand. Daher findet in diesem Rezept fertige "Zamponi" Verwendung, wie es sie in Folie versiegelt in guten Fachgesch&#228;ften zu kaufen gibt.
+Den Gr&#252;nkohl putzen, gr&#252;ndlich waschen und gut abtropfen lassen. Mit einem scharfen Messer den harten Strunk entfernen und von den einzelnen Kohlbl&#228;ttern die Blattrippen herausschneiden. Die Gr&#252;nkohlbl&#228;tter in Streifen schneiden und in kochendem Salzwasser blanchieren. Mit einer Schaumkelle herausnehmen und den Kohl gut abtropfen lassen.
+Die Zwiebel sch&#228;len und fein hacken. Die M&#246;hren sch&#228;len, waschen und in 5 mm gro&#223;e W&#252;rfel schneiden.
+In einem entsprechend gro&#223;en Topf das Schweineschmalz erhitzen und die gew&#252;rfelten Zwiebeln und M&#246;hren darin unter R&#252;hren anschwitzen, ohne sie dabei Farbe nehmen zu lassen. Den Gr&#252;nkohl untermischen und die Gem&#252;sebr&#252;he zugie&#223;en. Mit Salz, Pfeffer und Zucker w&#252;rzen. Das Gem&#252;se bei mittlerer Hitze etwa 30 Minuten k&#246;cheln lassen.
+In der Zwischenzeit die Kartoffeln sch&#228;len (1 Kartoffel zur Seite legen) und in W&#252;rfel von ca. 1 cm Kantenl&#228;nge schneiden.
+Den Zampone zusammen mit den Kartoffelw&#252;rfeln in den Topf mit dem Gr&#252;nkohl einlegen und alles weitere 40 Minuten garen.
+In der Zwischenzeit den Speck in kleine W&#252;rfel schneiden und in einer kleinen Pfanne ohne Zugabe von Fett knusprig braten. Dann beiseitestellen.
+Nach den letzten 40 Minuten Kochzeit den Zampone herausnehmen. Die beiseitegelegte Kartoffel fein reiben und unter den Gr&#252;nkohl mischen, dann das Gem&#252;se nochmals ca. 15 Minuten garen. Mit Salz und Pfeffer abschmecken.
+Den Zampone in Scheiben schneiden und in vorgew&#228;rmten Tellern auf dem Gr&#252;nkohl anrichten. Mit dem knusprig gebratenen Speck bestreuen, mit glatter Petersilie ausgarnieren und servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

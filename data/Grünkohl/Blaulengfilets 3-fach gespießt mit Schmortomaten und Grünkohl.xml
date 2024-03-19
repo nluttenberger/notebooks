@@ -1,0 +1,90 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6e0dd95f-7883-4eef-bae2-e177654d3787">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Blaulengfilets 3-fach gespie&#223;t mit Schmortomaten und Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>800 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fisch">Fischfilet(s) (Blauleng)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="flusskrebse">Krebsfleisch (Flusskrebse)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="krabben">Nordseekrabben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fisch">Fischfilet(s) (R&#228;ucheraal)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>12 St&#228;ngel</ns0:igdtQuantity>
+        <ns0:igdtName ref="schnittlauch">Schnittlauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, ohne Strunk</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="sahne">Sahne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>20 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwer, in Scheiben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="meerrettich">Meerrettich (Sahnemeerettich), aus dem Glas</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Tomate(n) (Strauchtomaten)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwieback">Zwieback</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat, frisch gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zun&#228;chst die kleinen Spie&#223;e vorbereiten. Dazu das Aalfilet in kleine W&#252;rfel von etwa 1 cm Kantenl&#228;nge schneiden. Diese St&#252;ckchen zusammen mit den Krabben und den Flusskrebsen jeweils f&#252;r sich auf Zahnstocher spie&#223;en, wobei oben und unten 1 cm frei bleibt. Oben einen auf 5 cm gek&#252;rzter Schnittlauchhalm aufstecken, sodass die Holzspitze nicht mehr sichtbar ist.
+Wasser mit den Ingwerscheiben zum Kochen bringen, Wasser salzen und die Kohlbl&#228;tter 7 Minuten darin blanchieren. Abgie&#223;en und mit Eiswasser abschrecken, damit die sch&#246;ne gr&#252;ne Farbe erhalten bleibt. Den Kohl gut abtropfen lassen.
+Eine ausreichend gro&#223;e, beschichtete Pfanne m&#246;glichst mit hohem Rand ohne Fett erhitzen, Kohlbl&#228;tter kurz darin schwenken, damit noch etwas Restfeuchtigkeit verdampft. Die Sahne angie&#223;en, den Sahnemeerrettich dazugeben und vermischen, je nach Sch&#228;rfe des Meerrettichs 1-2 EL. 1 EL Oliven&#246;l dazugie&#223;en, vermischen und alles mit Pfeffer, Salz und Muskat abschmecken.
+Die Strauchtomaten zusammen mit 3 EL Oliven&#246;l in eine Stielkasserolle geben und bei geringer Hitze und geschlossenem Topf ca. 15 Minuten schmoren. Etwas pfeffern und salzen.
+F&#252;r die Panade Zwieback in kleine St&#252;cke brechen und fein m&#246;rsern. Blaulengfilets mit der Hautseite hineindr&#252;cken und leicht abklopfen, sodass nur eine d&#252;nne Schicht auf den Filets bleibt.
+Eine Mischung aus Butter und Oliven&#246;l in einer Pfanne erhitzen und den Fisch mit der panierten Seite nach unten hineinlegen. Etwa 1 Minute stark anbraten, dann die Hitze auf die H&#228;lfte herunterstellen und weitere 2-3 Minuten braten. Filets wenden und auf ausgestellter Herdplatte in ca. 3-4 Minuten fertig garen.
+Blauleng zusammen mit dem Gr&#252;nkohl und den Schmortomaten auf Tellern anrichten. Jeweils 3 verschiedene Spie&#223;e in die Filets stecken. Als weitere S&#228;ttigungsbeilage passen Kartoffeln jeglicher Zubereitungsart.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

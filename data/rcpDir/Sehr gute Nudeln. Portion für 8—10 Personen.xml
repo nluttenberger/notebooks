@@ -1,0 +1,56 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-29">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Sehr gute Nudeln. Portion f&#252;r 8&#8212;10 Personen</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName>Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName>Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zwieback">Zwieback</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="kalbsbraten">Kalbsbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="apfel">Aepfeln</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Hierzu geh&#246;ren 4 ganze Eier, 8 E&#223;l&#246;ffel voll Milch und so viel ganz feines Mehl, als diese annehmen. Das Mehl gibt man in eine Sch&#252;ssel, macht in der Mitte eine Vertiefung, gibt Eier und Milch hinein, r&#252;hrt mit einem Messer Mehl, Milch und Eier zu einem leichten Teig, legt diesen dann auf einen Tisch, und macht ihn mit den H&#228;nden, w&#228;hrend man immer Mehl unterstreut, zum glatten, ganz festen Teig. Je l&#228;nger und steifer derselbe verarbeitet ist, desto besser werden die Nudeln. Dann schneidet man ihn in vier St&#252;cke, rollt jedes so d&#252;nn wie Papier aus und h&#228;ngt es zum Abtrocknen auf einen Trockenstock. Ist das vierte St&#252;ck ausgerollt, so legt man das erste auf den Tisch, staubt etwas Mehl dar&#252;ber, schneidet es der Breite nach ein Mal durch, rollt es auf und schneidet es mit einem Messer in Strohbreite Streifen. Diese macht man etwas auseinander, indem man ein wenig Mehl dar&#252;ber streut, und l&#228;&#223;t sie trocknen; doch kann man sie auch sogleich gebrauchen. </ns0:instrStepText>
+      <ns0:instrStepText>Man gibt sie in kochendes Wasser mit etwas Salz, kocht sie gahr, etwa &#189; Stunde, und sch&#252;ttet sie auf einen Durchschlag. Dann kocht man Milch mit einem guten St&#252;ck frischer Butter und etwas Salz und l&#228;&#223;t die Nudeln einige Mal darin durchkochen. Angerichtet, f&#252;llt man so viel gesto&#223;enen, in Butter gelbbraun gebratenen Zwieback dar&#252;ber, da&#223; die Nudeln ganz bedeckt sind. Man gibt Kalbsbraten dazu; doch schmecken sie auch vorz&#252;glich gut zu gestovten Aepfeln, so wie auch zu getrocknetem Obst. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+</ns0:recipe>

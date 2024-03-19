@@ -1,0 +1,77 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-19522fe2-ef32-453f-b453-7cdf2a0d9f0b">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl, wie ihn Mutter kochte</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2,4 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, tiefgefroren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="g&#228;nseschmalz">G&#228;nseschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he, doppelt konzenttrierte (Br&#252;hw&#252;rfel f&#252;r 2,5 ltr. Wasser in 1 ltr. aufl&#246;sen)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>10</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinkelwurst">Pinkelw&#252;rste *</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettenden, ger&#228;ucherte oder Kochw&#252;rste</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, ger&#228;ucherter, gestreifter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler Kotelett(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>G&#228;nseschmalz in einem gro&#223;en Topf erhitzen und die fein gew&#252;rfelten Zwiebeln darin anschwitzen. Gefrorenen Kohl dazugeben und &#190; Liter hei&#223;e Br&#252;he angie&#223;en. Topf schlie&#223;en und den Kohl bei geringer Hitze in ca. &#189; Stunde auftauen.
+Von 2 - 3 Pinkel die Pelle abziehen, W&#252;rste klein schneiden und in den Kohl r&#252;hren. Speck und 2 - 3 angepiekste Mettenden mit hineingeben. Topf verschlie&#223;en und weiter bei geringer Hitze 2 Stunden nur ganz leicht kochen. Kohl hin und wieder umr&#252;hren, damit nichts anbrennt. Kasseler Koteletts nicht mit zum Kohl geben, sie werden bei dem langen Garungsprozess trocken und hart. Nach 2 Stunden den Speck und die Mettw&#252;rste aus dem Kohl fischen und beiseite stellen.
+Jetzt beginnt eine der sch&#246;nsten Arbeiten beim Kochen, das Abschmecken! Salzen, pfeffern, den Senf und evtl. noch einen zerbr&#246;selten Br&#252;hw&#252;rfel in den Kohl r&#252;hren. Noch etwas Br&#252;he nachgie&#223;en? Genascht werden kann jetzt, aber gegessen wird erst morgen. Deshalb den Topf mit nicht ganz geschlossenem Deckel zum Erkalten an einen k&#252;hlen Ort stellen.
+Am anderen Tag den Kohl wieder erhitzen, dabei das gelegentliche Umr&#252;hren nicht vergessen. Wahrscheinlich wird die Konsistenz des Kohls etwas zu d&#252;nnfl&#252;ssig sein, deshalb jetzt die Haferflocken einr&#252;hren und kurz mitkochen (h&#228;tte ich das gestern schon gemacht, m&#252;sste ich den Kohl st&#228;ndig r&#252;hren, damit er nicht anbrennt). Wie viel, ob 2, 3 oder 5 Essl&#246;ffel voll muss man dabei selbst beurteilen. Wenn der Kohl fertig ist, soll er eine zwar s&#228;mige, aber keine d&#252;nnfl&#252;ssige Konsistenz haben.
+Fleisch und W&#252;rste in einen Topf geben und mit Br&#252;he auff&#252;llen, bis alles bedeckt ist. Erhitzen und ziehen, aber nicht kochen lassen, da sonst die Pinkelw&#252;rste platzen w&#252;rden. Optional die W&#252;rste anpieksen, um &#252;bersch&#252;ssiges Fett auslaufen zu lassen. Auch die Kasseler Koteletts so erhitzen.
+Pro Person rechne ich mindestens 1 Pinkel, &#189; Mettwurst und 1 St&#252;ck Speck oder Kassler.
+Beilagen: Salzkartoffeln und/oder Bratkartoffeln aus Pellkartoffeln vom Vortag.
+Getr&#228;nk: Bier passt hier am besten (Gabiko wer mag, hinterher ab 18 J.)
+* Bei der Pinkel gibt es auch eine ger&#228;ucherte Variante, die mancher bevorzugt. Beim Mitkochen im Kohl ist sie etwas geschmacksintensiver.
+Angaben zu Kalorien kann ich nicht machen, da allein die W&#252;rste und das Fleisch unterschiedliche Brennwerte haben. Di&#228;tkost ist dieses Gericht ganz sicher nicht!</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

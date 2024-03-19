@@ -1,0 +1,71 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3003277d-ef08-4ef3-bba8-1529bdc74491">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohlsalat mit Erdnussdressing</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="avocado">Avocado(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="mango">Mango(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfel">Apfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="kiwi">Kiwi(s)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitrone(n), Saft davon</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Becher</ns0:igdtQuantity>
+        <ns0:igdtName ref="sonnenblumenkerne">Sonnenblumenkerne</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="erdnuss">Erdnussmus</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="tamarinde">Tamarisauce</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Mittleren Strunk und grobe Stiele des Gr&#252;nkohls entfernen. Gr&#252;ndlich waschen. Den Gr&#252;nkohl m&#246;glichst klein hacken.
+&#214;l, Erdnussmus, Tamari und Saft der 1/2 Zitrone in einer Schale mischen. Die Sauce mit den H&#228;nden in den Salat einmassieren, so dass jedes Blatt von Sauce umh&#252;llt wird. So wird der Gr&#252;nkohl etwas weicher und kann die Sauce besser aufnehmen. Den Salat nun mindestens 15 Minuten ziehen lassen.
+Die &#196;pfel in kleine W&#252;rfel schneiden und mit dem Saft der zweiten Zitronenh&#228;lfte betr&#228;ufeln. Avocados, Mango und Kiwis ebenfalls in kleine St&#252;cke schneiden und gemeinsam mit dem Apfel vorsichtig unter den Salat mischen. Mit Salz und Pfeffer abschmecken. Sonnenblumenkerne r&#246;sten und zum Servieren &#252;ber den Gr&#252;nkohl streuen.
+Anmerkung: Tamari ist eine japanische Form der Sojasauce. Die Sauce entsteht traditionell bei der Herstellung von Miso-Paste und enth&#228;lt im Gegensatz zur herk&#246;mmlichen Sojasauce kein oder kaum Getreide. Deswegen eignet sich Tamari insbesondere f&#252;r alle, die mit Glutenunvertr&#228;glichkeit zu k&#228;mpfen haben. Au&#223;erdem ist Tamari dunkler als Sojasauce und hat einen kr&#228;ftigeren, aber weniger salzigen Geschmack.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

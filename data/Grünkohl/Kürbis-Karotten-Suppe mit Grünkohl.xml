@@ -1,0 +1,87 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bd277fd2-34f3-486d-b594-111f5bc72bcc">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>K&#252;rbis-Karotten-Suppe mit Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#252;rbis">K&#252;rbis(se), (Hokkaido-), in W&#252;rfel geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n), roh, halbiert und in dicke Scheiben geschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189; Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehe/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#190; Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Wasser, Menge variierbar</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="h&#252;hnerbr&#252;he">Br&#252;he, (Gem&#252;se - oder H&#252;hnerbr&#252;he), instant</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter, oder mehr kleine</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="kardamom">Kardamomkapsel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Pimentk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz, je nach Geschmack</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5 St&#228;ngel</ns0:igdtQuantity>
+        <ns0:igdtName ref="thymian">Thymian, m&#246;glichst frisch, dann nur die Bl&#228;ttchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Bl&#228;tter</ns0:igdtQuantity>
+        <ns0:igdtName ref="salbei">Salbei, m&#246;glichst frisch, kleingeschnitten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 St&#228;ngel</ns0:igdtQuantity>
+        <ns0:igdtName ref="rosmarin">Rosmarin, m&#246;glichst frisch, nur die Bl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Raps&#246;l, oder anderes &#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gem&#252;se waschen und schneiden: Zwiebeln w&#252;rfeln, K&#252;rbis w&#252;rfeln, M&#246;hren l&#228;ngs halbieren und in dicke Scheiben schneiden, Knoblauch sch&#228;len.
+Etwas Raps&#246;l in einen gro&#223;en Topf geben. Zwiebeln dazu geben und bei mittlerer Hitze glasig werden lassen. Dann die K&#252;rbis- und Karottenw&#252;rfel dazugeben, umr&#252;hren. Noch etwas &#214;l dazu gie&#223;en und die Knoblauchzehen auspressen und dazu geben. Den Gr&#252;nkohl einfach aus dem Glas in den Topf l&#246;ffeln. Alles anbraten lassen. Immer wieder umr&#252;hren.
+Wasser im Wasserkocher zum Kochen bringen. W&#228;hrenddessen 3 L&#246;ffel Br&#252;hepulver, die Lorbeerbl&#228;tter, Pimentk&#246;rner und den Kardamom in den Topf geben und umr&#252;hren. Etwa 0,75 l hei&#223;es Wasser dazugeben und umr&#252;hren. Bei Bedarf kann auch mehr Wasser genommen werden. Die Suppe etwa 20 Minuten, bzw. bis die M&#246;hrenst&#252;cke weich, aber noch bissfest sind, bei kleiner bis mittlerer Hitze k&#246;cheln lassen. Zwischendurch Rosmarin, Salbei und Thymian dazugeben. Zum Schluss nach Geschmack salzen.
+Tipp: Nat&#252;rlich kann man auch nach Geschmack noch anderes dazu geben - von Bauchspeck &#252;ber Ingwer, Porree bis Zucchini. Und nat&#252;rlich k&#246;nnte man die Suppe auch noch p&#252;rieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

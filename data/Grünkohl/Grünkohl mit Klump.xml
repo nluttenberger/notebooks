@@ -1,0 +1,75 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c8d620e5-3bf4-482a-bb7e-d3990839a58c">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Klump</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Pck.</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, gefrorenen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eisbein(e), frisch oder ger&#228;uchert</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="bratwurst">Bratwurst, ger&#228;ucherte</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>25 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Ei(er)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="paniermehl">Semmelbr&#246;sel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="fleischbr&#252;he">Wurstbr&#252;he, Fleischbr&#252;he oder Wasser</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl mit ausreichend Fl&#252;ssigkeit, Salz und Fleisch am Vortag in einer entsprechend gro&#223;en Bratpfanne vorkochen. (Am besten schmeckt der Gr&#252;nkohl, wenn er mit Wurst- oder Fleischbr&#252;he angesetzt wird, ist keines von beiden vorhanden, nehme ich Wasser und etwas Wurstfett).
+Wenn das Fleisch gar ist, l&#246;se ich es vom Knochen ab und gebe es in den Gr&#252;nkohl zur&#252;ck.
+Am n&#228;chsten Tag werden die Kartoffeln gesch&#228;lt und gerieben.
+W&#228;hrend dieser Zeit kann der Gr&#252;nkohl, dem jetzt noch die ger&#228;ucherte Bratwurst zugegeben wird, langsam k&#246;cheln. Er muss ziemlich d&#252;nnfl&#252;ssig sein.
+Die geriebenen Kartoffeln mit Salz, Zwiebel, Ei und Semmelmehl vermengen. Die Masse in einer runden Bratpfanne mit erhitztem &#214;l nach und nach von beiden Seiten anbraten. Jeweils die fertige Masse auf dem Gr&#252;nkohl verteilen, bis dieser vollst&#228;ndig mit der Kartoffelmasse abgedeckt ist.
+Dann das Ganz f&#252;r ca. 1 1/2 bis 2 h bei 180 Grad C (ohne Umluft) in die Backr&#246;hre schieben (mit Deckel) Die Kartoffelmasse muss eine leicht br&#228;unliche F&#228;rbung haben.
+Zum Essen vorsichtig die Kartoffelmasse (Klump) entfernen und auf die Teller verteilen.
+Dazu dann den Gr&#252;nkohl und das Fleisch reichen.
+Fr&#252;her wurden in den Gr&#252;nkohl auch noch Birnen reingegeben und mitgekocht, das ist aber Geschmackssache und diese Birnen gibt es auch nicht mehr. Kann sich aber jeder selbst ausprobieren, ob er das mag.
+Sollte nicht alles am gleichen Tag verzehrt werden, einfach noch mal in der Mikrowelle warm gemacht. Schmeckt auch dann noch prima.
+Dieses Essen ist sehr fett und auch kalorienreich und wird vorwiegend nur in den Wintermonaten gegessen.
+Ich w&#252;nsche trotzdem Guten Appetit.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

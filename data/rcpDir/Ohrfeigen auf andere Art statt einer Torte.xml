@@ -1,0 +1,68 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/websites/tools/recipe.xsd" rcpID="G-044">
+  <ns0:meta>
+    <ns0:book>KochbuchHD</ns0:book>
+    <ns0:chapter>06 Eier-, Milch- und Mehl-Speisen</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Ohrfeigen auf andere Art statt einer Torte</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#8539; Ma&#223;</ns0:igdtQuantity>
+        <ns0:igdtName ref="milch">Milch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="st&#228;rke">Kartoffelmehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4</ns0:igdtQuantity>
+        <ns0:igdtName ref="ei">Eier</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="beeren">Prei&#223;elbeeren</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zimt">Zimmet</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronenschale</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitronen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Man backt 2 solcher Ohrfeigen mit etwas abgeriebener Zitronenschale, tr&#246;pfelt auf eine den Saft von 2 Zitronen, streut viel Zucker dar&#252;ber, gibt sie auf eine Sch&#252;ssel, schiebt die zweite auf einen Kuchendeckel und schwingt sie mit fester Hand auf die erste, so da&#223; die gebackene Seite nach oben kommt und gibt sie, mit Zucker bestreut, gleich zur Tafel. </ns0:instrStepText>
+    </ns0:instruction>
+    <ns0:instruction>
+      <ns0:instrStepName>Ohrfeigen</ns0:instrStepName>
+      <ns0:instrStepText>Eine gro&#223;e Obertasse Milch (ist gleich &#8539; Ma&#223;), ein aufgeh&#228;ufter E&#223;l&#246;ffel voll Kartoffelmehl, etwas Salz und 4 Eidotter werden fein ger&#252;hrt; dann das zu ganz steifem Schaum geschlagene Wei&#223;e der Eier gut durchgemischt, w&#228;hrend man Butter in einer recht glatten Kuchenpfanne zergehen l&#228;&#223;t, die Masse hineingibt, einen vorher recht hei&#223; gemachten blechernen Kuchendeckel darauf legt und dies auf einem gleichm&#228;&#223;igen, schwachen Feuer etwa 10 Minuten auf einer Seite backt. Dann bestreicht man die Ohrfeige mit beliebigem Eingemachten, Gelee oder Prei&#223;elbeeren, oder streut Zucker und Zimmet darauf, schl&#228;gt sie zusammen und gibt sie sogleich, mit Zucker bestreut oder mit einer Wein-Sauce, zur Tafel.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish>Am angenehmsten aber ist ein Compot von frischen Johannisbeeren dabei, oder auch dazwischen gestrichen.</ns0:recipeSideDish>
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

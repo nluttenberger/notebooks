@@ -1,0 +1,65 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6ba47953-b313-4768-af4c-070cb1906020">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>P&#252;rierte Gr&#252;nkohlsuppe mit Pinkel</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 halbe</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="butter">Butter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he, erw&#228;rmt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 &#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="pinkelwurst">Pinkelw&#252;rste</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl von den dicken Rispen zupfen und waschen. In reichlich Salzwasser 2 Minuten kochen, anschlie&#223;end mit eiskaltem Wasser abschrecken.
+In einem gr&#246;&#223;eren Topf die Zwiebelw&#252;rfel und den durchgepressten Knoblauch in 1 EL Butter and&#252;nsten. Den Gr&#252;nkohl gut ausdr&#252;cken und dazugeben. Die Fleischbr&#252;he angie&#223;en und aufkochen lassen. Das halbe Pinkelw&#252;rstchen aus dem Darm l&#246;sen und gemeinsam mit dem ganzen W&#252;rstchen zum Gr&#252;nkohl geben. Den Gr&#252;nkohl zugedeckt in ca. 30 Minuten weich kochen.
+Die restliche Butter und Cr&#232;me fra&#238;che zugeben. Das ganze W&#252;rstchen herausnehmen, ausl&#246;sen und in d&#252;nne Scheiben schneiden. Die Suppe p&#252;rieren. Die Wurstscheiben wieder zugeben.
+Die Suppe in vorgew&#228;rmten Tellern servieren.
+Ich nehme nur 1,5 Pinkelw&#252;rste, da die Suppe ansonsten zu deftig wird, ist jedoch Geschmacksache. Die ausgel&#246;ste Pinkelwurst f&#228;llt w&#228;hrend des Kochens auseinander, das ist gewollt.
+Anstelle der Pinkelw&#252;rste kann man auch Mettw&#252;rste nehmen.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

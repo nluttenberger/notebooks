@@ -1,0 +1,93 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9978a5f4-6b15-4126-ada3-0c45b3c87dbb">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl a la Achim</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>5</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweineschmalz">Schweineschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="haferflocken">Haferflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1.000 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">Kasseler Rippenspeer (ger&#228;uchert)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>350 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleisch">Speck, durchwachsenen (D&#246;rrfleisch) am St&#252;ck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">W&#252;rste, (Gr&#252;tzw&#252;rste oder Mettenden)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he, (Konzentrat)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Schuss</ns0:igdtQuantity>
+        <ns0:igdtName ref="rotwein">Rotwein</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="muskat">Muskat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Gr&#252;nkohl gr&#252;ndlich waschen, in kochendes Salzwasser geben und 2-3 Min. blanchieren. abtropfen lassen und grob hacken. Zwiebeln abziehen und in W&#252;rfel schneiden. Schweineschmalz erhitzen, die Zwiebeln darin glasig d&#252;nsten und den Gr&#252;nkohl hinzu geben, Haferflocken unterr&#252;hren und erhitzen.
+Den Rippenspeer waschen und den Knochen ausl&#246;sen. Das Fleisch mit dem Knochen zum Gr&#252;nkohl geben, Speck und Br&#252;he hinzugeben und mit Salz und gek&#246;rnter Br&#252;he vorsichtig w&#252;rzen und zum Kochen bringen und 30 Min. lang kochen. Gr&#252;tzw&#252;rste (Mettenden) hinzuf&#252;gen und weitere 20 Min. mitkochen lassen. Nun mit Salz, Pfeffer, Muskat und Zucker ab schmecken.
+Nun das Kasseler und das D&#246;rrfleisch aus dem Topf holen und in Scheiben schneiden.
+Nun wird der Gr&#252;nkohl mit dem Fleisch auf einer Platte angerichtet. Als Beilege passen Salzkartoffeln gut dazu.
+Variante:
+Man sch&#228;lt ca. 700g Kartoffeln und schneidet diese in W&#252;rfel. Kocht sie bis sie halb gar sind und gibt sie 20 Min. nach Kochbeginn des Gr&#252;nkohls mit dazu und l&#228;sst sie bis zu Ende mitkochen.
+Hier noch ein Tipp:
+Bitte vorsichtig mit dem Salz umgehen, denn das Kassler, das D&#246;rrfleisch und die W&#252;rstchen geben genug Salz ab, da ja alles ger&#228;uchert ist.
+Am besten lasst ihr den Gr&#252;nkohl vor dem endg&#252;ltigen abschmecken eine Nacht stehen. Am n&#228;chsten Tag den Gr&#252;nkohl erneut hei&#223; machen und dann abschmecken.
+Kohl schmeckt aufgew&#228;rmt sowieso besser. Aber das ist ja Geschmackssache.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

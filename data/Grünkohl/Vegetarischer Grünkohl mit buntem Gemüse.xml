@@ -1,0 +1,98 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-27e19ae7-ad39-437c-8838-3dbebfa00d4e">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Vegetarischer Gr&#252;nkohl mit buntem Gem&#252;se</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch, gewaschen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), wei&#223;e</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schmalz (Zwiebelschmalz) oder 100 g Katenschinken, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprika">Paprikaschote(n), rote</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Raps&#246;l zum Anbraten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he (bis 750 ml)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Kreuzk&#252;mmel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="piment">Pimentk&#246;rner</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Currypulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>etwas</ns0:igdtQuantity>
+        <ns0:igdtName ref="zucker">Zucker</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomatenmark">Tomatenmark</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="senf">Senf, mittelscharfer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="wurst">Mettw&#252;rstchen (3-4)</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Den Gr&#252;nkohl waschen und abtropfen lassen. Die bunten Gem&#252;se und die Zwiebeln putzen und nicht zu winzig in W&#252;rfel schneiden.
+Eine tiefe Pfanne oder einen Wok mit dem &#214;l erhitzen, die Zwiebeln und das Zwiebelschmalz (oder alternativ die Katenschinkenw&#252;rfel) anbraten. Dazu die bunten Gem&#252;sew&#252;rfel geben. Alles mit Geduld sch&#246;n anschwitzen lassen. Das Tomatenmark und die Gew&#252;rze zugeben.
+Alternativ f&#252;r Nicht-Vegetarier bei Bedarf nun die 3-4 Mettw&#252;rste (die man erhitzen darf) kurz darin anbraten, dann herausnehmen und warmstellen.
+Jetzt in einem gro&#223;en Topf etwas Raps&#246;l erhitzen. In das hei&#223;e &#214;l den gewaschenen Gr&#252;nkohl geben - ohne Wasser - und mit  1/2 TL Salz und etwas Paprikapulver bestreuen. Den Topfdeckel aufsetzen. Dann f&#228;llt der Kohl erst einmal zusammen. Jetzt das angeschwitzte bunte Gem&#252;se dazugeben. Alles mit 1 EL Senf verr&#252;hren und 3-5 Minuten schwitzen lassen. Darauf nach und nach die hei&#223;e Gem&#252;sebr&#252;he geben. Der Kohl darf dabei nicht schwimmen! Alle Zutaten zusammen bei geschlossenem Deckel ca. 45 Minuten durchkochen lassen.
+Danach die Br&#252;he abschmecken und wenn der Kohl bissfest ist, den Topf vom Herd ziehen. Der Kohl oder das bunte Gem&#252;se sollten nicht breiig werden.
+Deftige Variante f&#252;r Nicht-Vegetarier: Jetzt kann man wieder die W&#252;rstchen zugeben und darauf warm werden lassen.
+Tipp: Lustig ist es, wenn es dazu blaue Pellkartoffeln gibt. Ich liebe die bunte K&#252;che!</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

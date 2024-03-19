@@ -1,0 +1,90 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6acbff2f-d225-4cdf-9b6b-aaa6af610729">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Cozido de Lagoa das Furnas</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>800 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="rindfleisch">Rindfleisch, (Suppenfleisch)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>600 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="wein">Schweinelende(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>&#189;</ns0:igdtQuantity>
+        <ns0:igdtName ref="huhn">H&#228;hnchen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, durchwachsener</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="">Salz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 Zweig/e</ns0:igdtQuantity>
+        <ns0:igdtName ref="petersilie">Petersilie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="lorbeer">Lorbeerbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Pfeffer, ganz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="schweinefleisch">W&#252;rste, Chouri&#231;os oder ger&#228;ucherte Schweinefleischw&#252;rste</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleiner</ns0:igdtQuantity>
+        <ns0:igdtName ref="wei&#223;kohl">Wei&#223;kohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>8 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">Karotte(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 m.-gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="steckr&#252;be">R&#252;be(n), wei&#223;e</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleiner</ns0:igdtQuantity>
+        <ns0:igdtName ref="blumenkohl">Gr&#252;nkohl, (Couve galega) oder einige Blumenkohlbl&#228;tter</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Rind- und Schweinefleisch, das vorbereitete halbe H&#228;hnchen und den Speck in einen gro&#223;en Topf legen, reichlich leicht gesalzenes Wasser angie&#223;en, ganze Zwiebel, Petersilienzweige, Lorbeerbl&#228;tter und Pfefferk&#246;rner zuf&#252;gen und bei m&#228;&#223;iger Hitze zugedeckt ungef&#228;hr 1 &#189; Stunden kochen lassen.
+Das Fleisch und den Speck aus der Br&#252;he nehmen, zur Seite stellen und mit etwas hei&#223;er Br&#252;he begie&#223;en, damit das Fleisch nicht austrocknet. Die W&#252;rste mehrmals einstechen und in einer kleinen  Kasserolle bei starker Hitze zum Kochen bringen, vom Herd nehmen und gar ziehen lassen.
+Den Wei&#223;kohl in St&#252;cke schneiden, die Kartoffeln sch&#228;len und halbieren, die Karotten putzen und der L&#228;nge nach teilen, die R&#252;be sch&#228;len und vierteln, den Gr&#252;nkohl (galizischen Kohl) oder die Blumenkohlbl&#228;tter in St&#252;cke schneiden. Karotten-, R&#252;ben- und Kartoffelst&#252;cke in die Fleischbr&#252;he geben und etwa 20 Min. kochen lassen. Wei&#223;kohl und Kohlbl&#228;tter hinzuf&#252;gen und das Gem&#252;se in der Fleischbr&#252;he bei m&#228;&#223;iger Hitze fast gar kochen. Das Fleisch und den Speck in gro&#223;e W&#252;rfel schneiden, das H&#228;hnchen entbeinen, die W&#252;rste halbieren, alles in den Gem&#252;setopf legen und bei geringer Hitze k&#246;cheln lassen. Mit Salz und Pfeffer w&#252;rzen und im Topf servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

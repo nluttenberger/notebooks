@@ -1,0 +1,67 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-15b870d0-8009-4b6e-be96-8a87abe3cc65">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Crunchy-Gr&#252;nkohl-Auflauf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="kartoffel">Brei aus Kartoffeln (Kartoffelstampf, Rest Kartoffelbrei)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Glas</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kleine</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinken, gew&#252;rfelt</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="butterschmalz">Butterschmalz</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="k&#228;se">K&#228;se, gerieben</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="walnuss">Waln&#252;sse, (im M&#246;rser zerkleinert)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="mettwurst">Cabanossi, (in Scheiben)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Prise(n)</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Spritzer</ns0:igdtQuantity>
+        <ns0:igdtName ref="s&#252;&#223;stoff">S&#252;&#223;stoff</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Eine Auflaufform mit dem Kartoffelstampf f&#252;llen und glatt streichen.
+In einem gesonderten Topf den Gr&#252;nkohl zubereiten. Dazu enth&#228;uten wir die Zwiebel und schneiden sie in kleine W&#252;rfel. Das Butterschmalz im Topf erhitzen und die Zwiebelw&#252;rfel sowie die Schinkenw&#252;rfel and&#252;nsten. Nun den Gr&#252;nkohl dazugeben und mit einer Prise Salz und Pfeffer aus M&#252;hle abschmecken, den Spritzer fl&#252;ssigen S&#252;&#223;stoff und die in Scheiben geschnittene Cabanossi unterheben und ziehen lassen.
+Zum Schluss die im M&#246;rser zerstampften Walnusskerne unterheben. Ist der Gr&#252;nkohl etwas abgek&#252;hlt, die Masse auf dem Kartoffelstampf ausbreiten und den EL K&#228;se in der Mitte platzieren.
+Die Auflaufform in die Mikrowelle geben und bei 800 Watt 7 Min. &#252;berbacken.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

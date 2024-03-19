@@ -1,0 +1,53 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c35fa0d0-4bb7-4bdc-9007-830eff69b01d">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl mit Avocado</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Bl&#228;tter vom Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="avocado">Avocado(s), reife</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="zitrone">Zitrone(n), den Saft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>6</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">Cocktailtomaten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>n. B.</ns0:igdtQuantity>
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Gr&#252;nkohlbl&#228;tter waschen und die festen, mittleren Strunkteile entfernen bzw. flach abschneiden. Wenn die Bl&#228;tter sehr dick sind, k&#246;nnen sie auch kurz in Salzwasser blanchiert werden.
+Die Bl&#228;tter rollen und in 1 cm breite Streifen schneiden, in eine Sch&#252;ssel geben und mit Salz und Pfeffer w&#252;rzen. Das Oliven&#246;l und den Zitronensaft dazugie&#223;en und gut durchmischen.
+Die Avocado halbieren, entkernen, das Fruchtfleisch von der Schale l&#246;sen und in kleine St&#252;cke schneiden. Avocadost&#252;ckchen zum Gr&#252;nkohl geben und vermischen.
+Den Salat auf Tellern anrichten.
+Die Cocktailtomaten waschen und halbieren und am Rand des Tellers als Dekoration oder auf dem Salat drapieren.
+Der Salat/die Vorspeise kann sofort serviert werden, eignet sich aber auch gut als Vorbereitung f&#252;r ein Men&#252;, wenn der Salat etwas l&#228;nger durchzieht.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -35,13 +35,12 @@ The descriptions of the *fruschtique* API functions are grouped by keywords indi
 ## The `CulinaryCollection` class and its methods
 The CulinaryCollection class provides a number of methods to the programmer that let him/her construct ingredient graphs from culinary collections, and analyse these graphs.
 #####  &nbsp;
-
 ---
-### Init
+### Init method
 ---
-#### `CulinaryCollection(graphLab, descriptor, igdtCat, working)`  
+#### `CulinaryCollection(graphLab=None, descriptor=None, igdtCat=None, working=None)`  
 - *description:*  
-read cueML/XML-coded descriptor for collection from graphLab, read cueML/json-coded ingredients catalog, generate json-coded file holding collection data   
+read cueML/XML-encoded descriptor for collection from graphLab, read cueML/json-encoded ingredients catalog, create json-encoded file `coll_data.json` in the working directory holding collection data   
 - *params:*  
 `graphLab:dirpath` (absolute path to graphLab top-level directory)  
 `descriptor:filename` (XML-encoded descriptor for graph experiment, located in graphLab top-level directory)  
@@ -63,7 +62,7 @@ collection name, #subcollections, recipe author names, #recipes total, #recipes 
 #####  &nbsp;  
 
 ---
-### Collection-related
+### Collection-related methods
 ---
 
 
@@ -71,7 +70,7 @@ collection name, #subcollections, recipe author names, #recipes total, #recipes 
 - *description:*  
   General information on subcollections contained in collection  
 - *params:*  
-`xx` (absolute path to graphLab top-level directory)  
+no params  
 - *returns:*  
 `dict` with keys `#subcollections, subcollection names, recipe author names, #recipes subcollection-wise, #distinct ingredients in subcollections`
 - *side-effects:*  
@@ -83,7 +82,7 @@ collection name, #subcollections, recipe author names, #recipes total, #recipes 
 #####  &nbsp;
 
 
-### `recipesList(subColl=None)`  
+#### `recipesList(subColl=None)`  
 - *description:*  
 return list of recipes total or subcollection-wise  
 - *params:*  
@@ -99,7 +98,7 @@ n/a
 #####  &nbsp;
 
 
-### `ingredientsList(subcoll=None)`  
+#### `ingredientsList(subcoll=None)`  
 - *description:*  
 distinct ingredients used: total, subcollection-wise
 - *params:*  
@@ -111,11 +110,11 @@ none
 - *print:*  
 n/a
 - *example:*  
-`myBigtList = myColl.ingredientsList('B')`  
+`myBIngredientsList = myColl.ingredientsList('B')`  
 #####  &nbsp;
 
 
-### `catalogList(i-class or [keys for ingredient entries in catalogue], default=None)`  
+#### `catalogList(i-class or [keys for ingredient entries in catalogue], default=None)`  
 - *description:*  
 returns complete catalogue, list of ingredient references for given i-class, or full catalogue entries for list of references, default=None  
 - *params:*  
@@ -132,7 +131,7 @@ n/a
 #####  &nbsp; 
 
 
-### `cosine_sim()`  
+#### `cosine_sim()`  
 - *description:*  
    determines cosine similarity between subcollections in total and ingredient vectors class-wise  
 - *params:*  
@@ -148,7 +147,7 @@ n/a
 #####  &nbsp; 
 
 
-### `entropy()`  
+#### `entropy()`  
 - *description:*  
 determine entropy of subcollections  
 - *params:*  
@@ -166,11 +165,11 @@ n/a
 
 
 ---
-### Graph-related
+### Graph-related method
 ---
 
 
-### `toGraph(subcoll=None or subcolllist=None)`  
+#### `toGraph(subcoll=None or subcolllist=None)`  
 - *description:*  
 converts (sub)collection(s) to ingredient graph  
 - *params:*  
@@ -186,13 +185,13 @@ summary information on resulting graph nodes and edges
 #####  &nbsp; 
 
      
-### `nodeSets(graph=None, subcoll=None or subcolllist=None)`     
+#### `nodeSets(graph=None, subcoll=None or subcolllist=None)`     
 - *description:*  
 computes node sets: pure node set for single subcollection or intersection set for two subcollections 
 - *params:*  
 `graph:graph` (Networkx graph), `subcoll:string` or `[subcoll:string+]` (single letter denoting a subcollection or list thereof)  
 - *returns:*  
-list(nodes with node attributes)    
+`list` of nodes with node attributes    
 - *side-effects:*  
 none  
 - *print:*  
@@ -202,13 +201,13 @@ n/a
 #####  &nbsp; 
 
      
-### `edgeSets(graph=None, subcoll=None or subcolllist=None)`   
+#### `edgeSets(graph=None, subcoll=None or subcolllist=None)`   
 - *description:*  
-compute edge sets: pure, mixed, intersection  
+compute edge sets: subcollection-pure, subcollection-to-intersection, intersection-pure  
 - *params:*  
 `graph` (Networkx graph), `subcoll:string` or `[subcoll:string+]` (single letter denoting a subcollection or list thereof)
 - *returns:*  
-`dict` with keys `A_e_pure, A_e_mixed, B_e_pure, B_e_mixed, AB_e_intersect` 
+`dict` with keys `A_edges, AAB_edges, B_edges, BAB_edges, AB_edges` 
 - *side-effects:*  
 none
 - *print:*  
@@ -218,17 +217,17 @@ n/a
 #####  &nbsp; 
 
      
-### `Krack(graph=None, subcoll=None or reflist=None)`  
+#### `Krack(graph=None, subcoll=None or reflist=None)`  
 - *description:*  
-Computex Krackhardt's index (global, ingredient-wise) with KI = (EL-IL)/(EL+IL) with EL = external links and IL = internal links.  
-As defined here, the Krackhardt index measures the connection between a collection's "pure node set" and the intersection node set.  
-internal links: relations in the "pure edges set", i.e. relations that connect ingredient nodes in the collection's "pure node set"  
-external links: relations in the "mixed edges set"  
-`Krack()` is applicable only if collection has two subcollections
+Computes Krackhardt's Index (KI) subcollection- or ingredient-wise with KI = (EL-IL)/(EL+IL) with EL = external links and IL = internal links.
+The subcollection-wise application of `Krack()` is applicable only if the collection has two subcollections. 
+As defined here, `Krack()` measures the interconnection between a collection's "pure node set" and the intersection node set.  
+  - internal links: relations in the "pure edges set", i.e. relations that connect ingredient nodes in the collection's "pure node set"  
+  - external links: relations in the "mixed edges set"  
 - *params:*  
 `graph` (Networkx graph), `subcoll:string` (single letter denoting a subcollection) or `reflist:list` (list of references to ingredients catalogue)  
 - *returns:*  
-dict({ })  
+`dict` with keys  
 - *side-effects:*  
 none  
 - *print:*  
@@ -240,15 +239,16 @@ n/a
 
 
 ---  
-### Graph exports
+### Graph export methods
 ---
 
 
-### `toDot(graph=None, dirpath=None, filename=None)`  
+#### `toDot(graph=None, dirpath=None, filename=None)`  
 - *description:*  
 create dot-file for graph creation by graphviz
 - *params:*  
-`graph` (Networkx graph), `dirpath`, `filename` (for dot file)  
+`graph` (Networkx graph)  
+`dirpath`, `filename` (for dot file)  
 - *returns:*  
 nothing  
 - *side-effects:*  
@@ -260,11 +260,12 @@ n/a
 #####  &nbsp; 
 
    
-### `toGEXF(graph=None, dirpath=None, filename=None)`  
+#### `toGEXF(graph=None, dirpath=None, filename=None)`  
 - *description:*  
 output in gexf format to be used by Gephi
 - *params:*  
-`graph` (Networkx graph), `dirpath`, `filename` (for gexf file)  
+`graph` (Networkx graph)  
+`dirpath`, `filename` (for gexf file)  
 - *returns:*  
 nothing  
 - *side-effects:*  
@@ -272,15 +273,16 @@ gexf file is written to given dirpath-filename
 - *print:*  
 n/a  
 - *example:*  
-`myColll.toGEXF(G,'myWorkingDir','myGEXFgraph')`
+`myColl.toGEXF(G,'myWorkingDir','myGEXFgraph')`
 #####  &nbsp; 
 
      
-### `toCSV(graph=None, dirpath=None, filename=None)`    
+#### `toCSV(graph=None, dirpath=None, filename=None)`    
 - *description:*  
 creates CSV-encoded file with nodes and edges sections describing the graph  
 - *params:*  
-`graph` (Networkx graph), `dirpath`, `filename` (for CSV file)   
+`graph` (Networkx graph)  
+`dirpath`, `filename` (for CSV file)   
 - *returns:*  
 nothing  
 - *side-effects:*  
@@ -293,16 +295,32 @@ n/a
 
 
 ---  
-### SVG-related
+### SVG-related methods
 ---
+#### `SVGMakerInit(graph=None, working=None)`  
+- *description:*  
+initializes the SVG Maker component of the Culinary Collection object and provides data for following SVG-related function calls
+- *params:*  
+`graph:graph` (Networkx graph)  
+`working:dirpath` (absolute path to notebook's working directory; often the 'data' directory)
+- *returns:*  
+None
+- *side-effects:*  
+creates some files in the working directory 
+- *print:*  
+n/a  
+- *example:*  
+`myColl.SVGMakerInit()`
+#####  &nbsp; 
 
-     
-### `previewSVG(graph=None, fontsize=1.0)`     
+
+#### `previewSVG(graph=None, fontsize=1.0)`     
 - *description:*  
 embeds SVG-formated graph in HTML/CSS/JS wrapper, showing graph nodes only;  
-in case the collection has subcollections, HTML buttons are created to switch on only subcollection nodes or their intersection
+In case the collection has subcollections, HTML buttons are created to select either subcollection nodes, or their intersection, or the full graph node set.
 - *params:*  
-`graph` (Networkx graph to be previewed), `scale:float` (scaling factor for font size in SVG graph, 1.0 < scale < 2.0, recommended: 1.0, default: 1.0)  
+`graph:graph` (Networkx graph to be previewed)  
+`scale:float` (scaling factor for font size in SVG graph, 1.0 < scale < 2.0, recommended: 1.0, default: 1.0)  
 - *returns:*  
 nothing  
 - *side-effects:*  
@@ -310,15 +328,15 @@ nothing
 - *print:*  
 n/a  
 - *example:*  
-`previewSVG(G,1.1)`
+`myColl.previewSVG(G,1.1)`
 #####  &nbsp; 
 
 
-### `createSVGRecipeGraphs()`  
+#### `createSVGSequence(sequence=None)`  
 - *description:*  
 Creates a single SVG file per recipe. Coordinates for nodes and edges are taken from the complete SVG ingredient graph. 
 - *params:*  
-bla
+`sequence:list` (ordered list of recipe names)
 - *returns:*  
 bla
 - *side-effects:*  
@@ -330,82 +348,81 @@ n/a
 #####  &nbsp; 
 
 
----  
-### Scraping and normalizing
----
-
-
-### `scrapeCK(searchword=None, target=none)`  
+#### `orderByContrib2IG()`  
 - *description:*  
-Scrapes search results from the Chefkoch website (chefkoch.de); this function should be used after `EmptyCollection` and before `createRefs4Collection`
+bla
 - *params:*  
-`searchword:string` (input for Chefkoch search entry field)  
-`target:dirpath` (location for storing scraped recipes)
+bla
+- *returns:*  
+`sequence:list` (ordered list of recipe names)
+- *side-effects:*  
+bla 
+- *print:*  
+n/a  
+- *example:*  
+`myColl`
+#####  &nbsp; 
+---  
+## Functions for scraping recipes and normalizing their ingredient names
+
+
+#### `scrapeCKbyKey(culinaryKey=None, targetDir=None)`  
+- *description:*  
+Scrapes search results for culinary key from the Chefkoch website (chefkoch.de), converts them cueML-encoding and stores them in directory
+- *params:*  
+`culinaryKey:string` (input for Chefkoch search entry field)  
+`targetDir:dirpath` (location for storing scraped recipes)
 - *returns:*  
 nothing
 - *side-effects:*  
-creates directory named by `searchword` in location given by `dirpath` and stores scraped recipes in this directory; recipe files carry recipe names as filenames; recipe files are encoded in cueML; not contained: references to ingredients catalogue
+creates directory given by `culinaryKey` in location given by `dirpath` and stores scraped recipes in this directory; recipe files carry recipe names as filenames; recipe files are encoded in cueML; not contained: references to ingredients catalogue
 - *print:*  
 n/a  
 - *example:*  
-`scrapeCK('schwarzwurzel', 'c:\users\nlutt\pyProjects\graphs\data\')`
+`fr:scrapeCKbyKey('schwarzwurzel', 'c:/users/xlutt/Documents/newColl/schwarzwurzelColl')`
 #####  &nbsp; 
 
 
-### `createRefs4Recipe(recipeName)`  
+#### `createRefs4Recipe(loc=None, recipeName=None, igdtCat=None)`  
 - *description:*  
-creates references to the ingrendients catalogue for all ingredients listed in the recipe 
+creates ingrendients catalogue references for all ingredients in the given recipes 
 - *params:*  
-`recipeName:string` (name of recipe)
+`loc:dirpath` (absolute path to recipe file directory)  
+`recipeName:string` (name of recipe)  
+`igdtCat:fullpath` (absolute path to JSON-encoded ingredients catalogue file)
 - *returns:*  
-`dict` with keys `'refsCreated', 'noRefIngredients'`, each having `list` values
+`dict` with `'total':int, 'success':int, 'fail':list, 'recipeName':string`
 - *side-effects:*  
-stores resulting cueML-encoded recipe file in the working directory 
+stores updated cueML-encoded recipe file in the `loc` directory 
 - *print:*  
 n/a  
 - *example:*  
-`myColl`
+`result = fr:createRefs4Recipe('C:/Users/xuser/Documents/newColl/recipes_xml/', 'Mung Dal mit Spinat.xml')`
 #####  &nbsp;
 
 
-### `createRefs4Collection(location)`  
+#### `createRefs4Coll(loc=None, igdtCat=None)`  
 - *description:*  
-creates references to ingrendients catalogue for all ingredients listed in the recipe of a collection
+creates ingrendients catalogue references for all ingredients in the recipes of a collection
 - *params:*  
-`location:dirpath` (location of collection)
+`loc:dirpath` (location of collection)  
+`igdtCat:fullpath` (absolute path to JSON-encoded ingredients catalogue file)
 - *returns:*  
-`dict` with keys `'succRefs', 'noSuccRefs'` with list values
+`dict` with `'total':int, 'success':int, 'fail':list, 'recipeName':string` 
 - *side-effects:*  
-bla 
+stores updated cueML-encoded recipe files in the `loc` directory 
 - *print:*  
 n/a  
 - *example:*  
-`myColl`
-#####  &nbsp; 
-
-
-### `checkCollection ('dirpath')`  
-- *description:*  
-bla
-- *params:*  
-bla
-- *returns:*  
-`dict` with keys `'succRefs', 'noSuccRefs'` with list values
-- *side-effects:*  
-bla 
-- *print:*  
-n/a  
-- *example:*  
-`myColl`
+`result = fr:createRefs4Collection('C:/Users/xuser/Documents/newColl/recipes_xml/')`
 #####  &nbsp; 
 
 
 ---  
-### File formats
----
+## File formats
 
 
-### `coll_data`
+#### `coll_data`
 - *description:*  
 JSON-encoded file describing the collection
 - *format:*  
@@ -413,19 +430,20 @@ JSON-encoded file describing the collection
 #####  &nbsp; 
 
 
-### `ingredients catalogue`
+#### `ingredients catalogue`
 - *description:*  
 the ingredients catalogue in JSON format
 - *format:*  
 #####  &nbsp; 
 
 
----  
-### MD template for docs
+#### `sample recipe file`
+--- 
+### MD template for functions
 ---
 
 
-### `function()`  
+#### `function()`  
 - *description:*  
 bla
 - *params:*  
@@ -441,3 +459,115 @@ n/a
 #####  &nbsp; 
 
 
+---
+```
+graphlab
+├───.idea
+├───chatGPT
+├───deprecated
+├───dist
+│   ├───2022-H1
+│   ├───2022-Q1
+│   ├───2022-Q2
+│   ├───ckMangold
+│   ├───ckMaronensuppe
+│   ├───ckPensionsfrucht
+│   ├───compareDev
+│   ├───compareHD-YO
+│   ├───css
+│   ├───Flavour
+│   ├───fruschtique
+│   ├───g_demo4Theory
+│   ├───HD-Fleisch
+│   ├───HD-Gemüse
+│   ├───HD-Suppen
+│   ├───img
+│   │   ├───blog
+│   │   ├───icons
+│   │   ├───logos
+│   │   └───theory
+│   ├───js
+│   │   ├───.idea
+│   │   └───vendor
+│   ├───Kochbuch50
+│   ├───Kochbuch60
+│   ├───pdf
+│   ├───svg
+│   └───two_of_HD-Gemüse
+├───doc
+│   ├───fr Ausdruck
+│   └───fr docs
+│       ├───img
+│       ├───material
+│       └───sheets
+├───etc
+│   ├───Fotos ZKM Barabasi
+│   └───JSNetworkX API Reference-Dateien
+├───experiments
+│   ├───all-betweenness_lt_500
+│   │   ├───graphs
+│   │   └───htmlFragments
+│   ├───InsalataValtelina
+│   │   ├───graphs
+│   │   └───htmlFragments
+│   └───vorspeisen
+│       ├───graphs
+│       └───htmlFragments
+├───filters
+├───lit
+│   └───Teng Lin - Substitution
+├───sampleSpaces
+│   ├───2022-H1
+│   │   └───graphs
+│   ├───2022-Q1
+│   │   └───graphs
+│   ├───2022-Q2
+│   │   └───graphs
+│   ├───all-1
+│   │   ├───graphs
+│   │   ├───htmlFragments
+│   │   └───tteesstt
+│   ├───ckMangold
+│   │   └───graphs
+│   ├───ckMaronensuppe
+│   │   └───graphs
+│   ├───ckPensionsfrucht
+│   │   └───graphs
+│   ├───compareDev
+│   │   └───graphs
+│   ├───compareHD-YO
+│   │   └───graphs
+│   ├───demo4Theory
+│   │   └───graphs
+│   ├───Flavour
+│   │   └───graphs
+│   ├───forFour
+│   ├───fruschtique
+│   │   └───graphs
+│   ├───GraphConstruct
+│   │   └───graphs
+│   ├───HD-Fleisch
+│   │   └───graphs
+│   ├───HD-Gemüse
+│   │   └───graphs
+│   ├───HD-Suppen
+│   │   └───graphs
+│   ├───InsalataValtellina
+│   │   └───graphs
+│   ├───k50
+│   │   └───graphs
+│   ├───k60
+│   │   └───graphs
+│   └───two_of_HD-Gemüse
+│       └───graphs
+├───src
+│   ├───css
+│   ├───doc
+│   ├───img
+│   └───js
+├───stoer-wagner
+├───temp
+├───theory
+└───tools
+
+```
