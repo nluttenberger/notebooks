@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-37">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">37 Safran-Tagliatelle</text>
+      </g>
+      <g class="edge" id="ei--safran" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7862.59,-4881.2L6321.01,-2580.1" />
+      </g>
+      <g class="edge" id="ei--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7862.59,-4881.2L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="ei--hartweizengrie&#223;" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3553.91,-144L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="safran--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6321.01,-2580.1L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="hartweizengrie&#223;--safran" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3553.91,-144L6321.01,-2580.1" />
+      </g>
+      <g class="edge" id="hartweizengrie&#223;--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3553.91,-144L9242.64,-4229.33" />
+      </g>
+      <g class="node" id="ei" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-egg" cx="7862.59" cy="-4881.2" rx="321.5" ry="321.5" />
+        <text x="7862.59" y="-4851.2" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Ei</text>
+      </g>
+      <g class="node" id="safran" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-spice" cx="6321.01" cy="-2580.1" rx="144.0" ry="144.0" />
+        <text x="6321.01" y="-2550.1" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Safran</text>
+      </g>
+      <g class="node" id="weizenmehl" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-carb" cx="9242.64" cy="-4229.33" rx="277.5" ry="277.5" />
+        <text x="9242.64" y="-4199.33" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="hartweizengrie&#223;" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-carb" cx="3553.91" cy="-144" rx="144.0" ry="144.0" />
+        <text x="3553.91" y="-114" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Hartweizengrie&#223;</text>
+      </g>
+    </g>
+  </g>
+</svg>

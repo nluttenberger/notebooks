@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-59">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">59 S&#252;&#223;saure Zwiebeln</text>
+      </g>
+      <g class="edge" id="oliven&#246;l--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="ziegenfrischk&#228;se--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8646.45,-7011.48L13795.4,-12550.9" />
+      </g>
+      <g class="edge" id="isot_biber--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8646.45,-7011.48L13668.4,-8309.67" />
+      </g>
+      <g class="edge" id="granatapfel--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M15636.2,-12887.7L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="schnittlauch--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8646.45,-7011.48L12081.8,-10730.4" />
+      </g>
+      <g class="edge" id="oliven&#246;l--ziegenfrischk&#228;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6736.36,-8748.25L13795.4,-12550.9" />
+      </g>
+      <g class="edge" id="isot_biber--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L13668.4,-8309.67" />
+      </g>
+      <g class="edge" id="granatapfel--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M15636.2,-12887.7L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--schnittlauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L12081.8,-10730.4" />
+      </g>
+      <g class="edge" id="isot_biber--ziegenfrischk&#228;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13795.4,-12550.9L13668.4,-8309.67" />
+      </g>
+      <g class="edge" id="granatapfel--ziegenfrischk&#228;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M15636.2,-12887.7L13795.4,-12550.9" />
+      </g>
+      <g class="edge" id="schnittlauch--ziegenfrischk&#228;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12081.8,-10730.4L13795.4,-12550.9" />
+      </g>
+      <g class="edge" id="granatapfel--isot_biber" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M15636.2,-12887.7L13668.4,-8309.67" />
+      </g>
+      <g class="edge" id="isot_biber--schnittlauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12081.8,-10730.4L13668.4,-8309.67" />
+      </g>
+      <g class="edge" id="granatapfel--schnittlauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M15636.2,-12887.7L12081.8,-10730.4" />
+      </g>
+      <g class="node" id="zwiebel" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 19</title>
+        <ellipse class="i-onion" cx="8646.45" cy="-7011.48" rx="507.0" ry="507.0" />
+        <text x="8646.45" y="-6981.48" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zwiebel</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 45</title>
+        <ellipse class="i-fat" cx="6736.36" cy="-8748.25" rx="760.5" ry="760.5" />
+        <text x="6736.36" y="-8718.25" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="ziegenfrischk&#228;se" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-milk" cx="13795.4" cy="-12550.9" rx="188.5" ry="188.5" />
+        <text x="13795.4" y="-12520.9" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Ziegenfrischk&#228;se</text>
+      </g>
+      <g class="node" id="isot_biber" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-spice" cx="13668.4" cy="-8309.67" rx="223.0" ry="223.0" />
+        <text x="13668.4" y="-8279.67" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Isot_Biber</text>
+      </g>
+      <g class="node" id="granatapfel" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-fruit" cx="15636.2" cy="-12887.7" rx="144.0" ry="144.0" />
+        <text x="15636.2" y="-12857.7" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Granatapfel</text>
+      </g>
+      <g class="node" id="schnittlauch" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-onion" cx="12081.8" cy="-10730.4" rx="321.5" ry="321.5" />
+        <text x="12081.8" y="-10700.4" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Schnittlauch</text>
+      </g>
+    </g>
+  </g>
+</svg>

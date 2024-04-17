@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-27">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">27 Gegrillte Feigen mit Shaoxing-Dressing</text>
+      </g>
+      <g class="edge" id="ahornsirup--chilischote" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11092.7,-4214.93L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="ahornsirup--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6948.48,-6848.4L11092.7,-4214.93" />
+      </g>
+      <g class="edge" id="ahornsirup--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11092.7,-4214.93L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="ahornsirup--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13686.3,-4026.83L11092.7,-4214.93" />
+      </g>
+      <g class="edge" id="ahornsirup--rucola" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11092.7,-4214.93L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="ahornsirup--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11092.7,-4214.93L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="ahornsirup--feige" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L11092.7,-4214.93" />
+      </g>
+      <g class="edge" id="ahornsirup--reiswein" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M11092.7,-4214.93L13688.9,-2905.1" />
+      </g>
+      <g class="edge" id="ahornsirup--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L11092.7,-4214.93" />
+      </g>
+      <g class="edge" id="chilischote--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13686.3,-4026.83L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--rucola" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9359.68,-8592.98L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="chilischote--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9359.68,-8592.98L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="chilischote--feige" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--reiswein" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13688.9,-2905.1L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="reisessig--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13686.3,-4026.83L6948.48,-6848.4" />
+      </g>
+      <g class="edge" id="rucola--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6948.48,-6848.4L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="sojasauce--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6948.48,-6848.4L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="feige--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L6948.48,-6848.4" />
+      </g>
+      <g class="edge" id="reiswein--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6948.48,-6848.4L13688.9,-2905.1" />
+      </g>
+      <g class="edge" id="ricotta--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L6948.48,-6848.4" />
+      </g>
+      <g class="edge" id="oliven&#246;l--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13686.3,-4026.83L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--rucola" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6736.36,-8748.25L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="oliven&#246;l--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="feige--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--reiswein" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13688.9,-2905.1L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="reisessig--rucola" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13686.3,-4026.83L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="reisessig--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13686.3,-4026.83L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="feige--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L13686.3,-4026.83" />
+      </g>
+      <g class="edge" id="reisessig--reiswein" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13686.3,-4026.83L13688.9,-2905.1" />
+      </g>
+      <g class="edge" id="reisessig--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13686.3,-4026.83L10198.5,-2866.98" />
+      </g>
+      <g class="edge" id="rucola--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12965.1,-1188.54L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="feige--rucola" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="reiswein--rucola" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13688.9,-2905.1L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="ricotta--rucola" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L12965.1,-1188.54" />
+      </g>
+      <g class="edge" id="feige--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="reiswein--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13688.9,-2905.1L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="ricotta--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="feige--reiswein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L13688.9,-2905.1" />
+      </g>
+      <g class="edge" id="feige--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11944.1,-1022.59L10198.5,-2866.98" />
+      </g>
+      <g class="edge" id="reiswein--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L13688.9,-2905.1" />
+      </g>
+      <g class="node" id="ahornsirup" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-sweet" cx="11092.7" cy="-4214.93" rx="321.5" ry="321.5" />
+        <text x="11092.7" y="-4184.93" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Ahornsirup</text>
+      </g>
+      <g class="node" id="chilischote" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 14</title>
+        <ellipse class="i-spice" cx="9359.68" cy="-8592.98" rx="440.0" ry="440.0" />
+        <text x="9359.68" y="-8562.98" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Chilischote</text>
+      </g>
+      <g class="node" id="zitrone" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 10</title>
+        <ellipse class="i-fruit" cx="6948.48" cy="-6848.4" rx="377.5" ry="377.5" />
+        <text x="6948.48" y="-6818.4" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zitrone</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 21</title>
+        <ellipse class="i-fat" cx="6736.36" cy="-8748.25" rx="531.0" ry="531.0" />
+        <text x="6736.36" y="-8718.25" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="reisessig" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-condi" cx="13686.3" cy="-4026.83" rx="252.0" ry="252.0" />
+        <text x="13686.3" y="-3996.83" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Reisessig</text>
+      </g>
+      <g class="node" id="rucola" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-veg" cx="12965.1" cy="-1188.54" rx="144.0" ry="144.0" />
+        <text x="12965.1" y="-1158.54" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Rucola</text>
+      </g>
+      <g class="node" id="sojasauce" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-condi" cx="12287.6" cy="-4203.61" rx="321.5" ry="321.5" />
+        <text x="12287.6" y="-4173.61" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Sojasauce</text>
+      </g>
+      <g class="node" id="feige" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-fruit" cx="11944.1" cy="-1022.59" rx="144.0" ry="144.0" />
+        <text x="11944.1" y="-992.594" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Feige</text>
+      </g>
+      <g class="node" id="reiswein" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-alc" cx="13688.9" cy="-2905.1" rx="188.5" ry="188.5" />
+        <text x="13688.9" y="-2875.1" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Reiswein</text>
+      </g>
+      <g class="node" id="ricotta" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-milk" cx="10198.5" cy="-2866.98" rx="144.0" ry="144.0" />
+        <text x="10198.5" y="-2836.98" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Ricotta</text>
+      </g>
+    </g>
+  </g>
+</svg>

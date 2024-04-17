@@ -1,0 +1,504 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-5">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">05 Das ultimative Rag&#249; aus dem Ofen</text>
+      </g>
+      <g class="edge" id="cumin--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M5182.37,-7258.29L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="cumin--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M5182.37,-7258.29L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="cumin--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="cumin--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M5182.37,-7258.29L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="cumin--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M5182.37,-7258.29L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="cumin--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="austernpilz--cumin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L8355.37,-3165.5" />
+      </g>
+      <g class="edge" id="cumin--h&#252;hnerbr&#252;he" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L5182.37,-7258.29" />
+      </g>
+      <g class="edge" id="cumin--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M5182.37,-7258.29L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="cumin--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M5182.37,-7258.29L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="cumin--kokoscr&#232;me" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="cumin--harissa" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L5182.37,-7258.29" />
+      </g>
+      <g class="edge" id="cumin--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="cumin--graupen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="cumin--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L7635.96,-2576.3" />
+      </g>
+      <g class="edge" id="cumin--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5182.37,-7258.29L2623.06,-4639.96" />
+      </g>
+      <g class="edge" id="knoblauch--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="karotte--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8356.23,-3964.81L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="oliven&#246;l--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8356.23,-3964.81L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="tomate--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8356.23,-3964.81L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="miso--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8356.23,-3964.81L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="austernpilz--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8355.37,-3165.5L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="tomate--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="sojasauce--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8356.23,-3964.81L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8356.23,-3964.81L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="harissa--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="linsen--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8356.23,-3964.81L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8356.23,-3964.81L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="steinpilz--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="rotwein--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="karotte--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10248.7,-6737.03L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="knoblauch--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="knoblauch--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="knoblauch--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10248.7,-6737.03L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="austernpilz--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10248.7,-6737.03L8355.37,-3165.5" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10248.7,-6737.03L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="knoblauch--kokoscr&#232;me" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10248.7,-6737.03L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="harissa--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10248.7,-6737.03L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10248.7,-6737.03L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="knoblauch--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="karotte--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6736.36,-8748.25L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="karotte--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8646.45,-7011.48L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="karotte--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5189.48,-9344.66L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="austernpilz--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8355.37,-3165.5L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="karotte--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="karotte--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4525.12,-5984.76L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="karotte--kokoscr&#232;me" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5879.9,-4311.17L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="harissa--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="karotte--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4525.12,-5984.76L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3278.54,-6460.23L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="karotte--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="karotte--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L4525.12,-5984.76" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="miso--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6736.36,-8748.25L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="austernpilz--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8355.37,-3165.5L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6736.36,-8748.25L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6736.36,-8748.25L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="harissa--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="linsen--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6736.36,-8748.25L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6736.36,-8748.25L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="oliven&#246;l--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="miso--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8646.45,-7011.48L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="austernpilz--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8355.37,-3165.5L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="tomatenmark--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="sojasauce--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8646.45,-7011.48L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8646.45,-7011.48L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="harissa--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="linsen--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8646.45,-7011.48L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8646.45,-7011.48L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="steinpilz--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="rotwein--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="austernpilz--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8355.37,-3165.5L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="miso--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="miso--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5189.48,-9344.66L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5879.9,-4311.17L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="harissa--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="linsen--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5189.48,-9344.66L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--miso" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3278.54,-6460.23L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="miso--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="miso--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L5189.48,-9344.66" />
+      </g>
+      <g class="edge" id="austernpilz--h&#252;hnerbr&#252;he" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L8355.37,-3165.5" />
+      </g>
+      <g class="edge" id="austernpilz--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L8355.37,-3165.5" />
+      </g>
+      <g class="edge" id="austernpilz--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8355.37,-3165.5L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="austernpilz--kokoscr&#232;me" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8355.37,-3165.5L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="austernpilz--harissa" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L8355.37,-3165.5" />
+      </g>
+      <g class="edge" id="austernpilz--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8355.37,-3165.5L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="austernpilz--graupen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8355.37,-3165.5L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="austernpilz--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L8355.37,-3165.5" />
+      </g>
+      <g class="edge" id="austernpilz--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L8355.37,-3165.5" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--kokoscr&#232;me" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="harissa--h&#252;hnerbr&#252;he" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L4355.52,-7118.12" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--h&#252;hnerbr&#252;he" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L7635.96,-2576.3" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4015.7,-8819.9L2623.06,-4639.96" />
+      </g>
+      <g class="edge" id="sojasauce--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="harissa--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="linsen--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="steinpilz--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="rotwein--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L2623.06,-4639.96" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5879.9,-4311.17L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="harissa--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="linsen--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12287.6,-4203.61L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3278.54,-6460.23L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="sojasauce--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="rotwein--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L12287.6,-4203.61" />
+      </g>
+      <g class="edge" id="harissa--kokoscr&#232;me" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5879.9,-4311.17L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--kokoscr&#232;me" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5879.9,-4311.17L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="kokoscr&#232;me--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L5879.9,-4311.17" />
+      </g>
+      <g class="edge" id="harissa--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--harissa" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="harissa--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L7635.96,-2576.3" />
+      </g>
+      <g class="edge" id="harissa--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4355.52,-7118.12L2623.06,-4639.96" />
+      </g>
+      <g class="edge" id="graupen--linsen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3278.54,-6460.23L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="linsen--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="linsen--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L3111.68,-7379.08" />
+      </g>
+      <g class="edge" id="graupen--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="graupen--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2623.06,-4639.96L3278.54,-6460.23" />
+      </g>
+      <g class="edge" id="rotwein--steinpilz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7635.96,-2576.3L2623.06,-4639.96" />
+      </g>
+      <g class="node" id="cumin" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-spice" cx="5182.37" cy="-7258.29" rx="223.0" ry="223.0" />
+        <text x="5182.37" y="-7228.29" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Cumin</text>
+      </g>
+      <g class="node" id="tomate" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-veg" cx="8356.23" cy="-3964.81" rx="223.0" ry="223.0" />
+        <text x="8356.23" y="-3934.81" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Tomate</text>
+      </g>
+      <g class="node" id="knoblauch" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-onion" cx="10248.7" cy="-6737.03" rx="252.0" ry="252.0" />
+        <text x="10248.7" y="-6707.03" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Knoblauch</text>
+      </g>
+      <g class="node" id="karotte" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-veg" cx="4525.12" cy="-5984.76" rx="144.0" ry="144.0" />
+        <text x="4525.12" y="-5954.76" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Karotte</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-fat" cx="6736.36" cy="-8748.25" rx="252.0" ry="252.0" />
+        <text x="6736.36" y="-8718.25" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="zwiebel" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-onion" cx="8646.45" cy="-7011.48" rx="252.0" ry="252.0" />
+        <text x="8646.45" y="-6981.48" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zwiebel</text>
+      </g>
+      <g class="node" id="miso" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-condi" cx="5189.48" cy="-9344.66" rx="144.0" ry="144.0" />
+        <text x="5189.48" y="-9314.66" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Miso</text>
+      </g>
+      <g class="node" id="austernpilz" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-veg" cx="8355.37" cy="-3165.5" rx="188.5" ry="188.5" />
+        <text x="8355.37" y="-3135.5" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Austernpilz</text>
+      </g>
+      <g class="node" id="h&#252;hnerbr&#252;he" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-condi" cx="4015.7" cy="-8819.9" rx="144.0" ry="144.0" />
+        <text x="4015.7" y="-8789.9" style="text-anchor: middle; font-family: Arial; font-size: 83px;">H&#252;hnerbr&#252;he</text>
+      </g>
+      <g class="node" id="tomatenmark" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-condi" cx="6446.53" cy="-5751.88" rx="188.5" ry="188.5" />
+        <text x="6446.53" y="-5721.88" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Tomatenmark</text>
+      </g>
+      <g class="node" id="sojasauce" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-condi" cx="12287.6" cy="-4203.61" rx="223.0" ry="223.0" />
+        <text x="12287.6" y="-4173.61" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Sojasauce</text>
+      </g>
+      <g class="node" id="kokoscr&#232;me" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-fat" cx="5879.9" cy="-4311.17" rx="144.0" ry="144.0" />
+        <text x="5879.9" y="-4281.17" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Kokoscr&#232;me</text>
+      </g>
+      <g class="node" id="harissa" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-condi" cx="4355.52" cy="-7118.12" rx="144.0" ry="144.0" />
+        <text x="4355.52" y="-7088.12" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Harissa</text>
+      </g>
+      <g class="node" id="linsen" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-veg" cx="3111.68" cy="-7379.08" rx="144.0" ry="144.0" />
+        <text x="3111.68" y="-7349.08" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Linsen</text>
+      </g>
+      <g class="node" id="graupen" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-carb" cx="3278.54" cy="-6460.23" rx="144.0" ry="144.0" />
+        <text x="3278.54" y="-6430.23" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Graupen</text>
+      </g>
+      <g class="node" id="steinpilz" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-veg" cx="7635.96" cy="-2576.3" rx="144.0" ry="144.0" />
+        <text x="7635.96" y="-2546.3" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Steinpilz</text>
+      </g>
+      <g class="node" id="rotwein" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-alc" cx="2623.06" cy="-4639.96" rx="144.0" ry="144.0" />
+        <text x="2623.06" y="-4609.96" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Rotwein</text>
+      </g>
+    </g>
+  </g>
+</svg>

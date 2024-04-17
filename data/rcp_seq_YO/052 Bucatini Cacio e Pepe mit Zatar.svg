@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-52">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">52 Bucatini Cacio e Pepe mit Zatar</text>
+      </g>
+      <g class="edge" id="nudeln--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9126.69,-3325.97L7488.73,-3972.87" />
+      </g>
+      <g class="edge" id="nudeln--pecorino" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9126.69,-3325.97L7413.32,-1589.81" />
+      </g>
+      <g class="edge" id="nudeln--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9126.69,-3325.97L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="nudeln--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9126.69,-3325.97L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="nudeln--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9126.69,-3325.97L7875.44,-1598.23" />
+      </g>
+      <g class="edge" id="majoran--nudeln" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6451.4,-340.281L9126.69,-3325.97" />
+      </g>
+      <g class="edge" id="butter--nudeln" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5272.28,-6215.98L9126.69,-3325.97" />
+      </g>
+      <g class="edge" id="pecorino--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7488.73,-3972.87L7413.32,-1589.81" />
+      </g>
+      <g class="edge" id="parmesan--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7488.73,-3972.87L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="oliven&#246;l--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L7488.73,-3972.87" />
+      </g>
+      <g class="edge" id="pfeffer--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L7488.73,-3972.87" />
+      </g>
+      <g class="edge" id="majoran--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6451.4,-340.281L7488.73,-3972.87" />
+      </g>
+      <g class="edge" id="butter--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M5272.28,-6215.98L7488.73,-3972.87" />
+      </g>
+      <g class="edge" id="parmesan--pecorino" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10096.8,-3679.36L7413.32,-1589.81" />
+      </g>
+      <g class="edge" id="oliven&#246;l--pecorino" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6736.36,-8748.25L7413.32,-1589.81" />
+      </g>
+      <g class="edge" id="pecorino--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L7413.32,-1589.81" />
+      </g>
+      <g class="edge" id="majoran--pecorino" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6451.4,-340.281L7413.32,-1589.81" />
+      </g>
+      <g class="edge" id="butter--pecorino" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5272.28,-6215.98L7413.32,-1589.81" />
+      </g>
+      <g class="edge" id="oliven&#246;l--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="parmesan--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="majoran--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6451.4,-340.281L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="butter--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5272.28,-6215.98L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7875.44,-1598.23L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="majoran--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6451.4,-340.281L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="butter--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M5272.28,-6215.98L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="majoran--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6451.4,-340.281L7875.44,-1598.23" />
+      </g>
+      <g class="edge" id="butter--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5272.28,-6215.98L7875.44,-1598.23" />
+      </g>
+      <g class="edge" id="butter--majoran" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6451.4,-340.281L5272.28,-6215.98" />
+      </g>
+      <g class="node" id="nudeln" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-carb" cx="9126.69" cy="-3325.97" rx="223.0" ry="223.0" />
+        <text x="9126.69" y="-3295.97" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Nudeln</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-spice" cx="7488.73" cy="-3972.87" rx="277.5" ry="277.5" />
+        <text x="7488.73" y="-3942.87" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Pfeffer</text>
+      </g>
+      <g class="node" id="pecorino" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-milk" cx="7413.32" cy="-1589.81" rx="188.5" ry="188.5" />
+        <text x="7413.32" y="-1559.81" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Pecorino</text>
+      </g>
+      <g class="node" id="parmesan" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-milk" cx="10096.8" cy="-3679.36" rx="252.0" ry="252.0" />
+        <text x="10096.8" y="-3649.36" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Parmesan</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 40</title>
+        <ellipse class="i-fat" cx="6736.36" cy="-8748.25" rx="719.0" ry="719.0" />
+        <text x="6736.36" y="-8718.25" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="zatar" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-spice" cx="7875.44" cy="-1598.23" rx="188.5" ry="188.5" />
+        <text x="7875.44" y="-1568.23" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zatar</text>
+      </g>
+      <g class="node" id="majoran" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-herb" cx="6451.4" cy="-340.281" rx="144.0" ry="144.0" />
+        <text x="6451.4" y="-310.281" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Majoran</text>
+      </g>
+      <g class="node" id="butter" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-fat" cx="5272.28" cy="-6215.98" rx="321.5" ry="321.5" />
+        <text x="5272.28" y="-6185.98" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Butter</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-49">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">49 Wei&#223;e-Bohnen-P&#252;ree und eine Art Aioli</text>
+      </g>
+      <g class="edge" id="chiliflocken--dill" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12264.8,-7516.82L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="chiliflocken--chilischote" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chiliflocken--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="chiliflocken--sardelle" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L6068.5,-11294.3" />
+      </g>
+      <g class="edge" id="chiliflocken--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L6948.48,-6848.4" />
+      </g>
+      <g class="edge" id="chiliflocken--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12264.8,-7516.82L3704.41,-10151.4" />
+      </g>
+      <g class="edge" id="chiliflocken--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="chiliflocken--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="chiliflocken--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L7815.38,-13135.6" />
+      </g>
+      <g class="edge" id="chiliflocken--dijonsenf" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L13384,-11504.1" />
+      </g>
+      <g class="edge" id="chiliflocken--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="chilischote--dill" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11286.3,-9955.19L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="dill--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--sardelle" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6068.5,-11294.3L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6948.48,-6848.4L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3704.41,-10151.4L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8646.45,-7011.48L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dijonsenf--dill" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13384,-11504.1L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11286.3,-9955.19L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="chilischote--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--sardelle" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6068.5,-11294.3L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M3704.41,-10151.4L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8646.45,-7011.48L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--dijonsenf" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13384,-11504.1L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9359.68,-8592.98L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="knoblauch--sardelle" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6068.5,-11294.3L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M3704.41,-10151.4L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="knoblauch--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="knoblauch--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="dijonsenf--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L13384,-11504.1" />
+      </g>
+      <g class="edge" id="knoblauch--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10248.7,-6737.03L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="sardelle--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L6068.5,-11294.3" />
+      </g>
+      <g class="edge" id="sardelle--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3704.41,-10151.4L6068.5,-11294.3" />
+      </g>
+      <g class="edge" id="oliven&#246;l--sardelle" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6068.5,-11294.3L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="sardelle--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6068.5,-11294.3L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="rosmarin--sardelle" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L6068.5,-11294.3" />
+      </g>
+      <g class="edge" id="dijonsenf--sardelle" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6068.5,-11294.3L13384,-11504.1" />
+      </g>
+      <g class="edge" id="sardelle--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6068.5,-11294.3L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="wei&#223;e_bohnen--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M3704.41,-10151.4L6948.48,-6848.4" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="zitrone--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="rosmarin--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L6948.48,-6848.4" />
+      </g>
+      <g class="edge" id="dijonsenf--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6948.48,-6848.4L13384,-11504.1" />
+      </g>
+      <g class="edge" id="thymian--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6948.48,-6848.4L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="oliven&#246;l--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M3704.41,-10151.4L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="wei&#223;e_bohnen--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M3704.41,-10151.4L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="rosmarin--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3704.41,-10151.4L7815.38,-13135.6" />
+      </g>
+      <g class="edge" id="dijonsenf--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3704.41,-10151.4L13384,-11504.1" />
+      </g>
+      <g class="edge" id="thymian--wei&#223;e_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3704.41,-10151.4L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="oliven&#246;l--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="dijonsenf--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13384,-11504.1L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6736.36,-8748.25L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="rosmarin--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="dijonsenf--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13384,-11504.1L8646.45,-7011.48" />
+      </g>
+      <g class="edge" id="thymian--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8646.45,-7011.48L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="dijonsenf--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L13384,-11504.1" />
+      </g>
+      <g class="edge" id="rosmarin--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7815.38,-13135.6L4629.91,-9825.95" />
+      </g>
+      <g class="edge" id="dijonsenf--thymian" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13384,-11504.1L4629.91,-9825.95" />
+      </g>
+      <g class="node" id="chiliflocken" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 12</title>
+        <ellipse class="i-spice" cx="12264.8" cy="-7516.82" rx="410.0" ry="410.0" />
+        <text x="12264.8" y="-7486.82" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Chiliflocken</text>
+      </g>
+      <g class="node" id="dill" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-herb" cx="11286.3" cy="-9955.19" rx="277.5" ry="277.5" />
+        <text x="11286.3" y="-9925.19" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Dill</text>
+      </g>
+      <g class="node" id="chilischote" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 29</title>
+        <ellipse class="i-spice" cx="9359.68" cy="-8592.98" rx="617.5" ry="617.5" />
+        <text x="9359.68" y="-8562.98" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Chilischote</text>
+      </g>
+      <g class="node" id="knoblauch" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 39</title>
+        <ellipse class="i-onion" cx="10248.7" cy="-6737.03" rx="710.5" ry="710.5" />
+        <text x="10248.7" y="-6707.03" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Knoblauch</text>
+      </g>
+      <g class="node" id="sardelle" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-fish" cx="6068.5" cy="-11294.3" rx="252.0" ry="252.0" />
+        <text x="6068.5" y="-11264.3" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Sardellen</text>
+      </g>
+      <g class="node" id="zitrone" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 16</title>
+        <ellipse class="i-fruit" cx="6948.48" cy="-6848.4" rx="468.0" ry="468.0" />
+        <text x="6948.48" y="-6818.4" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zitrone</text>
+      </g>
+      <g class="node" id="wei&#223;e_bohnen" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-veg" cx="3704.41" cy="-10151.4" rx="188.5" ry="188.5" />
+        <text x="3704.41" y="-10121.4" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Wei&#223;e_Bohnen</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 38</title>
+        <ellipse class="i-fat" cx="6736.36" cy="-8748.25" rx="702.0" ry="702.0" />
+        <text x="6736.36" y="-8718.25" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="zwiebel" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 15</title>
+        <ellipse class="i-onion" cx="8646.45" cy="-7011.48" rx="454.5" ry="454.5" />
+        <text x="8646.45" y="-6981.48" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zwiebel</text>
+      </g>
+      <g class="node" id="rosmarin" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-herb" cx="7815.38" cy="-13135.6" rx="144.0" ry="144.0" />
+        <text x="7815.38" y="-13105.6" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Rosmarin</text>
+      </g>
+      <g class="node" id="dijonsenf" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-condi" cx="13384" cy="-11504.1" rx="223.0" ry="223.0" />
+        <text x="13384" y="-11474.1" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Dijonsenf</text>
+      </g>
+      <g class="node" id="thymian" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-herb" cx="4629.91" cy="-9825.95" rx="188.5" ry="188.5" />
+        <text x="4629.91" y="-9795.95" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Thymian</text>
+      </g>
+    </g>
+  </g>
+</svg>

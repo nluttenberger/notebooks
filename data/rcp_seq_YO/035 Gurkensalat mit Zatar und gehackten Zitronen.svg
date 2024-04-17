@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-35">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">35 Gurkensalat mit Zatar und gehackten Zitronen</text>
+      </g>
+      <g class="edge" id="chilischote--dill" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11286.3,-9955.19L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="dill--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6948.48,-6848.4L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--feldsalat" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10371.5,-1508.4L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--gurke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13089.1,-7363.56L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6736.36,-8748.25L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="basilikum--dill" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L11286.3,-9955.19" />
+      </g>
+      <g class="edge" id="dill--minze" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M11286.3,-9955.19L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="dill--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11286.3,-9955.19L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="chilischote--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--feldsalat" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10371.5,-1508.4L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--gurke" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13089.1,-7363.56L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="basilikum--chilischote" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7524.16,-3185.24L9359.68,-8592.98" />
+      </g>
+      <g class="edge" id="chilischote--minze" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9359.68,-8592.98L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="chilischote--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9359.68,-8592.98L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="feldsalat--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6948.48,-6848.4L10371.5,-1508.4" />
+      </g>
+      <g class="edge" id="gurke--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6948.48,-6848.4L13089.1,-7363.56" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="zatar--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6948.48,-6848.4L7875.44,-1598.23" />
+      </g>
+      <g class="edge" id="basilikum--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="minze--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6948.48,-6848.4L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="schalotten--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6948.48,-6848.4L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="feldsalat--gurke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13089.1,-7363.56L10371.5,-1508.4" />
+      </g>
+      <g class="edge" id="feldsalat--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10371.5,-1508.4L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="feldsalat--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10371.5,-1508.4L7875.44,-1598.23" />
+      </g>
+      <g class="edge" id="basilikum--feldsalat" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10371.5,-1508.4L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="feldsalat--minze" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10371.5,-1508.4L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="feldsalat--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10371.5,-1508.4L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="gurke--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13089.1,-7363.56L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="gurke--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13089.1,-7363.56L7875.44,-1598.23" />
+      </g>
+      <g class="edge" id="basilikum--gurke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13089.1,-7363.56L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="gurke--minze" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13089.1,-7363.56L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="gurke--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13089.1,-7363.56L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="basilikum--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="minze--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="oliven&#246;l--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="basilikum--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="minze--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="schalotten--zatar" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7875.44,-1598.23L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="basilikum--minze" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L10518.3,-10978.6" />
+      </g>
+      <g class="edge" id="basilikum--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L5249.73,-8442.54" />
+      </g>
+      <g class="edge" id="minze--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10518.3,-10978.6L5249.73,-8442.54" />
+      </g>
+      <g class="node" id="dill" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-herb" cx="11286.3" cy="-9955.19" rx="188.5" ry="188.5" />
+        <text x="11286.3" y="-9925.19" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Dill</text>
+      </g>
+      <g class="node" id="chilischote" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 20</title>
+        <ellipse class="i-spice" cx="9359.68" cy="-8592.98" rx="519.0" ry="519.0" />
+        <text x="9359.68" y="-8562.98" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Chilischote</text>
+      </g>
+      <g class="node" id="zitrone" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 14</title>
+        <ellipse class="i-fruit" cx="6948.48" cy="-6848.4" rx="440.0" ry="440.0" />
+        <text x="6948.48" y="-6818.4" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zitrone</text>
+      </g>
+      <g class="node" id="feldsalat" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-veg" cx="10371.5" cy="-1508.4" rx="144.0" ry="144.0" />
+        <text x="10371.5" y="-1478.4" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Feldsalat</text>
+      </g>
+      <g class="node" id="gurke" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-veg" cx="13089.1" cy="-7363.56" rx="223.0" ry="223.0" />
+        <text x="13089.1" y="-7333.56" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Gurke</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 26</title>
+        <ellipse class="i-fat" cx="6736.36" cy="-8748.25" rx="586.5" ry="586.5" />
+        <text x="6736.36" y="-8718.25" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="zatar" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-spice" cx="7875.44" cy="-1598.23" rx="144.0" ry="144.0" />
+        <text x="7875.44" y="-1568.23" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zatar</text>
+      </g>
+      <g class="node" id="basilikum" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-herb" cx="7524.16" cy="-3185.24" rx="277.5" ry="277.5" />
+        <text x="7524.16" y="-3155.24" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Basilikum</text>
+      </g>
+      <g class="node" id="minze" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-herb" cx="10518.3" cy="-10978.6" rx="321.5" ry="321.5" />
+        <text x="10518.3" y="-10948.6" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Minze</text>
+      </g>
+      <g class="node" id="schalotten" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 10</title>
+        <ellipse class="i-onion" cx="5249.73" cy="-8442.54" rx="377.5" ry="377.5" />
+        <text x="5249.73" y="-8412.54" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Schalotten</text>
+      </g>
+    </g>
+  </g>
+</svg>

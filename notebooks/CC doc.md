@@ -165,7 +165,7 @@ n/a
 
 
 ---
-### Graph-related method
+### Graph-related methods
 ---
 
 
@@ -175,11 +175,11 @@ converts (sub)collection(s) to ingredient graph
 - *params:*  
 `subcoll:string` or `[subcoll:string+]` (single letter denoting a subcollection or list thereof)
 - *returns:*  
-Networkx Graph with node attributes `i-name`, `i-class`, `occ`, `sub`, and edge attributes `id`, `weight`
+Networkx Graph with node attributes `i-name`, `i-class`, `occ`, `sub`, and edge attributes `id`, `weight`, `sub`
 - *side-effects:*  
 none
 - *print:*  
-summary information on resulting graph nodes and edges
+summary information on resulting graph and its nodes and edges
 - *example:*  
 `G = myColl.toGraph(['A', 'B'])`
 #####  &nbsp; 
@@ -348,7 +348,7 @@ n/a
 #####  &nbsp; 
 
 
-#### `orderByContrib2IG()`  
+#### `sortByContrib2IG()`  
 - *description:*  
 bla
 - *params:*  
@@ -417,6 +417,25 @@ n/a
 `result = fr:createRefs4Collection('C:/Users/xuser/Documents/newColl/recipes_xml/')`
 #####  &nbsp; 
 
+
+#### `makeSampleSpace(sourceDir=None, graphlabDir=None, sampleSpaceName=None, meta=None)`  
+- *description:*  
+creates a fruschtique sample space from scraped recipes in the fruschtique graphlab directory 
+- *params:*  
+`sourceDir:dirpath` (absolute path to source directory holding scraped recipes in fruschtique XML format)  
+`graphlabDir:dirpath` (absolute path to local fruschtique graphlab)  
+`sampleSpaceName:string` (sample space name)  
+`meta:filepath` (path to JSON-encoded file with meta information describing the collection to be created)
+- *returns:*  
+nothing
+- *side-effects:*  
+create fruschtique directory tree in target directory
+create files: fruschtique descriptor file, fruschtique catalog file 
+- *print:*  
+n/a  
+- *example:*  
+`myColl`
+#####  &nbsp; 
 
 ---  
 ## File formats

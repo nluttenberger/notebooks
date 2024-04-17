@@ -1,0 +1,504 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 16971.24 14441.15" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="16971.24" height="14441.15">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 14437.2)">
+    <g id="rr-72">
+      <g>
+        <rect x="8485.62" y="-14041.15" width="8485.62" height="601.7145833333333" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-13841.15" style="text-anchor: start; font-family: Arial; font-size: 166px;">72 Auberginenkl&#246;sschen alla Parmigiana</text>
+      </g>
+      <g class="edge" id="ei--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7862.59,-4881.2L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="chiliflocken--ei" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12264.8,-7516.82L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7862.59,-4881.2L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="ei--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8356.23,-3964.81L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7862.59,-4881.2L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="ei--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="auberginen--ei" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12388.3,-6614.05L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7862.59,-4881.2L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="ei--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7862.59,-4881.2L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="ei--oregano" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="basilikum--ei" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--olive" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.3,-2049.74L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="ei--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8557.42,-5876.79L7862.59,-4881.2" />
+      </g>
+      <g class="edge" id="chiliflocken--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="knoblauch--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="paniermehl--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9803.37,-5190.38L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="tomate--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8356.23,-3964.81L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="parmesan--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9803.37,-5190.38L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="auberginen--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12388.3,-6614.05L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="tomatenmark--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6446.53,-5751.88L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="paprikapulver--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9803.37,-5190.38L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="weizenmehl--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9803.37,-5190.38L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="oregano--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="basilikum--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7524.16,-3185.24L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="ricotta--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="olive--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7698.3,-2049.74L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="petersilie--zucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L9803.37,-5190.38" />
+      </g>
+      <g class="edge" id="chiliflocken--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="chiliflocken--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="chiliflocken--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="chiliflocken--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="chiliflocken--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="auberginen--chiliflocken" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="chiliflocken--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="chiliflocken--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12264.8,-7516.82L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="chiliflocken--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="chiliflocken--oregano" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L4752.02,-3700.11" />
+      </g>
+      <g class="edge" id="basilikum--chiliflocken" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="chiliflocken--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L10198.5,-2866.98" />
+      </g>
+      <g class="edge" id="chiliflocken--olive" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="chiliflocken--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12264.8,-7516.82L8557.42,-5876.79" />
+      </g>
+      <g class="edge" id="knoblauch--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10248.7,-6737.03L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="knoblauch--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="knoblauch--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="knoblauch--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="auberginen--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="knoblauch--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6446.53,-5751.88L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="knoblauch--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="knoblauch--oregano" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M4752.02,-3700.11L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="basilikum--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="knoblauch--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="knoblauch--olive" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10248.7,-6737.03L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="knoblauch--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L10248.7,-6737.03" />
+      </g>
+      <g class="edge" id="paniermehl--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8356.23,-3964.81L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="paniermehl--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10096.8,-3679.36L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="oliven&#246;l--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6736.36,-8748.25L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="auberginen--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12388.3,-6614.05L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="paniermehl--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="paniermehl--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12035.8,-2987.6L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="paniermehl--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9242.64,-4229.33L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="oregano--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="basilikum--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="paniermehl--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="olive--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.3,-2049.74L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="paniermehl--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8557.42,-5876.79L12035.8,-2987.6" />
+      </g>
+      <g class="edge" id="parmesan--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8356.23,-3964.81L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="oliven&#246;l--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8356.23,-3964.81L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="auberginen--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8356.23,-3964.81L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="tomate--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6446.53,-5751.88L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="paprikapulver--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8356.23,-3964.81L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="tomate--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8356.23,-3964.81L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="oregano--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M4752.02,-3700.11L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="basilikum--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8356.23,-3964.81L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="ricotta--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="olive--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8356.23,-3964.81L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="petersilie--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L8356.23,-3964.81" />
+      </g>
+      <g class="edge" id="oliven&#246;l--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="auberginen--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12388.3,-6614.05L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="parmesan--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="paprikapulver--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10096.8,-3679.36L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="parmesan--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10096.8,-3679.36L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="oregano--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="basilikum--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7524.16,-3185.24L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="parmesan--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="olive--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7698.3,-2049.74L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="parmesan--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L10096.8,-3679.36" />
+      </g>
+      <g class="edge" id="auberginen--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="oliven&#246;l--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6446.53,-5751.88L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="oliven&#246;l--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="oliven&#246;l--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="oliven&#246;l--oregano" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M4752.02,-3700.11L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="basilikum--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="oliven&#246;l--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10198.5,-2866.98L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="olive--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6736.36,-8748.25L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="oliven&#246;l--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L6736.36,-8748.25" />
+      </g>
+      <g class="edge" id="auberginen--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="auberginen--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12388.3,-6614.05L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="auberginen--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12388.3,-6614.05L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="auberginen--oregano" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="auberginen--basilikum" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="auberginen--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="auberginen--olive" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12388.3,-6614.05L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="auberginen--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8557.42,-5876.79L12388.3,-6614.05" />
+      </g>
+      <g class="edge" id="paprikapulver--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6446.53,-5751.88L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="tomatenmark--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6446.53,-5751.88L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="oregano--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="basilikum--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="ricotta--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="olive--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6446.53,-5751.88L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="petersilie--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L6446.53,-5751.88" />
+      </g>
+      <g class="edge" id="paprikapulver--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9242.64,-4229.33L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="oregano--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="basilikum--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="paprikapulver--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="olive--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.3,-2049.74L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="paprikapulver--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8557.42,-5876.79L11326.7,-3427.36" />
+      </g>
+      <g class="edge" id="oregano--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4752.02,-3700.11L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="basilikum--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7524.16,-3185.24L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="ricotta--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="olive--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.3,-2049.74L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="petersilie--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8557.42,-5876.79L9242.64,-4229.33" />
+      </g>
+      <g class="edge" id="basilikum--oregano" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4752.02,-3700.11L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="oregano--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4752.02,-3700.11L10198.5,-2866.98" />
+      </g>
+      <g class="edge" id="olive--oregano" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4752.02,-3700.11L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="oregano--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4752.02,-3700.11L8557.42,-5876.79" />
+      </g>
+      <g class="edge" id="basilikum--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="basilikum--olive" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7524.16,-3185.24L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="basilikum--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L7524.16,-3185.24" />
+      </g>
+      <g class="edge" id="olive--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L7698.3,-2049.74" />
+      </g>
+      <g class="edge" id="petersilie--ricotta" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10198.5,-2866.98L8557.42,-5876.79" />
+      </g>
+      <g class="edge" id="olive--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8557.42,-5876.79L7698.3,-2049.74" />
+      </g>
+      <g class="node" id="ei" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 11</title>
+        <ellipse class="i-egg" cx="7862.59" cy="-4881.2" rx="394.0" ry="394.0" />
+        <text x="7862.59" y="-4851.2" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Ei</text>
+      </g>
+      <g class="node" id="zucker" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 17</title>
+        <ellipse class="i-sweet" cx="9803.37" cy="-5190.38" rx="481.5" ry="481.5" />
+        <text x="9803.37" y="-5160.38" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Zucker</text>
+      </g>
+      <g class="node" id="chiliflocken" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 16</title>
+        <ellipse class="i-spice" cx="12264.8" cy="-7516.82" rx="468.0" ry="468.0" />
+        <text x="12264.8" y="-7486.82" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Chiliflocken</text>
+      </g>
+      <g class="node" id="knoblauch" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 55</title>
+        <ellipse class="i-onion" cx="10248.7" cy="-6737.03" rx="837.0" ry="837.0" />
+        <text x="10248.7" y="-6707.03" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Knoblauch</text>
+      </g>
+      <g class="node" id="paniermehl" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-carb" cx="12035.8" cy="-2987.6" rx="188.5" ry="188.5" />
+        <text x="12035.8" y="-2957.6" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Paniermehl</text>
+      </g>
+      <g class="node" id="tomate" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 10</title>
+        <ellipse class="i-veg" cx="8356.23" cy="-3964.81" rx="377.5" ry="377.5" />
+        <text x="8356.23" y="-3934.81" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Tomate</text>
+      </g>
+      <g class="node" id="parmesan" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-milk" cx="10096.8" cy="-3679.36" rx="277.5" ry="277.5" />
+        <text x="10096.8" y="-3649.36" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Parmesan</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 52</title>
+        <ellipse class="i-fat" cx="6736.36" cy="-8748.25" rx="815.0" ry="815.0" />
+        <text x="6736.36" y="-8718.25" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="auberginen" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-veg" cx="12388.3" cy="-6614.05" rx="300.5" ry="300.5" />
+        <text x="12388.3" y="-6584.05" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Aubergine</text>
+      </g>
+      <g class="node" id="tomatenmark" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 11</title>
+        <ellipse class="i-condi" cx="6446.53" cy="-5751.88" rx="394.0" ry="394.0" />
+        <text x="6446.53" y="-5721.88" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Tomatenmark</text>
+      </g>
+      <g class="node" id="paprikapulver" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-spice" cx="11326.7" cy="-3427.36" rx="277.5" ry="277.5" />
+        <text x="11326.7" y="-3397.36" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Paprikapulver</text>
+      </g>
+      <g class="node" id="weizenmehl" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 10</title>
+        <ellipse class="i-carb" cx="9242.64" cy="-4229.33" rx="377.5" ry="377.5" />
+        <text x="9242.64" y="-4199.33" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="oregano" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-herb" cx="4752.02" cy="-3700.11" rx="223.0" ry="223.0" />
+        <text x="4752.02" y="-3670.11" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Oregano</text>
+      </g>
+      <g class="node" id="basilikum" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-herb" cx="7524.16" cy="-3185.24" rx="321.5" ry="321.5" />
+        <text x="7524.16" y="-3155.24" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Basilikum</text>
+      </g>
+      <g class="node" id="ricotta" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-milk" cx="10198.5" cy="-2866.98" rx="188.5" ry="188.5" />
+        <text x="10198.5" y="-2836.98" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Ricotta</text>
+      </g>
+      <g class="node" id="olive" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-spice" cx="7698.3" cy="-2049.74" rx="252.0" ry="252.0" />
+        <text x="7698.3" y="-2019.74" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Olive</text>
+      </g>
+      <g class="node" id="petersilie" data-sub="B" style="cursor: pointer;">
+        <title>#occ: 11</title>
+        <ellipse class="i-herb" cx="8557.42" cy="-5876.79" rx="394.0" ry="394.0" />
+        <text x="8557.42" y="-5846.79" style="text-anchor: middle; font-family: Arial; font-size: 83px;">Petersilie</text>
+      </g>
+    </g>
+  </g>
+</svg>
