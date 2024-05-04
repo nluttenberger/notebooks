@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-14">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">14 H&#228;rings-Kartoffeln</text>
+      </g>
+      <g class="edge" id="kartoffel--lorbeer" style="cursor: pointer;">
+        <title>kartoffel--lorbeer</title>
+        <path fill="none" stroke="black" d="M4922.75,-8507.48L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="butter--kartoffel" style="cursor: pointer;">
+        <title>butter--kartoffel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4539.26,-4946.05L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="kartoffel--pfeffer" style="cursor: pointer;">
+        <title>kartoffel--pfeffer</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4539.26,-4946.05L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="essig--kartoffel" style="cursor: pointer;">
+        <title>essig--kartoffel</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M4539.26,-4946.05L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="kartoffel--zwiebel" style="cursor: pointer;">
+        <title>kartoffel--zwiebel</title>
+        <path fill="none" stroke="black" d="M9821.36,-4583.77L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="kartoffel--sahne" style="cursor: pointer;">
+        <title>kartoffel--sahne</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6922.63,-3813.88L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="kartoffel--weizenmehl" style="cursor: pointer;">
+        <title>kartoffel--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="hering--kartoffel" style="cursor: pointer;">
+        <title>hering--kartoffel</title>
+        <path fill="none" stroke="black" d="M4975.27,-7484.14L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="butter--lorbeer" style="cursor: pointer;">
+        <title>butter--lorbeer</title>
+        <path fill="none" stroke="black" d="M4922.75,-8507.48L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="lorbeer--pfeffer" style="cursor: pointer;">
+        <title>lorbeer--pfeffer</title>
+        <path fill="none" stroke="black" d="M4922.75,-8507.48L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="essig--lorbeer" style="cursor: pointer;">
+        <title>essig--lorbeer</title>
+        <path fill="none" stroke="black" d="M4922.75,-8507.48L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="lorbeer--zwiebel" style="cursor: pointer;">
+        <title>lorbeer--zwiebel</title>
+        <path fill="none" stroke="black" d="M9821.36,-4583.77L4922.75,-8507.48" />
+      </g>
+      <g class="edge" id="lorbeer--sahne" style="cursor: pointer;">
+        <title>lorbeer--sahne</title>
+        <path fill="none" stroke="black" d="M6922.63,-3813.88L4922.75,-8507.48" />
+      </g>
+      <g class="edge" id="lorbeer--weizenmehl" style="cursor: pointer;">
+        <title>lorbeer--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4922.75,-8507.48" />
+      </g>
+      <g class="edge" id="hering--lorbeer" style="cursor: pointer;">
+        <title>hering--lorbeer</title>
+        <path fill="none" stroke="black" d="M4975.27,-7484.14L4922.75,-8507.48" />
+      </g>
+      <g class="edge" id="butter--pfeffer" style="cursor: pointer;">
+        <title>butter--pfeffer</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6163.66,-4723.11L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--essig" style="cursor: pointer;">
+        <title>butter--essig</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M5722.44,-8719.35L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--zwiebel" style="cursor: pointer;">
+        <title>butter--zwiebel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M9821.36,-4583.77L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--sahne" style="cursor: pointer;">
+        <title>butter--sahne</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6922.63,-3813.88L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--weizenmehl" style="cursor: pointer;">
+        <title>butter--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--hering" style="cursor: pointer;">
+        <title>butter--hering</title>
+        <path fill="none" stroke="black" d="M4975.27,-7484.14L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="essig--pfeffer" style="cursor: pointer;">
+        <title>essig--pfeffer</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M5722.44,-8719.35L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="pfeffer--zwiebel" style="cursor: pointer;">
+        <title>pfeffer--zwiebel</title>
+        <path fill="none" stroke="black" d="M9821.36,-4583.77L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="pfeffer--sahne" style="cursor: pointer;">
+        <title>pfeffer--sahne</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6922.63,-3813.88L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="pfeffer--weizenmehl" style="cursor: pointer;">
+        <title>pfeffer--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="hering--pfeffer" style="cursor: pointer;">
+        <title>hering--pfeffer</title>
+        <path fill="none" stroke="black" d="M4975.27,-7484.14L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="essig--zwiebel" style="cursor: pointer;">
+        <title>essig--zwiebel</title>
+        <path fill="none" stroke="black" d="M9821.36,-4583.77L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--sahne" style="cursor: pointer;">
+        <title>essig--sahne</title>
+        <path fill="none" stroke="black" d="M6922.63,-3813.88L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--weizenmehl" style="cursor: pointer;">
+        <title>essig--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--hering" style="cursor: pointer;">
+        <title>essig--hering</title>
+        <path fill="none" stroke="black" d="M4975.27,-7484.14L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="sahne--zwiebel" style="cursor: pointer;">
+        <title>sahne--zwiebel</title>
+        <path fill="none" stroke="black" d="M6922.63,-3813.88L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="weizenmehl--zwiebel" style="cursor: pointer;">
+        <title>weizenmehl--zwiebel</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="hering--zwiebel" style="cursor: pointer;">
+        <title>hering--zwiebel</title>
+        <path fill="none" stroke="black" d="M4975.27,-7484.14L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="sahne--weizenmehl" style="cursor: pointer;">
+        <title>sahne--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L6922.63,-3813.88" />
+      </g>
+      <g class="edge" id="hering--sahne" style="cursor: pointer;">
+        <title>hering--sahne</title>
+        <path fill="none" stroke="black" d="M4975.27,-7484.14L6922.63,-3813.88" />
+      </g>
+      <g class="edge" id="hering--weizenmehl" style="cursor: pointer;">
+        <title>hering--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4975.27,-7484.14" />
+      </g>
+      <g class="node" id="kartoffel" style="cursor: pointer;">
+        <title>Kartoffel</title>
+        <ellipse class="i-carb" cx="4539.26" cy="-4946.05" rx="277.5" ry="277.5" />
+        <text x="4539.26" y="-4916.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Kartoffel</text>
+      </g>
+      <g class="node" id="lorbeer" style="cursor: pointer;">
+        <title>Lorbeer</title>
+        <ellipse class="i-herb" cx="4922.75" cy="-8507.48" rx="144.0" ry="144.0" />
+        <text x="4922.75" y="-8477.48" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Lorbeer</text>
+      </g>
+      <g class="node" id="butter" style="cursor: pointer;">
+        <title>Butter</title>
+        <ellipse class="i-fat" cx="7846.52" cy="-5839.05" rx="410.0" ry="410.0" />
+        <text x="7846.52" y="-5809.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Butter</text>
+      </g>
+      <g class="node" id="pfeffer" style="cursor: pointer;">
+        <title>Pfeffer</title>
+        <ellipse class="i-spice" cx="6163.66" cy="-4723.11" rx="223.0" ry="223.0" />
+        <text x="6163.66" y="-4693.11" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Pfeffer</text>
+      </g>
+      <g class="node" id="essig" style="cursor: pointer;">
+        <title>Essig</title>
+        <ellipse class="i-condi" cx="5722.44" cy="-8719.35" rx="277.5" ry="277.5" />
+        <text x="5722.44" y="-8689.35" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Essig</text>
+      </g>
+      <g class="node" id="zwiebel" style="cursor: pointer;">
+        <title>Zwiebel</title>
+        <ellipse class="i-onion" cx="9821.36" cy="-4583.77" rx="223.0" ry="223.0" />
+        <text x="9821.36" y="-4553.77" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Zwiebel</text>
+      </g>
+      <g class="node" id="sahne" style="cursor: pointer;">
+        <title>Sahne</title>
+        <ellipse class="i-milk" cx="6922.63" cy="-3813.88" rx="188.5" ry="188.5" />
+        <text x="6922.63" y="-3783.88" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Sahne</text>
+      </g>
+      <g class="node" id="weizenmehl" style="cursor: pointer;">
+        <title>Weizenmehl</title>
+        <ellipse class="i-carb" cx="7831.6" cy="-8769.69" rx="252.0" ry="252.0" />
+        <text x="7831.6" y="-8739.69" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="hering" style="cursor: pointer;">
+        <title>Hering</title>
+        <ellipse class="i-fish" cx="4975.27" cy="-7484.14" rx="144.0" ry="144.0" />
+        <text x="4975.27" y="-7454.14" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Hering</text>
+      </g>
+    </g>
+  </g>
+</svg>

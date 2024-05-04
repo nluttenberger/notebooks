@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-89">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">89 Eingemachtes Stielmus. No. 1</text>
+      </g>
+      <g class="edge" id="kartoffel--stielmus" style="cursor: pointer;">
+        <title>kartoffel--stielmus</title>
+        <path fill="none" stroke="black" d="M4812.72,-3300.35L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="schweineschmalz--stielmus" style="cursor: pointer;">
+        <title>schweineschmalz--stielmus</title>
+        <path fill="none" stroke="black" d="M4812.72,-3300.35L7861.56,-1983.41" />
+      </g>
+      <g class="edge" id="br&#252;he--stielmus" style="cursor: pointer;">
+        <title>br&#252;he--stielmus</title>
+        <path fill="none" stroke="black" d="M4812.72,-3300.35L7706.36,-2663.12" />
+      </g>
+      <g class="edge" id="butter--stielmus" style="cursor: pointer;">
+        <title>butter--stielmus</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M4812.72,-3300.35L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="kartoffel--schweineschmalz" style="cursor: pointer;">
+        <title>kartoffel--schweineschmalz</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4539.26,-4946.05L7861.56,-1983.41" />
+      </g>
+      <g class="edge" id="br&#252;he--kartoffel" style="cursor: pointer;">
+        <title>br&#252;he--kartoffel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7706.36,-2663.12L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="butter--kartoffel" style="cursor: pointer;">
+        <title>butter--kartoffel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4539.26,-4946.05L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="br&#252;he--schweineschmalz" style="cursor: pointer;">
+        <title>br&#252;he--schweineschmalz</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7706.36,-2663.12L7861.56,-1983.41" />
+      </g>
+      <g class="edge" id="butter--schweineschmalz" style="cursor: pointer;">
+        <title>butter--schweineschmalz</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7861.56,-1983.41L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="br&#252;he--butter" style="cursor: pointer;">
+        <title>br&#252;he--butter</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7706.36,-2663.12L7846.52,-5839.05" />
+      </g>
+      <g class="node" id="stielmus" style="cursor: pointer;">
+        <title>Stielmus</title>
+        <ellipse class="i-veg" cx="4812.72" cy="-3300.35" rx="188.5" ry="188.5" />
+        <text x="4812.72" y="-3270.35" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Stielmus</text>
+      </g>
+      <g class="node" id="kartoffel" style="cursor: pointer;">
+        <title>Kartoffel</title>
+        <ellipse class="i-carb" cx="4539.26" cy="-4946.05" rx="647.0" ry="647.0" />
+        <text x="4539.26" y="-4916.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Kartoffel</text>
+      </g>
+      <g class="node" id="schweineschmalz" style="cursor: pointer;">
+        <title>Schweineschmalz</title>
+        <ellipse class="i-fat" cx="7861.56" cy="-1983.41" rx="360.0" ry="360.0" />
+        <text x="7861.56" y="-1953.41" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Schweineschmalz</text>
+      </g>
+      <g class="node" id="br&#252;he" style="cursor: pointer;">
+        <title>Br&#252;he</title>
+        <ellipse class="i-condi" cx="7706.36" cy="-2663.12" rx="277.5" ry="277.5" />
+        <text x="7706.36" y="-2633.12" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Br&#252;he</text>
+      </g>
+      <g class="node" id="butter" style="cursor: pointer;">
+        <title>Butter</title>
+        <ellipse class="i-fat" cx="7846.52" cy="-5839.05" rx="1002.0" ry="1002.0" />
+        <text x="7846.52" y="-5809.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Butter</text>
+      </g>
+    </g>
+  </g>
+</svg>

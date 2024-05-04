@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-39">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">39 Gem&#252;segurken</text>
+      </g>
+      <g class="edge" id="gem&#252;segurke--milch" style="cursor: pointer;">
+        <title>gem&#252;segurke--milch</title>
+        <path fill="none" stroke="black" d="M4189.43,-9559.24L4099.63,-6075.04" />
+      </g>
+      <g class="edge" id="essig--milch" style="cursor: pointer;">
+        <title>essig--milch</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M4099.63,-6075.04L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="milch--weizenmehl" style="cursor: pointer;">
+        <title>milch--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L4099.63,-6075.04" />
+      </g>
+      <g class="edge" id="milch--muskat" style="cursor: pointer;">
+        <title>milch--muskat</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L4099.63,-6075.04" />
+      </g>
+      <g class="edge" id="butter--milch" style="cursor: pointer;">
+        <title>butter--milch</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4099.63,-6075.04L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="essig--gem&#252;segurke" style="cursor: pointer;">
+        <title>essig--gem&#252;segurke</title>
+        <path fill="none" stroke="black" d="M4189.43,-9559.24L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="gem&#252;segurke--weizenmehl" style="cursor: pointer;">
+        <title>gem&#252;segurke--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4189.43,-9559.24" />
+      </g>
+      <g class="edge" id="gem&#252;segurke--muskat" style="cursor: pointer;">
+        <title>gem&#252;segurke--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L4189.43,-9559.24" />
+      </g>
+      <g class="edge" id="butter--gem&#252;segurke" style="cursor: pointer;">
+        <title>butter--gem&#252;segurke</title>
+        <path fill="none" stroke="black" d="M4189.43,-9559.24L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="essig--weizenmehl" style="cursor: pointer;">
+        <title>essig--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--muskat" style="cursor: pointer;">
+        <title>essig--muskat</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="butter--essig" style="cursor: pointer;">
+        <title>butter--essig</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M5722.44,-8719.35L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="muskat--weizenmehl" style="cursor: pointer;">
+        <title>muskat--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L6097.12,-6091.67" />
+      </g>
+      <g class="edge" id="butter--weizenmehl" style="cursor: pointer;">
+        <title>butter--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--muskat" style="cursor: pointer;">
+        <title>butter--muskat</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L7846.52,-5839.05" />
+      </g>
+      <g class="node" id="milch" style="cursor: pointer;">
+        <title>Milch</title>
+        <ellipse class="i-milk" cx="4099.63" cy="-6075.04" rx="300.5" ry="300.5" />
+        <text x="4099.63" y="-6045.04" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Milch</text>
+      </g>
+      <g class="node" id="gem&#252;segurke" style="cursor: pointer;">
+        <title>Gem&#252;segurke</title>
+        <ellipse class="i-veg" cx="4189.43" cy="-9559.24" rx="144.0" ry="144.0" />
+        <text x="4189.43" y="-9529.24" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Gem&#252;segurke</text>
+      </g>
+      <g class="node" id="essig" style="cursor: pointer;">
+        <title>Essig</title>
+        <ellipse class="i-condi" cx="5722.44" cy="-8719.35" rx="410.0" ry="410.0" />
+        <text x="5722.44" y="-8689.35" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Essig</text>
+      </g>
+      <g class="node" id="weizenmehl" style="cursor: pointer;">
+        <title>Weizenmehl</title>
+        <ellipse class="i-carb" cx="7831.6" cy="-8769.69" rx="440.0" ry="440.0" />
+        <text x="7831.6" y="-8739.69" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="muskat" style="cursor: pointer;">
+        <title>Muskat</title>
+        <ellipse class="i-spice" cx="6097.12" cy="-6091.67" rx="481.5" ry="481.5" />
+        <text x="6097.12" y="-6061.67" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Muskat</text>
+      </g>
+      <g class="node" id="butter" style="cursor: pointer;">
+        <title>Butter</title>
+        <ellipse class="i-fat" cx="7846.52" cy="-5839.05" rx="675.0" ry="675.0" />
+        <text x="7846.52" y="-5809.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Butter</text>
+      </g>
+    </g>
+  </g>
+</svg>

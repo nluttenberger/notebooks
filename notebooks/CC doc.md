@@ -65,6 +65,21 @@ collection name, #subcollections, recipe author names, #recipes total, #recipes 
 ### Collection-related methods
 ---
 
+#### `checkCollection(keyIngredientRef)`  
+- *description:*  
+Checks collection for some plausibility assertions (to be enhanced)
+- *params:*  
+`keyIngredientRef:string`
+- *returns:*  
+None
+- *side-effects:*  
+None 
+- *print:*  
+n/a  
+- *example:*  
+`myColl.checkCollection('grünkohl')`
+#####  &nbsp; 
+
 
 #### `infoSubcolls()`
 - *description:*  

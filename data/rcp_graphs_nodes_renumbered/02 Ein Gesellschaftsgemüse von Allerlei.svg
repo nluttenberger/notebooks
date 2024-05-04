@@ -1,0 +1,388 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-2">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">02 Ein Gesellschaftsgem&#252;se von Allerlei</text>
+      </g>
+      <g class="edge" id="rindfleisch--stubenk&#252;ken" style="cursor: pointer;">
+        <title>rindfleisch--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L11108.9,-6057.83" />
+      </g>
+      <g class="edge" id="stubenk&#252;ken--taube" style="cursor: pointer;">
+        <title>stubenk&#252;ken--taube</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="stubenk&#252;ken--weizenmehl" style="cursor: pointer;">
+        <title>stubenk&#252;ken--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L11108.9,-6057.83" />
+      </g>
+      <g class="edge" id="krebs--stubenk&#252;ken" style="cursor: pointer;">
+        <title>krebs--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="stubenk&#252;ken--wei&#223;brot" style="cursor: pointer;">
+        <title>stubenk&#252;ken--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="ei--stubenk&#252;ken" style="cursor: pointer;">
+        <title>ei--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="blumenkohl--stubenk&#252;ken" style="cursor: pointer;">
+        <title>blumenkohl--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L11450,-4236.83" />
+      </g>
+      <g class="edge" id="muskat--stubenk&#252;ken" style="cursor: pointer;">
+        <title>muskat--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L11108.9,-6057.83" />
+      </g>
+      <g class="edge" id="nierenfett--stubenk&#252;ken" style="cursor: pointer;">
+        <title>nierenfett--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="spargel--stubenk&#252;ken" style="cursor: pointer;">
+        <title>spargel--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="stubenk&#252;ken--zitrone" style="cursor: pointer;">
+        <title>stubenk&#252;ken--zitrone</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--stubenk&#252;ken" style="cursor: pointer;">
+        <title>butter--stubenk&#252;ken</title>
+        <path fill="none" stroke="black" d="M11108.9,-6057.83L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="rindfleisch--taube" style="cursor: pointer;">
+        <title>rindfleisch--taube</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="rindfleisch--weizenmehl" style="cursor: pointer;">
+        <title>rindfleisch--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L7831.6,-8769.69" />
+      </g>
+      <g class="edge" id="krebs--rindfleisch" style="cursor: pointer;">
+        <title>krebs--rindfleisch</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="rindfleisch--wei&#223;brot" style="cursor: pointer;">
+        <title>rindfleisch--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="ei--rindfleisch" style="cursor: pointer;">
+        <title>ei--rindfleisch</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="blumenkohl--rindfleisch" style="cursor: pointer;">
+        <title>blumenkohl--rindfleisch</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L11450,-4236.83" />
+      </g>
+      <g class="edge" id="muskat--rindfleisch" style="cursor: pointer;">
+        <title>muskat--rindfleisch</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L6097.12,-6091.67" />
+      </g>
+      <g class="edge" id="nierenfett--rindfleisch" style="cursor: pointer;">
+        <title>nierenfett--rindfleisch</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="rindfleisch--spargel" style="cursor: pointer;">
+        <title>rindfleisch--spargel</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="rindfleisch--zitrone" style="cursor: pointer;">
+        <title>rindfleisch--zitrone</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--rindfleisch" style="cursor: pointer;">
+        <title>butter--rindfleisch</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="taube--weizenmehl" style="cursor: pointer;">
+        <title>taube--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="krebs--taube" style="cursor: pointer;">
+        <title>krebs--taube</title>
+        <path fill="none" stroke="black" d="M11089.9,-6934.4L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="taube--wei&#223;brot" style="cursor: pointer;">
+        <title>taube--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M8114.54,-3875.11L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="ei--taube" style="cursor: pointer;">
+        <title>ei--taube</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="blumenkohl--taube" style="cursor: pointer;">
+        <title>blumenkohl--taube</title>
+        <path fill="none" stroke="black" d="M11450,-4236.83L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="muskat--taube" style="cursor: pointer;">
+        <title>muskat--taube</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="nierenfett--taube" style="cursor: pointer;">
+        <title>nierenfett--taube</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="spargel--taube" style="cursor: pointer;">
+        <title>spargel--taube</title>
+        <path fill="none" stroke="black" d="M8104.08,-4545.64L11089.9,-6934.4" />
+      </g>
+      <g class="edge" id="taube--zitrone" style="cursor: pointer;">
+        <title>taube--zitrone</title>
+        <path fill="none" stroke="black" d="M11089.9,-6934.4L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--taube" style="cursor: pointer;">
+        <title>butter--taube</title>
+        <path fill="none" stroke="black" d="M11089.9,-6934.4L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="krebs--weizenmehl" style="cursor: pointer;">
+        <title>krebs--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="wei&#223;brot--weizenmehl" style="cursor: pointer;">
+        <title>wei&#223;brot--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="ei--weizenmehl" style="cursor: pointer;">
+        <title>ei--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="blumenkohl--weizenmehl" style="cursor: pointer;">
+        <title>blumenkohl--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L11450,-4236.83" />
+      </g>
+      <g class="edge" id="muskat--weizenmehl" style="cursor: pointer;">
+        <title>muskat--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L6097.12,-6091.67" />
+      </g>
+      <g class="edge" id="nierenfett--weizenmehl" style="cursor: pointer;">
+        <title>nierenfett--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="spargel--weizenmehl" style="cursor: pointer;">
+        <title>spargel--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="weizenmehl--zitrone" style="cursor: pointer;">
+        <title>weizenmehl--zitrone</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--weizenmehl" style="cursor: pointer;">
+        <title>butter--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="krebs--wei&#223;brot" style="cursor: pointer;">
+        <title>krebs--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M8114.54,-3875.11L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="ei--krebs" style="cursor: pointer;">
+        <title>ei--krebs</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="blumenkohl--krebs" style="cursor: pointer;">
+        <title>blumenkohl--krebs</title>
+        <path fill="none" stroke="black" d="M11450,-4236.83L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="krebs--muskat" style="cursor: pointer;">
+        <title>krebs--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="krebs--nierenfett" style="cursor: pointer;">
+        <title>krebs--nierenfett</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="krebs--spargel" style="cursor: pointer;">
+        <title>krebs--spargel</title>
+        <path fill="none" stroke="black" d="M8104.08,-4545.64L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="krebs--zitrone" style="cursor: pointer;">
+        <title>krebs--zitrone</title>
+        <path fill="none" stroke="black" d="M10075.1,-3018.56L8302.95,-3156.08" />
+      </g>
+      <g class="edge" id="butter--krebs" style="cursor: pointer;">
+        <title>butter--krebs</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M8302.95,-3156.08L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="ei--wei&#223;brot" style="cursor: pointer;">
+        <title>ei--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="blumenkohl--wei&#223;brot" style="cursor: pointer;">
+        <title>blumenkohl--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M8114.54,-3875.11L11450,-4236.83" />
+      </g>
+      <g class="edge" id="muskat--wei&#223;brot" style="cursor: pointer;">
+        <title>muskat--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="nierenfett--wei&#223;brot" style="cursor: pointer;">
+        <title>nierenfett--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="spargel--wei&#223;brot" style="cursor: pointer;">
+        <title>spargel--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M8114.54,-3875.11L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="wei&#223;brot--zitrone" style="cursor: pointer;">
+        <title>wei&#223;brot--zitrone</title>
+        <path fill="none" stroke="black" d="M8114.54,-3875.11L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--wei&#223;brot" style="cursor: pointer;">
+        <title>butter--wei&#223;brot</title>
+        <path fill="none" stroke="black" d="M8114.54,-3875.11L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="blumenkohl--ei" style="cursor: pointer;">
+        <title>blumenkohl--ei</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L11450,-4236.83" />
+      </g>
+      <g class="edge" id="ei--muskat" style="cursor: pointer;">
+        <title>ei--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="ei--nierenfett" style="cursor: pointer;">
+        <title>ei--nierenfett</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="ei--spargel" style="cursor: pointer;">
+        <title>ei--spargel</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="ei--zitrone" style="cursor: pointer;">
+        <title>ei--zitrone</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--ei" style="cursor: pointer;">
+        <title>butter--ei</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="blumenkohl--muskat" style="cursor: pointer;">
+        <title>blumenkohl--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L11450,-4236.83" />
+      </g>
+      <g class="edge" id="blumenkohl--nierenfett" style="cursor: pointer;">
+        <title>blumenkohl--nierenfett</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L11450,-4236.83" />
+      </g>
+      <g class="edge" id="blumenkohl--spargel" style="cursor: pointer;">
+        <title>blumenkohl--spargel</title>
+        <path fill="none" stroke="black" d="M11450,-4236.83L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="blumenkohl--zitrone" style="cursor: pointer;">
+        <title>blumenkohl--zitrone</title>
+        <path fill="none" stroke="black" d="M11450,-4236.83L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="blumenkohl--butter" style="cursor: pointer;">
+        <title>blumenkohl--butter</title>
+        <path fill="none" stroke="black" d="M11450,-4236.83L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="muskat--nierenfett" style="cursor: pointer;">
+        <title>muskat--nierenfett</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="muskat--spargel" style="cursor: pointer;">
+        <title>muskat--spargel</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="muskat--zitrone" style="cursor: pointer;">
+        <title>muskat--zitrone</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--muskat" style="cursor: pointer;">
+        <title>butter--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="nierenfett--spargel" style="cursor: pointer;">
+        <title>nierenfett--spargel</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L8104.08,-4545.64" />
+      </g>
+      <g class="edge" id="nierenfett--zitrone" style="cursor: pointer;">
+        <title>nierenfett--zitrone</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--nierenfett" style="cursor: pointer;">
+        <title>butter--nierenfett</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="spargel--zitrone" style="cursor: pointer;">
+        <title>spargel--zitrone</title>
+        <path fill="none" stroke="black" d="M8104.08,-4545.64L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="butter--spargel" style="cursor: pointer;">
+        <title>butter--spargel</title>
+        <path fill="none" stroke="black" d="M8104.08,-4545.64L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--zitrone" style="cursor: pointer;">
+        <title>butter--zitrone</title>
+        <path fill="none" stroke="black" d="M10075.1,-3018.56L7846.52,-5839.05" />
+      </g>
+      <g class="node" id="stubenk&#252;ken" style="cursor: pointer;">
+        <title>Stubenk&#252;ken</title>
+        <ellipse class="i-meat" cx="11108.9" cy="-6057.83" rx="144.0" ry="144.0" />
+        <text x="11108.9" y="-6027.83" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Stubenk&#252;ken</text>
+      </g>
+      <g class="node" id="rindfleisch" style="cursor: pointer;">
+        <title>Rindfleisch</title>
+        <ellipse class="i-meat" cx="7303.52" cy="-4525.86" rx="144.0" ry="144.0" />
+        <text x="7303.52" y="-4495.86" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Rindfleisch</text>
+      </g>
+      <g class="node" id="taube" style="cursor: pointer;">
+        <title>Taube</title>
+        <ellipse class="i-meat" cx="11089.9" cy="-6934.4" rx="144.0" ry="144.0" />
+        <text x="11089.9" y="-6904.4" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Taube</text>
+      </g>
+      <g class="node" id="weizenmehl" style="cursor: pointer;">
+        <title>Weizenmehl</title>
+        <ellipse class="i-carb" cx="7831.6" cy="-8769.69" rx="144.0" ry="144.0" />
+        <text x="7831.6" y="-8739.69" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="krebs" style="cursor: pointer;">
+        <title>Krebs</title>
+        <ellipse class="i-fish" cx="8302.95" cy="-3156.08" rx="188.5" ry="188.5" />
+        <text x="8302.95" y="-3126.08" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Krebs</text>
+      </g>
+      <g class="node" id="wei&#223;brot" style="cursor: pointer;">
+        <title>Wei&#223;brot</title>
+        <ellipse class="i-carb" cx="8114.54" cy="-3875.11" rx="144.0" ry="144.0" />
+        <text x="8114.54" y="-3845.11" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Wei&#223;brot</text>
+      </g>
+      <g class="node" id="ei" style="cursor: pointer;">
+        <title>Ei</title>
+        <ellipse class="i-egg" cx="6572.73" cy="-7506.23" rx="144.0" ry="144.0" />
+        <text x="6572.73" y="-7476.23" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Ei</text>
+      </g>
+      <g class="node" id="blumenkohl" style="cursor: pointer;">
+        <title>Blumenkohl</title>
+        <ellipse class="i-veg" cx="11450" cy="-4236.83" rx="144.0" ry="144.0" />
+        <text x="11450" y="-4206.83" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Blumenkohl</text>
+      </g>
+      <g class="node" id="muskat" style="cursor: pointer;">
+        <title>Muskat</title>
+        <ellipse class="i-spice" cx="6097.12" cy="-6091.67" rx="144.0" ry="144.0" />
+        <text x="6097.12" y="-6061.67" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Muskat</text>
+      </g>
+      <g class="node" id="nierenfett" style="cursor: pointer;">
+        <title>Nierenfett</title>
+        <ellipse class="i-fat" cx="10749.3" cy="-5257.6" rx="144.0" ry="144.0" />
+        <text x="10749.3" y="-5227.6" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Nierenfett</text>
+      </g>
+      <g class="node" id="spargel" style="cursor: pointer;">
+        <title>Spargel</title>
+        <ellipse class="i-veg" cx="8104.08" cy="-4545.64" rx="144.0" ry="144.0" />
+        <text x="8104.08" y="-4515.64" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Spargel</text>
+      </g>
+      <g class="node" id="zitrone" style="cursor: pointer;">
+        <title>Zitrone</title>
+        <ellipse class="i-fruit" cx="10075.1" cy="-3018.56" rx="144.0" ry="144.0" />
+        <text x="10075.1" y="-2988.56" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Zitrone</text>
+      </g>
+      <g class="node" id="butter" style="cursor: pointer;">
+        <title>Butter</title>
+        <ellipse class="i-fat" cx="7846.52" cy="-5839.05" rx="188.5" ry="188.5" />
+        <text x="7846.52" y="-5809.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Butter</text>
+      </g>
+    </g>
+  </g>
+</svg>

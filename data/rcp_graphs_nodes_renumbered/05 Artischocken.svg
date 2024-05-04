@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-5">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">05 Artischocken</text>
+      </g>
+      <g class="edge" id="kapern--senf" style="cursor: pointer;">
+        <title>kapern--senf</title>
+        <path fill="none" stroke="black" d="M5357.14,-9506.34L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="artischocke--kapern" style="cursor: pointer;">
+        <title>artischocke--kapern</title>
+        <path fill="none" stroke="black" d="M5357.14,-9506.34L6003.74,-9579.17" />
+      </g>
+      <g class="edge" id="essig--kapern" style="cursor: pointer;">
+        <title>essig--kapern</title>
+        <path fill="none" stroke="black" d="M5357.14,-9506.34L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="ei--kapern" style="cursor: pointer;">
+        <title>ei--kapern</title>
+        <path fill="none" stroke="black" d="M5357.14,-9506.34L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="kapern--muskat" style="cursor: pointer;">
+        <title>kapern--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L5357.14,-9506.34" />
+      </g>
+      <g class="edge" id="kapern--weizenmehl" style="cursor: pointer;">
+        <title>kapern--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L5357.14,-9506.34" />
+      </g>
+      <g class="edge" id="kapern--sardelle" style="cursor: pointer;">
+        <title>kapern--sardelle</title>
+        <path fill="none" stroke="black" d="M5357.14,-9506.34L7048.23,-9642.3" />
+      </g>
+      <g class="edge" id="austern--kapern" style="cursor: pointer;">
+        <title>austern--kapern</title>
+        <path fill="none" stroke="black" d="M5357.14,-9506.34L7666.34,-10004" />
+      </g>
+      <g class="edge" id="butter--kapern" style="cursor: pointer;">
+        <title>butter--kapern</title>
+        <path fill="none" stroke="black" d="M5357.14,-9506.34L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="artischocke--senf" style="cursor: pointer;">
+        <title>artischocke--senf</title>
+        <path fill="none" stroke="black" d="M6003.74,-9579.17L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="essig--senf" style="cursor: pointer;">
+        <title>essig--senf</title>
+        <path fill="none" stroke="black" d="M5722.44,-8719.35L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="ei--senf" style="cursor: pointer;">
+        <title>ei--senf</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="muskat--senf" style="cursor: pointer;">
+        <title>muskat--senf</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="senf--weizenmehl" style="cursor: pointer;">
+        <title>senf--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="sardelle--senf" style="cursor: pointer;">
+        <title>sardelle--senf</title>
+        <path fill="none" stroke="black" d="M7048.23,-9642.3L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="austern--senf" style="cursor: pointer;">
+        <title>austern--senf</title>
+        <path fill="none" stroke="black" d="M7666.34,-10004L6557.23,-9266.77" />
+      </g>
+      <g class="edge" id="butter--senf" style="cursor: pointer;">
+        <title>butter--senf</title>
+        <path fill="none" stroke="black" d="M6557.23,-9266.77L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="artischocke--essig" style="cursor: pointer;">
+        <title>artischocke--essig</title>
+        <path fill="none" stroke="black" d="M6003.74,-9579.17L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="artischocke--ei" style="cursor: pointer;">
+        <title>artischocke--ei</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L6003.74,-9579.17" />
+      </g>
+      <g class="edge" id="artischocke--muskat" style="cursor: pointer;">
+        <title>artischocke--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L6003.74,-9579.17" />
+      </g>
+      <g class="edge" id="artischocke--weizenmehl" style="cursor: pointer;">
+        <title>artischocke--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L6003.74,-9579.17" />
+      </g>
+      <g class="edge" id="artischocke--sardelle" style="cursor: pointer;">
+        <title>artischocke--sardelle</title>
+        <path fill="none" stroke="black" d="M7048.23,-9642.3L6003.74,-9579.17" />
+      </g>
+      <g class="edge" id="artischocke--austern" style="cursor: pointer;">
+        <title>artischocke--austern</title>
+        <path fill="none" stroke="black" d="M6003.74,-9579.17L7666.34,-10004" />
+      </g>
+      <g class="edge" id="artischocke--butter" style="cursor: pointer;">
+        <title>artischocke--butter</title>
+        <path fill="none" stroke="black" d="M6003.74,-9579.17L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="ei--essig" style="cursor: pointer;">
+        <title>ei--essig</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--muskat" style="cursor: pointer;">
+        <title>essig--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--weizenmehl" style="cursor: pointer;">
+        <title>essig--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--sardelle" style="cursor: pointer;">
+        <title>essig--sardelle</title>
+        <path fill="none" stroke="black" d="M7048.23,-9642.3L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="austern--essig" style="cursor: pointer;">
+        <title>austern--essig</title>
+        <path fill="none" stroke="black" d="M7666.34,-10004L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="butter--essig" style="cursor: pointer;">
+        <title>butter--essig</title>
+        <path fill="none" stroke="black" d="M5722.44,-8719.35L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="ei--muskat" style="cursor: pointer;">
+        <title>ei--muskat</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6097.12,-6091.67L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="ei--weizenmehl" style="cursor: pointer;">
+        <title>ei--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="ei--sardelle" style="cursor: pointer;">
+        <title>ei--sardelle</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L7048.23,-9642.3" />
+      </g>
+      <g class="edge" id="austern--ei" style="cursor: pointer;">
+        <title>austern--ei</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L7666.34,-10004" />
+      </g>
+      <g class="edge" id="butter--ei" style="cursor: pointer;">
+        <title>butter--ei</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6572.73,-7506.23L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="muskat--weizenmehl" style="cursor: pointer;">
+        <title>muskat--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L6097.12,-6091.67" />
+      </g>
+      <g class="edge" id="muskat--sardelle" style="cursor: pointer;">
+        <title>muskat--sardelle</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L7048.23,-9642.3" />
+      </g>
+      <g class="edge" id="austern--muskat" style="cursor: pointer;">
+        <title>austern--muskat</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L7666.34,-10004" />
+      </g>
+      <g class="edge" id="butter--muskat" style="cursor: pointer;">
+        <title>butter--muskat</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6097.12,-6091.67L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="sardelle--weizenmehl" style="cursor: pointer;">
+        <title>sardelle--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L7048.23,-9642.3" />
+      </g>
+      <g class="edge" id="austern--weizenmehl" style="cursor: pointer;">
+        <title>austern--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L7666.34,-10004" />
+      </g>
+      <g class="edge" id="butter--weizenmehl" style="cursor: pointer;">
+        <title>butter--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="austern--sardelle" style="cursor: pointer;">
+        <title>austern--sardelle</title>
+        <path fill="none" stroke="black" d="M7048.23,-9642.3L7666.34,-10004" />
+      </g>
+      <g class="edge" id="butter--sardelle" style="cursor: pointer;">
+        <title>butter--sardelle</title>
+        <path fill="none" stroke="black" d="M7048.23,-9642.3L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="austern--butter" style="cursor: pointer;">
+        <title>austern--butter</title>
+        <path fill="none" stroke="black" d="M7666.34,-10004L7846.52,-5839.05" />
+      </g>
+      <g class="node" id="kapern" style="cursor: pointer;">
+        <title>Kapern</title>
+        <ellipse class="i-spice" cx="5357.14" cy="-9506.34" rx="144.0" ry="144.0" />
+        <text x="5357.14" y="-9476.34" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Kapern</text>
+      </g>
+      <g class="node" id="senf" style="cursor: pointer;">
+        <title>Senf</title>
+        <ellipse class="i-condi" cx="6557.23" cy="-9266.77" rx="144.0" ry="144.0" />
+        <text x="6557.23" y="-9236.77" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Senf</text>
+      </g>
+      <g class="node" id="artischocke" style="cursor: pointer;">
+        <title>Artischocke</title>
+        <ellipse class="i-veg" cx="6003.74" cy="-9579.17" rx="144.0" ry="144.0" />
+        <text x="6003.74" y="-9549.17" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Artischocke</text>
+      </g>
+      <g class="node" id="essig" style="cursor: pointer;">
+        <title>Essig</title>
+        <ellipse class="i-condi" cx="5722.44" cy="-8719.35" rx="188.5" ry="188.5" />
+        <text x="5722.44" y="-8689.35" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Essig</text>
+      </g>
+      <g class="node" id="ei" style="cursor: pointer;">
+        <title>Ei</title>
+        <ellipse class="i-egg" cx="6572.73" cy="-7506.23" rx="188.5" ry="188.5" />
+        <text x="6572.73" y="-7476.23" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Ei</text>
+      </g>
+      <g class="node" id="muskat" style="cursor: pointer;">
+        <title>Muskat</title>
+        <ellipse class="i-spice" cx="6097.12" cy="-6091.67" rx="188.5" ry="188.5" />
+        <text x="6097.12" y="-6061.67" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Muskat</text>
+      </g>
+      <g class="node" id="weizenmehl" style="cursor: pointer;">
+        <title>Weizenmehl</title>
+        <ellipse class="i-carb" cx="7831.6" cy="-8769.69" rx="223.0" ry="223.0" />
+        <text x="7831.6" y="-8739.69" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="sardelle" style="cursor: pointer;">
+        <title>Sardellen</title>
+        <ellipse class="i-fish" cx="7048.23" cy="-9642.3" rx="144.0" ry="144.0" />
+        <text x="7048.23" y="-9612.3" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Sardellen</text>
+      </g>
+      <g class="node" id="austern" style="cursor: pointer;">
+        <title>Austern</title>
+        <ellipse class="i-fish" cx="7666.34" cy="-10004" rx="144.0" ry="144.0" />
+        <text x="7666.34" y="-9974.02" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Austern</text>
+      </g>
+      <g class="node" id="butter" style="cursor: pointer;">
+        <title>Butter</title>
+        <ellipse class="i-fat" cx="7846.52" cy="-5839.05" rx="252.0" ry="252.0" />
+        <text x="7846.52" y="-5809.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Butter</text>
+      </g>
+    </g>
+  </g>
+</svg>

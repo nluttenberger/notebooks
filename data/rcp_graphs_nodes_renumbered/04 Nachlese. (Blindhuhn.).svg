@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-4">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">04 Nachlese. (Blindhuhn.)</text>
+      </g>
+      <g class="edge" id="karotte--kartoffel" style="cursor: pointer;">
+        <title>karotte--kartoffel</title>
+        <path fill="none" stroke="black" d="M5636.46,-7277.12L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="birne--karotte" style="cursor: pointer;">
+        <title>birne--karotte</title>
+        <path fill="none" stroke="black" d="M4511.13,-8302.48L5636.46,-7277.12" />
+      </g>
+      <g class="edge" id="apfel--karotte" style="cursor: pointer;">
+        <title>apfel--karotte</title>
+        <path fill="none" stroke="black" d="M4860.45,-9219.03L5636.46,-7277.12" />
+      </g>
+      <g class="edge" id="karotte--schinken" style="cursor: pointer;">
+        <title>karotte--schinken</title>
+        <path fill="none" stroke="black" d="M4689,-6760.92L5636.46,-7277.12" />
+      </g>
+      <g class="edge" id="karotte--pfeffer" style="cursor: pointer;">
+        <title>karotte--pfeffer</title>
+        <path fill="none" stroke="black" d="M5636.46,-7277.12L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="essig--karotte" style="cursor: pointer;">
+        <title>essig--karotte</title>
+        <path fill="none" stroke="black" d="M5636.46,-7277.12L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--karotte" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--karotte</title>
+        <path fill="none" stroke="black" d="M5636.46,-7277.12L4967,-6044.05" />
+      </g>
+      <g class="edge" id="karotte--weizenmehl" style="cursor: pointer;">
+        <title>karotte--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L5636.46,-7277.12" />
+      </g>
+      <g class="edge" id="birne--kartoffel" style="cursor: pointer;">
+        <title>birne--kartoffel</title>
+        <path fill="none" stroke="black" d="M4511.13,-8302.48L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="apfel--kartoffel" style="cursor: pointer;">
+        <title>apfel--kartoffel</title>
+        <path fill="none" stroke="black" d="M4860.45,-9219.03L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="kartoffel--schinken" style="cursor: pointer;">
+        <title>kartoffel--schinken</title>
+        <path fill="none" stroke="black" d="M4689,-6760.92L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="kartoffel--pfeffer" style="cursor: pointer;">
+        <title>kartoffel--pfeffer</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M4539.26,-4946.05L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="essig--kartoffel" style="cursor: pointer;">
+        <title>essig--kartoffel</title>
+        <path fill="none" stroke="black" d="M4539.26,-4946.05L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--kartoffel" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--kartoffel</title>
+        <path fill="none" stroke="black" d="M4967,-6044.05L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="kartoffel--weizenmehl" style="cursor: pointer;">
+        <title>kartoffel--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="apfel--birne" style="cursor: pointer;">
+        <title>apfel--birne</title>
+        <path fill="none" stroke="black" d="M4511.13,-8302.48L4860.45,-9219.03" />
+      </g>
+      <g class="edge" id="birne--schinken" style="cursor: pointer;">
+        <title>birne--schinken</title>
+        <path fill="none" stroke="black" d="M4511.13,-8302.48L4689,-6760.92" />
+      </g>
+      <g class="edge" id="birne--pfeffer" style="cursor: pointer;">
+        <title>birne--pfeffer</title>
+        <path fill="none" stroke="black" d="M4511.13,-8302.48L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="birne--essig" style="cursor: pointer;">
+        <title>birne--essig</title>
+        <path fill="none" stroke="black" d="M4511.13,-8302.48L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="birne--gr&#252;ne_bohnen" style="cursor: pointer;">
+        <title>birne--gr&#252;ne_bohnen</title>
+        <path fill="none" stroke="black" d="M4511.13,-8302.48L4967,-6044.05" />
+      </g>
+      <g class="edge" id="birne--weizenmehl" style="cursor: pointer;">
+        <title>birne--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4511.13,-8302.48" />
+      </g>
+      <g class="edge" id="apfel--schinken" style="cursor: pointer;">
+        <title>apfel--schinken</title>
+        <path fill="none" stroke="black" d="M4689,-6760.92L4860.45,-9219.03" />
+      </g>
+      <g class="edge" id="apfel--pfeffer" style="cursor: pointer;">
+        <title>apfel--pfeffer</title>
+        <path fill="none" stroke="black" d="M4860.45,-9219.03L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="apfel--essig" style="cursor: pointer;">
+        <title>apfel--essig</title>
+        <path fill="none" stroke="black" d="M4860.45,-9219.03L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="apfel--gr&#252;ne_bohnen" style="cursor: pointer;">
+        <title>apfel--gr&#252;ne_bohnen</title>
+        <path fill="none" stroke="black" d="M4860.45,-9219.03L4967,-6044.05" />
+      </g>
+      <g class="edge" id="apfel--weizenmehl" style="cursor: pointer;">
+        <title>apfel--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4860.45,-9219.03" />
+      </g>
+      <g class="edge" id="pfeffer--schinken" style="cursor: pointer;">
+        <title>pfeffer--schinken</title>
+        <path fill="none" stroke="black" d="M4689,-6760.92L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="essig--schinken" style="cursor: pointer;">
+        <title>essig--schinken</title>
+        <path fill="none" stroke="black" d="M4689,-6760.92L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--schinken" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--schinken</title>
+        <path fill="none" stroke="black" d="M4689,-6760.92L4967,-6044.05" />
+      </g>
+      <g class="edge" id="schinken--weizenmehl" style="cursor: pointer;">
+        <title>schinken--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4689,-6760.92" />
+      </g>
+      <g class="edge" id="essig--pfeffer" style="cursor: pointer;">
+        <title>essig--pfeffer</title>
+        <path fill="none" stroke="black" d="M5722.44,-8719.35L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--pfeffer" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--pfeffer</title>
+        <path fill="none" stroke="black" d="M4967,-6044.05L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="pfeffer--weizenmehl" style="cursor: pointer;">
+        <title>pfeffer--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L6163.66,-4723.11" />
+      </g>
+      <g class="edge" id="essig--gr&#252;ne_bohnen" style="cursor: pointer;">
+        <title>essig--gr&#252;ne_bohnen</title>
+        <path fill="none" stroke="black" d="M4967,-6044.05L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="essig--weizenmehl" style="cursor: pointer;">
+        <title>essig--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L5722.44,-8719.35" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--weizenmehl" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L4967,-6044.05" />
+      </g>
+      <g class="node" id="karotte" style="cursor: pointer;">
+        <title>Karotte</title>
+        <ellipse class="i-veg" cx="5636.46" cy="-7277.12" rx="144.0" ry="144.0" />
+        <text x="5636.46" y="-7247.12" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Karotte</text>
+      </g>
+      <g class="node" id="kartoffel" style="cursor: pointer;">
+        <title>Kartoffel</title>
+        <ellipse class="i-carb" cx="4539.26" cy="-4946.05" rx="188.5" ry="188.5" />
+        <text x="4539.26" y="-4916.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Kartoffel</text>
+      </g>
+      <g class="node" id="birne" style="cursor: pointer;">
+        <title>Birne</title>
+        <ellipse class="i-fruit" cx="4511.13" cy="-8302.48" rx="144.0" ry="144.0" />
+        <text x="4511.13" y="-8272.48" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Birne</text>
+      </g>
+      <g class="node" id="apfel" style="cursor: pointer;">
+        <title>Apfel</title>
+        <ellipse class="i-fruit" cx="4860.45" cy="-9219.03" rx="144.0" ry="144.0" />
+        <text x="4860.45" y="-9189.03" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Apfel</text>
+      </g>
+      <g class="node" id="schinken" style="cursor: pointer;">
+        <title>Schinken</title>
+        <ellipse class="i-meat" cx="4689" cy="-6760.92" rx="144.0" ry="144.0" />
+        <text x="4689" y="-6730.92" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Schinken</text>
+      </g>
+      <g class="node" id="pfeffer" style="cursor: pointer;">
+        <title>Pfeffer</title>
+        <ellipse class="i-spice" cx="6163.66" cy="-4723.11" rx="188.5" ry="188.5" />
+        <text x="6163.66" y="-4693.11" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Pfeffer</text>
+      </g>
+      <g class="node" id="essig" style="cursor: pointer;">
+        <title>Essig</title>
+        <ellipse class="i-condi" cx="5722.44" cy="-8719.35" rx="144.0" ry="144.0" />
+        <text x="5722.44" y="-8689.35" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Essig</text>
+      </g>
+      <g class="node" id="gr&#252;ne_bohnen" style="cursor: pointer;">
+        <title>Gr&#252;ne_Bohnen</title>
+        <ellipse class="i-veg" cx="4967" cy="-6044.05" rx="144.0" ry="144.0" />
+        <text x="4967" y="-6014.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Gr&#252;ne_Bohnen</text>
+      </g>
+      <g class="node" id="weizenmehl" style="cursor: pointer;">
+        <title>Weizenmehl</title>
+        <ellipse class="i-carb" cx="7831.6" cy="-8769.69" rx="188.5" ry="188.5" />
+        <text x="7831.6" y="-8739.69" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Weizenmehl</text>
+      </g>
+    </g>
+  </g>
+</svg>

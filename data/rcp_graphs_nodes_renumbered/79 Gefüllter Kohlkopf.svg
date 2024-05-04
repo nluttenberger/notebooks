@@ -1,0 +1,286 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-79">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">79 Gef&#252;llter Kohlkopf</text>
+      </g>
+      <g class="edge" id="butter--rindfleisch" style="cursor: pointer;">
+        <title>butter--rindfleisch</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7303.52,-4525.86L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--rindfleisch" style="cursor: pointer;">
+        <title>fleischbr&#252;he--rindfleisch</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L9503.58,-5677.6" />
+      </g>
+      <g class="edge" id="rindfleisch--wei&#223;brot" style="cursor: pointer;">
+        <title>rindfleisch--wei&#223;brot</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7303.52,-4525.86L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="rindfleisch--zwiebel" style="cursor: pointer;">
+        <title>rindfleisch--zwiebel</title>
+        <path fill="none" stroke="black" d="M7303.52,-4525.86L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="ei--rindfleisch" style="cursor: pointer;">
+        <title>ei--rindfleisch</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7303.52,-4525.86L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="muskat--rindfleisch" style="cursor: pointer;">
+        <title>muskat--rindfleisch</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7303.52,-4525.86L6097.12,-6091.67" />
+      </g>
+      <g class="edge" id="nierenfett--rindfleisch" style="cursor: pointer;">
+        <title>nierenfett--rindfleisch</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7303.52,-4525.86L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="rindfleisch--weizenmehl" style="cursor: pointer;">
+        <title>rindfleisch--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7303.52,-4525.86L7831.6,-8769.69" />
+      </g>
+      <g class="edge" id="rindfleisch--zitrone" style="cursor: pointer;">
+        <title>rindfleisch--zitrone</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7303.52,-4525.86L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="rindfleisch--wei&#223;kohl" style="cursor: pointer;">
+        <title>rindfleisch--wei&#223;kohl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7303.52,-4525.86L10416.9,-5849.22" />
+      </g>
+      <g class="edge" id="butter--fleischbr&#252;he" style="cursor: pointer;">
+        <title>butter--fleischbr&#252;he</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M9503.58,-5677.6L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--wei&#223;brot" style="cursor: pointer;">
+        <title>butter--wei&#223;brot</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M8114.54,-3875.11L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--zwiebel" style="cursor: pointer;">
+        <title>butter--zwiebel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M9821.36,-4583.77L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--ei" style="cursor: pointer;">
+        <title>butter--ei</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6572.73,-7506.23L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--muskat" style="cursor: pointer;">
+        <title>butter--muskat</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--nierenfett" style="cursor: pointer;">
+        <title>butter--nierenfett</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10749.3,-5257.6L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--weizenmehl" style="cursor: pointer;">
+        <title>butter--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--zitrone" style="cursor: pointer;">
+        <title>butter--zitrone</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10075.1,-3018.56L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--wei&#223;kohl" style="cursor: pointer;">
+        <title>butter--wei&#223;kohl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10416.9,-5849.22L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--wei&#223;brot" style="cursor: pointer;">
+        <title>fleischbr&#252;he--wei&#223;brot</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M9503.58,-5677.6L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--zwiebel" style="cursor: pointer;">
+        <title>fleischbr&#252;he--zwiebel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M9503.58,-5677.6L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="ei--fleischbr&#252;he" style="cursor: pointer;">
+        <title>ei--fleischbr&#252;he</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6572.73,-7506.23L9503.58,-5677.6" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--muskat" style="cursor: pointer;">
+        <title>fleischbr&#252;he--muskat</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L9503.58,-5677.6" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--nierenfett" style="cursor: pointer;">
+        <title>fleischbr&#252;he--nierenfett</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10749.3,-5257.6L9503.58,-5677.6" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--weizenmehl" style="cursor: pointer;">
+        <title>fleischbr&#252;he--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L9503.58,-5677.6" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--zitrone" style="cursor: pointer;">
+        <title>fleischbr&#252;he--zitrone</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M9503.58,-5677.6L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--wei&#223;kohl" style="cursor: pointer;">
+        <title>fleischbr&#252;he--wei&#223;kohl</title>
+        <path fill="none" stroke="black" d="M9503.58,-5677.6L10416.9,-5849.22" />
+      </g>
+      <g class="edge" id="wei&#223;brot--zwiebel" style="cursor: pointer;">
+        <title>wei&#223;brot--zwiebel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M9821.36,-4583.77L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="ei--wei&#223;brot" style="cursor: pointer;">
+        <title>ei--wei&#223;brot</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6572.73,-7506.23L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="muskat--wei&#223;brot" style="cursor: pointer;">
+        <title>muskat--wei&#223;brot</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="nierenfett--wei&#223;brot" style="cursor: pointer;">
+        <title>nierenfett--wei&#223;brot</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10749.3,-5257.6L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="wei&#223;brot--weizenmehl" style="cursor: pointer;">
+        <title>wei&#223;brot--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="wei&#223;brot--zitrone" style="cursor: pointer;">
+        <title>wei&#223;brot--zitrone</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M8114.54,-3875.11L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="wei&#223;brot--wei&#223;kohl" style="cursor: pointer;">
+        <title>wei&#223;brot--wei&#223;kohl</title>
+        <path fill="none" stroke="black" d="M10416.9,-5849.22L8114.54,-3875.11" />
+      </g>
+      <g class="edge" id="ei--zwiebel" style="cursor: pointer;">
+        <title>ei--zwiebel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6572.73,-7506.23L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="muskat--zwiebel" style="cursor: pointer;">
+        <title>muskat--zwiebel</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M6097.12,-6091.67L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="nierenfett--zwiebel" style="cursor: pointer;">
+        <title>nierenfett--zwiebel</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="weizenmehl--zwiebel" style="cursor: pointer;">
+        <title>weizenmehl--zwiebel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L9821.36,-4583.77" />
+      </g>
+      <g class="edge" id="zitrone--zwiebel" style="cursor: pointer;">
+        <title>zitrone--zwiebel</title>
+        <path fill="none" stroke="black" d="M9821.36,-4583.77L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="wei&#223;kohl--zwiebel" style="cursor: pointer;">
+        <title>wei&#223;kohl--zwiebel</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M9821.36,-4583.77L10416.9,-5849.22" />
+      </g>
+      <g class="edge" id="ei--muskat" style="cursor: pointer;">
+        <title>ei--muskat</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="ei--nierenfett" style="cursor: pointer;">
+        <title>ei--nierenfett</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6572.73,-7506.23L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="ei--weizenmehl" style="cursor: pointer;">
+        <title>ei--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L6572.73,-7506.23" />
+      </g>
+      <g class="edge" id="ei--zitrone" style="cursor: pointer;">
+        <title>ei--zitrone</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6572.73,-7506.23L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="ei--wei&#223;kohl" style="cursor: pointer;">
+        <title>ei--wei&#223;kohl</title>
+        <path fill="none" stroke="black" d="M6572.73,-7506.23L10416.9,-5849.22" />
+      </g>
+      <g class="edge" id="muskat--nierenfett" style="cursor: pointer;">
+        <title>muskat--nierenfett</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="muskat--weizenmehl" style="cursor: pointer;">
+        <title>muskat--weizenmehl</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M7831.6,-8769.69L6097.12,-6091.67" />
+      </g>
+      <g class="edge" id="muskat--zitrone" style="cursor: pointer;">
+        <title>muskat--zitrone</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M6097.12,-6091.67L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="muskat--wei&#223;kohl" style="cursor: pointer;">
+        <title>muskat--wei&#223;kohl</title>
+        <path fill="none" stroke="black" d="M6097.12,-6091.67L10416.9,-5849.22" />
+      </g>
+      <g class="edge" id="nierenfett--weizenmehl" style="cursor: pointer;">
+        <title>nierenfett--weizenmehl</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L10749.3,-5257.6" />
+      </g>
+      <g class="edge" id="nierenfett--zitrone" style="cursor: pointer;">
+        <title>nierenfett--zitrone</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10749.3,-5257.6L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="nierenfett--wei&#223;kohl" style="cursor: pointer;">
+        <title>nierenfett--wei&#223;kohl</title>
+        <path fill="none" stroke="black" d="M10749.3,-5257.6L10416.9,-5849.22" />
+      </g>
+      <g class="edge" id="weizenmehl--zitrone" style="cursor: pointer;">
+        <title>weizenmehl--zitrone</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M7831.6,-8769.69L10075.1,-3018.56" />
+      </g>
+      <g class="edge" id="wei&#223;kohl--weizenmehl" style="cursor: pointer;">
+        <title>wei&#223;kohl--weizenmehl</title>
+        <path fill="none" stroke="black" d="M7831.6,-8769.69L10416.9,-5849.22" />
+      </g>
+      <g class="edge" id="wei&#223;kohl--zitrone" style="cursor: pointer;">
+        <title>wei&#223;kohl--zitrone</title>
+        <path fill="none" stroke="black" d="M10416.9,-5849.22L10075.1,-3018.56" />
+      </g>
+      <g class="node" id="rindfleisch" style="cursor: pointer;">
+        <title>Rindfleisch</title>
+        <ellipse class="i-meat" cx="7303.52" cy="-4525.86" rx="252.0" ry="252.0" />
+        <text x="7303.52" y="-4495.86" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Rindfleisch</text>
+      </g>
+      <g class="node" id="butter" style="cursor: pointer;">
+        <title>Butter</title>
+        <ellipse class="i-fat" cx="7846.52" cy="-5839.05" rx="952.5" ry="952.5" />
+        <text x="7846.52" y="-5809.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Butter</text>
+      </g>
+      <g class="node" id="fleischbr&#252;he" style="cursor: pointer;">
+        <title>Fleischbr&#252;he</title>
+        <ellipse class="i-condi" cx="9503.58" cy="-5677.6" rx="597.0" ry="597.0" />
+        <text x="9503.58" y="-5647.6" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Fleischbr&#252;he</text>
+      </g>
+      <g class="node" id="wei&#223;brot" style="cursor: pointer;">
+        <title>Wei&#223;brot</title>
+        <ellipse class="i-carb" cx="8114.54" cy="-3875.11" rx="394.0" ry="394.0" />
+        <text x="8114.54" y="-3845.11" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Wei&#223;brot</text>
+      </g>
+      <g class="node" id="zwiebel" style="cursor: pointer;">
+        <title>Zwiebel</title>
+        <ellipse class="i-onion" cx="9821.36" cy="-4583.77" rx="410.0" ry="410.0" />
+        <text x="9821.36" y="-4553.77" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Zwiebel</text>
+      </g>
+      <g class="node" id="ei" style="cursor: pointer;">
+        <title>Ei</title>
+        <ellipse class="i-egg" cx="6572.73" cy="-7506.23" rx="576.0" ry="576.0" />
+        <text x="6572.73" y="-7476.23" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Ei</text>
+      </g>
+      <g class="node" id="muskat" style="cursor: pointer;">
+        <title>Muskat</title>
+        <ellipse class="i-spice" cx="6097.12" cy="-6091.67" rx="665.5" ry="665.5" />
+        <text x="6097.12" y="-6061.67" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Muskat</text>
+      </g>
+      <g class="node" id="nierenfett" style="cursor: pointer;">
+        <title>Nierenfett</title>
+        <ellipse class="i-fat" cx="10749.3" cy="-5257.6" rx="252.0" ry="252.0" />
+        <text x="10749.3" y="-5227.6" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Nierenfett</text>
+      </g>
+      <g class="node" id="weizenmehl" style="cursor: pointer;">
+        <title>Weizenmehl</title>
+        <ellipse class="i-carb" cx="7831.6" cy="-8769.69" rx="586.5" ry="586.5" />
+        <text x="7831.6" y="-8739.69" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="zitrone" style="cursor: pointer;">
+        <title>Zitrone</title>
+        <ellipse class="i-fruit" cx="10075.1" cy="-3018.56" rx="321.5" ry="321.5" />
+        <text x="10075.1" y="-2988.56" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Zitrone</text>
+      </g>
+      <g class="node" id="wei&#223;kohl" style="cursor: pointer;">
+        <title>Wei&#223;kohl</title>
+        <ellipse class="i-veg" cx="10416.9" cy="-5849.22" rx="277.5" ry="277.5" />
+        <text x="10416.9" y="-5819.22" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Wei&#223;kohl</text>
+      </g>
+    </g>
+  </g>
+</svg>

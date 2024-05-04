@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 14020.54 10900.78" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="14020.54" height="10900.78">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 10896.8)">
+    <g id="rr-81">
+      <g>
+        <rect x="7010.27" y="-10500.78" width="7010.27" height="454.1991666666667" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="7050.27" y="-10300.78" style="text-anchor: start; font-family: Arial; font-size: 160px">81 Getrocknete Schneidbohnen</text>
+      </g>
+      <g class="edge" id="kartoffel--petersilie" style="cursor: pointer;">
+        <title>kartoffel--petersilie</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10493.2,-6713.89L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="kartoffel--st&#228;rke" style="cursor: pointer;">
+        <title>kartoffel--st&#228;rke</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M8873.62,-2374.62L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--kartoffel" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--kartoffel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4967,-6044.05L4539.26,-4946.05" />
+      </g>
+      <g class="edge" id="butter--kartoffel" style="cursor: pointer;">
+        <title>butter--kartoffel</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4539.26,-4946.05L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="petersilie--st&#228;rke" style="cursor: pointer;">
+        <title>petersilie--st&#228;rke</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M8873.62,-2374.62L10493.2,-6713.89" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--petersilie" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--petersilie</title>
+        <path fill="none" stroke="black" stroke-width="2" d="M10493.2,-6713.89L4967,-6044.05" />
+      </g>
+      <g class="edge" id="butter--petersilie" style="cursor: pointer;">
+        <title>butter--petersilie</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M10493.2,-6713.89L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--st&#228;rke" style="cursor: pointer;">
+        <title>gr&#252;ne_bohnen--st&#228;rke</title>
+        <path fill="none" stroke="black" d="M8873.62,-2374.62L4967,-6044.05" />
+      </g>
+      <g class="edge" id="butter--st&#228;rke" style="cursor: pointer;">
+        <title>butter--st&#228;rke</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M8873.62,-2374.62L7846.52,-5839.05" />
+      </g>
+      <g class="edge" id="butter--gr&#252;ne_bohnen" style="cursor: pointer;">
+        <title>butter--gr&#252;ne_bohnen</title>
+        <path fill="none" stroke="red" stroke-width="2" d="M4967,-6044.05L7846.52,-5839.05" />
+      </g>
+      <g class="node" id="kartoffel" style="cursor: pointer;">
+        <title>Kartoffel</title>
+        <ellipse class="i-carb" cx="4539.26" cy="-4946.05" rx="597.0" ry="597.0" />
+        <text x="4539.26" y="-4916.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Kartoffel</text>
+      </g>
+      <g class="node" id="petersilie" style="cursor: pointer;">
+        <title>Petersilie</title>
+        <ellipse class="i-herb" cx="10493.2" cy="-6713.89" rx="377.5" ry="377.5" />
+        <text x="10493.2" y="-6683.89" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Petersilie</text>
+      </g>
+      <g class="node" id="st&#228;rke" style="cursor: pointer;">
+        <title>St&#228;rke</title>
+        <ellipse class="i-etc" cx="8873.62" cy="-2374.62" rx="425.5" ry="425.5" />
+        <text x="8873.62" y="-2344.62" style="text-anchor: middle; font-family: Arial; font-size: 140px;">St&#228;rke</text>
+      </g>
+      <g class="node" id="gr&#252;ne_bohnen" style="cursor: pointer;">
+        <title>Gr&#252;ne_Bohnen</title>
+        <ellipse class="i-veg" cx="4967" cy="-6044.05" rx="300.5" ry="300.5" />
+        <text x="4967" y="-6014.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Gr&#252;ne_Bohnen</text>
+      </g>
+      <g class="node" id="butter" style="cursor: pointer;">
+        <title>Butter</title>
+        <ellipse class="i-fat" cx="7846.52" cy="-5839.05" rx="965.0" ry="965.0" />
+        <text x="7846.52" y="-5809.05" style="text-anchor: middle; font-family: Arial; font-size: 140px;">Butter</text>
+      </g>
+    </g>
+  </g>
+</svg>
