@@ -1,7 +1,7 @@
-# The *fruschtique*&copy; API
+# The *fruschtique*&copy; Culinary Collections API
 
 ## General Information
-The *fruschtique*&copy; API supports the programmer to create ingredient graphs from culinary collections of cueML&copy;-encoded recipes. It has functions for
+The *fruschtique*&copy; Culinary Collections API (*fruschtique*&copy; CC API for short) supports the programmer to create ingredient graphs from culinary collections of cueML&copy;-encoded recipes. It has functions for
 - scraping recipes (selected by a searchstring) from the chefkoch.de website and converting them to cueML format
 - extracting several structural information from a culinary collection
 - creating an ingredient graph from a colinary collection
@@ -9,7 +9,7 @@ The *fruschtique*&copy; API supports the programmer to create ingredient graphs 
 - storing the graph in different formats, among them CSV, GEXF, and DOT 
 - comparing subcollections that have been compiled into a single culinary collection  
 
-The *fruschtique*&copy; API relies on a JSON-encoded ingredients catalogue providing a normalized name and related synonymes for ingredient names found in recipes. The ingredients catalogue also assigns to each ingredients one of 16 different ingredient classes.  
+The *fruschtique*&copy; CC API relies on a JSON-encoded ingredients catalogue providing a normalized name and related synonymes for ingredient names found in recipes. The ingredients catalogue also assigns to each ingredients one of 16 different ingredient classes.  
 
 Find the cueML&copy; XSD Schema and the actual ingredients catalogue in this repository. Find a sample cueML&copy;-encoded recipe in this repo, too.  
 
@@ -17,10 +17,10 @@ For a description what actually is meant by the term "culinary collection", see 
 
 Sample ingredient graphs can be seen [here](https://graphlab.fruschtique.de).  
 
-The *fruschtique*&copy; API is part of the *fruschtique*&copy; suite of Python and XSLT tools, data formats, data repositories, and websites.
+The *fruschtique*&copy; CC API is part of the *fruschtique*&copy; suite of Python- and XSLT-based tools, data formats, data repositories, and websites.
 
 ## Getting started
-Start programming your *fruschtique*&copy; API-based application by installing the *fruschtique*&copy; API as follows:  
+Start programming your *fruschtique*&copy; CC API-based application by installing the *fruschtique*&copy; CC API as follows:  
 
 `pip install fruschtique`  
 
@@ -29,7 +29,7 @@ and importing it into your Python code:
 `import fruschtique as fr`
 
 ## This doc
-The descriptions of the *fruschtique* API functions are grouped by keywords indication their purpose.
+The descriptions of the *fruschtique* CC API functions are grouped by keywords indicating their purpose.
 #####  &nbsp;
 
 ## The `CulinaryCollection` class and its methods
@@ -103,7 +103,7 @@ return list of recipes total or subcollection-wise
 - *params:*  
 `subcoll_letter:string` (optional; default: return complete list)    
 - *returns:*  
-`list(recipe names)`
+`list(dict of recipeNames and their ingredients)`
 - *side-effects:*  
 none  
 - *print:*  

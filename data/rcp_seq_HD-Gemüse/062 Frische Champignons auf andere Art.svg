@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 12592.44 11927.32" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="12592.44" height="11927.32">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 11923.3)">
+    <g id="rr-62">
+      <g>
+        <rect x="200.0" y="-11527.32" width="6296.22" height="496.97166666666664" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-11327.32" style="text-anchor: start; font-family: Arial; font-size: 163.29999999999998px;">62 Frische Champignons auf andere Art</text>
+      </g>
+      <g class="edge" id="butter--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M3266.7,-3275.21L5589.51,-5230.17" />
+      </g>
+      <g class="edge" id="champignon--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5448.72,-2391.53L3266.7,-3275.21" />
+      </g>
+      <g class="edge" id="muskat--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M2583.15,-6056.73L3266.7,-3275.21" />
+      </g>
+      <g class="edge" id="butter--champignon" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M5448.72,-2391.53L5589.51,-5230.17" />
+      </g>
+      <g class="edge" id="butter--muskat" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M2583.15,-6056.73L5589.51,-5230.17" />
+      </g>
+      <g class="edge" id="champignon--muskat" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M2583.15,-6056.73L5448.72,-2391.53" />
+      </g>
+      <g class="node" id="zitrone" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-fruit" cx="3266.7" cy="-3275.21" rx="252.0" ry="252.0" />
+        <text x="3266.7" y="-3245.21" style="text-anchor: middle; font-family: Arial; font-size: 142.0px;">Zitrone</text>
+      </g>
+      <g class="node" id="butter" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 56</title>
+        <ellipse class="i-fat" cx="5589.51" cy="-5230.17" rx="844.0" ry="844.0" />
+        <text x="5589.51" y="-5200.17" style="text-anchor: middle; font-family: Arial; font-size: 142.0px;">Butter</text>
+      </g>
+      <g class="node" id="champignon" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-veg" cx="5448.72" cy="-2391.53" rx="188.5" ry="188.5" />
+        <text x="5448.72" y="-2361.53" style="text-anchor: middle; font-family: Arial; font-size: 142.0px;">Champignon</text>
+      </g>
+      <g class="node" id="muskat" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 28</title>
+        <ellipse class="i-spice" cx="2583.15" cy="-6056.73" rx="607.5" ry="607.5" />
+        <text x="2583.15" y="-6026.73" style="text-anchor: middle; font-family: Arial; font-size: 142.0px;">Muskat</text>
+      </g>
+    </g>
+  </g>
+</svg>
