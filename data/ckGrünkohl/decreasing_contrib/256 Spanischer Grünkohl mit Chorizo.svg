@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-256">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">256 Spanischer Gr&#252;nkohl mit Chorizo</text>
+      </g>
+      <g class="edge" id="gr&#252;nkohl--pinienkerne" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L9107.84,-19769.9" />
+      </g>
+      <g class="edge" id="pfeffer--pinienkerne" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9107.84,-19769.9L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="paprikapulver--pinienkerne" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10944,-8465.19L9107.84,-19769.9" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--pinienkerne" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M24353.9,-5718.22L9107.84,-19769.9" />
+      </g>
+      <g class="edge" id="gem&#252;sezwiebel--pinienkerne" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M17408.8,-22945.3L9107.84,-19769.9" />
+      </g>
+      <g class="edge" id="pinienkerne--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M20863.6,-3655.89L9107.84,-19769.9" />
+      </g>
+      <g class="edge" id="knoblauch--pinienkerne" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L9107.84,-19769.9" />
+      </g>
+      <g class="edge" id="paprika--pinienkerne" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11133.6,-5109.17L9107.84,-19769.9" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10944,-8465.19L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M24353.9,-5718.22L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gem&#252;sezwiebel--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17408.8,-22945.3L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L20863.6,-3655.89" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--paprika" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11133.6,-5109.17L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="paprikapulver--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10944,-8465.19L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M24353.9,-5718.22L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="gem&#252;sezwiebel--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17408.8,-22945.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="pfeffer--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M20863.6,-3655.89L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="knoblauch--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="paprika--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11133.6,-5109.17L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10944,-8465.19L24353.9,-5718.22" />
+      </g>
+      <g class="edge" id="gem&#252;sezwiebel--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10944,-8465.19L17408.8,-22945.3" />
+      </g>
+      <g class="edge" id="paprikapulver--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10944,-8465.19L20863.6,-3655.89" />
+      </g>
+      <g class="edge" id="knoblauch--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10944,-8465.19L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="paprika--paprikapulver" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10944,-8465.19L11133.6,-5109.17" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--gem&#252;sezwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M17408.8,-22945.3L24353.9,-5718.22" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M24353.9,-5718.22L20863.6,-3655.89" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M24353.9,-5718.22L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--paprika" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11133.6,-5109.17L24353.9,-5718.22" />
+      </g>
+      <g class="edge" id="gem&#252;sezwiebel--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M17408.8,-22945.3L20863.6,-3655.89" />
+      </g>
+      <g class="edge" id="gem&#252;sezwiebel--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M17408.8,-22945.3L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="gem&#252;sezwiebel--paprika" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M11133.6,-5109.17L17408.8,-22945.3" />
+      </g>
+      <g class="edge" id="knoblauch--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L20863.6,-3655.89" />
+      </g>
+      <g class="edge" id="paprika--schweineschmalz" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11133.6,-5109.17L20863.6,-3655.89" />
+      </g>
+      <g class="edge" id="knoblauch--paprika" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11133.6,-5109.17L13112.9,-10277.2" />
+      </g>
+      <g class="node" id="pinienkerne" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 8</title>
+        <ellipse class="i-nuts" cx="9107.84" cy="-19769.9" rx="341.5" ry="341.5" />
+        <text x="9107.84" y="-19739.9" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Pinienkerne</text>
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 248</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="1737.0" ry="1737.0" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 184</title>
+        <ellipse class="i-spice" cx="17060.3" cy="-13342.6" rx="1501.0" ry="1501.0" />
+        <text x="17060.3" y="-13312.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Pfeffer</text>
+      </g>
+      <g class="node" id="paprikapulver" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 13</title>
+        <ellipse class="i-spice" cx="10944" cy="-8465.19" rx="425.5" ry="425.5" />
+        <text x="10944" y="-8435.19" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Paprikapulver</text>
+      </g>
+      <g class="node" id="fleischbr&#252;he" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 17</title>
+        <ellipse class="i-condi" cx="24353.9" cy="-5718.22" rx="481.5" ry="481.5" />
+        <text x="24353.9" y="-5688.22" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Fleischbr&#252;he</text>
+      </g>
+      <g class="node" id="gem&#252;sezwiebel" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-veg" cx="17408.8" cy="-22945.3" rx="277.5" ry="277.5" />
+        <text x="17408.8" y="-22915.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gem&#252;sezwiebel</text>
+      </g>
+      <g class="node" id="schweineschmalz" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 20</title>
+        <ellipse class="i-fat" cx="20863.6" cy="-3655.89" rx="519.0" ry="519.0" />
+        <text x="20863.6" y="-3625.89" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Schweineschmalz</text>
+      </g>
+      <g class="node" id="knoblauch" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 80</title>
+        <ellipse class="i-onion" cx="13112.9" cy="-10277.2" rx="1002.0" ry="1002.0" />
+        <text x="13112.9" y="-10247.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Knoblauch</text>
+      </g>
+      <g class="node" id="paprika" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-veg" cx="11133.6" cy="-5109.17" rx="321.5" ry="321.5" />
+        <text x="11133.6" y="-5079.17" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Paprika</text>
+      </g>
+    </g>
+  </g>
+</svg>

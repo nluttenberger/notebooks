@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-469">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">469 Gr&#252;nkohl mit Entenkeulen und Kassler</text>
+      </g>
+      <g class="edge" id="gr&#252;nkohl--h&#252;hnerbr&#252;he" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17795,-3908.1L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--kasseler" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M18799.8,-5589.84L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--speck" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21821.8,-8938.02L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="ente--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M29077.9,-11855.1L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--kasseler" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M18799.8,-5589.84L17795,-3908.1" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17795,-3908.1L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--speck" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21821.8,-8938.02L17795,-3908.1" />
+      </g>
+      <g class="edge" id="ente--h&#252;hnerbr&#252;he" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M29077.9,-11855.1L17795,-3908.1" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M17795,-3908.1L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="h&#252;hnerbr&#252;he--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17795,-3908.1L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="kasseler--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M18799.8,-5589.84L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="kasseler--speck" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21821.8,-8938.02L18799.8,-5589.84" />
+      </g>
+      <g class="edge" id="ente--kasseler" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M29077.9,-11855.1L18799.8,-5589.84" />
+      </g>
+      <g class="edge" id="kasseler--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M18799.8,-5589.84L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="kasseler--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M18799.8,-5589.84L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="pfeffer--speck" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21821.8,-8938.02L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="ente--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M29077.9,-11855.1L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="pfeffer--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17060.3,-13342.6L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="knoblauch--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="ente--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M29077.9,-11855.1L21821.8,-8938.02" />
+      </g>
+      <g class="edge" id="speck--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21821.8,-8938.02L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="knoblauch--speck" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21821.8,-8938.02L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="ente--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M29077.9,-11855.1L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="ente--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M29077.9,-11855.1L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="knoblauch--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L15535.2,-16678.2" />
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 458</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="2347.5" ry="2347.5" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="h&#252;hnerbr&#252;he" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 16</title>
+        <ellipse class="i-condi" cx="17795" cy="-3908.1" rx="468.0" ry="468.0" />
+        <text x="17795" y="-3878.1" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">H&#252;hnerbr&#252;he</text>
+      </g>
+      <g class="node" id="kasseler" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 77</title>
+        <ellipse class="i-meat" cx="18799.8" cy="-5589.84" rx="983.5" ry="983.5" />
+        <text x="18799.8" y="-5559.84" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Kasseler</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 335</title>
+        <ellipse class="i-spice" cx="17060.3" cy="-13342.6" rx="2012.5" ry="2012.5" />
+        <text x="17060.3" y="-13312.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Pfeffer</text>
+      </g>
+      <g class="node" id="speck" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 71</title>
+        <ellipse class="i-meat" cx="21821.8" cy="-8938.02" rx="946.0" ry="946.0" />
+        <text x="21821.8" y="-8908.02" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Speck</text>
+      </g>
+      <g class="node" id="ente" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-meat" cx="29077.9" cy="-11855.1" rx="252.0" ry="252.0" />
+        <text x="29077.9" y="-11825.1" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Ente</text>
+      </g>
+      <g class="node" id="tomate" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 40</title>
+        <ellipse class="i-veg" cx="15535.2" cy="-16678.2" rx="719.0" ry="719.0" />
+        <text x="15535.2" y="-16648.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Tomate</text>
+      </g>
+      <g class="node" id="knoblauch" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 142</title>
+        <ellipse class="i-onion" cx="13112.9" cy="-10277.2" rx="1323.0" ry="1323.0" />
+        <text x="13112.9" y="-10247.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Knoblauch</text>
+      </g>
+    </g>
+  </g>
+</svg>

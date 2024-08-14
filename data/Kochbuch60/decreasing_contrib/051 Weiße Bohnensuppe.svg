@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 12493.85 13400.88" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="12493.85" height="13400.88">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 13396.9)">
+    <g id="rr-51">
+      <g>
+        <rect x="200.0" y="-13000.88" width="4164.616666666667" height="837.555" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-12800.88" style="text-anchor: start; font-family: Arial Narrow; font-size: 229.5px;">51 Wei&#223;e Bohnensuppe</text>
+      </g>
+      <g class="edge" id="essig--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L8143.69,-7889.77" />
+      </g>
+      <g class="edge" id="essig--wurst" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8143.69,-7889.77L4147.43,-6070.73" />
+      </g>
+      <g class="edge" id="bohnenkraut--essig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5159.04,-986.092L8143.69,-7889.77" />
+      </g>
+      <g class="edge" id="essig--gr&#252;ne_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3686.86,-2666.35L8143.69,-7889.77" />
+      </g>
+      <g class="edge" id="pfeffer--wurst" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6194.39,-6152.45L4147.43,-6070.73" />
+      </g>
+      <g class="edge" id="bohnenkraut--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6194.39,-6152.45L5159.04,-986.092" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6194.39,-6152.45L3686.86,-2666.35" />
+      </g>
+      <g class="edge" id="bohnenkraut--wurst" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5159.04,-986.092L4147.43,-6070.73" />
+      </g>
+      <g class="edge" id="gr&#252;ne_bohnen--wurst" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3686.86,-2666.35L4147.43,-6070.73" />
+      </g>
+      <g class="edge" id="bohnenkraut--gr&#252;ne_bohnen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M3686.86,-2666.35L5159.04,-986.092" />
+      </g>
+      <g class="node" id="essig" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 8</title>
+        <ellipse class="i-condi" cx="8143.69" cy="-7889.77" rx="341.5" ry="341.5" />
+        <text x="8143.69" y="-7859.77" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Essig</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 36</title>
+        <ellipse class="i-spice" cx="6194.39" cy="-6152.45" rx="684.0" ry="684.0" />
+        <text x="6194.39" y="-6122.45" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Pfeffer</text>
+      </g>
+      <g class="node" id="wurst" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-meat" cx="4147.43" cy="-6070.73" rx="188.5" ry="188.5" />
+        <text x="4147.43" y="-6040.73" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Wurst</text>
+      </g>
+      <g class="node" id="bohnenkraut" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-herb" cx="5159.04" cy="-986.092" rx="188.5" ry="188.5" />
+        <text x="5159.04" y="-956.092" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Bohnenkraut</text>
+      </g>
+      <g class="node" id="gr&#252;ne_bohnen" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-veg" cx="3686.86" cy="-2666.35" rx="188.5" ry="188.5" />
+        <text x="3686.86" y="-2636.35" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Gr&#252;ne_Bohnen</text>
+      </g>
+    </g>
+  </g>
+</svg>

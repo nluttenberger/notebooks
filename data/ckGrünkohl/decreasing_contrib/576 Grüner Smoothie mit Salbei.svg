@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-576">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">576 Gr&#252;ner Smoothie mit Salbei</text>
+      </g>
+      <g class="edge" id="apfel--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L5895.88,-13950.7" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gurke--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L6983.45,-8054" />
+      </g>
+      <g class="edge" id="ingwer--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L8259.96,-14152.5" />
+      </g>
+      <g class="edge" id="salbei--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8226.91,-16687.6L18740.5,-2868.56" />
+      </g>
+      <g class="edge" id="apfel--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L5895.88,-13950.7" />
+      </g>
+      <g class="edge" id="apfel--gurke" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6983.45,-8054L5895.88,-13950.7" />
+      </g>
+      <g class="edge" id="apfel--ingwer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L5895.88,-13950.7" />
+      </g>
+      <g class="edge" id="apfel--salbei" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M18740.5,-2868.56L5895.88,-13950.7" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--gurke" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L6983.45,-8054" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--ingwer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--salbei" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M18740.5,-2868.56L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gurke--ingwer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L6983.45,-8054" />
+      </g>
+      <g class="edge" id="gurke--salbei" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M18740.5,-2868.56L6983.45,-8054" />
+      </g>
+      <g class="edge" id="ingwer--salbei" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M18740.5,-2868.56L8259.96,-14152.5" />
+      </g>
+      <g class="node" id="zitrone" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 53</title>
+        <ellipse class="i-fruit" cx="8226.91" cy="-16687.6" rx="822.5" ry="822.5" />
+        <text x="8226.91" y="-16657.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Zitrone</text>
+      </g>
+      <g class="node" id="apfel" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 27</title>
+        <ellipse class="i-fruit" cx="5895.88" cy="-13950.7" rx="597.0" ry="597.0" />
+        <text x="5895.88" y="-13920.7" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Apfel</text>
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 565</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="2603.0" ry="2603.0" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="gurke" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-veg" cx="6983.45" cy="-8054" rx="300.5" ry="300.5" />
+        <text x="6983.45" y="-8024" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gurke</text>
+      </g>
+      <g class="node" id="ingwer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 40</title>
+        <ellipse class="i-spice" cx="8259.96" cy="-14152.5" rx="719.0" ry="719.0" />
+        <text x="8259.96" y="-14122.5" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Ingwer</text>
+      </g>
+      <g class="node" id="salbei" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-herb" cx="18740.5" cy="-2868.56" rx="252.0" ry="252.0" />
+        <text x="18740.5" y="-2838.56" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Salbei</text>
+      </g>
+    </g>
+  </g>
+</svg>

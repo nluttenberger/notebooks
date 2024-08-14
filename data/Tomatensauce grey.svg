@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 2682.56 2294.08" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="2682.56" height="2294.08">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7} .i-grey  {fill: #E1E1E1; stroke: #E1E1E1; background-color: #E1E1E1}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 2290.08)">
+    <g class="node" id="zwiebel" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="910.585" cy="-1135.58" rx="144" ry="144" />
+    </g>
+    <g class="node" id="knoblauch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="2092.01" cy="-489.81" rx="144" ry="144" />
+    </g>
+    <g class="node" id="kapern" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="1497.26" cy="-144" rx="144" ry="144" />
+    </g>
+    <g class="node" id="tonkabohne" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="2332.56" cy="-1218.36" rx="144" ry="144" />
+    </g>
+    <g class="node" id="tomate" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="837.766" cy="-201.467" rx="144" ry="144" />
+    </g>
+    <g class="node" id="thymian" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="238.5" cy="-1449.85" rx="144" ry="144" />
+    </g>
+    <g class="node" id="karotte" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="1986.14" cy="-1881.98" rx="144" ry="144" />
+    </g>
+    <g class="node" id="tomatenmark" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="1604.49" cy="-1130.59" rx="144" ry="144" />
+    </g>
+    <g class="node" id="rosmarin" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="709.104" cy="-2006" rx="144" ry="144" />
+    </g>
+    <g class="node" id="nudeln" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="304.698" cy="-668.384" rx="144" ry="144" />
+    </g>
+    <g class="node" id="oliven&#246;l" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-grey" cx="1362.6" cy="-2142.08" rx="144" ry="144" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,451 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 12493.85 13400.88" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="12493.85" height="13400.88">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 13396.9)">
+    <g id="rr-22">
+      <g>
+        <rect x="200.0" y="-13000.88" width="4164.616666666667" height="837.555" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-12800.88" style="text-anchor: start; font-family: Arial Narrow; font-size: 229.5px;">22 Kaninchenkeule mit Pfifferlingsso&#223;e</text>
+      </g>
+      <g class="edge" id="gem&#252;semischung--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--kaninchen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L7817.68,-4990.26" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--lorbeer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L9247.25,-5862.12" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--knollensellerie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L6194.39,-6152.45" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L9165.28,-2772.04" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--pfifferlinge" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L10231,-4932.87" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L7105.31,-2084.86" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L7167.05,-7547.31" />
+      </g>
+      <g class="edge" id="gem&#252;semischung--koriander" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9379.07,-2259.8L9287.14,-1962.68" />
+      </g>
+      <g class="edge" id="karotte--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9256.7,-4213.33L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="kaninchen--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6337.67,-1985.77L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="karotte--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M5837.86,-3122.88L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6337.67,-1985.77L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="karotte--lorbeer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9247.25,-5862.12L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--knollensellerie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7078.16,-3802.91L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9165.28,-2772.04L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8419.18,-3179.19L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--pfifferlinge" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10231,-4932.87L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7105.31,-2084.86L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7167.05,-7547.31L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="karotte--koriander" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L6337.67,-1985.77" />
+      </g>
+      <g class="edge" id="kaninchen--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9256.7,-4213.33L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="pflanzenfett--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7817.68,-4990.26L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="pflanzenfett--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5837.86,-3122.88L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="pflanzenfett--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9256.7,-4213.33L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="lorbeer--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9247.25,-5862.12L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="knollensellerie--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9256.7,-4213.33L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="pfeffer--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="pflanzenfett--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9165.28,-2772.04L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="pflanzenfett--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9256.7,-4213.33L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="pfifferlinge--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9256.7,-4213.33L10231,-4932.87" />
+      </g>
+      <g class="edge" id="pflanzenfett--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7105.31,-2084.86L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="pflanzenfett--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7167.05,-7547.31L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="koriander--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="kaninchen--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7817.68,-4990.26L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5837.86,-3122.88L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8519.02,-2067.54L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="kaninchen--lorbeer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9247.25,-5862.12L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--knollensellerie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7078.16,-3802.91L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6194.39,-6152.45L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9165.28,-2772.04L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8419.18,-3179.19L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--pfifferlinge" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10231,-4932.87L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7105.31,-2084.86L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7167.05,-7547.31L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="kaninchen--koriander" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L8519.02,-2067.54" />
+      </g>
+      <g class="edge" id="speck--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7817.68,-4990.26L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="wacholder--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="lorbeer--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L9247.25,-5862.12" />
+      </g>
+      <g class="edge" id="knollensellerie--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="pfeffer--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L7817.68,-4990.26" />
+      </g>
+      <g class="edge" id="rotwein--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L9165.28,-2772.04" />
+      </g>
+      <g class="edge" id="tomatenmark--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7817.68,-4990.26L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="pfifferlinge--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L10231,-4932.87" />
+      </g>
+      <g class="edge" id="rosmarin--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7817.68,-4990.26L7105.31,-2084.86" />
+      </g>
+      <g class="edge" id="weizenmehl--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7167.05,-7547.31L7817.68,-4990.26" />
+      </g>
+      <g class="edge" id="koriander--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L7817.68,-4990.26" />
+      </g>
+      <g class="edge" id="speck--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5837.86,-3122.88L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="lorbeer--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9247.25,-5862.12L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="knollensellerie--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M5837.86,-3122.88L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="pfeffer--speck" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="rotwein--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9165.28,-2772.04L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="speck--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5837.86,-3122.88L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="pfifferlinge--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5837.86,-3122.88L10231,-4932.87" />
+      </g>
+      <g class="edge" id="rosmarin--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7105.31,-2084.86L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="speck--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7167.05,-7547.31L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="koriander--speck" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L5837.86,-3122.88" />
+      </g>
+      <g class="edge" id="lorbeer--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9247.25,-5862.12L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="knollensellerie--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7078.16,-3802.91L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="pfeffer--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="rotwein--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9165.28,-2772.04L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="tomatenmark--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8419.18,-3179.19L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="pfifferlinge--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10231,-4932.87L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="rosmarin--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7105.31,-2084.86L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="wacholder--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7167.05,-7547.31L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="koriander--wacholder" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L9536.67,-4952.48" />
+      </g>
+      <g class="edge" id="knollensellerie--lorbeer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9247.25,-5862.12L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="lorbeer--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L9247.25,-5862.12" />
+      </g>
+      <g class="edge" id="lorbeer--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9247.25,-5862.12L9165.28,-2772.04" />
+      </g>
+      <g class="edge" id="lorbeer--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9247.25,-5862.12L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="lorbeer--pfifferlinge" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9247.25,-5862.12L10231,-4932.87" />
+      </g>
+      <g class="edge" id="lorbeer--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9247.25,-5862.12L7105.31,-2084.86" />
+      </g>
+      <g class="edge" id="lorbeer--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7167.05,-7547.31L9247.25,-5862.12" />
+      </g>
+      <g class="edge" id="koriander--lorbeer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L9247.25,-5862.12" />
+      </g>
+      <g class="edge" id="knollensellerie--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="knollensellerie--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9165.28,-2772.04L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="knollensellerie--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7078.16,-3802.91L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="knollensellerie--pfifferlinge" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7078.16,-3802.91L10231,-4932.87" />
+      </g>
+      <g class="edge" id="knollensellerie--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7105.31,-2084.86L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="knollensellerie--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7167.05,-7547.31L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="knollensellerie--koriander" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L7078.16,-3802.91" />
+      </g>
+      <g class="edge" id="pfeffer--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L9165.28,-2772.04" />
+      </g>
+      <g class="edge" id="pfeffer--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="pfeffer--pfifferlinge" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L10231,-4932.87" />
+      </g>
+      <g class="edge" id="pfeffer--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6194.39,-6152.45L7105.31,-2084.86" />
+      </g>
+      <g class="edge" id="pfeffer--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6194.39,-6152.45L7167.05,-7547.31" />
+      </g>
+      <g class="edge" id="koriander--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6194.39,-6152.45L9287.14,-1962.68" />
+      </g>
+      <g class="edge" id="rotwein--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9165.28,-2772.04L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="pfifferlinge--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M9165.28,-2772.04L10231,-4932.87" />
+      </g>
+      <g class="edge" id="rosmarin--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7105.31,-2084.86L9165.28,-2772.04" />
+      </g>
+      <g class="edge" id="rotwein--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7167.05,-7547.31L9165.28,-2772.04" />
+      </g>
+      <g class="edge" id="koriander--rotwein" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L9165.28,-2772.04" />
+      </g>
+      <g class="edge" id="pfifferlinge--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8419.18,-3179.19L10231,-4932.87" />
+      </g>
+      <g class="edge" id="rosmarin--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7105.31,-2084.86L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="tomatenmark--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7167.05,-7547.31L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="koriander--tomatenmark" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L8419.18,-3179.19" />
+      </g>
+      <g class="edge" id="pfifferlinge--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7105.31,-2084.86L10231,-4932.87" />
+      </g>
+      <g class="edge" id="pfifferlinge--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7167.05,-7547.31L10231,-4932.87" />
+      </g>
+      <g class="edge" id="koriander--pfifferlinge" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L10231,-4932.87" />
+      </g>
+      <g class="edge" id="rosmarin--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7167.05,-7547.31L7105.31,-2084.86" />
+      </g>
+      <g class="edge" id="koriander--rosmarin" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9287.14,-1962.68L7105.31,-2084.86" />
+      </g>
+      <g class="edge" id="koriander--weizenmehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7167.05,-7547.31L9287.14,-1962.68" />
+      </g>
+      <g class="node" id="gem&#252;semischung" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-veg" cx="9379.07" cy="-2259.8" rx="144.0" ry="144.0" />
+        <text x="9379.07" y="-2229.8" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Gem&#252;semischung</text>
+      </g>
+      <g class="node" id="karotte" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-veg" cx="6337.67" cy="-1985.77" rx="252.0" ry="252.0" />
+        <text x="6337.67" y="-1955.77" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Karotte</text>
+      </g>
+      <g class="node" id="pflanzenfett" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-fat" cx="9256.7" cy="-4213.33" rx="223.0" ry="223.0" />
+        <text x="9256.7" y="-4183.33" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Pflanzenfett</text>
+      </g>
+      <g class="node" id="kaninchen" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-meat" cx="8519.02" cy="-2067.54" rx="144.0" ry="144.0" />
+        <text x="8519.02" y="-2037.54" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Kaninchen</text>
+      </g>
+      <g class="node" id="zwiebel" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 10</title>
+        <ellipse class="i-onion" cx="7817.68" cy="-4990.26" rx="377.5" ry="377.5" />
+        <text x="7817.68" y="-4960.26" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Zwiebel</text>
+      </g>
+      <g class="node" id="speck" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-meat" cx="5837.86" cy="-3122.88" rx="223.0" ry="223.0" />
+        <text x="5837.86" y="-3092.88" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Speck</text>
+      </g>
+      <g class="node" id="wacholder" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-spice" cx="9536.67" cy="-4952.48" rx="321.5" ry="321.5" />
+        <text x="9536.67" y="-4922.48" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Wacholder</text>
+      </g>
+      <g class="node" id="lorbeer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 9</title>
+        <ellipse class="i-herb" cx="9247.25" cy="-5862.12" rx="360.0" ry="360.0" />
+        <text x="9247.25" y="-5832.12" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Lorbeer</text>
+      </g>
+      <g class="node" id="knollensellerie" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-veg" cx="7078.16" cy="-3802.91" rx="300.5" ry="300.5" />
+        <text x="7078.16" y="-3772.91" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Knollensellerie</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 14</title>
+        <ellipse class="i-spice" cx="6194.39" cy="-6152.45" rx="440.0" ry="440.0" />
+        <text x="6194.39" y="-6122.45" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Pfeffer</text>
+      </g>
+      <g class="node" id="rotwein" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-alc" cx="9165.28" cy="-2772.04" rx="300.5" ry="300.5" />
+        <text x="9165.28" y="-2742.04" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Rotwein</text>
+      </g>
+      <g class="node" id="tomatenmark" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-condi" cx="8419.18" cy="-3179.19" rx="223.0" ry="223.0" />
+        <text x="8419.18" y="-3149.19" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Tomatenmark</text>
+      </g>
+      <g class="node" id="pfifferlinge" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-veg" cx="10231" cy="-4932.87" rx="223.0" ry="223.0" />
+        <text x="10231" y="-4902.87" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Pfifferlinge</text>
+      </g>
+      <g class="node" id="rosmarin" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-herb" cx="7105.31" cy="-2084.86" rx="188.5" ry="188.5" />
+        <text x="7105.31" y="-2054.86" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Rosmarin</text>
+      </g>
+      <g class="node" id="weizenmehl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 8</title>
+        <ellipse class="i-carb" cx="7167.05" cy="-7547.31" rx="341.5" ry="341.5" />
+        <text x="7167.05" y="-7517.31" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Weizenmehl</text>
+      </g>
+      <g class="node" id="koriander" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-spice" cx="9287.14" cy="-1962.68" rx="144.0" ry="144.0" />
+        <text x="9287.14" y="-1932.68" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Koriander</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,280 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 2682.56 2294.08" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="2682.56" height="2294.08">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 2290.08)">
+    <g class="edge" id="knoblauch--zwiebel">
+      <title>zwiebel--knoblauch</title>
+      <path fill="none" stroke="black" d="M1965.58,-558.92L1037,-1066.48" />
+    </g>
+    <g class="edge" id="kapern--zwiebel">
+      <title>zwiebel--kapern</title>
+      <path fill="none" stroke="black" d="M1423.85,-268.08L984.076,-1011.37" />
+    </g>
+    <g class="edge" id="tonkabohne--zwiebel">
+      <title>zwiebel--tonkabohne</title>
+      <path fill="none" stroke="black" d="M2188.72,-1209.99L1054.42,-1143.96" />
+    </g>
+    <g class="edge" id="tomate--zwiebel">
+      <title>zwiebel--tomate</title>
+      <path fill="none" stroke="black" d="M848.965,-345.121L899.377,-991.812" />
+    </g>
+    <g class="edge" id="thymian--zwiebel">
+      <title>zwiebel--thymian</title>
+      <path fill="none" stroke="black" d="M369.281,-1388.7L779.865,-1196.71" />
+    </g>
+    <g class="edge" id="karotte--zwiebel">
+      <title>zwiebel--karotte</title>
+      <path fill="none" stroke="black" d="M1867.7,-1799.79L1028.89,-1217.69" />
+    </g>
+    <g class="edge" id="tomatenmark--zwiebel">
+      <title>zwiebel--tomatenmark</title>
+      <path fill="none" stroke="black" d="M1460.29,-1131.63L1054.6,-1134.55" />
+    </g>
+    <g class="edge" id="rosmarin--zwiebel">
+      <title>zwiebel--rosmarin</title>
+      <path fill="none" stroke="black" d="M741.588,-1865.67L878.082,-1276" />
+    </g>
+    <g class="edge" id="nudeln--zwiebel">
+      <title>zwiebel--nudeln</title>
+      <path fill="none" stroke="black" d="M419.017,-756.535L796.499,-1047.61" />
+    </g>
+    <g class="edge" id="oliven&#246;l--zwiebel">
+      <title>zwiebel--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1303.51,-2010.49L969.693,-1267.2" />
+    </g>
+    <g class="edge" id="kapern--knoblauch">
+      <title>knoblauch--kapern</title>
+      <path fill="none" stroke="black" d="M1621.94,-216.493L1967.5,-417.413" />
+    </g>
+    <g class="edge" id="knoblauch--tonkabohne">
+      <title>knoblauch--tonkabohne</title>
+      <path fill="none" stroke="black" d="M2137.26,-626.845L2287.31,-1081.32" />
+    </g>
+    <g class="edge" id="knoblauch--tomate">
+      <title>knoblauch--tomate</title>
+      <path fill="none" stroke="black" d="M1951.48,-457.503L978.449,-233.809" />
+    </g>
+    <g class="edge" id="knoblauch--thymian">
+      <title>knoblauch--thymian</title>
+      <path fill="none" stroke="black" d="M1963.88,-556.176L366.651,-1383.47" />
+    </g>
+    <g class="edge" id="karotte--knoblauch">
+      <title>knoblauch--karotte</title>
+      <path fill="none" stroke="black" d="M1997.07,-1738.24L2081.08,-633.553" />
+    </g>
+    <g class="edge" id="knoblauch--tomatenmark">
+      <title>knoblauch--tomatenmark</title>
+      <path fill="none" stroke="black" d="M2004.57,-604.739L1691.81,-1015.81" />
+    </g>
+    <g class="edge" id="knoblauch--rosmarin">
+      <title>knoblauch--rosmarin</title>
+      <path fill="none" stroke="black" d="M1994.77,-596.426L806.24,-1899.51" />
+    </g>
+    <g class="edge" id="knoblauch--nudeln">
+      <title>knoblauch--nudeln</title>
+      <path fill="none" stroke="black" d="M1948.4,-504.16L448.232,-654.043" />
+    </g>
+    <g class="edge" id="knoblauch--oliven&#246;l">
+      <title>knoblauch--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M2033.71,-621.882L1420.86,-2010.1" />
+    </g>
+    <g class="edge" id="kapern--tonkabohne">
+      <title>kapern--tonkabohne</title>
+      <path fill="none" stroke="black" d="M1585.66,-257.705L2243.87,-1104.29" />
+    </g>
+    <g class="edge" id="kapern--tomate">
+      <title>kapern--tomate</title>
+      <path fill="none" stroke="black" d="M1353.75,-156.505L981.264,-188.963" />
+    </g>
+    <g class="edge" id="kapern--thymian">
+      <title>kapern--thymian</title>
+      <path fill="none" stroke="black" d="M1397.17,-247.833L338.716,-1345.88" />
+    </g>
+    <g class="edge" id="kapern--karotte">
+      <title>kapern--karotte</title>
+      <path fill="none" stroke="black" d="M1536.34,-282.923L1947.09,-1743.16" />
+    </g>
+    <g class="edge" id="kapern--tomatenmark">
+      <title>kapern--tomatenmark</title>
+      <path fill="none" stroke="black" d="M1512.82,-287.195L1588.91,-987.275" />
+    </g>
+    <g class="edge" id="kapern--rosmarin">
+      <title>kapern--rosmarin</title>
+      <path fill="none" stroke="black" d="M1441.05,-276.79L765.365,-1873.09" />
+    </g>
+    <g class="edge" id="kapern--nudeln">
+      <title>kapern--nudeln</title>
+      <path fill="none" stroke="black" d="M1365.36,-201.996L436.636,-610.369" />
+    </g>
+    <g class="edge" id="kapern--oliven&#246;l">
+      <title>kapern--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1487.57,-287.697L1372.29,-1998.34" />
+    </g>
+    <g class="edge" id="tomate--tonkabohne">
+      <title>tonkabohne--tomate</title>
+      <path fill="none" stroke="black" d="M956.936,-282.538L2213.36,-1137.27" />
+    </g>
+    <g class="edge" id="thymian--tonkabohne">
+      <title>tonkabohne--thymian</title>
+      <path fill="none" stroke="black" d="M382.021,-1433.98L2189.27,-1234.2" />
+    </g>
+    <g class="edge" id="karotte--tonkabohne">
+      <title>tonkabohne--karotte</title>
+      <path fill="none" stroke="black" d="M2052.93,-1754.03L2265.82,-1346.2" />
+    </g>
+    <g class="edge" id="tomatenmark--tonkabohne">
+      <title>tonkabohne--tomatenmark</title>
+      <path fill="none" stroke="black" d="M1747.46,-1147.83L2189.29,-1201.09" />
+    </g>
+    <g class="edge" id="rosmarin--tonkabohne">
+      <title>tonkabohne--rosmarin</title>
+      <path fill="none" stroke="black" d="M838.873,-1943.04L2202.89,-1281.27" />
+    </g>
+    <g class="edge" id="nudeln--tonkabohne">
+      <title>tonkabohne--nudeln</title>
+      <path fill="none" stroke="black" d="M443.682,-706.078L2193.47,-1180.64" />
+    </g>
+    <g class="edge" id="oliven&#246;l--tonkabohne">
+      <title>tonkabohne--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1467.33,-2042.34L2228.27,-1317.68" />
+    </g>
+    <g class="edge" id="thymian--tomate">
+      <title>tomate--thymian</title>
+      <path fill="none" stroke="black" d="M300.936,-1319.78L775.246,-331.709" />
+    </g>
+    <g class="edge" id="karotte--tomate">
+      <title>tomate--karotte</title>
+      <path fill="none" stroke="black" d="M1904.7,-1762.81L919.062,-320.434" />
+    </g>
+    <g class="edge" id="tomate--tomatenmark">
+      <title>tomate--tomatenmark</title>
+      <path fill="none" stroke="black" d="M929.489,-312.618L1512.66,-1019.31" />
+    </g>
+    <g class="edge" id="rosmarin--tomate">
+      <title>tomate--rosmarin</title>
+      <path fill="none" stroke="black" d="M719.362,-1862.14L827.506,-345.37" />
+    </g>
+    <g class="edge" id="nudeln--tomate">
+      <title>tomate--nudeln</title>
+      <path fill="none" stroke="black" d="M413.215,-573.334L729.401,-296.385" />
+    </g>
+    <g class="edge" id="oliven&#246;l--tomate">
+      <title>tomate--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1324.96,-2002.9L875.366,-340.493" />
+    </g>
+    <g class="edge" id="karotte--thymian">
+      <title>thymian--karotte</title>
+      <path fill="none" stroke="black" d="M1846.08,-1847.35L378.318,-1484.42" />
+    </g>
+    <g class="edge" id="thymian--tomatenmark">
+      <title>thymian--tomatenmark</title>
+      <path fill="none" stroke="black" d="M378.902,-1417.03L1464.06,-1163.41" />
+    </g>
+    <g class="edge" id="rosmarin--thymian">
+      <title>thymian--rosmarin</title>
+      <path fill="none" stroke="black" d="M615.847,-1895.79L331.573,-1559.84" />
+    </g>
+    <g class="edge" id="nudeln--thymian">
+      <title>thymian--nudeln</title>
+      <path fill="none" stroke="black" d="M292.518,-812.172L250.662,-1306.27" />
+    </g>
+    <g class="edge" id="oliven&#246;l--thymian">
+      <title>thymian--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1239.9,-2066.51L361.145,-1525.37" />
+    </g>
+    <g class="edge" id="karotte--tomatenmark">
+      <title>karotte--tomatenmark</title>
+      <path fill="none" stroke="black" d="M1920.75,-1753.24L1669.79,-1259.17" />
+    </g>
+    <g class="edge" id="karotte--rosmarin">
+      <title>karotte--rosmarin</title>
+      <path fill="none" stroke="black" d="M1842.75,-1895.91L852.751,-1992.05" />
+    </g>
+    <g class="edge" id="karotte--nudeln">
+      <title>karotte--nudeln</title>
+      <path fill="none" stroke="black" d="M1869.24,-1797.61L421.661,-752.804" />
+    </g>
+    <g class="edge" id="karotte--oliven&#246;l">
+      <title>karotte--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1853.14,-1937.46L1495.67,-2086.57" />
+    </g>
+    <g class="edge" id="rosmarin--tomatenmark">
+      <title>tomatenmark--rosmarin</title>
+      <path fill="none" stroke="black" d="M812.253,-1905.15L1501.37,-1231.41" />
+    </g>
+    <g class="edge" id="nudeln--tomatenmark">
+      <title>tomatenmark--nudeln</title>
+      <path fill="none" stroke="black" d="M440.425,-716.649L1468.47,-1082.22" />
+    </g>
+    <g class="edge" id="oliven&#246;l--tomatenmark">
+      <title>tomatenmark--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1396.11,-2001.96L1570.91,-1271.01" />
+    </g>
+    <g class="edge" id="nudeln--rosmarin">
+      <title>rosmarin--nudeln</title>
+      <path fill="none" stroke="black" d="M346.453,-806.495L667.425,-1868.14" />
+    </g>
+    <g class="edge" id="oliven&#246;l--rosmarin">
+      <title>rosmarin--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M1221.61,-2112.72L850.128,-2035.37" />
+    </g>
+    <g class="edge" id="nudeln--oliven&#246;l">
+      <title>nudeln--oliven&#246;l</title>
+      <path fill="none" stroke="black" d="M388.816,-785.563L1278.56,-2025" />
+    </g>
+    <g class="node" id="zwiebel" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-onion" cx="910.585" cy="-1135.58" rx="144" ry="144" />
+      <text x="910.585" y="-1105.58" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Zwiebel</text>
+    </g>
+    <g class="node" id="knoblauch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-onion" cx="2092.01" cy="-489.81" rx="144" ry="144" />
+      <text x="2092.01" y="-459.81" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Knoblauch</text>
+    </g>
+    <g class="node" id="kapern" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-spice" cx="1497.26" cy="-144" rx="144" ry="144" />
+      <text x="1497.26" y="-114" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Kapern</text>
+    </g>
+    <g class="node" id="tonkabohne" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-spice" cx="2332.56" cy="-1218.36" rx="144" ry="144" />
+      <text x="2332.56" y="-1188.36" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Tonkabohne</text>
+    </g>
+    <g class="node" id="tomate" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-veg" cx="837.766" cy="-201.467" rx="144" ry="144" />
+      <text x="837.766" y="-171.467" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Tomate</text>
+    </g>
+    <g class="node" id="thymian" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-herb" cx="238.5" cy="-1449.85" rx="144" ry="144" />
+      <text x="238.5" y="-1419.85" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Thymian</text>
+    </g>
+    <g class="node" id="karotte" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-veg" cx="1986.14" cy="-1881.98" rx="144" ry="144" />
+      <text x="1986.14" y="-1851.98" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Karotte</text>
+    </g>
+    <g class="node" id="tomatenmark" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-condi" cx="1604.49" cy="-1130.59" rx="144" ry="144" />
+      <text x="1604.49" y="-1100.59" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Tomatenmark</text>
+    </g>
+    <g class="node" id="rosmarin" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-herb" cx="709.104" cy="-2006" rx="144" ry="144" />
+      <text x="709.104" y="-1976" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Rosmarin</text>
+    </g>
+    <g class="node" id="nudeln" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-carb" cx="304.698" cy="-668.384" rx="144" ry="144" />
+      <text x="304.698" y="-638.384" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Nudeln</text>
+    </g>
+    <g class="node" id="oliven&#246;l" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 1</title>
+      <ellipse class="i-fat" cx="1362.6" cy="-2142.08" rx="144" ry="144" />
+      <text x="1362.6" y="-2112.08" style="text-anchor: middle; font-family: Arial Narrow; font-size: 42.0px;">Oliven&#246;l</text>
+    </g>
+  </g>
+</svg>

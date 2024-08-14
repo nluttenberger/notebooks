@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-585">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">585 Gem&#252;se-Chips aus Gr&#252;nkohl, Rote Bete, Sellerie und S&#252;&#223;kartoffel</text>
+      </g>
+      <g class="edge" id="karotte--wirsing" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M28536.9,-14287.5L13724.6,-7607.34" />
+      </g>
+      <g class="edge" id="oliven&#246;l--wirsing" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M28536.9,-14287.5L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="knollensellerie--wirsing" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16809.9,-5595.88L28536.9,-14287.5" />
+      </g>
+      <g class="edge" id="rote_bete--wirsing" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M28536.9,-14287.5L24742.6,-21908.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--wirsing" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M28536.9,-14287.5L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="s&#252;&#223;kartoffel--wirsing" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M28536.9,-14287.5L14176.9,-23926.5" />
+      </g>
+      <g class="edge" id="karotte--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13724.6,-7607.34L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="karotte--knollensellerie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16809.9,-5595.88L13724.6,-7607.34" />
+      </g>
+      <g class="edge" id="karotte--rote_bete" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13724.6,-7607.34L24742.6,-21908.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--karotte" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L13724.6,-7607.34" />
+      </g>
+      <g class="edge" id="karotte--s&#252;&#223;kartoffel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M14176.9,-23926.5L13724.6,-7607.34" />
+      </g>
+      <g class="edge" id="knollensellerie--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16809.9,-5595.88L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="oliven&#246;l--rote_bete" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13866.5,-19115.4L24742.6,-21908.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="oliven&#246;l--s&#252;&#223;kartoffel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M14176.9,-23926.5L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="knollensellerie--rote_bete" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16809.9,-5595.88L24742.6,-21908.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--knollensellerie" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16809.9,-5595.88L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="knollensellerie--s&#252;&#223;kartoffel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M16809.9,-5595.88L14176.9,-23926.5" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--rote_bete" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L24742.6,-21908.4" />
+      </g>
+      <g class="edge" id="rote_bete--s&#252;&#223;kartoffel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M14176.9,-23926.5L24742.6,-21908.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--s&#252;&#223;kartoffel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L14176.9,-23926.5" />
+      </g>
+      <g class="node" id="wirsing" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-veg" cx="28536.9" cy="-14287.5" rx="223.0" ry="223.0" />
+        <text x="28536.9" y="-14257.5" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Wirsing</text>
+      </g>
+      <g class="node" id="karotte" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 78</title>
+        <ellipse class="i-veg" cx="13724.6" cy="-7607.34" rx="990.0" ry="990.0" />
+        <text x="13724.6" y="-7577.34" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Karotte</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 116</title>
+        <ellipse class="i-fat" cx="13866.5" cy="-19115.4" rx="1199.0" ry="1199.0" />
+        <text x="13866.5" y="-19085.4" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="knollensellerie" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 22</title>
+        <ellipse class="i-veg" cx="16809.9" cy="-5595.88" rx="542.5" ry="542.5" />
+        <text x="16809.9" y="-5565.88" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Knollensellerie</text>
+      </g>
+      <g class="node" id="rote_bete" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-veg" cx="24742.6" cy="-21908.4" rx="223.0" ry="223.0" />
+        <text x="24742.6" y="-21878.4" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Rote_Bete</text>
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 574</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="2623.5" ry="2623.5" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="s&#252;&#223;kartoffel" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 10</title>
+        <ellipse class="i-carb" cx="14176.9" cy="-23926.5" rx="377.5" ry="377.5" />
+        <text x="14176.9" y="-23896.5" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">S&#252;&#223;kartoffel</text>
+      </g>
+    </g>
+  </g>
+</svg>

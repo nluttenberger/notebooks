@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 12493.85 13400.88" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="12493.85" height="13400.88">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 13396.9)">
+    <g id="rr-21">
+      <g>
+        <rect x="200.0" y="-13000.88" width="4164.616666666667" height="837.555" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-12800.88" style="text-anchor: start; font-family: Arial Narrow; font-size: 229.5px;">21 Ger&#246;stete Grie&#223;suppe</text>
+      </g>
+      <g class="edge" id="hackfleisch--hartweizengrie&#223;" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9110.12,-10165.4L9234.27,-7809.64" />
+      </g>
+      <g class="edge" id="hartweizengrie&#223;--milch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7068.74,-9620.97L9110.12,-10165.4" />
+      </g>
+      <g class="edge" id="hartweizengrie&#223;--maggi" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10141,-5939.4L9110.12,-10165.4" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--hartweizengrie&#223;" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6521.67,-4845.65L9110.12,-10165.4" />
+      </g>
+      <g class="edge" id="butter--hartweizengrie&#223;" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9110.12,-10165.4L7267.75,-8524.06" />
+      </g>
+      <g class="edge" id="hackfleisch--milch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7068.74,-9620.97L9234.27,-7809.64" />
+      </g>
+      <g class="edge" id="hackfleisch--maggi" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10141,-5939.4L9234.27,-7809.64" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--hackfleisch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6521.67,-4845.65L9234.27,-7809.64" />
+      </g>
+      <g class="edge" id="butter--hackfleisch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9234.27,-7809.64L7267.75,-8524.06" />
+      </g>
+      <g class="edge" id="maggi--milch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10141,-5939.4L7068.74,-9620.97" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--milch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6521.67,-4845.65L7068.74,-9620.97" />
+      </g>
+      <g class="edge" id="butter--milch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7068.74,-9620.97L7267.75,-8524.06" />
+      </g>
+      <g class="edge" id="fleischbr&#252;he--maggi" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10141,-5939.4L6521.67,-4845.65" />
+      </g>
+      <g class="edge" id="butter--maggi" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10141,-5939.4L7267.75,-8524.06" />
+      </g>
+      <g class="edge" id="butter--fleischbr&#252;he" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6521.67,-4845.65L7267.75,-8524.06" />
+      </g>
+      <g class="node" id="hartweizengrie&#223;" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-carb" cx="9110.12" cy="-10165.4" rx="144.0" ry="144.0" />
+        <text x="9110.12" y="-10135.4" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Hartweizengrie&#223;</text>
+      </g>
+      <g class="node" id="hackfleisch" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-meat" cx="9234.27" cy="-7809.64" rx="144.0" ry="144.0" />
+        <text x="9234.27" y="-7779.64" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Hackfleisch</text>
+      </g>
+      <g class="node" id="milch" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 1</title>
+        <ellipse class="i-milk" cx="7068.74" cy="-9620.97" rx="144.0" ry="144.0" />
+        <text x="7068.74" y="-9590.97" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Milch</text>
+      </g>
+      <g class="node" id="maggi" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-condi" cx="10141" cy="-5939.4" rx="188.5" ry="188.5" />
+        <text x="10141" y="-5909.4" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Maggi</text>
+      </g>
+      <g class="node" id="fleischbr&#252;he" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-condi" cx="6521.67" cy="-4845.65" rx="188.5" ry="188.5" />
+        <text x="6521.67" y="-4815.65" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Fleischbr&#252;he</text>
+      </g>
+      <g class="node" id="butter" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-fat" cx="7267.75" cy="-8524.06" rx="223.0" ry="223.0" />
+        <text x="7267.75" y="-8494.06" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Butter</text>
+      </g>
+    </g>
+  </g>
+</svg>

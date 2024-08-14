@@ -1,0 +1,310 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-168">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">168 H&#252;hnchen s&#252;&#223;sauer mit gr&#252;nem Reis</text>
+      </g>
+      <g class="edge" id="huhn--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="koriandergr&#252;n--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6427.1,-9587.99L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="chiliflocken--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7295.65,-10565L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="pfeffer--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17060.3,-13342.6L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="sojasauce--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M16859.4,-3984.86L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="ingwer--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="lauchzwiebel--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9362.77,-7793.81L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="rohrzucker--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6253.2,-16129.2L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="reisessig--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12274,-4247.02L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="knoblauch--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="reis--sojasauce" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12225.2,-6179.63L9362.77,-7793.81" />
+      </g>
+      <g class="edge" id="huhn--koriandergr&#252;n" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--huhn" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M16163.1,-4099.4L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="chiliflocken--huhn" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7295.65,-10565L16163.1,-4099.4" />
+      </g>
+      <g class="edge" id="huhn--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M16163.1,-4099.4L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="huhn--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="huhn--ingwer" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L8259.96,-14152.5" />
+      </g>
+      <g class="edge" id="huhn--lauchzwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="huhn--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L6253.2,-16129.2" />
+      </g>
+      <g class="edge" id="huhn--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12274,-4247.02L16163.1,-4099.4" />
+      </g>
+      <g class="edge" id="huhn--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="huhn--reis" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16163.1,-4099.4L12225.2,-6179.63" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--koriandergr&#252;n" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="chiliflocken--koriandergr&#252;n" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7295.65,-10565L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="koriandergr&#252;n--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6427.1,-9587.99L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="koriandergr&#252;n--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6427.1,-9587.99L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="ingwer--koriandergr&#252;n" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="koriandergr&#252;n--lauchzwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6427.1,-9587.99L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="koriandergr&#252;n--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6253.2,-16129.2L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="koriandergr&#252;n--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12274,-4247.02L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="knoblauch--koriandergr&#252;n" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="koriandergr&#252;n--reis" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12225.2,-6179.63L6427.1,-9587.99" />
+      </g>
+      <g class="edge" id="chiliflocken--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7295.65,-10565L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--ingwer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--lauchzwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L6253.2,-16129.2" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12274,-4247.02L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--reis" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12225.2,-6179.63L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="chiliflocken--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7295.65,-10565L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="chiliflocken--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7295.65,-10565L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="chiliflocken--ingwer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7295.65,-10565L8259.96,-14152.5" />
+      </g>
+      <g class="edge" id="chiliflocken--lauchzwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7295.65,-10565L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="chiliflocken--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7295.65,-10565L6253.2,-16129.2" />
+      </g>
+      <g class="edge" id="chiliflocken--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7295.65,-10565L12274,-4247.02" />
+      </g>
+      <g class="edge" id="chiliflocken--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7295.65,-10565L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="chiliflocken--reis" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7295.65,-10565L12225.2,-6179.63" />
+      </g>
+      <g class="edge" id="pfeffer--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16859.4,-3984.86L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="ingwer--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="lauchzwiebel--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17060.3,-13342.6L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="pfeffer--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6253.2,-16129.2L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="pfeffer--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12274,-4247.02L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="knoblauch--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="pfeffer--reis" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12225.2,-6179.63L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="ingwer--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8259.96,-14152.5L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="lauchzwiebel--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M16859.4,-3984.86L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="rohrzucker--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6253.2,-16129.2L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="reisessig--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12274,-4247.02L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="knoblauch--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="reis--st&#228;rke" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12225.2,-6179.63L16859.4,-3984.86" />
+      </g>
+      <g class="edge" id="ingwer--lauchzwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="ingwer--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8259.96,-14152.5L6253.2,-16129.2" />
+      </g>
+      <g class="edge" id="ingwer--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12274,-4247.02L8259.96,-14152.5" />
+      </g>
+      <g class="edge" id="ingwer--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8259.96,-14152.5L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="ingwer--reis" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8259.96,-14152.5L12225.2,-6179.63" />
+      </g>
+      <g class="edge" id="lauchzwiebel--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6253.2,-16129.2L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="lauchzwiebel--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12274,-4247.02L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="knoblauch--lauchzwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="lauchzwiebel--reis" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12225.2,-6179.63L8324.98,-8234.36" />
+      </g>
+      <g class="edge" id="reisessig--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12274,-4247.02L6253.2,-16129.2" />
+      </g>
+      <g class="edge" id="knoblauch--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13112.9,-10277.2L6253.2,-16129.2" />
+      </g>
+      <g class="edge" id="reis--rohrzucker" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12225.2,-6179.63L6253.2,-16129.2" />
+      </g>
+      <g class="edge" id="knoblauch--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M12274,-4247.02L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="reis--reisessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M12274,-4247.02L12225.2,-6179.63" />
+      </g>
+      <g class="edge" id="knoblauch--reis" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M12225.2,-6179.63L13112.9,-10277.2" />
+      </g>
+      <g class="node" id="sojasauce" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 9</title>
+        <ellipse class="i-condi" cx="9362.77" cy="-7793.81" rx="360.0" ry="360.0" />
+        <text x="9362.77" y="-7763.81" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Sojasauce</text>
+      </g>
+      <g class="node" id="huhn" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-meat" cx="16163.1" cy="-4099.4" rx="188.5" ry="188.5" />
+        <text x="16163.1" y="-4069.4" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Huhn</text>
+      </g>
+      <g class="node" id="koriandergr&#252;n" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 4</title>
+        <ellipse class="i-herb" cx="6427.1" cy="-9587.99" rx="252.0" ry="252.0" />
+        <text x="6427.1" y="-9557.99" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Koriandergr&#252;n</text>
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 164</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="1419.0" ry="1419.0" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="chiliflocken" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-spice" cx="7295.65" cy="-10565" rx="300.5" ry="300.5" />
+        <text x="7295.65" y="-10535" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Chiliflocken</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 122</title>
+        <ellipse class="i-spice" cx="17060.3" cy="-13342.6" rx="1229.0" ry="1229.0" />
+        <text x="17060.3" y="-13312.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Pfeffer</text>
+      </g>
+      <g class="node" id="st&#228;rke" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-etc" cx="16859.4" cy="-3984.86" rx="300.5" ry="300.5" />
+        <text x="16859.4" y="-3954.86" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">St&#228;rke</text>
+      </g>
+      <g class="node" id="ingwer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 13</title>
+        <ellipse class="i-spice" cx="8259.96" cy="-14152.5" rx="425.5" ry="425.5" />
+        <text x="8259.96" y="-14122.5" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Ingwer</text>
+      </g>
+      <g class="node" id="lauchzwiebel" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 8</title>
+        <ellipse class="i-onion" cx="8324.98" cy="-8234.36" rx="341.5" ry="341.5" />
+        <text x="8324.98" y="-8204.36" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Lauchzwiebel</text>
+      </g>
+      <g class="node" id="rohrzucker" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-sweet" cx="6253.2" cy="-16129.2" rx="277.5" ry="277.5" />
+        <text x="6253.2" y="-16099.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Rohrzucker</text>
+      </g>
+      <g class="node" id="reisessig" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-condi" cx="12274" cy="-4247.02" rx="188.5" ry="188.5" />
+        <text x="12274" y="-4217.02" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Reisessig</text>
+      </g>
+      <g class="node" id="knoblauch" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 57</title>
+        <ellipse class="i-onion" cx="13112.9" cy="-10277.2" rx="851.5" ry="851.5" />
+        <text x="13112.9" y="-10247.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Knoblauch</text>
+      </g>
+      <g class="node" id="reis" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-carb" cx="12225.2" cy="-6179.63" rx="277.5" ry="277.5" />
+        <text x="12225.2" y="-6149.63" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Reis</text>
+      </g>
+    </g>
+  </g>
+</svg>

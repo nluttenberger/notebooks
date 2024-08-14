@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gr:gexf xmlns:gr="http://www.gexf.net/1.2" xmlns:viz="http://www.gexf.net/1.2/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2 https://gexf.net/1.2/gexf.xsd" version="1.2">
+  <gr:meta lastmodifieddate="2023-09-15">
+    <gr:creator>Norbert Luttenberger</gr:creator>
+    <gr:description>fruschtique Ingredient Graph in gexf notation</gr:description>
+  </gr:meta>
+  <gr:graph defaultedgetype="undirected">
+    <gr:attributes class="node">
+      <gr:attribute id="0" title="occ" type="float" />
+      <gr:attribute id="1" title="i-class" type="string" />
+    </gr:attributes>
+    <gr:nodes>
+      <gr:node id="zwiebel" label="Zwiebel">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="onion" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="knoblauch" label="Knoblauch">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="onion" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="kapern" label="Kapern">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="spice" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="tonkabohne" label="Tonkabohne">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="spice" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="tomate" label="Tomate">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="veg" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="thymian" label="Thymian">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="herb" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="karotte" label="Karotte">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="veg" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="tomatenmark" label="Tomatenmark">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="condi" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="rosmarin" label="Rosmarin">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="herb" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="nudeln" label="Nudeln">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="carb" />
+        </gr:attvalues>
+      </gr:node>
+      <gr:node id="olivenöl" label="Olivenöl">
+        <gr:attvalues>
+          <gr:attvalue for="0" value="1" />
+          <gr:attvalue for="1" value="fat" />
+        </gr:attvalues>
+      </gr:node>
+    </gr:nodes>
+    <gr:edges>
+      <gr:edge id="knoblauch--zwiebel" source="zwiebel" target="knoblauch" weight="1" />
+      <gr:edge id="kapern--zwiebel" source="zwiebel" target="kapern" weight="1" />
+      <gr:edge id="tonkabohne--zwiebel" source="zwiebel" target="tonkabohne" weight="1" />
+      <gr:edge id="tomate--zwiebel" source="zwiebel" target="tomate" weight="1" />
+      <gr:edge id="thymian--zwiebel" source="zwiebel" target="thymian" weight="1" />
+      <gr:edge id="karotte--zwiebel" source="zwiebel" target="karotte" weight="1" />
+      <gr:edge id="tomatenmark--zwiebel" source="zwiebel" target="tomatenmark" weight="1" />
+      <gr:edge id="rosmarin--zwiebel" source="zwiebel" target="rosmarin" weight="1" />
+      <gr:edge id="nudeln--zwiebel" source="zwiebel" target="nudeln" weight="1" />
+      <gr:edge id="olivenöl--zwiebel" source="zwiebel" target="olivenöl" weight="1" />
+      <gr:edge id="kapern--knoblauch" source="knoblauch" target="kapern" weight="1" />
+      <gr:edge id="knoblauch--tonkabohne" source="knoblauch" target="tonkabohne" weight="1" />
+      <gr:edge id="knoblauch--tomate" source="knoblauch" target="tomate" weight="1" />
+      <gr:edge id="knoblauch--thymian" source="knoblauch" target="thymian" weight="1" />
+      <gr:edge id="karotte--knoblauch" source="knoblauch" target="karotte" weight="1" />
+      <gr:edge id="knoblauch--tomatenmark" source="knoblauch" target="tomatenmark" weight="1" />
+      <gr:edge id="knoblauch--rosmarin" source="knoblauch" target="rosmarin" weight="1" />
+      <gr:edge id="knoblauch--nudeln" source="knoblauch" target="nudeln" weight="1" />
+      <gr:edge id="knoblauch--olivenöl" source="knoblauch" target="olivenöl" weight="1" />
+      <gr:edge id="kapern--tonkabohne" source="kapern" target="tonkabohne" weight="1" />
+      <gr:edge id="kapern--tomate" source="kapern" target="tomate" weight="1" />
+      <gr:edge id="kapern--thymian" source="kapern" target="thymian" weight="1" />
+      <gr:edge id="kapern--karotte" source="kapern" target="karotte" weight="1" />
+      <gr:edge id="kapern--tomatenmark" source="kapern" target="tomatenmark" weight="1" />
+      <gr:edge id="kapern--rosmarin" source="kapern" target="rosmarin" weight="1" />
+      <gr:edge id="kapern--nudeln" source="kapern" target="nudeln" weight="1" />
+      <gr:edge id="kapern--olivenöl" source="kapern" target="olivenöl" weight="1" />
+      <gr:edge id="tomate--tonkabohne" source="tonkabohne" target="tomate" weight="1" />
+      <gr:edge id="thymian--tonkabohne" source="tonkabohne" target="thymian" weight="1" />
+      <gr:edge id="karotte--tonkabohne" source="tonkabohne" target="karotte" weight="1" />
+      <gr:edge id="tomatenmark--tonkabohne" source="tonkabohne" target="tomatenmark" weight="1" />
+      <gr:edge id="rosmarin--tonkabohne" source="tonkabohne" target="rosmarin" weight="1" />
+      <gr:edge id="nudeln--tonkabohne" source="tonkabohne" target="nudeln" weight="1" />
+      <gr:edge id="olivenöl--tonkabohne" source="tonkabohne" target="olivenöl" weight="1" />
+      <gr:edge id="thymian--tomate" source="tomate" target="thymian" weight="1" />
+      <gr:edge id="karotte--tomate" source="tomate" target="karotte" weight="1" />
+      <gr:edge id="tomate--tomatenmark" source="tomate" target="tomatenmark" weight="1" />
+      <gr:edge id="rosmarin--tomate" source="tomate" target="rosmarin" weight="1" />
+      <gr:edge id="nudeln--tomate" source="tomate" target="nudeln" weight="1" />
+      <gr:edge id="olivenöl--tomate" source="tomate" target="olivenöl" weight="1" />
+      <gr:edge id="karotte--thymian" source="thymian" target="karotte" weight="1" />
+      <gr:edge id="thymian--tomatenmark" source="thymian" target="tomatenmark" weight="1" />
+      <gr:edge id="rosmarin--thymian" source="thymian" target="rosmarin" weight="1" />
+      <gr:edge id="nudeln--thymian" source="thymian" target="nudeln" weight="1" />
+      <gr:edge id="olivenöl--thymian" source="thymian" target="olivenöl" weight="1" />
+      <gr:edge id="karotte--tomatenmark" source="karotte" target="tomatenmark" weight="1" />
+      <gr:edge id="karotte--rosmarin" source="karotte" target="rosmarin" weight="1" />
+      <gr:edge id="karotte--nudeln" source="karotte" target="nudeln" weight="1" />
+      <gr:edge id="karotte--olivenöl" source="karotte" target="olivenöl" weight="1" />
+      <gr:edge id="rosmarin--tomatenmark" source="tomatenmark" target="rosmarin" weight="1" />
+      <gr:edge id="nudeln--tomatenmark" source="tomatenmark" target="nudeln" weight="1" />
+      <gr:edge id="olivenöl--tomatenmark" source="tomatenmark" target="olivenöl" weight="1" />
+      <gr:edge id="nudeln--rosmarin" source="rosmarin" target="nudeln" weight="1" />
+      <gr:edge id="olivenöl--rosmarin" source="rosmarin" target="olivenöl" weight="1" />
+      <gr:edge id="nudeln--olivenöl" source="nudeln" target="olivenöl" weight="1" />
+    </gr:edges>
+  </gr:graph>
+</gr:gexf>

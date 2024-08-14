@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-387">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">387 Gr&#252;nkohl-Cannelloni mit Tomatenso&#223;e und Mozzarella</text>
+      </g>
+      <g class="edge" id="ei--nudeln" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9444.33,-11558.6L11260.5,-18943.3" />
+      </g>
+      <g class="edge" id="ei--mozzarella" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16664.8,-25297.2L11260.5,-18943.3" />
+      </g>
+      <g class="edge" id="ei--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11260.5,-18943.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="ei--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11260.5,-18943.3L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="ei--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11260.5,-18943.3L14800.5,-5602.73" />
+      </g>
+      <g class="edge" id="ei--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11260.5,-18943.3L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="ei--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M20675.3,-20040.6L11260.5,-18943.3" />
+      </g>
+      <g class="edge" id="basilikum--ei" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M11260.5,-18943.3L8351.43,-9440.13" />
+      </g>
+      <g class="edge" id="mozzarella--nudeln" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9444.33,-11558.6L16664.8,-25297.2" />
+      </g>
+      <g class="edge" id="nudeln--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9444.33,-11558.6L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="nudeln--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9444.33,-11558.6L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="nudeln--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9444.33,-11558.6L14800.5,-5602.73" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--nudeln" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9444.33,-11558.6L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="nudeln--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9444.33,-11558.6L20675.3,-20040.6" />
+      </g>
+      <g class="edge" id="basilikum--nudeln" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9444.33,-11558.6L8351.43,-9440.13" />
+      </g>
+      <g class="edge" id="mozzarella--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16664.8,-25297.2L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="mozzarella--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16664.8,-25297.2L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="mozzarella--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16664.8,-25297.2L14800.5,-5602.73" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--mozzarella" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M16664.8,-25297.2L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="mozzarella--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M20675.3,-20040.6L16664.8,-25297.2" />
+      </g>
+      <g class="edge" id="basilikum--mozzarella" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M16664.8,-25297.2L8351.43,-9440.13" />
+      </g>
+      <g class="edge" id="pfeffer--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17060.3,-13342.6L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="paniermehl--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M14800.5,-5602.73L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="parmesan--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M20675.3,-20040.6L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="basilikum--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8351.43,-9440.13L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="paniermehl--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M14800.5,-5602.73L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="parmesan--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M20675.3,-20040.6L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="basilikum--tomate" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8351.43,-9440.13L15535.2,-16678.2" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M14800.5,-5602.73L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="paniermehl--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M20675.3,-20040.6L14800.5,-5602.73" />
+      </g>
+      <g class="edge" id="basilikum--paniermehl" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M14800.5,-5602.73L8351.43,-9440.13" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M20675.3,-20040.6L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="basilikum--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L8351.43,-9440.13" />
+      </g>
+      <g class="edge" id="basilikum--parmesan" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M20675.3,-20040.6L8351.43,-9440.13" />
+      </g>
+      <g class="node" id="ei" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 55</title>
+        <ellipse class="i-egg" cx="11260.5" cy="-18943.3" rx="837.0" ry="837.0" />
+        <text x="11260.5" y="-18913.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Ei</text>
+      </g>
+      <g class="node" id="nudeln" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 23</title>
+        <ellipse class="i-carb" cx="9444.33" cy="-11558.6" rx="554.0" ry="554.0" />
+        <text x="9444.33" y="-11528.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Nudeln</text>
+      </g>
+      <g class="node" id="mozzarella" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-milk" cx="16664.8" cy="-25297.2" rx="300.5" ry="300.5" />
+        <text x="16664.8" y="-25267.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Mozzarella</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 278</title>
+        <ellipse class="i-spice" cx="17060.3" cy="-13342.6" rx="1836.5" ry="1836.5" />
+        <text x="17060.3" y="-13312.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Pfeffer</text>
+      </g>
+      <g class="node" id="tomate" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 32</title>
+        <ellipse class="i-veg" cx="15535.2" cy="-16678.2" rx="647.0" ry="647.0" />
+        <text x="15535.2" y="-16648.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Tomate</text>
+      </g>
+      <g class="node" id="paniermehl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-carb" cx="14800.5" cy="-5602.73" rx="321.5" ry="321.5" />
+        <text x="14800.5" y="-5572.73" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Paniermehl</text>
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 378</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="2136.0" ry="2136.0" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="parmesan" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 19</title>
+        <ellipse class="i-milk" cx="20675.3" cy="-20040.6" rx="507.0" ry="507.0" />
+        <text x="20675.3" y="-20010.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Parmesan</text>
+      </g>
+      <g class="node" id="basilikum" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-herb" cx="8351.43" cy="-9440.13" rx="300.5" ry="300.5" />
+        <text x="8351.43" y="-9410.13" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Basilikum</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 12493.85 13400.88" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="12493.85" height="13400.88">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 13396.9)">
+    <g id="rr-62">
+      <g>
+        <rect x="200.0" y="-13000.88" width="4164.616666666667" height="837.555" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-12800.88" style="text-anchor: start; font-family: Arial Narrow; font-size: 229.5px;">62 Haferflockensuppe</text>
+      </g>
+      <g class="edge" id="pflanzenfett--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="pflanzenfett--suppengem&#252;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9256.7,-4213.33L7924.86,-3868.9" />
+      </g>
+      <g class="edge" id="haferflocken--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10763.6,-6900.81L9256.7,-4213.33" />
+      </g>
+      <g class="edge" id="ei--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9256.7,-4213.33L6175.06,-8761.88" />
+      </g>
+      <g class="edge" id="petersilie--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9256.7,-4213.33L5618.89,-3981.38" />
+      </g>
+      <g class="edge" id="suppengem&#252;se--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L7924.86,-3868.9" />
+      </g>
+      <g class="edge" id="haferflocken--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10763.6,-6900.81L7817.68,-4990.26" />
+      </g>
+      <g class="edge" id="ei--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L6175.06,-8761.88" />
+      </g>
+      <g class="edge" id="petersilie--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7817.68,-4990.26L5618.89,-3981.38" />
+      </g>
+      <g class="edge" id="haferflocken--suppengem&#252;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10763.6,-6900.81L7924.86,-3868.9" />
+      </g>
+      <g class="edge" id="ei--suppengem&#252;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7924.86,-3868.9L6175.06,-8761.88" />
+      </g>
+      <g class="edge" id="petersilie--suppengem&#252;se" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7924.86,-3868.9L5618.89,-3981.38" />
+      </g>
+      <g class="edge" id="ei--haferflocken" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10763.6,-6900.81L6175.06,-8761.88" />
+      </g>
+      <g class="edge" id="haferflocken--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M10763.6,-6900.81L5618.89,-3981.38" />
+      </g>
+      <g class="edge" id="ei--petersilie" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M5618.89,-3981.38L6175.06,-8761.88" />
+      </g>
+      <g class="node" id="pflanzenfett" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-fat" cx="9256.7" cy="-4213.33" rx="277.5" ry="277.5" />
+        <text x="9256.7" y="-4183.33" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Pflanzenfett</text>
+      </g>
+      <g class="node" id="zwiebel" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 32</title>
+        <ellipse class="i-onion" cx="7817.68" cy="-4990.26" rx="647.0" ry="647.0" />
+        <text x="7817.68" y="-4960.26" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Zwiebel</text>
+      </g>
+      <g class="node" id="suppengem&#252;se" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 8</title>
+        <ellipse class="i-veg" cx="7924.86" cy="-3868.9" rx="341.5" ry="341.5" />
+        <text x="7924.86" y="-3838.9" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Suppengem&#252;se</text>
+      </g>
+      <g class="node" id="haferflocken" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-carb" cx="10763.6" cy="-6900.81" rx="188.5" ry="188.5" />
+        <text x="10763.6" y="-6870.81" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Haferflocken</text>
+      </g>
+      <g class="node" id="ei" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 16</title>
+        <ellipse class="i-egg" cx="6175.06" cy="-8761.88" rx="468.0" ry="468.0" />
+        <text x="6175.06" y="-8731.88" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Ei</text>
+      </g>
+      <g class="node" id="petersilie" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 10</title>
+        <ellipse class="i-herb" cx="5618.89" cy="-3981.38" rx="377.5" ry="377.5" />
+        <text x="5618.89" y="-3951.38" style="text-anchor: middle; font-family: Arial Narrow; font-size: 153.0px;">Petersilie</text>
+      </g>
+    </g>
+  </g>
+</svg>

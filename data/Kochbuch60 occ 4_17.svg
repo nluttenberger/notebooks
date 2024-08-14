@@ -1,0 +1,230 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 12493.85 13400.88" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="12493.85" height="13400.88">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7} .occ_1   {fill: #E96F49; stroke: #E96F49; background-color: #E96F49} .occ_2   {fill: #BEDF1B; stroke: #BEDF1B; background-color: #BEDF1B} .occ_3   {fill: #1BDF32; stroke: #1BDF32; background-color: #1BDF32} .occ_4   {fill: #1BD6DF; stroke: #1BD6DF; background-color: #1BD6DF} .occ_5   {fill: #7D7DEF; stroke: #7D7DEF; background-color: #7D7DEF}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 13396.9)">
+    <g class="node" id="brot" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 7</title>
+      <ellipse class="occ_3" cx="5288.24" cy="-9628.83" rx="321.5" ry="321.5" />
+      <text x="5288.24" y="-9598.83" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Brot</text>
+    </g>
+    <g class="node" id="senf" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="5063.87" cy="-6862.05" rx="277.5" ry="277.5" />
+      <text x="5063.87" y="-6832.05" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Senf</text>
+    </g>
+    <g class="node" id="reis" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="5442.12" cy="-2445.64" rx="252" ry="252" />
+      <text x="5442.12" y="-2415.64" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Reis</text>
+    </g>
+    <g class="node" id="wei&#223;wein" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 6</title>
+      <ellipse class="occ_3" cx="1895.84" cy="-3826.54" rx="300.5" ry="300.5" />
+      <text x="1895.84" y="-3796.54" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Wei&#223;wein</text>
+    </g>
+    <g class="node" id="oliven&#246;l" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 10</title>
+      <ellipse class="occ_3" cx="2582.13" cy="-3887.39" rx="377.5" ry="377.5" />
+      <text x="2582.13" y="-3857.39" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Oliven&#246;l</text>
+    </g>
+    <g class="node" id="knoblauch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 11</title>
+      <ellipse class="occ_3" cx="3361.67" cy="-4325.06" rx="394" ry="394" />
+      <text x="3361.67" y="-4295.06" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Knoblauch</text>
+    </g>
+    <g class="node" id="paprika" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="7740.18" cy="-2543.88" rx="277.5" ry="277.5" />
+      <text x="7740.18" y="-2513.88" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Paprika</text>
+    </g>
+    <g class="node" id="sauerkraut" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="11431.1" cy="-5877.48" rx="252" ry="252" />
+      <text x="11431.1" y="-5847.48" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Sauerkraut</text>
+    </g>
+    <g class="node" id="st&#228;rke" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="4927.31" cy="-2703.5" rx="252" ry="252" />
+      <text x="4927.31" y="-2673.5" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">St&#228;rke</text>
+    </g>
+    <g class="node" id="zucker" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 7</title>
+      <ellipse class="occ_3" cx="7676.51" cy="-9826.87" rx="321.5" ry="321.5" />
+      <text x="7676.51" y="-9796.87" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Zucker</text>
+    </g>
+    <g class="node" id="tomate" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 12</title>
+      <ellipse class="occ_3" cx="3320.14" cy="-5887.32" rx="410" ry="410" />
+      <text x="3320.14" y="-5857.32" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Tomate</text>
+    </g>
+    <g class="node" id="rotwein" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 9</title>
+      <ellipse class="occ_3" cx="9165.28" cy="-2772.04" rx="360" ry="360" />
+      <text x="9165.28" y="-2742.04" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Rotwein</text>
+    </g>
+    <g class="node" id="speck" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 12</title>
+      <ellipse class="occ_3" cx="5837.86" cy="-3122.88" rx="410" ry="410" />
+      <text x="5837.86" y="-3092.88" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Speck</text>
+    </g>
+    <g class="node" id="fleisch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="9676.72" cy="-6646.6" rx="252" ry="252" />
+      <text x="9676.72" y="-6616.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Fleisch</text>
+    </g>
+    <g class="node" id="schinken" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 9</title>
+      <ellipse class="occ_3" cx="3360.44" cy="-6991.31" rx="360" ry="360" />
+      <text x="3360.44" y="-6961.31" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Schinken</text>
+    </g>
+    <g class="node" id="schweinefleisch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="6694.15" cy="-2568.22" rx="252" ry="252" />
+      <text x="6694.15" y="-2538.22" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Schweinefleisch</text>
+    </g>
+    <g class="node" id="schmalz" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="7416.32" cy="-3107.25" rx="277.5" ry="277.5" />
+      <text x="7416.32" y="-3077.25" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Schmalz</text>
+    </g>
+    <g class="node" id="majoran" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 7</title>
+      <ellipse class="occ_3" cx="4849.13" cy="-4143.16" rx="321.5" ry="321.5" />
+      <text x="4849.13" y="-4113.16" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Majoran</text>
+    </g>
+    <g class="node" id="zitrone" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 7</title>
+      <ellipse class="occ_3" cx="5197.07" cy="-8939.73" rx="321.5" ry="321.5" />
+      <text x="5197.07" y="-8909.73" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Zitrone</text>
+    </g>
+    <g class="node" id="oregano" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="4387.79" cy="-2884.23" rx="277.5" ry="277.5" />
+      <text x="4387.79" y="-2854.23" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Oregano</text>
+    </g>
+    <g class="node" id="schnittlauch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 8</title>
+      <ellipse class="occ_3" cx="4436.27" cy="-7344.68" rx="341.5" ry="341.5" />
+      <text x="4436.27" y="-7314.68" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Schnittlauch</text>
+    </g>
+    <g class="node" id="hering" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 6</title>
+      <ellipse class="occ_3" cx="10006.8" cy="-8805.21" rx="300.5" ry="300.5" />
+      <text x="10006.8" y="-8775.21" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Hering</text>
+    </g>
+    <g class="node" id="fleischbr&#252;he" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 15</title>
+      <ellipse class="occ_3" cx="6521.67" cy="-4845.65" rx="454.5" ry="454.5" />
+      <text x="6521.67" y="-4815.65" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Fleischbr&#252;he</text>
+    </g>
+    <g class="node" id="apfel" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="8479.43" cy="-9372.66" rx="252" ry="252" />
+      <text x="8479.43" y="-9342.66" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Apfel</text>
+    </g>
+    <g class="node" id="k&#228;se" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="8645.52" cy="-3869.95" rx="277.5" ry="277.5" />
+      <text x="8645.52" y="-3839.95" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">K&#228;se</text>
+    </g>
+    <g class="node" id="gem&#252;sebr&#252;he" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="9876.46" cy="-3636.68" rx="252" ry="252" />
+      <text x="9876.46" y="-3606.68" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Gem&#252;sebr&#252;he</text>
+    </g>
+    <g class="node" id="rindfleisch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 6</title>
+      <ellipse class="occ_3" cx="3634.4" cy="-3485.15" rx="300.5" ry="300.5" />
+      <text x="3634.4" y="-3455.15" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Rindfleisch</text>
+    </g>
+    <g class="node" id="pflanzenfett" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 6</title>
+      <ellipse class="occ_3" cx="9256.7" cy="-4213.33" rx="300.5" ry="300.5" />
+      <text x="9256.7" y="-4183.33" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Pflanzenfett</text>
+    </g>
+    <g class="node" id="essig" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 13</title>
+      <ellipse class="occ_3" cx="8143.69" cy="-7889.77" rx="425.5" ry="425.5" />
+      <text x="8143.69" y="-7859.77" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Essig</text>
+    </g>
+    <g class="node" id="kartoffel" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 10</title>
+      <ellipse class="occ_3" cx="4141.86" cy="-4497.59" rx="377.5" ry="377.5" />
+      <text x="4141.86" y="-4467.59" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Kartoffel</text>
+    </g>
+    <g class="node" id="milch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="7068.74" cy="-9620.97" rx="277.5" ry="277.5" />
+      <text x="7068.74" y="-9590.97" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Milch</text>
+    </g>
+    <g class="node" id="lauch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 7</title>
+      <ellipse class="occ_3" cx="4537.55" cy="-3491.63" rx="321.5" ry="321.5" />
+      <text x="4537.55" y="-3461.63" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Lauch</text>
+    </g>
+    <g class="node" id="suppengem&#252;se" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 9</title>
+      <ellipse class="occ_3" cx="7924.86" cy="-3868.9" rx="360" ry="360" />
+      <text x="7924.86" y="-3838.9" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Suppengem&#252;se</text>
+    </g>
+    <g class="node" id="gurke" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="3548.8" cy="-8525.91" rx="277.5" ry="277.5" />
+      <text x="3548.8" y="-8495.91" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Gurke</text>
+    </g>
+    <g class="node" id="knollensellerie" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 12</title>
+      <ellipse class="occ_3" cx="7078.16" cy="-3802.91" rx="410" ry="410" />
+      <text x="7078.16" y="-3772.91" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Knollensellerie</text>
+    </g>
+    <g class="node" id="thymian" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="4709.15" cy="-5160.67" rx="277.5" ry="277.5" />
+      <text x="4709.15" y="-5130.67" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Thymian</text>
+    </g>
+    <g class="node" id="tomatenmark" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 7</title>
+      <ellipse class="occ_3" cx="8419.18" cy="-3179.19" rx="321.5" ry="321.5" />
+      <text x="8419.18" y="-3149.19" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Tomatenmark</text>
+    </g>
+    <g class="node" id="muskat" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 11</title>
+      <ellipse class="occ_3" cx="8489.51" cy="-8717.79" rx="394" ry="394" />
+      <text x="8489.51" y="-8687.79" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Muskat</text>
+    </g>
+    <g class="node" id="karotte" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 7</title>
+      <ellipse class="occ_3" cx="6337.67" cy="-1985.77" rx="321.5" ry="321.5" />
+      <text x="6337.67" y="-1955.77" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Karotte</text>
+    </g>
+    <g class="node" id="petersilie" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 14</title>
+      <ellipse class="occ_3" cx="5618.89" cy="-3981.38" rx="440" ry="440" />
+      <text x="5618.89" y="-3951.38" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Petersilie</text>
+    </g>
+    <g class="node" id="hackfleisch" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="9234.27" cy="-7809.64" rx="252" ry="252" />
+      <text x="9234.27" y="-7779.64" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Hackfleisch</text>
+    </g>
+    <g class="node" id="wacholder" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 11</title>
+      <ellipse class="occ_3" cx="9536.67" cy="-4952.48" rx="394" ry="394" />
+      <text x="9536.67" y="-4922.48" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Wacholder</text>
+    </g>
+    <g class="node" id="hefe" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 5</title>
+      <ellipse class="occ_3" cx="1611.65" cy="-4972.17" rx="277.5" ry="277.5" />
+      <text x="1611.65" y="-4942.17" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Hefe</text>
+    </g>
+    <g class="node" id="butter" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 13</title>
+      <ellipse class="occ_3" cx="7267.75" cy="-8524.06" rx="425.5" ry="425.5" />
+      <text x="7267.75" y="-8494.06" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Butter</text>
+    </g>
+    <g class="node" id="br&#252;he" data-sub="A" style="cursor: pointer;">
+      <title>#occ: 4</title>
+      <ellipse class="occ_3" cx="7630.33" cy="-1850.98" rx="252" ry="252" />
+      <text x="7630.33" y="-1820.98" style="text-anchor: middle; font-family: Arial Narrow; font-size: 102.0px;">Br&#252;he</text>
+    </g>
+  </g>
+</svg>

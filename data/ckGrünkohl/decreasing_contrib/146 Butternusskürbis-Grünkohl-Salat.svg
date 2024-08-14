@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-146">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">146 Butternussk&#252;rbis-Gr&#252;nkohl-Salat</text>
+      </g>
+      <g class="edge" id="gr&#252;nkohl--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="mohn--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8226.91,-16687.6L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="schalotten--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8226.91,-16687.6L26515.3,-17619.1" />
+      </g>
+      <g class="edge" id="kokos&#246;l--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8226.91,-16687.6L4466.82,-15663.7" />
+      </g>
+      <g class="edge" id="oliven&#246;l--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8226.91,-16687.6L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="apfelessig--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M8226.91,-16687.6L7035.33,-12200.2" />
+      </g>
+      <g class="edge" id="ahornsirup--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M8226.91,-16687.6L7698.01,-17989.5" />
+      </g>
+      <g class="edge" id="senf--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="knoblauch--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M8226.91,-16687.6L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="cranberry--zitrone" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6293.45,-18483.6L8226.91,-16687.6" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--mohn" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M11890.2,-15061.3L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L26515.3,-17619.1" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--kokos&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L4466.82,-15663.7" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M11890.2,-15061.3L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="apfelessig--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7035.33,-12200.2L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="ahornsirup--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7698.01,-17989.5L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--senf" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="cranberry--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6293.45,-18483.6L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="mohn--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M26515.3,-17619.1L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="kokos&#246;l--mohn" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4466.82,-15663.7L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="mohn--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6868.23,-21791.7L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--mohn" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6868.23,-21791.7L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="apfelessig--mohn" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7035.33,-12200.2L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="ahornsirup--mohn" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.01,-17989.5L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="mohn--senf" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6868.23,-21791.7L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="knoblauch--mohn" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13112.9,-10277.2L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="cranberry--mohn" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6293.45,-18483.6L6868.23,-21791.7" />
+      </g>
+      <g class="edge" id="kokos&#246;l--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4466.82,-15663.7L26515.3,-17619.1" />
+      </g>
+      <g class="edge" id="oliven&#246;l--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M26515.3,-17619.1L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M26515.3,-17619.1L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="apfelessig--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7035.33,-12200.2L26515.3,-17619.1" />
+      </g>
+      <g class="edge" id="ahornsirup--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.01,-17989.5L26515.3,-17619.1" />
+      </g>
+      <g class="edge" id="schalotten--senf" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M26515.3,-17619.1L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="knoblauch--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L26515.3,-17619.1" />
+      </g>
+      <g class="edge" id="cranberry--schalotten" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6293.45,-18483.6L26515.3,-17619.1" />
+      </g>
+      <g class="edge" id="kokos&#246;l--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4466.82,-15663.7L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--kokos&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4466.82,-15663.7L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="apfelessig--kokos&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7035.33,-12200.2L4466.82,-15663.7" />
+      </g>
+      <g class="edge" id="ahornsirup--kokos&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7698.01,-17989.5L4466.82,-15663.7" />
+      </g>
+      <g class="edge" id="kokos&#246;l--senf" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4466.82,-15663.7L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="knoblauch--kokos&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13112.9,-10277.2L4466.82,-15663.7" />
+      </g>
+      <g class="edge" id="cranberry--kokos&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6293.45,-18483.6L4466.82,-15663.7" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13866.5,-19115.4L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="apfelessig--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7035.33,-12200.2L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="ahornsirup--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7698.01,-17989.5L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="oliven&#246;l--senf" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13866.5,-19115.4L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="knoblauch--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="cranberry--oliven&#246;l" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M6293.45,-18483.6L13866.5,-19115.4" />
+      </g>
+      <g class="edge" id="apfelessig--butternussk&#252;rbis" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7035.33,-12200.2L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="ahornsirup--butternussk&#252;rbis" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.01,-17989.5L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--senf" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M13303.4,-24607.6L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M13112.9,-10277.2L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="butternussk&#252;rbis--cranberry" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6293.45,-18483.6L13303.4,-24607.6" />
+      </g>
+      <g class="edge" id="ahornsirup--apfelessig" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7698.01,-17989.5L7035.33,-12200.2" />
+      </g>
+      <g class="edge" id="apfelessig--senf" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7035.33,-12200.2L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="apfelessig--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7035.33,-12200.2L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="apfelessig--cranberry" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M6293.45,-18483.6L7035.33,-12200.2" />
+      </g>
+      <g class="edge" id="ahornsirup--senf" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7698.01,-17989.5L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="ahornsirup--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M7698.01,-17989.5L13112.9,-10277.2" />
+      </g>
+      <g class="edge" id="ahornsirup--cranberry" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6293.45,-18483.6L7698.01,-17989.5" />
+      </g>
+      <g class="edge" id="knoblauch--senf" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M13112.9,-10277.2L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="cranberry--senf" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6293.45,-18483.6L18348.6,-19420.8" />
+      </g>
+      <g class="edge" id="cranberry--knoblauch" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M6293.45,-18483.6L13112.9,-10277.2" />
+      </g>
+      <g class="node" id="zitrone" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 19</title>
+        <ellipse class="i-fruit" cx="8226.91" cy="-16687.6" rx="507.0" ry="507.0" />
+        <text x="8226.91" y="-16657.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Zitrone</text>
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 142</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="1323.0" ry="1323.0" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="mohn" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-spice" cx="6868.23" cy="-21791.7" rx="188.5" ry="188.5" />
+        <text x="6868.23" y="-21761.7" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Mohn</text>
+      </g>
+      <g class="node" id="schalotten" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 12</title>
+        <ellipse class="i-onion" cx="26515.3" cy="-17619.1" rx="410.0" ry="410.0" />
+        <text x="26515.3" y="-17589.1" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Schalotten</text>
+      </g>
+      <g class="node" id="kokos&#246;l" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 3</title>
+        <ellipse class="i-fat" cx="4466.82" cy="-15663.7" rx="223.0" ry="223.0" />
+        <text x="4466.82" y="-15633.7" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Kokos&#246;l</text>
+      </g>
+      <g class="node" id="oliven&#246;l" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 36</title>
+        <ellipse class="i-fat" cx="13866.5" cy="-19115.4" rx="684.0" ry="684.0" />
+        <text x="13866.5" y="-19085.4" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Oliven&#246;l</text>
+      </g>
+      <g class="node" id="butternussk&#252;rbis" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-veg" cx="13303.4" cy="-24607.6" rx="188.5" ry="188.5" />
+        <text x="13303.4" y="-24577.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Butternussk&#252;rbis</text>
+      </g>
+      <g class="node" id="apfelessig" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-condi" cx="7035.33" cy="-12200.2" rx="300.5" ry="300.5" />
+        <text x="7035.33" y="-12170.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Apfelessig</text>
+      </g>
+      <g class="node" id="ahornsirup" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-sweet" cx="7698.01" cy="-17989.5" rx="277.5" ry="277.5" />
+        <text x="7698.01" y="-17959.5" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Ahornsirup</text>
+      </g>
+      <g class="node" id="senf" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 31</title>
+        <ellipse class="i-condi" cx="18348.6" cy="-19420.8" rx="637.5" ry="637.5" />
+        <text x="18348.6" y="-19390.8" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Senf</text>
+      </g>
+      <g class="node" id="knoblauch" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 51</title>
+        <ellipse class="i-onion" cx="13112.9" cy="-10277.2" rx="807.5" ry="807.5" />
+        <text x="13112.9" y="-10247.2" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Knoblauch</text>
+      </g>
+      <g class="node" id="cranberry" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 5</title>
+        <ellipse class="i-fruit" cx="6293.45" cy="-18483.6" rx="277.5" ry="277.5" />
+        <text x="6293.45" y="-18453.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Cranberry</text>
+      </g>
+    </g>
+  </g>
+</svg>

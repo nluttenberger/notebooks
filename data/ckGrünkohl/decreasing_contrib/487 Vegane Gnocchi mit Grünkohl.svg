@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0.00 0.00 32639.19 27393.23" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" contentScriptType="text/ecmascript" contentStyleType="text/css" width="32639.19" height="27393.23">
+  <style> .i-alc   {fill: #7087ED; stroke: #7087ED; background-color: #7087ED} .i-carb  {fill: #C8A98B; stroke: #C8A98B; background-color: #C8A98B} .i-condi {fill: #D58680; stroke: #D58680; background-color: #D58680} .i-egg   {fill: #70A287; stroke: #70A287; background-color: #70A287} .i-etc   {fill: #9AA6BF; stroke: #9AA6BF; background-color: #9AA6BF} .i-fat   {fill: #81CDD8; stroke: #81CDD8; background-color: #81CDD8} .i-fish  {fill: #ffdab9; stroke: #ffdab9; background-color: #ffdab9} .i-fruit {fill: #7FDD46; stroke: #7FDD46; background-color: #7FDD46} .i-herb  {fill: #95A84E; stroke: #95A84E; background-color: #95A84E} .i-meat  {fill: #EE5874; stroke: #EE5874; background-color: #EE5874} .i-milk  {fill: #6EA2DC; stroke: #6EA2DC; background-color: #6EA2DC} .i-nuts  {fill: #D09E44; stroke: #D09E44; background-color: #D09E44} .i-onion {fill: #60C667; stroke: #60C667; background-color: #60C667} .i-spice {fill: #FF7F50; stroke: #FF7F50; background-color: #FF7F50} .i-sweet {fill: #CDE1A6; stroke: #CDE1A6; background-color: #CDE1A6} .i-veg   {fill: #65DDB7; stroke: #65DDB7; background-color: #65DDB7}</style>
+  <g id="graph0" transform="scale(1 1) rotate(0) translate(4 27389.2)">
+    <g id="rr-487">
+      <g>
+        <rect x="200.0" y="-26993.23" width="16319.595" height="1141.3845833333332" fill="white" stroke="white" stroke-width="1" fill-opacity="1" stroke-opacity="1" />
+        <text x="240.0" y="-26793.23" style="text-anchor: start; font-family: Arial Narrow; font-size: 20000.0px;">487 Vegane Gnocchi mit Gr&#252;nkohl</text>
+      </g>
+      <g class="edge" id="pfeffer--sonnenblumenkerne" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7386.76,-9306.56L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="sonnenblumenkerne--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7386.76,-9306.56L21713.7,-12380.4" />
+      </g>
+      <g class="edge" id="pflanzenfett--sonnenblumenkerne" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7386.76,-9306.56L12516.8,-21010.1" />
+      </g>
+      <g class="edge" id="chilischote--sonnenblumenkerne" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7386.76,-9306.56L10004.5,-10023.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--sonnenblumenkerne" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M7386.76,-9306.56L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="sonnenblumenkerne--sultaninen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7386.76,-9306.56L9812.34,-18571.6" />
+      </g>
+      <g class="edge" id="gnocchi--sonnenblumenkerne" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M7386.76,-9306.56L4340.31,-10676.3" />
+      </g>
+      <g class="edge" id="pfeffer--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21713.7,-12380.4L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="pfeffer--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M17060.3,-13342.6L12516.8,-21010.1" />
+      </g>
+      <g class="edge" id="chilischote--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10004.5,-10023.4L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="pfeffer--sultaninen" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9812.34,-18571.6L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="gnocchi--pfeffer" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4340.31,-10676.3L17060.3,-13342.6" />
+      </g>
+      <g class="edge" id="pflanzenfett--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21713.7,-12380.4L12516.8,-21010.1" />
+      </g>
+      <g class="edge" id="chilischote--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21713.7,-12380.4L10004.5,-10023.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21713.7,-12380.4L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="sultaninen--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M21713.7,-12380.4L9812.34,-18571.6" />
+      </g>
+      <g class="edge" id="gnocchi--zwiebel" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4340.31,-10676.3L21713.7,-12380.4" />
+      </g>
+      <g class="edge" id="chilischote--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M10004.5,-10023.4L12516.8,-21010.1" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M11890.2,-15061.3L12516.8,-21010.1" />
+      </g>
+      <g class="edge" id="pflanzenfett--sultaninen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M9812.34,-18571.6L12516.8,-21010.1" />
+      </g>
+      <g class="edge" id="gnocchi--pflanzenfett" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4340.31,-10676.3L12516.8,-21010.1" />
+      </g>
+      <g class="edge" id="chilischote--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M10004.5,-10023.4L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="chilischote--sultaninen" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9812.34,-18571.6L10004.5,-10023.4" />
+      </g>
+      <g class="edge" id="chilischote--gnocchi" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4340.31,-10676.3L10004.5,-10023.4" />
+      </g>
+      <g class="edge" id="gr&#252;nkohl--sultaninen" style="cursor: pointer;">
+        <path fill="none" stroke="red" stroke-width="2" d="M9812.34,-18571.6L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gnocchi--gr&#252;nkohl" style="cursor: pointer;">
+        <path fill="none" stroke="black" stroke-width="2" d="M4340.31,-10676.3L11890.2,-15061.3" />
+      </g>
+      <g class="edge" id="gnocchi--sultaninen" style="cursor: pointer;">
+        <path fill="none" stroke="black" d="M4340.31,-10676.3L9812.34,-18571.6" />
+      </g>
+      <g class="node" id="sonnenblumenkerne" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 6</title>
+        <ellipse class="i-etc" cx="7386.76" cy="-9306.56" rx="300.5" ry="300.5" />
+        <text x="7386.76" y="-9276.56" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Sonnenblumenkerne</text>
+      </g>
+      <g class="node" id="pfeffer" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 346</title>
+        <ellipse class="i-spice" cx="17060.3" cy="-13342.6" rx="2045.0" ry="2045.0" />
+        <text x="17060.3" y="-13312.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Pfeffer</text>
+      </g>
+      <g class="node" id="zwiebel" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 310</title>
+        <ellipse class="i-onion" cx="21713.7" cy="-12380.4" rx="1937.5" ry="1937.5" />
+        <text x="21713.7" y="-12350.4" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Zwiebel</text>
+      </g>
+      <g class="node" id="pflanzenfett" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 19</title>
+        <ellipse class="i-fat" cx="12516.8" cy="-21010.1" rx="507.0" ry="507.0" />
+        <text x="12516.8" y="-20980.1" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Pflanzenfett</text>
+      </g>
+      <g class="node" id="chilischote" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 40</title>
+        <ellipse class="i-spice" cx="10004.5" cy="-10023.4" rx="719.0" ry="719.0" />
+        <text x="10004.5" y="-9993.43" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Chilischote</text>
+      </g>
+      <g class="node" id="gr&#252;nkohl" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 476</title>
+        <ellipse class="i-veg" cx="11890.2" cy="-15061.3" rx="2392.5" ry="2392.5" />
+        <text x="11890.2" y="-15031.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gr&#252;nkohl</text>
+      </g>
+      <g class="node" id="sultaninen" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 7</title>
+        <ellipse class="i-fruit" cx="9812.34" cy="-18571.6" rx="321.5" ry="321.5" />
+        <text x="9812.34" y="-18541.6" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Sultaninen</text>
+      </g>
+      <g class="node" id="gnocchi" data-sub="A" style="cursor: pointer;">
+        <title>#occ: 2</title>
+        <ellipse class="i-carb" cx="4340.31" cy="-10676.3" rx="188.5" ry="188.5" />
+        <text x="4340.31" y="-10646.3" style="text-anchor: middle; font-family: Arial Narrow; font-size: 10000.0px;">Gnocchi</text>
+      </g>
+    </g>
+  </g>
+</svg>
